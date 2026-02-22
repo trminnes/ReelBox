@@ -526,7 +526,7 @@
     <p>Connect to your Plex Media Server to import your full movie library with cover art, ratings, cast, and descriptions.</p>
     <div class="form-group">
       <label>Plex Server URL</label>
-      <input type="url" id="plexUrl" placeholder="http://192.168.1.x:32400" autocomplete="off" autocorrect="off" autocapitalize="none">
+      <input type="text" id="plexUrl" placeholder="http://192.168.1.x:32400" autocomplete="off" autocorrect="off" autocapitalize="none">
       <div class="form-hint">Your server's local IP — find it in Plex Settings → Remote Access.</div>
     </div>
     <div class="form-group">
@@ -536,7 +536,7 @@
     </div>
     <div class="form-group">
       <label>Cloudflare Worker URL <span style="color:var(--text-muted);font-weight:400;font-size:0.8rem;">(required for iPhone / GitHub Pages)</span></label>
-      <input type="url" id="plexWorkerUrl" placeholder="https://your-worker.your-name.workers.dev" autocomplete="off" autocorrect="off" autocapitalize="none">
+      <input type="text" id="plexWorkerUrl" placeholder="https://your-worker.your-name.workers.dev" autocomplete="off" autocorrect="off" autocapitalize="none">
       <div class="form-hint">Routes requests through your Worker to bypass CORS. Leave blank if running locally. <a href="https://workers.cloudflare.com" target="_blank">Get a free Worker →</a></div>
     </div>
     <div style="display:flex;gap:0.6rem;flex-wrap:wrap;">
@@ -851,13 +851,16 @@ document.addEventListener('keydown', e => { if (e.key==='Escape') closeModal(); 
 // PLEX
 // ════════════════════════════════════════════════
 
-// Build a fetch URL — routes through Cloudflare Worker if one is saved
 function plexFetch(plexUrl, path, token) {
-  const workerUrl = localStorage.getItem('plexWorkerUrl');
+  const workerInput = document.getElementById('plexWorkerUrl');
+  const workerUrl = (workerInput ? workerInput.value.trim().replace(/\/$/, '') : '') || localStorage.getItem('plexWorkerUrl') || '';
   const fullTarget = `${plexUrl}${path}?X-Plex-Token=${token}&Accept=application/json`;
   if (workerUrl) {
-    return fetch(`${workerUrl}/proxy?target=${encodeURIComponent(fullTarget)}`);
+    const proxyUrl = `${workerUrl}/proxy?target=${encodeURIComponent(fullTarget)}`;
+    console.log('Fetching via Worker:', proxyUrl);
+    return fetch(proxyUrl);
   }
+  console.log('Fetching directly:', fullTarget);
   return fetch(fullTarget);
 }
 
@@ -881,19 +884,49 @@ async function connectPlex() {
 
   showStatus(status,'info','⏳ Connecting to Plex…');
 
+  // Helper to parse Plex response — handles both JSON and XML
+  async function parsePlexResponse(res) {
+    const text = await res.text();
+    const ct = res.headers.get('Content-Type') || '';
+    if (ct.includes('json')) {
+      return JSON.parse(text);
+    }
+    // Parse XML
+    const parser = new DOMParser();
+    const xml = parser.parseFromString(text, 'text/xml');
+    const mc = xml.querySelector('MediaContainer');
+    if (!mc) return { MediaContainer: { Directory: [], Metadata: [] } };
+    const attrs = (el) => {
+      const obj = {};
+      for (const a of el.attributes) obj[a.name] = a.value;
+      return obj;
+    };
+    const directories = [...xml.querySelectorAll('Directory')].map(el => ({
+      ...attrs(el),
+      Location: [...el.querySelectorAll('Location')].map(attrs)
+    }));
+    const metadata = [...xml.querySelectorAll('Video')].map(el => ({
+      ...attrs(el),
+      Genre: [...el.querySelectorAll('Genre')].map(attrs),
+      Role: [...el.querySelectorAll('Role')].map(attrs),
+      Director: [...el.querySelectorAll('Director')].map(attrs),
+    }));
+    return { MediaContainer: { Directory: directories, Metadata: metadata } };
+  }
+
   try {
     const libRes = await plexFetch(url, '/library/sections', token);
     if (!libRes.ok) throw new Error(`HTTP ${libRes.status} — check your token`);
-    const libData = await libRes.json();
+    const libData = await parsePlexResponse(libRes);
     const sections = (libData?.MediaContainer?.Directory||[]).filter(s=>s.type==='movie');
 
     if (!sections.length) { showStatus(status,'error','No movie libraries found on this server.'); return; }
 
-    showStatus(status,'info',`⏳ Found ${sections.length} movie library — loading…`);
+    showStatus(status,'info',`⏳ Found ${sections.length} movie librar${sections.length>1?'ies':'y'} — loading…`);
     let allMovies = [];
     for (const sec of sections) {
       const r = await plexFetch(url, `/library/sections/${sec.key}/all`, token);
-      const d = await r.json();
+      const d = await parsePlexResponse(r);
       for (const item of (d?.MediaContainer?.Metadata||[])) {
         allMovies.push({
           id: 'plex_' + item.ratingKey,
@@ -904,7 +937,7 @@ async function connectPlex() {
           genres: (item.Genre||[]).map(g=>g.tag),
           cast: (item.Role||[]).slice(0,8).map(r=>r.tag),
           director: (item.Director||[]).map(d=>d.tag).join(', '),
-          studio: item.Studio || '',
+          studio: item.studio || '',
           poster: item.thumb ? `${url}${item.thumb}?X-Plex-Token=${token}` : null,
         });
       }
