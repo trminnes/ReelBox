@@ -534,6 +534,11 @@
       <input type="text" id="plexToken" placeholder="X-Plex-Token" autocomplete="off" autocorrect="off" autocapitalize="none">
       <div class="form-hint">Plex Web → play any movie → ••• menu → Get Info → View XML → copy token from URL. <a href="https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/" target="_blank">Full guide →</a></div>
     </div>
+    <div class="form-group">
+      <label>Cloudflare Worker URL <span style="color:var(--text-muted);font-weight:400;font-size:0.8rem;">(required for iPhone / GitHub Pages)</span></label>
+      <input type="url" id="plexWorkerUrl" placeholder="https://your-worker.your-name.workers.dev" autocomplete="off" autocorrect="off" autocapitalize="none">
+      <div class="form-hint">Routes requests through your Worker to bypass CORS. Leave blank if running locally. <a href="https://workers.cloudflare.com" target="_blank">Get a free Worker →</a></div>
+    </div>
     <div style="display:flex;gap:0.6rem;flex-wrap:wrap;">
       <button class="btn" onclick="connectPlex()">Connect & Sync</button>
       <button class="btn secondary" onclick="loadDemoMovies()">Use Demo Data</button>
@@ -648,8 +653,10 @@ function init() {
   }
   const plexUrl = localStorage.getItem('plexUrl') || '';
   const plexToken = localStorage.getItem('plexToken') || '';
+  const plexWorkerUrl = localStorage.getItem('plexWorkerUrl') || '';
   if (plexUrl) document.getElementById('plexUrl').value = plexUrl;
   if (plexToken) document.getElementById('plexToken').value = plexToken;
+  if (plexWorkerUrl) { const w = document.getElementById('plexWorkerUrl'); if(w) w.value = plexWorkerUrl; }
   if (tmdbKey) {
     document.getElementById('tmdbKeySettings').value = tmdbKey;
     document.getElementById('tmdbKeyInput').value = tmdbKey;
@@ -843,27 +850,39 @@ document.addEventListener('keydown', e => { if (e.key==='Escape') closeModal(); 
 // ════════════════════════════════════════════════
 // PLEX
 // ════════════════════════════════════════════════
+
+// Build a fetch URL — routes through Cloudflare Worker if one is saved
+function plexFetch(plexUrl, path, token) {
+  const workerUrl = localStorage.getItem('plexWorkerUrl');
+  const fullTarget = `${plexUrl}${path}?X-Plex-Token=${token}&Accept=application/json`;
+  if (workerUrl) {
+    return fetch(`${workerUrl}/proxy?target=${encodeURIComponent(fullTarget)}`);
+  }
+  return fetch(fullTarget);
+}
+
 async function connectPlex() {
   const url = document.getElementById('plexUrl').value.trim().replace(/\/$/, '');
   const token = document.getElementById('plexToken').value.trim();
+  const workerInput = document.getElementById('plexWorkerUrl');
+  const workerUrl = workerInput ? workerInput.value.trim().replace(/\/$/, '') : '';
   const status = document.getElementById('plexStatus');
 
   if (!url || !token) { showStatus(status,'error','Please enter your Plex server URL and token.'); return; }
 
-  if (window.location.protocol === 'file:') {
-    status.className = 'setup-status error';
-    status.innerHTML = `<strong>⚠️ Can't connect from a file:// page.</strong><br>
-      Run: <code style="background:rgba(0,0,0,0.3);padding:0.1rem 0.3rem;border-radius:3px;">python -m http.server 8080</code>
-      in the app folder, then open <a href="http://localhost:8080" style="color:var(--accent)">http://localhost:8080</a>
-      — or double-click <strong>START-REELBOX.bat</strong>.`;
-    status.style.display = 'block';
+  // Warn if using the Plex web app URL instead of server IP
+  if (url.includes('app.plex.tv') || url.includes('plex.tv/desktop')) {
+    showStatus(status,'error','⚠️ That\'s the Plex web app URL, not your server. Use your server\'s IP: http://192.168.68.111:32400');
     return;
   }
+
+  if (workerUrl) localStorage.setItem('plexWorkerUrl', workerUrl);
+  else localStorage.removeItem('plexWorkerUrl');
 
   showStatus(status,'info','⏳ Connecting to Plex…');
 
   try {
-    const libRes = await fetch(`${url}/library/sections?X-Plex-Token=${token}&Accept=application/json`);
+    const libRes = await plexFetch(url, '/library/sections', token);
     if (!libRes.ok) throw new Error(`HTTP ${libRes.status} — check your token`);
     const libData = await libRes.json();
     const sections = (libData?.MediaContainer?.Directory||[]).filter(s=>s.type==='movie');
@@ -873,7 +892,7 @@ async function connectPlex() {
     showStatus(status,'info',`⏳ Found ${sections.length} movie library — loading…`);
     let allMovies = [];
     for (const sec of sections) {
-      const r = await fetch(`${url}/library/sections/${sec.key}/all?X-Plex-Token=${token}&Accept=application/json`);
+      const r = await plexFetch(url, `/library/sections/${sec.key}/all`, token);
       const d = await r.json();
       for (const item of (d?.MediaContainer?.Metadata||[])) {
         allMovies.push({
@@ -899,8 +918,10 @@ async function connectPlex() {
     showStatus(status,'success',`✅ Synced ${movies.length} movies from Plex!`);
   } catch(err) {
     let hint = '';
-    if (err.message.includes('Failed to fetch')||err.message.includes('NetworkError')) {
-      hint = '<br>Make sure your Plex server is running and this device is on the same network.';
+    if (err.message.includes('Failed to fetch')||err.message.includes('NetworkError')||err.message.includes('CORS')||err.message.toLowerCase().includes('blocked')) {
+      hint = '<br><br>⚠️ <strong>CORS block detected.</strong> Add your Cloudflare Worker URL in the field above and try again.';
+    } else if (err.message.includes('401') || err.message.includes('403')) {
+      hint = '<br><br>Your token appears invalid. Get a fresh one: Plex Web → play any movie → ••• → Get Info → View XML → copy <code>X-Plex-Token</code> from the URL.';
     }
     status.className='setup-status error';
     status.innerHTML=`<strong>Connection failed:</strong> ${err.message}${hint}`;
