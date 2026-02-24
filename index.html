@@ -634,11 +634,13 @@
 
   <div class="settings-section">
     <h3>🗂️ Data</h3>
-    <p>Watch statuses and library data are stored locally in your browser.</p>
+    <p>Watch statuses and library data are stored locally in your browser and synced to GitHub.</p>
     <div style="display:flex;gap:0.6rem;flex-wrap:wrap;">
+      <button class="btn secondary" onclick="forceSyncFromGitHub()">🔄 Force Sync from GitHub</button>
       <button class="btn secondary" onclick="exportData()">Export JSON</button>
       <button class="btn danger" onclick="clearAllData()">Clear All Data</button>
     </div>
+    <div id="forceSyncStatus" class="setup-status"></div>
   </div>
 </div>
 
@@ -709,7 +711,6 @@ async function loadUserdata() {
   const ghToken = getGhToken();
   if (!ghToken) return;
   try {
-    // Use the API (authenticated) so private repos work too
     const res = await fetch(GH_API + `?t=${Date.now()}`, {
       headers: { Authorization: `token ${ghToken}` }
     });
@@ -718,18 +719,17 @@ async function loadUserdata() {
     _userdataSha = d.sha;
     const data = JSON.parse(decodeURIComponent(escape(atob(d.content.replace(/\n/g,'')))));
 
-    // GitHub wins — merge so neither device loses unique entries
+    // GitHub is always authoritative on load — replace local entirely
     if (data.watchStatuses) {
-      watchStatuses = { ...watchStatuses, ...data.watchStatuses };
+      watchStatuses = data.watchStatuses;
       localStorage.setItem('watchStatuses', JSON.stringify(watchStatuses));
     }
     if (data.myRatings) {
-      myRatings = { ...myRatings, ...data.myRatings };
+      myRatings = data.myRatings;
       localStorage.setItem('myRatings', JSON.stringify(myRatings));
     }
-    if (data.wantList && data.wantList.length) {
-      const existingIds = new Set(wantList.map(w => w.tmdbId));
-      data.wantList.forEach(w => { if (!existingIds.has(w.tmdbId)) wantList.push(w); });
+    if (data.wantList) {
+      wantList = data.wantList;
       localStorage.setItem('wantList', JSON.stringify(wantList));
     }
     console.log('Userdata loaded from GitHub');
@@ -1519,6 +1519,14 @@ function renderWantList(container) {
 // ════════════════════════════════════════════════
 // DATA
 // ════════════════════════════════════════════════
+async function forceSyncFromGitHub() {
+  const status = document.getElementById('forceSyncStatus');
+  showStatus(status, 'info', '⏳ Fetching latest data from GitHub…');
+  await loadUserdata();
+  renderMovies(); updateStats();
+  showStatus(status, 'success', '✅ Synced! Your data is now up to date.');
+}
+
 function exportData() {
   const blob = new Blob([JSON.stringify({movies,watchStatuses,wantList,exported:new Date().toISOString()},null,2)],{type:'application/json'});
   const a = document.createElement('a'); a.href=URL.createObjectURL(blob); a.download='reelbox-library.json'; a.click();
