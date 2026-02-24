@@ -9,7 +9,6 @@
 <meta name="apple-mobile-web-app-title" content="ReelBox">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="description" content="Your personal cinema library — track, discover, and organize your movies.">
-<link rel="manifest" href="manifest.json">
 <link rel="apple-touch-icon" href="reelbox-icon-512.png">
 <title>REELBOX — Movie Library</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -637,7 +636,7 @@
 let movies = [];
 let currentFilter = 'all';
 let currentDiscoverTab = 'upcoming';
-let tmdbKey = localStorage.getItem('tmdbKey') || '';
+let tmdbKey = localStorage.getItem('tmdbKey') || '72b2f7b1e58cbf9333fec32dc279f921';
 let watchStatuses = JSON.parse(localStorage.getItem('watchStatuses') || '{}');
 let wantList = JSON.parse(localStorage.getItem('wantList') || '[]');
 let deferredInstallPrompt = null;
@@ -675,6 +674,7 @@ function init() {
   if (plexToken) document.getElementById('plexToken').value = plexToken;
   if (plexWorkerUrl) { const w = document.getElementById('plexWorkerUrl'); if(w) w.value = plexWorkerUrl; }
   if (tmdbKey) {
+    localStorage.setItem('tmdbKey', tmdbKey);
     document.getElementById('tmdbKeySettings').value = tmdbKey;
     document.getElementById('tmdbKeyInput').value = tmdbKey;
   }
