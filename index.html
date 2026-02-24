@@ -477,6 +477,12 @@
   /* Desktop nav hidden on mobile */
   .desktop-nav { display: none; }
 
+  /* ── SYNC INDICATOR ──────────────────────────────────────────── */
+  #syncIndicator {
+    font-size: 0.68rem; color: var(--watched); opacity: 0;
+    transition: opacity 0.5s; white-space: nowrap; flex-shrink: 0;
+  }
+
   /* ── SWIPE HINT ──────────────────────────────────────────────── */
   @media (max-width: 767px) {
     .modal { touch-action: pan-y; }
@@ -497,6 +503,7 @@
     <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
     <input type="text" id="globalSearch" placeholder="Search library…" oninput="filterMovies()">
   </div>
+  <span id="syncIndicator"></span>
 </header>
 
 <!-- LIBRARY VIEW -->
@@ -667,6 +674,97 @@ let deferredInstallPrompt = null;
 let myRatings = JSON.parse(localStorage.getItem('myRatings') || '{}');
 
 // ════════════════════════════════════════════════
+// GITHUB USERDATA SYNC
+// ════════════════════════════════════════════════
+const GH_TOKEN  = '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';
+const GH_REPO   = 'trminnes/ReelBox';
+const GH_FILE   = 'userdata.json';
+const GH_API    = `https://api.github.com/repos/${GH_REPO}/contents/${GH_FILE}`;
+
+let _syncTimer = null;
+let _userdataSha = null;
+let _syncPending = false;
+
+async function loadUserdata() {
+  try {
+    const res = await fetch(`https://raw.githubusercontent.com/${GH_REPO}/main/${GH_FILE}?t=${Date.now()}`);
+    if (!res.ok) return; // file doesn't exist yet, that's fine
+    const data = await res.json();
+    // Merge GitHub data into local — GitHub wins for ratings/statuses
+    if (data.watchStatuses) {
+      watchStatuses = { ...watchStatuses, ...data.watchStatuses };
+      localStorage.setItem('watchStatuses', JSON.stringify(watchStatuses));
+    }
+    if (data.myRatings) {
+      myRatings = { ...myRatings, ...data.myRatings };
+      localStorage.setItem('myRatings', JSON.stringify(myRatings));
+    }
+    if (data.wantList && data.wantList.length) {
+      // Merge want lists, avoiding duplicates
+      const existingIds = new Set(wantList.map(w => w.tmdbId));
+      data.wantList.forEach(w => { if (!existingIds.has(w.tmdbId)) wantList.push(w); });
+      localStorage.setItem('wantList', JSON.stringify(wantList));
+    }
+    console.log('Userdata loaded from GitHub');
+  } catch(e) {
+    console.log('Could not load userdata from GitHub:', e.message);
+  }
+}
+
+async function saveUserdata() {
+  if (_syncPending) return; // already queued
+  _syncPending = true;
+  // Debounce — wait 2s after last change before writing
+  clearTimeout(_syncTimer);
+  _syncTimer = setTimeout(async () => {
+    _syncPending = false;
+    try {
+      const payload = {
+        watchStatuses,
+        myRatings,
+        wantList,
+        updated: new Date().toISOString()
+      };
+      const content = btoa(unescape(encodeURIComponent(JSON.stringify(payload, null, 2))));
+
+      // Get current SHA if we don't have it
+      if (!_userdataSha) {
+        try {
+          const r = await fetch(GH_API, { headers: { Authorization: `token ${GH_TOKEN}` } });
+          if (r.ok) { const d = await r.json(); _userdataSha = d.sha; }
+        } catch(e) {}
+      }
+
+      const body = { message: 'ReelBox userdata sync', content };
+      if (_userdataSha) body.sha = _userdataSha;
+
+      const res = await fetch(GH_API, {
+        method: 'PUT',
+        headers: { Authorization: `token ${GH_TOKEN}`, 'Content-Type': 'application/json' },
+        body: JSON.stringify(body)
+      });
+      if (res.ok) {
+        const d = await res.json();
+        _userdataSha = d.content?.sha || _userdataSha;
+        showSyncIndicator('✓ Synced');
+      } else {
+        showSyncIndicator('⚠ Sync failed');
+      }
+    } catch(e) {
+      showSyncIndicator('⚠ Offline');
+    }
+  }, 2000);
+}
+
+function showSyncIndicator(msg) {
+  let el = document.getElementById('syncIndicator');
+  if (!el) return;
+  el.textContent = msg;
+  el.style.opacity = '1';
+  setTimeout(() => { el.style.opacity = '0'; }, 3000);
+}
+
+// ════════════════════════════════════════════════
 // DEMO DATA
 // ════════════════════════════════════════════════
 const DEMO_MOVIES = [
@@ -707,13 +805,13 @@ function init() {
   if (saved) {
     movies = JSON.parse(saved);
     document.getElementById('demoBanner').style.display = 'none';
-    renderMovies();
-    updateStats();
+    // Load userdata from GitHub then render
+    loadUserdata().then(() => { renderMovies(); updateStats(); });
   } else {
     // Try loading from movies.json (synced by the desktop tool)
     fetch('movies.json')
       .then(r => { if (!r.ok) throw new Error('not found'); return r.json(); })
-      .then(data => {
+      .then(async data => {
         if (data.movies && data.movies.length) {
           movies = data.movies;
           localStorage.setItem('plexMovies', JSON.stringify(movies));
@@ -722,6 +820,7 @@ function init() {
         } else {
           loadDemoMovies();
         }
+        await loadUserdata();
         renderMovies();
         updateStats();
       })
@@ -921,15 +1020,16 @@ function setStatus(id, status) {
   localStorage.setItem('watchStatuses', JSON.stringify(watchStatuses));
   document.querySelectorAll('.status-opt').forEach(b => b.classList.toggle('active', b.dataset.status===status));
   renderMovies(); updateStats();
+  saveUserdata();
 }
 
 // ── MY RATINGS ───────────────────────────────────────────────────
 function setMyRating(id, stars) {
   myRatings[id] = stars;
   localStorage.setItem('myRatings', JSON.stringify(myRatings));
-  // Re-render stars in modal
   renderStars(id, stars);
   renderMovies();
+  saveUserdata();
 }
 
 function clearMyRating(id) {
@@ -937,6 +1037,7 @@ function clearMyRating(id) {
   localStorage.setItem('myRatings', JSON.stringify(myRatings));
   renderStars(id, 0);
   renderMovies();
+  saveUserdata();
 }
 
 function renderStars(id, filled) {
@@ -1182,6 +1283,7 @@ function addToWantList(tmdbId, title, year, poster, event) {
   watchStatuses[nm.id]='want';
   localStorage.setItem('watchStatuses', JSON.stringify(watchStatuses));
   updateStats();
+  saveUserdata();
   event.target.textContent='✅ Want List';
   event.target.classList.add('added');
 }
