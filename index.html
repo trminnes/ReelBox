@@ -666,11 +666,36 @@ function init() {
   if (saved) {
     movies = JSON.parse(saved);
     document.getElementById('demoBanner').style.display = 'none';
+    renderMovies();
+    updateStats();
   } else {
-    loadDemoMovies();
+    // Try loading from movies.json (synced by the desktop tool)
+    fetch('movies.json')
+      .then(r => { if (!r.ok) throw new Error('not found'); return r.json(); })
+      .then(data => {
+        if (data.movies && data.movies.length) {
+          movies = data.movies;
+          localStorage.setItem('plexMovies', JSON.stringify(movies));
+          document.getElementById('demoBanner').style.display = 'none';
+          console.log(`Loaded ${movies.length} movies from movies.json (synced ${data.synced})`);
+        } else {
+          loadDemoMovies();
+        }
+        renderMovies();
+        updateStats();
+      })
+      .catch(() => {
+        loadDemoMovies();
+        renderMovies();
+        updateStats();
+      });
+    return; // renderMovies called async above
   }
-  renderMovies();
-  updateStats();
+  updateTmdbKeySection();
+  initPWA();
+}
+
+function _initFinish() {
   updateTmdbKeySection();
   initPWA();
 }
