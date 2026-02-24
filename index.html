@@ -265,6 +265,21 @@
   .cast-chips { display: flex; flex-wrap: wrap; gap: 0.35rem; }
   .cast-chip { background: var(--surface2); border: 1px solid var(--border); padding: 0.3rem 0.6rem; border-radius: 20px; font-size: 0.72rem; }
 
+  /* ── STAR RATING ─────────────────────────────────────────────── */
+  .my-rating-section { margin-top: 0.75rem; }
+  .my-rating-label { font-size: 0.7rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.07em; font-weight: 600; margin-bottom: 0.35rem; }
+  .star-row { display: flex; gap: 4px; align-items: center; }
+  .star-btn {
+    background: none; border: none; cursor: pointer; padding: 2px;
+    font-size: 1.5rem; line-height: 1; transition: transform 0.15s;
+    color: var(--border); -webkit-tap-highlight-color: transparent;
+    min-width: 36px; min-height: 36px; display: flex; align-items: center; justify-content: center;
+  }
+  .star-btn.filled { color: var(--accent); }
+  .star-btn:active { transform: scale(1.25); }
+  .star-clear { font-size: 0.7rem; color: var(--text-muted); background: none; border: none; cursor: pointer; margin-left: 4px; text-decoration: underline; font-family: inherit; padding: 0; }
+  .movie-myrating { font-size: 0.68rem; color: var(--accent2); margin-top: 0.15rem; }
+
   .modal-close {
     position: absolute; top: 0.75rem; right: 0.75rem;
     background: var(--surface2); border: 1px solid var(--border);
@@ -487,6 +502,7 @@
       <option value="yearDesc">Newest</option>
       <option value="year">Oldest</option>
       <option value="rating">Top Rated</option>
+      <option value="myRating">My Rating</option>
     </select>
   </div>
   <div class="movie-grid" id="movieGrid"></div>
@@ -625,6 +641,7 @@ let tmdbKey = localStorage.getItem('tmdbKey') || '';
 let watchStatuses = JSON.parse(localStorage.getItem('watchStatuses') || '{}');
 let wantList = JSON.parse(localStorage.getItem('wantList') || '[]');
 let deferredInstallPrompt = null;
+let myRatings = JSON.parse(localStorage.getItem('myRatings') || '{}');
 
 // ════════════════════════════════════════════════
 // DEMO DATA
@@ -761,6 +778,7 @@ function renderMovies() {
     if (sort==='year') return (a.year||0)-(b.year||0);
     if (sort==='yearDesc') return (b.year||0)-(a.year||0);
     if (sort==='rating') return (b.rating||0)-(a.rating||0);
+    if (sort==='myRating') return (myRatings[b.id]||0)-(myRatings[a.id]||0);
     return 0;
   });
 
@@ -774,12 +792,13 @@ function renderMovies() {
     return `<div class="movie-card" onclick="openMovie('${m.id}')">
       <div class="movie-status-badge status-${status}"></div>
       ${m.poster
-        ? `<img class="movie-poster" src="${m.poster}" alt="${esc(m.title)}" loading="lazy">`
+        ? `<img class="movie-poster" src="${m.poster}" alt="${esc(m.title)}" loading="lazy" onerror="imgFallback(this,'${m.plexPoster||''}')">`
         : `<div class="poster-placeholder"><span>🎬</span><span>${esc(m.title)}</span></div>`}
       <div class="movie-info">
         <div class="movie-title">${esc(m.title)}</div>
         <div class="movie-year">${m.year||''}</div>
         ${m.rating ? `<div class="movie-rating">★ ${m.rating}</div>` : ''}
+        ${myRatings[m.id] ? `<div class="movie-myrating">${'★'.repeat(myRatings[m.id])}${'☆'.repeat(5-myRatings[m.id])}</div>` : ''}
       </div>
     </div>`;
   }).join('');
@@ -788,6 +807,20 @@ function renderMovies() {
 function esc(s) {
   if (!s) return '';
   return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function imgFallback(img, fallbackSrc) {
+  // Only try fallback once to avoid infinite loop
+  if (img.dataset.fallbackTried) {
+    img.style.display = 'none';
+    return;
+  }
+  img.dataset.fallbackTried = '1';
+  if (fallbackSrc) {
+    img.src = fallbackSrc;
+  } else {
+    img.style.display = 'none';
+  }
 }
 
 function updateStats() {
@@ -827,7 +860,7 @@ function openMovie(id) {
     <div class="modal-handle"></div>
     <div class="modal-hero">
       <div class="modal-poster">
-        ${m.poster ? `<img src="${m.poster}" alt="${esc(m.title)}" style="width:100%;display:block;">` : `<div class="poster-placeholder" style="min-height:165px"><span>🎬</span></div>`}
+        ${m.poster ? `<img src="${m.poster}" alt="${esc(m.title)}" style="width:100%;display:block;" onerror="imgFallback(this,'${m.plexPoster||''}')">` : `<div class="poster-placeholder" style="min-height:165px"><span>🎬</span></div>`}
       </div>
       <div class="modal-meta">
         <div class="modal-title">${esc(m.title)}</div>
@@ -844,6 +877,7 @@ function openMovie(id) {
           <button class="status-opt ${status==='want'?'active':''}" data-status="want" onclick="setStatus('${id}','want')">🔖<br>Want</button>
           <button class="status-opt ${status==='unwatched'?'active':''}" data-status="unwatched" onclick="setStatus('${id}','unwatched')">⏳<br>Not Yet</button>
         </div>
+        ${buildStarHTML(id)}
       </div>
     </div>
     <div class="modal-body">
@@ -863,6 +897,41 @@ function setStatus(id, status) {
   localStorage.setItem('watchStatuses', JSON.stringify(watchStatuses));
   document.querySelectorAll('.status-opt').forEach(b => b.classList.toggle('active', b.dataset.status===status));
   renderMovies(); updateStats();
+}
+
+// ── MY RATINGS ───────────────────────────────────────────────────
+function setMyRating(id, stars) {
+  myRatings[id] = stars;
+  localStorage.setItem('myRatings', JSON.stringify(myRatings));
+  // Re-render stars in modal
+  renderStars(id, stars);
+  renderMovies();
+}
+
+function clearMyRating(id) {
+  delete myRatings[id];
+  localStorage.setItem('myRatings', JSON.stringify(myRatings));
+  renderStars(id, 0);
+  renderMovies();
+}
+
+function renderStars(id, filled) {
+  for (let i = 1; i <= 5; i++) {
+    const btn = document.getElementById(`star-${id}-${i}`);
+    if (btn) btn.classList.toggle('filled', i <= filled);
+  }
+}
+
+function buildStarHTML(id) {
+  const current = myRatings[id] || 0;
+  const stars = [1,2,3,4,5].map(i =>
+    `<button class="star-btn ${i<=current?'filled':''}" id="star-${id}-${i}" onclick="setMyRating('${id}',${i})">★</button>`
+  ).join('');
+  const clearBtn = current ? `<button class="star-clear" onclick="clearMyRating('${id}')">clear</button>` : '';
+  return `<div class="my-rating-section">
+    <div class="my-rating-label">My Rating</div>
+    <div class="star-row">${stars}${clearBtn}</div>
+  </div>`;
 }
 
 function closeModal() {
@@ -1121,9 +1190,11 @@ function clearAllData() {
 // PWA
 // ════════════════════════════════════════════════
 function initPWA() {
-  // Register service worker
+  // Unregister any old service workers to prevent 404/cache issues
   if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('sw.js').catch(() => {});
+    navigator.serviceWorker.getRegistrations().then(regs => {
+      regs.forEach(reg => reg.unregister());
+    });
   }
 
   // Listen for install prompt (Android/Chrome/Desktop)
