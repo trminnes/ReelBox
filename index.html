@@ -706,11 +706,19 @@ let _userdataSha = null;
 let _syncPending = false;
 
 async function loadUserdata() {
+  const ghToken = getGhToken();
+  if (!ghToken) return;
   try {
-    const res = await fetch(`https://raw.githubusercontent.com/${GH_REPO}/main/${GH_FILE}?t=${Date.now()}`);
-    if (!res.ok) return; // file doesn't exist yet, that's fine
-    const data = await res.json();
-    // Merge GitHub data into local — GitHub wins for ratings/statuses
+    // Use the API (authenticated) so private repos work too
+    const res = await fetch(GH_API + `?t=${Date.now()}`, {
+      headers: { Authorization: `token ${ghToken}` }
+    });
+    if (!res.ok) return;
+    const d = await res.json();
+    _userdataSha = d.sha;
+    const data = JSON.parse(decodeURIComponent(escape(atob(d.content.replace(/\n/g,'')))));
+
+    // GitHub wins — merge so neither device loses unique entries
     if (data.watchStatuses) {
       watchStatuses = { ...watchStatuses, ...data.watchStatuses };
       localStorage.setItem('watchStatuses', JSON.stringify(watchStatuses));
@@ -720,7 +728,6 @@ async function loadUserdata() {
       localStorage.setItem('myRatings', JSON.stringify(myRatings));
     }
     if (data.wantList && data.wantList.length) {
-      // Merge want lists, avoiding duplicates
       const existingIds = new Set(wantList.map(w => w.tmdbId));
       data.wantList.forEach(w => { if (!existingIds.has(w.tmdbId)) wantList.push(w); });
       localStorage.setItem('wantList', JSON.stringify(wantList));
@@ -738,18 +745,44 @@ async function saveUserdata() {
   _syncTimer = setTimeout(async () => {
     _syncPending = false;
     const ghToken = getGhToken();
-    if (!ghToken) return; // no token, skip sync
+    if (!ghToken) return;
     try {
-      const payload = { watchStatuses, myRatings, wantList, updated: new Date().toISOString() };
+      // Always fetch latest from GitHub first to merge, preventing overwrites
+      let latestSha = _userdataSha;
+      let remoteStatuses = {};
+      let remoteRatings = {};
+      let remoteWantList = [];
+      try {
+        const r = await fetch(GH_API, { headers: { Authorization: `token ${ghToken}` } });
+        if (r.ok) {
+          const d = await r.json();
+          latestSha = d.sha;
+          const decoded = JSON.parse(decodeURIComponent(escape(atob(d.content.replace(/\n/g,'')))));
+          remoteStatuses = decoded.watchStatuses || {};
+          remoteRatings = decoded.myRatings || {};
+          remoteWantList = decoded.wantList || [];
+        }
+      } catch(e) {}
+
+      // Merge: local changes take priority over remote for same keys
+      const mergedStatuses = { ...remoteStatuses, ...watchStatuses };
+      const mergedRatings = { ...remoteRatings, ...myRatings };
+      const existingIds = new Set(wantList.map(w => w.tmdbId));
+      const mergedWantList = [...wantList, ...remoteWantList.filter(w => !existingIds.has(w.tmdbId))];
+
+      // Update local state with merged data
+      watchStatuses = mergedStatuses;
+      myRatings = mergedRatings;
+      wantList = mergedWantList;
+      localStorage.setItem('watchStatuses', JSON.stringify(watchStatuses));
+      localStorage.setItem('myRatings', JSON.stringify(myRatings));
+      localStorage.setItem('wantList', JSON.stringify(wantList));
+
+      const payload = { watchStatuses: mergedStatuses, myRatings: mergedRatings, wantList: mergedWantList, updated: new Date().toISOString() };
       const content = btoa(unescape(encodeURIComponent(JSON.stringify(payload, null, 2))));
-      if (!_userdataSha) {
-        try {
-          const r = await fetch(GH_API, { headers: { Authorization: `token ${ghToken}` } });
-          if (r.ok) { const d = await r.json(); _userdataSha = d.sha; }
-        } catch(e) {}
-      }
       const body = { message: 'ReelBox userdata sync', content };
-      if (_userdataSha) body.sha = _userdataSha;
+      if (latestSha) body.sha = latestSha;
+
       const res = await fetch(GH_API, {
         method: 'PUT',
         headers: { Authorization: `token ${ghToken}`, 'Content-Type': 'application/json' },
@@ -757,8 +790,9 @@ async function saveUserdata() {
       });
       if (res.ok) {
         const d = await res.json();
-        _userdataSha = d.content?.sha || _userdataSha;
+        _userdataSha = d.content?.sha || latestSha;
         showSyncIndicator('✓ Synced');
+        renderMovies(); updateStats();
       } else {
         showSyncIndicator('⚠ Sync failed');
       }
