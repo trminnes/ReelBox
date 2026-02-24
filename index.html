@@ -567,6 +567,25 @@
     then open <a href="http://localhost:8080" style="color:#ffb090">http://localhost:8080</a> — or double-click <strong>START-REELBOX.bat</strong>.
   </div>
 
+  <!-- First-run setup banner -->
+  <div id="setupBanner" style="display:none;background:rgba(232,197,71,0.08);border:1px solid rgba(232,197,71,0.3);border-radius:12px;padding:1rem 1.1rem;margin-bottom:1.25rem;font-size:0.82rem;line-height:1.7;color:var(--accent);">
+    <strong>👋 First-time setup</strong> — Enter your GitHub and TMDB tokens below to enable cross-device sync and movie discovery. These are stored only in this browser, never in the code.
+  </div>
+
+  <div class="settings-section">
+    <h3>🔑 GitHub Sync Token</h3>
+    <p>Required for syncing your ratings and watch statuses across devices. Stored only in your browser — never in the code.</p>
+    <div class="form-group">
+      <label>GitHub Personal Access Token</label>
+      <input type="password" id="ghTokenInput" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx" autocomplete="off" autocorrect="off" autocapitalize="none">
+      <div class="form-hint">
+        Go to <a href="https://github.com/settings/tokens/new" target="_blank" style="color:var(--accent)">GitHub → Settings → Developer Settings → Personal Access Tokens → Tokens (classic)</a>. Create a token with <strong>repo</strong> scope checked.
+      </div>
+    </div>
+    <button class="btn" onclick="saveGhToken()">Save Token</button>
+    <div id="ghTokenStatus" class="setup-status"></div>
+  </div>
+
   <div class="settings-section">
     <h3>🖥️ Plex Connection</h3>
     <p>Connect to your Plex Media Server to import your full movie library with cover art, ratings, cast, and descriptions.</p>
@@ -594,10 +613,10 @@
 
   <div class="settings-section">
     <h3>🎬 TMDB API Key</h3>
-    <p>For Discover — upcoming movies, now playing, and search. Free at <a href="https://www.themoviedb.org/settings/api" target="_blank" style="color:var(--accent)">themoviedb.org</a></p>
+    <p>For Discover — upcoming movies, now playing, and search. Free at <a href="https://www.themoviedb.org/settings/api" target="_blank" style="color:var(--accent)">themoviedb.org</a>. Stored only in your browser.</p>
     <div class="form-group">
       <label>TMDB API Key</label>
-      <input type="text" id="tmdbKeySettings" placeholder="Your TMDB v3 API key" autocomplete="off" autocorrect="off" autocapitalize="none">
+      <input type="password" id="tmdbKeySettings" placeholder="Your TMDB v3 API key" autocomplete="off" autocorrect="off" autocapitalize="none">
     </div>
     <button class="btn" onclick="saveTmdbKeyFromSettings()">Save Key</button>
     <div id="tmdbStatus" class="setup-status"></div>
@@ -667,7 +686,7 @@
 let movies = [];
 let currentFilter = 'all';
 let currentDiscoverTab = 'upcoming';
-let tmdbKey = localStorage.getItem('tmdbKey') || '72b2f7b1e58cbf9333fec32dc279f921';
+let tmdbKey = localStorage.getItem('tmdbKey') || '';
 let watchStatuses = JSON.parse(localStorage.getItem('watchStatuses') || '{}');
 let wantList = JSON.parse(localStorage.getItem('wantList') || '[]');
 let deferredInstallPrompt = null;
@@ -676,10 +695,11 @@ let myRatings = JSON.parse(localStorage.getItem('myRatings') || '{}');
 // ════════════════════════════════════════════════
 // GITHUB USERDATA SYNC
 // ════════════════════════════════════════════════
-const GH_TOKEN  = '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';
 const GH_REPO   = 'trminnes/ReelBox';
 const GH_FILE   = 'userdata.json';
 const GH_API    = `https://api.github.com/repos/${GH_REPO}/contents/${GH_FILE}`;
+
+function getGhToken() { return localStorage.getItem('ghToken') || ''; }
 
 let _syncTimer = null;
 let _userdataSha = null;
@@ -712,35 +732,27 @@ async function loadUserdata() {
 }
 
 async function saveUserdata() {
-  if (_syncPending) return; // already queued
+  if (_syncPending) return;
   _syncPending = true;
-  // Debounce — wait 2s after last change before writing
   clearTimeout(_syncTimer);
   _syncTimer = setTimeout(async () => {
     _syncPending = false;
+    const ghToken = getGhToken();
+    if (!ghToken) return; // no token, skip sync
     try {
-      const payload = {
-        watchStatuses,
-        myRatings,
-        wantList,
-        updated: new Date().toISOString()
-      };
+      const payload = { watchStatuses, myRatings, wantList, updated: new Date().toISOString() };
       const content = btoa(unescape(encodeURIComponent(JSON.stringify(payload, null, 2))));
-
-      // Get current SHA if we don't have it
       if (!_userdataSha) {
         try {
-          const r = await fetch(GH_API, { headers: { Authorization: `token ${GH_TOKEN}` } });
+          const r = await fetch(GH_API, { headers: { Authorization: `token ${ghToken}` } });
           if (r.ok) { const d = await r.json(); _userdataSha = d.sha; }
         } catch(e) {}
       }
-
       const body = { message: 'ReelBox userdata sync', content };
       if (_userdataSha) body.sha = _userdataSha;
-
       const res = await fetch(GH_API, {
         method: 'PUT',
-        headers: { Authorization: `token ${GH_TOKEN}`, 'Content-Type': 'application/json' },
+        headers: { Authorization: `token ${ghToken}`, 'Content-Type': 'application/json' },
         body: JSON.stringify(body)
       });
       if (res.ok) {
@@ -789,6 +801,17 @@ function init() {
   if (window.location.protocol === 'file:') {
     document.getElementById('fileBanner').style.display = 'block';
   }
+
+  // Show first-run banner if tokens not yet set
+  const ghToken = getGhToken();
+  if (!ghToken || !tmdbKey) {
+    document.getElementById('setupBanner').style.display = 'block';
+  }
+
+  // Populate settings fields (masked)
+  if (ghToken) document.getElementById('ghTokenInput').value = ghToken;
+  if (tmdbKey) document.getElementById('tmdbKeySettings').value = tmdbKey;
+
   const plexUrl = localStorage.getItem('plexUrl') || '';
   const plexToken = localStorage.getItem('plexToken') || '';
   const plexWorkerUrl = localStorage.getItem('plexWorkerUrl') || '';
@@ -796,9 +819,8 @@ function init() {
   if (plexToken) document.getElementById('plexToken').value = plexToken;
   if (plexWorkerUrl) { const w = document.getElementById('plexWorkerUrl'); if(w) w.value = plexWorkerUrl; }
   if (tmdbKey) {
-    localStorage.setItem('tmdbKey', tmdbKey);
-    document.getElementById('tmdbKeySettings').value = tmdbKey;
-    document.getElementById('tmdbKeyInput').value = tmdbKey;
+    const ti = document.getElementById('tmdbKeyInput');
+    if (ti) ti.value = tmdbKey;
   }
 
   const saved = localStorage.getItem('plexMovies');
@@ -1203,10 +1225,21 @@ function saveTmdbKey() {
 function saveTmdbKeyFromSettings() {
   const v = document.getElementById('tmdbKeySettings').value.trim();
   if (!v) return;
-  tmdbKey = v; localStorage.setItem('tmdbKey',tmdbKey);
-  document.getElementById('tmdbKeyInput').value = tmdbKey;
+  tmdbKey = v; localStorage.setItem('tmdbKey', tmdbKey);
+  const ti = document.getElementById('tmdbKeyInput');
+  if (ti) ti.value = tmdbKey;
   updateTmdbKeySection();
   showStatus(document.getElementById('tmdbStatus'),'success','✅ TMDB key saved!');
+}
+
+function saveGhToken() {
+  const v = document.getElementById('ghTokenInput').value.trim();
+  if (!v) { showStatus(document.getElementById('ghTokenStatus'),'error','Please enter a token.'); return; }
+  localStorage.setItem('ghToken', v);
+  _userdataSha = null; // reset SHA so it re-fetches
+  showStatus(document.getElementById('ghTokenStatus'),'success','✅ GitHub token saved! Syncing…');
+  document.getElementById('setupBanner').style.display = 'none';
+  saveUserdata();
 }
 
 function switchDiscoverTab(tab, el) {
