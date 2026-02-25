@@ -1515,9 +1515,34 @@ function renderWantList(container) {
 async function forceSyncFromGitHub() {
   const status = document.getElementById('forceSyncStatus');
   showStatus(status, 'info', '⏳ Fetching latest data from GitHub…');
-  await loadUserdata();
-  renderMovies(); updateStats();
-  showStatus(status, 'success', '✅ Synced! Your data is now up to date.');
+  const ghToken = getGhToken();
+  if (!ghToken) {
+    showStatus(status, 'error', '❌ No GitHub token saved. Enter your token above and save it first.');
+    return;
+  }
+  try {
+    const res = await fetch(GH_API + `?t=${Date.now()}`, {
+      headers: { Authorization: `token ${ghToken}` }
+    });
+    if (!res.ok) {
+      showStatus(status, 'error', `❌ GitHub returned ${res.status}. Token may be wrong or expired.`);
+      return;
+    }
+    const d = await res.json();
+    _userdataSha = d.sha;
+    const data = JSON.parse(decodeURIComponent(escape(atob(d.content.replace(/\n/g,'')))));
+    watchStatuses = data.watchStatuses || watchStatuses;
+    myRatings = data.myRatings || myRatings;
+    wantList = data.wantList || wantList;
+    localStorage.setItem('watchStatuses', JSON.stringify(watchStatuses));
+    localStorage.setItem('myRatings', JSON.stringify(myRatings));
+    localStorage.setItem('wantList', JSON.stringify(wantList));
+    renderMovies(); updateStats();
+    const count = Object.keys(data.watchStatuses || {}).length;
+    showStatus(status, 'success', `✅ Synced! Loaded ${count} movie statuses from GitHub.`);
+  } catch(e) {
+    showStatus(status, 'error', `❌ Error: ${e.message}`);
+  }
 }
 
 function exportData() {
