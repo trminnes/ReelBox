@@ -771,14 +771,6 @@ async function saveUserdata() {
       const existingIds = new Set(wantList.map(w => w.tmdbId));
       const mergedWantList = [...wantList, ...remoteWantList.filter(w => !existingIds.has(w.tmdbId))];
 
-      // Update local state with merged data
-      watchStatuses = mergedStatuses;
-      myRatings = mergedRatings;
-      wantList = mergedWantList;
-      localStorage.setItem('watchStatuses', JSON.stringify(watchStatuses));
-      localStorage.setItem('myRatings', JSON.stringify(myRatings));
-      localStorage.setItem('wantList', JSON.stringify(wantList));
-
       const payload = { watchStatuses: mergedStatuses, myRatings: mergedRatings, wantList: mergedWantList, updated: new Date().toISOString() };
       const content = btoa(unescape(encodeURIComponent(JSON.stringify(payload, null, 2))));
       const body = { message: 'ReelBox userdata sync', content };
@@ -794,7 +786,6 @@ async function saveUserdata() {
         const d = await res.json();
         _userdataSha = d.content?.sha || latestSha;
         showSyncIndicator('✓ Synced');
-        renderMovies(); updateStats();
       } else {
         showSyncIndicator('⚠ Sync failed');
       }
