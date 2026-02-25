@@ -10,7 +10,8 @@
     "plex_1588": "unwatched",
     "plex_1637": "unwatched",
     "plex_1570": "watched",
-    "plex_36339": "watched"
+    "plex_36339": "watched",
+    "plex_1680": "watched"
   },
   "myRatings": {
     "plex_1576": 4,
@@ -22,8 +23,9 @@
     "plex_234": 4,
     "plex_1638": 5,
     "plex_1570": 4,
-    "plex_36339": 3
+    "plex_36339": 3,
+    "plex_1680": 2
   },
   "wantList": [],
-  "updated": "2026-02-25T13:53:31.184Z"
+  "updated": "2026-02-25T13:53:38.149Z"
 }
