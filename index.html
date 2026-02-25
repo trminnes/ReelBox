@@ -709,17 +709,19 @@ let _syncPending = false;
 
 async function loadUserdata() {
   const ghToken = getGhToken();
-  if (!ghToken) return;
+  if (!ghToken) { console.log('loadUserdata: no token'); return; }
   try {
+    console.log('loadUserdata: fetching from GitHub...');
     const res = await fetch(GH_API + `?t=${Date.now()}`, {
       headers: { Authorization: `token ${ghToken}` }
     });
+    console.log('loadUserdata: response status', res.status);
     if (!res.ok) return;
     const d = await res.json();
     _userdataSha = d.sha;
     const data = JSON.parse(decodeURIComponent(escape(atob(d.content.replace(/\n/g,'')))));
+    console.log('loadUserdata: loaded data', JSON.stringify(data).slice(0,200));
 
-    // GitHub is always authoritative on load — replace local entirely
     if (data.watchStatuses) {
       watchStatuses = data.watchStatuses;
       localStorage.setItem('watchStatuses', JSON.stringify(watchStatuses));
@@ -732,20 +734,19 @@ async function loadUserdata() {
       wantList = data.wantList;
       localStorage.setItem('wantList', JSON.stringify(wantList));
     }
-    console.log('Userdata loaded from GitHub');
+    console.log('loadUserdata: done. watchStatuses=', JSON.stringify(watchStatuses));
   } catch(e) {
-    console.log('Could not load userdata from GitHub:', e.message);
+    console.log('loadUserdata ERROR:', e.message);
   }
 }
 
 async function saveUserdata() {
-  if (_syncPending) return;
-  _syncPending = true;
   clearTimeout(_syncTimer);
+  _syncPending = false;
   _syncTimer = setTimeout(async () => {
-    _syncPending = false;
     const ghToken = getGhToken();
-    if (!ghToken) return;
+    if (!ghToken) { console.log('saveUserdata: no token'); return; }
+    console.log('saveUserdata: starting save. watchStatuses=', JSON.stringify(watchStatuses).slice(0,200));
     try {
       // Always fetch latest from GitHub first to merge, preventing overwrites
       let latestSha = _userdataSha;
@@ -788,6 +789,7 @@ async function saveUserdata() {
         headers: { Authorization: `token ${ghToken}`, 'Content-Type': 'application/json' },
         body: JSON.stringify(body)
       });
+      console.log('saveUserdata: PUT response', res.status);
       if (res.ok) {
         const d = await res.json();
         _userdataSha = d.content?.sha || latestSha;
