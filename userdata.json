@@ -1,6 +1,6 @@
 {
   "watchStatuses": {
-    "plex_1638": "unwatched",
+    "plex_1638": "watched",
     "plex_234": "watched",
     "plex_1576": "unwatched",
     "plex_39457": "unwatched",
@@ -17,8 +17,9 @@
     "plex_1615": 4,
     "plex_1591": 3,
     "plex_1588": 4,
-    "plex_234": 4
+    "plex_234": 4,
+    "plex_1638": 5
   },
   "wantList": [],
-  "updated": "2026-02-25T13:53:05.154Z"
+  "updated": "2026-02-25T13:53:14.043Z"
 }
