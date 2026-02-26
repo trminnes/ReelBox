@@ -1363,15 +1363,89 @@ function renderDiscoverCard(m) {
   const inLib = movies.find(l=>l.title.toLowerCase()===m.title.toLowerCase());
   const btnText = inLib ? '✅ In Library' : inWant ? '✅ Want List' : '🔖 Add to Want List';
   const btnClass = (inLib||inWant) ? 'added' : '';
-  return `<div class="movie-card" style="cursor:default">
+  const safeTitle = esc(m.title).replace(/'/g,"\\'");
+  return `<div class="movie-card" onclick="openDiscoverModal(${m.id},'${safeTitle}','${year}','${poster||''}')" style="cursor:pointer">
     ${poster?`<img class="movie-poster" src="${poster}" alt="${esc(m.title)}" loading="lazy">`:`<div class="poster-placeholder"><span>🎬</span><span>${esc(m.title)}</span></div>`}
     <div class="movie-info">
       <div class="movie-title">${esc(m.title)}</div>
       <div class="movie-year">${year}</div>
-      ${m.vote_average?`<div class="movie-rating">★ ${m.vote_average.toFixed(1)}</div>`:''}
     </div>
-    <button class="add-to-want-btn ${btnClass}" onclick="addToWantList(${m.id},'${esc(m.title).replace(/'/g,"\\'")}','${year}','${poster||''}',event)" ${inLib?'disabled':''}>${btnText}</button>
+    <button class="add-to-want-btn ${btnClass}" onclick="event.stopPropagation();addToWantList(${m.id},'${safeTitle}','${year}','${poster||''}',event)" ${inLib?'disabled':''}>${btnText}</button>
   </div>`;
+}
+
+async function openDiscoverModal(tmdbId, title, year, poster) {
+  // Show modal immediately with basic info while we fetch details
+  const modalContent = document.getElementById('modalContent');
+  const modal = document.getElementById('movieModal');
+  modalContent.innerHTML = `<div class="modal-handle"></div><div class="loading-row" style="padding:3rem;justify-content:center"><div class="spinner"></div></div>`;
+  modal.classList.add('open');
+  document.body.style.overflow = 'hidden';
+
+  try {
+    // Search for movie to get TMDB id if not provided, then fetch full details
+    let id = tmdbId;
+    if (!id) {
+      const s = await fetch(`https://api.themoviedb.org/3/search/movie?api_key=${tmdbKey}&query=${encodeURIComponent(title)}${year?'&year='+year:''}`);
+      const sd = await s.json();
+      id = sd.results?.[0]?.id;
+    }
+    if (!id) throw new Error('Movie not found');
+
+    const [detailRes, creditsRes] = await Promise.all([
+      fetch(`https://api.themoviedb.org/3/movie/${id}?api_key=${tmdbKey}&language=en-US`),
+      fetch(`https://api.themoviedb.org/3/movie/${id}/credits?api_key=${tmdbKey}&language=en-US`)
+    ]);
+    const m = await detailRes.json();
+    const credits = await creditsRes.json();
+
+    const director = credits.crew?.find(c=>c.job==='Director')?.name || '';
+    const cast = credits.cast?.slice(0,5).map(c=>c.name) || [];
+    const genres = m.genres?.map(g=>g.name) || [];
+    const posterUrl = m.poster_path ? `https://image.tmdb.org/t/p/w300${m.poster_path}` : poster || null;
+    const releaseYear = m.release_date ? m.release_date.slice(0,4) : year || '';
+    const duration = m.runtime ? `${Math.floor(m.runtime/60)}h ${m.runtime%60}m` : '';
+    const inWant = wantList.find(w=>w.tmdbId===id);
+    const inLib = movies.find(l=>l.title.toLowerCase()===m.title.toLowerCase());
+    const btnText = inLib ? '✅ In Library' : inWant ? '✅ Want List' : '🔖 Add to Want List';
+    const safeTitle = esc(m.title).replace(/'/g,"\\'");
+
+    modalContent.innerHTML = `
+      <div class="modal-handle"></div>
+      <div class="modal-hero">
+        <div class="modal-poster">
+          ${posterUrl ? `<img src="${posterUrl}" alt="${esc(m.title)}" style="width:100%;display:block;">` : `<div class="poster-placeholder" style="min-height:165px"><span>🎬</span></div>`}
+        </div>
+        <div class="modal-meta">
+          <div class="modal-title">${esc(m.title)}</div>
+          ${m.tagline ? `<div class="modal-tagline">${esc(m.tagline)}</div>` : ''}
+          <div class="modal-badges">
+            ${releaseYear ? `<span class="badge">${releaseYear}</span>` : ''}
+            ${duration ? `<span class="badge">${duration}</span>` : ''}
+            ${genres.slice(0,3).map(g=>`<span class="badge">${g}</span>`).join('')}
+          </div>
+          <div style="margin-top:0.75rem;">
+            <button class="btn ${(inLib||inWant)?'secondary':''}" style="width:100%;justify-content:center;"
+              onclick="addToWantList(${id},'${safeTitle}','${releaseYear}','${posterUrl||''}',event)"
+              ${inLib?'disabled':''} id="discoverWantBtn-${id}">
+              ${btnText}
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="modal-body">
+        <div class="modal-section" id="trailerSection-discover-${id}">
+          <button class="btn secondary trailer-btn" onclick="loadTrailer('discover-${id}','${safeTitle}',${releaseYear||'null'})">🎬 Watch Trailer</button>
+          <div id="trailerPlayer-discover-${id}" style="display:none;margin-top:0.75rem;border-radius:10px;overflow:hidden;aspect-ratio:16/9;"></div>
+        </div>
+        ${m.overview ? `<div class="modal-section"><h4>Synopsis</h4><p>${esc(m.overview)}</p></div>` : ''}
+        ${director ? `<div class="modal-section"><h4>Director</h4><p>${esc(director)}</p></div>` : ''}
+        ${cast.length ? `<div class="modal-section"><h4>Cast</h4><div class="cast-chips">${cast.map(c=>`<span class="cast-chip">${esc(c)}</span>`).join('')}</div></div>` : ''}
+      </div>
+    `;
+  } catch(e) {
+    modalContent.innerHTML = `<div class="modal-handle"></div><div style="padding:2rem;color:var(--text-muted)">❌ Could not load details: ${esc(e.message)}</div>`;
+  }
 }
 
 function addToWantList(tmdbId, title, year, poster, event) {
