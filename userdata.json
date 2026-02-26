@@ -108,7 +108,8 @@
     "plex_4830": "want",
     "plex_4876": "watched",
     "plex_4887": "watched",
-    "plex_4914": "watched"
+    "plex_4914": "watched",
+    "plex_4973": "watched"
   },
   "myRatings": {
     "plex_1576": 4,
@@ -216,8 +217,9 @@
     "plex_4790": 3,
     "plex_4876": 5,
     "plex_4887": 4,
-    "plex_4914": 4
+    "plex_4914": 4,
+    "plex_4973": 4
   },
   "wantList": [],
-  "updated": "2026-02-26T16:35:50.224Z"
+  "updated": "2026-02-26T16:36:17.096Z"
 }
