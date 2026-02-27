@@ -135,7 +135,8 @@
     "plex_534": "watched",
     "plex_565": "watched",
     "plex_5746": "watched",
-    "tmdb_1316092": "want"
+    "tmdb_1316092": "want",
+    "tmdb_1242937": "want"
   },
   "myRatings": {
     "plex_1576": 4,
@@ -277,7 +278,13 @@
       "title": "\"Wuthering Heights\"",
       "year": "2026",
       "poster": "https://image.tmdb.org/t/p/w300/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg"
+    },
+    {
+      "tmdbId": 1242937,
+      "title": "The Dreadful",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w300/hGH8Ji7pG2ytHxo7ABqHM3TpzFA.jpg"
     }
   ],
-  "updated": "2026-02-27T14:22:15.501Z"
+  "updated": "2026-02-27T14:24:59.298Z"
 }
