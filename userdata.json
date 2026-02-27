@@ -137,7 +137,8 @@
     "plex_5746": "watched",
     "tmdb_1316092": "want",
     "tmdb_1242937": "want",
-    "tmdb_1171145": "want"
+    "tmdb_1171145": "want",
+    "tmdb_1305781": "want"
   },
   "myRatings": {
     "plex_1576": 4,
@@ -291,7 +292,13 @@
       "title": "Crime 101",
       "year": "2026",
       "poster": "https://image.tmdb.org/t/p/w300/2HoR2x23bqKpopluoBD1FH3tBi7.jpg"
+    },
+    {
+      "tmdbId": 1305781,
+      "title": "Blades of the Guardians: Wind Rises in the Desert",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w300/AbunjMKX4P1sDNlKfhYrWkIoRD9.jpg"
     }
   ],
-  "updated": "2026-02-27T14:25:26.338Z"
+  "updated": "2026-02-27T14:25:33.940Z"
 }
