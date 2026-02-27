@@ -136,7 +136,8 @@
     "plex_565": "watched",
     "plex_5746": "watched",
     "tmdb_1316092": "want",
-    "tmdb_1242937": "want"
+    "tmdb_1242937": "want",
+    "tmdb_1171145": "want"
   },
   "myRatings": {
     "plex_1576": 4,
@@ -284,7 +285,13 @@
       "title": "The Dreadful",
       "year": "2026",
       "poster": "https://image.tmdb.org/t/p/w300/hGH8Ji7pG2ytHxo7ABqHM3TpzFA.jpg"
+    },
+    {
+      "tmdbId": 1171145,
+      "title": "Crime 101",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w300/2HoR2x23bqKpopluoBD1FH3tBi7.jpg"
     }
   ],
-  "updated": "2026-02-27T14:24:59.298Z"
+  "updated": "2026-02-27T14:25:26.338Z"
 }
