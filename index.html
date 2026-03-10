@@ -853,36 +853,53 @@ function init() {
     if (ti) ti.value = tmdbKey;
   }
 
-  const saved = localStorage.getItem('plexMovies');
-  if (saved) {
-    movies = JSON.parse(saved);
-    document.getElementById('demoBanner').style.display = 'none';
-    // Load userdata from GitHub then render
-    loadUserdata().then(() => { renderMovies(); updateStats(); });
-  } else {
-    // Try loading from movies.json (synced by the desktop tool)
-    fetch('movies.json')
-      .then(r => { if (!r.ok) throw new Error('not found'); return r.json(); })
-      .then(async data => {
-        if (data.movies && data.movies.length) {
-          movies = data.movies;
-          localStorage.setItem('plexMovies', JSON.stringify(movies));
-          document.getElementById('demoBanner').style.display = 'none';
-          console.log(`Loaded ${movies.length} movies from movies.json (synced ${data.synced})`);
-        } else {
-          loadDemoMovies();
-        }
-        await loadUserdata();
-        renderMovies();
-        updateStats();
-      })
-      .catch(() => {
-        loadDemoMovies();
-        renderMovies();
-        updateStats();
-      });
-    return; // renderMovies called async above
+  // Always try movies.json first so desktop-synced additions are picked up.
+  // If movies.json is unavailable, fall back to localStorage cache.
+  // New movies from movies.json are merged into localStorage so nothing is lost.
+  async function loadMovieLibrary() {
+    let fromJson = null;
+    try {
+      const r = await fetch('movies.json?_t=' + Date.now(), { cache: 'no-store' });
+      if (r.ok) {
+        const data = await r.json();
+        if (data.movies && data.movies.length) fromJson = data.movies;
+      }
+    } catch(e) { /* movies.json not available — use cache */ }
+
+    const saved = localStorage.getItem('plexMovies');
+    const cached = saved ? JSON.parse(saved) : null;
+
+    if (fromJson && cached) {
+      // Merge: keep all cached movies, then add any new ones from movies.json
+      const cachedIds = new Set(cached.map(m => m.id));
+      const newMovies = fromJson.filter(m => !cachedIds.has(m.id));
+      if (newMovies.length) {
+        console.log(`ReelBox: merging ${newMovies.length} new movies from movies.json`);
+        movies = [...cached, ...newMovies];
+        localStorage.setItem('plexMovies', JSON.stringify(movies));
+      } else {
+        movies = cached;
+      }
+      document.getElementById('demoBanner').style.display = 'none';
+    } else if (fromJson) {
+      movies = fromJson;
+      localStorage.setItem('plexMovies', JSON.stringify(movies));
+      document.getElementById('demoBanner').style.display = 'none';
+      console.log(`ReelBox: loaded ${movies.length} movies from movies.json`);
+    } else if (cached) {
+      movies = cached;
+      document.getElementById('demoBanner').style.display = 'none';
+      console.log(`ReelBox: movies.json unavailable, using ${movies.length} cached movies`);
+    } else {
+      loadDemoMovies();
+    }
+
+    await loadUserdata();
+    renderMovies();
+    updateStats();
   }
+  loadMovieLibrary();
+  return; // all rendering is async above
   updateTmdbKeySection();
   initPWA();
 }
@@ -1629,34 +1646,62 @@ function renderWantList(container) {
 // ════════════════════════════════════════════════
 async function forceSyncFromGitHub() {
   const status = document.getElementById('forceSyncStatus');
-  showStatus(status, 'info', '⏳ Fetching latest data from GitHub…');
+  showStatus(status, 'info', '⏳ Refreshing movie library and syncing statuses…');
   const ghToken = getGhToken();
+
+  // Step 1: Always re-fetch movies.json to pick up new titles from desktop sync
+  try {
+    const r = await fetch('movies.json?_t=' + Date.now(), { cache: 'no-store' });
+    if (r.ok) {
+      const data = await r.json();
+      if (data.movies && data.movies.length) {
+        const saved = localStorage.getItem('plexMovies');
+        const cached = saved ? JSON.parse(saved) : [];
+        const cachedIds = new Set(cached.map(m => m.id));
+        const newMovies = data.movies.filter(m => !cachedIds.has(m.id));
+        if (newMovies.length) {
+          movies = [...cached, ...newMovies];
+          localStorage.setItem('plexMovies', JSON.stringify(movies));
+          showStatus(status, 'info', `⏳ Found ${newMovies.length} new movies — syncing statuses…`);
+        } else {
+          movies = data.movies; // full refresh in case metadata changed
+          localStorage.setItem('plexMovies', JSON.stringify(movies));
+        }
+      }
+    }
+  } catch(e) { console.log('forceSyncFromGitHub: movies.json fetch failed', e.message); }
+
+  // Step 2: Sync watch statuses from GitHub
   if (!ghToken) {
-    showStatus(status, 'error', '❌ No GitHub token saved. Enter your token above and save it first.');
+    renderMovies(); updateStats();
+    showStatus(status, 'success', `✅ Library refreshed: ${movies.length} movies loaded. (No GitHub token — statuses not synced)`);
     return;
   }
   try {
-    const res = await fetch(GH_API + `?t=${Date.now()}`, {
-      headers: { Authorization: `token ${ghToken}` }
+    const res = await fetch(GH_API + '?t=' + Date.now(), {
+      headers: { Authorization: 'token ' + ghToken }
     });
     if (!res.ok) {
-      showStatus(status, 'error', `❌ GitHub returned ${res.status}. Token may be wrong or expired.`);
+      renderMovies(); updateStats();
+      showStatus(status, 'error', '❌ GitHub returned ' + res.status + '. Token may be wrong or expired.');
       return;
     }
     const d = await res.json();
     _userdataSha = d.sha;
     const data = JSON.parse(decodeURIComponent(escape(atob(d.content.replace(/\n/g,'')))));
-    watchStatuses = data.watchStatuses || watchStatuses;
-    myRatings = data.myRatings || myRatings;
-    wantList = data.wantList || wantList;
+    watchStatuses = { ...watchStatuses, ...(data.watchStatuses || {}) };
+    myRatings     = { ...myRatings,     ...(data.myRatings     || {}) };
+    wantList      = data.wantList || wantList;
     localStorage.setItem('watchStatuses', JSON.stringify(watchStatuses));
-    localStorage.setItem('myRatings', JSON.stringify(myRatings));
-    localStorage.setItem('wantList', JSON.stringify(wantList));
+    localStorage.setItem('myRatings',     JSON.stringify(myRatings));
+    localStorage.setItem('wantList',      JSON.stringify(wantList));
     renderMovies(); updateStats();
-    const count = Object.keys(data.watchStatuses || {}).length;
-    showStatus(status, 'success', `✅ Synced! Loaded ${count} movie statuses from GitHub.`);
+    const statusCount = Object.keys(data.watchStatuses || {}).length;
+    showStatus(status, 'success',
+      '✅ Library: ' + movies.length + ' movies · Statuses synced: ' + statusCount);
   } catch(e) {
-    showStatus(status, 'error', `❌ Error: ${e.message}`);
+    renderMovies(); updateStats();
+    showStatus(status, 'error', '❌ Error: ' + e.message);
   }
 }
 
