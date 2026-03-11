@@ -1,6 +1,6 @@
 {
-  "synced": "2026-03-10T05:27:24.171748",
-  "count": 2039,
+  "synced": "2026-03-11T11:01:54.448985",
+  "count": 2045,
   "movies": [
     {
       "id": "plex_18547",
@@ -4194,7 +4194,7 @@
       ],
       "director": "Michael Hoffman",
       "studio": "Relativity Media",
-      "poster": "https://image.tmdb.org/t/p/w300/twv17hergmeqXR2jVpKdv0JRPir.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/fUSemUPEJ9wKar5uYzMyIlLmWjS.jpg",
       "plexPoster": "http://192.168.68.96:32400/library/metadata/11835/thumb/1771580049?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
@@ -37558,6 +37558,21 @@
       "plexPoster": "http://192.168.68.96:32400/library/metadata/37596/thumb/1769501669?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
+      "id": "plex_40176",
+      "title": "The Assassination of Jesse James by the Coward Robert Ford L'assassinio Di Jesse James Per Mano Del Codardo Robert Ford",
+      "year": "2007",
+      "rating": null,
+      "summary": "",
+      "tagline": "",
+      "duration": 160,
+      "genres": [],
+      "cast": [],
+      "director": "",
+      "studio": "",
+      "poster": "https://image.tmdb.org/t/p/w300/xMKn6EQS7eR5ubhPJbw5pQSBZMw.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/40176/thumb/1773240758?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+    },
+    {
       "id": "plex_39017",
       "title": "The Astronaut",
       "year": "2025",
@@ -37924,7 +37939,7 @@
       ],
       "director": "Ridley Scott",
       "studio": "De Line Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/rNEZug6er0bIj9LVN2JaQig6oZy.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/OK0FoZV2UIYqYlIEa9NHPYe2Gl.jpg",
       "plexPoster": "http://192.168.68.96:32400/library/metadata/37345/thumb/1769501648?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
@@ -38013,6 +38028,28 @@
       "studio": "Balcony 9 Productions",
       "poster": "https://image.tmdb.org/t/p/w300/3mExdWLSxAiUCb4NMcYmxSkO7n4.jpg",
       "plexPoster": "http://192.168.68.96:32400/library/metadata/37215/thumb/1769501633?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+    },
+    {
+      "id": "plex_40150",
+      "title": "Bridge to Terabithia",
+      "year": "2007",
+      "rating": 8.5,
+      "summary": "Jesse Aarons trained all summer to become the fastest runner in school. So he's very upset when newcomer Leslie Burke outruns him and everyone else. Despite this and other differences including that she's rich, he's poor, she's a city girl, and he's a country boy the two become fast friends. Together they create Terabithia, a land of monsters, trolls, ogres, and giants where they rule as king and queen.",
+      "tagline": "Discover a place that will never leave you, and a friendship that will change you forever.",
+      "duration": 96,
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "cast": [
+        "Josh Hutcherson",
+        "AnnaSophia Robb",
+        "Zooey Deschanel"
+      ],
+      "director": "Gábor Csupó",
+      "studio": "Lauren Levine Productions Inc.",
+      "poster": "https://image.tmdb.org/t/p/w300/3xFxGodKPMFLheS8rujFSmLfcq4.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/40150/thumb/1773240755?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plex_33515",
@@ -38409,6 +38446,28 @@
       "studio": "Miramax",
       "poster": "https://image.tmdb.org/t/p/w300/j0AJeeR5CQPDFh0otyWyCWREHO8.jpg",
       "plexPoster": "http://192.168.68.96:32400/library/metadata/36695/thumb/1769418213?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+    },
+    {
+      "id": "plex_40151",
+      "title": "Cold Storage",
+      "year": "2026",
+      "rating": 7.8,
+      "summary": "When a highly dangerous fungus escapes from a secret laboratory, a former bioterrorism agent is called back into action. Alongside two young employees, he must confront an invisible and out-of-control threat.",
+      "tagline": "If it spreads, you're dead.",
+      "duration": 99,
+      "genres": [
+        "Science Fiction",
+        "Comedy"
+      ],
+      "cast": [
+        "Joe Keery",
+        "Georgina Campbell",
+        "Liam Neeson"
+      ],
+      "director": "Jonny Campbell",
+      "studio": "Pariah",
+      "poster": "https://image.tmdb.org/t/p/w300/gZgWy4SDBDr5qmn2ql6H0uO7hMY.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/40151/thumb/1773240755?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plex_37236",
@@ -41458,6 +41517,28 @@
       "plexPoster": "http://192.168.68.96:32400/library/metadata/40062/thumb/1770361531?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
+      "id": "plex_40154",
+      "title": "Music and Lyrics",
+      "year": "2007",
+      "rating": 6.3,
+      "summary": "A washed up singer is given a couple days to compose a chart-topping hit for an aspiring teen sensation. Though he's never written a decent lyric in his life, he sparks with an offbeat younger woman with a flair for words.",
+      "tagline": "Share the music with someone you love.",
+      "duration": 104,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "cast": [
+        "Drew Barrymore",
+        "Hugh Grant",
+        "Brad Garrett"
+      ],
+      "director": "Marc Lawrence",
+      "studio": "Castle Rock Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w300/1WXVpnovC0EETbqcjVhy3hwIITK.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/40154/thumb/1773240757?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+    },
+    {
       "id": "plex_37402",
       "title": "My Best Friend's Girl",
       "year": "2008",
@@ -41608,6 +41689,28 @@
       "studio": "Miramax",
       "poster": "https://image.tmdb.org/t/p/w300/6d5XOczc226jECq0LIX0siKtgHR.jpg",
       "plexPoster": "http://192.168.68.96:32400/library/metadata/37060/thumb/1769418233?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+    },
+    {
+      "id": "plex_40155",
+      "title": "No Reservations",
+      "year": "2007",
+      "rating": 4.2,
+      "summary": "A master chef, Kate, lives her life like she runs the kitchen at upscale 22 Bleecker Restaurant in Manhattan--with a no-nonsense intensity that both captivates and intimidates everyone around her. With breathtaking precision, she powers through each hectic shift, coordinating hundreds of meals, preparing delicate sauces, seasoning and simmering each dish to absolute perfection.",
+      "tagline": "Life isn't always made to order.",
+      "duration": 104,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "cast": [
+        "Catherine Zeta-Jones",
+        "Aaron Eckhart",
+        "Abigail Breslin"
+      ],
+      "director": "Scott Hicks",
+      "studio": "Castle Rock Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w300/eKqfRSf0DZ0Qey1f9ZHuZfsmXVR.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/40155/thumb/1773240757?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plex_37724",
@@ -42126,7 +42229,7 @@
       ],
       "director": "Brett Haley",
       "studio": "3000 Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/kOrJqRyt1pklNgDwJMjzN1GuNXS.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/peG6482ALJQ9Tbvv2P38BquVk0f.jpg",
       "plexPoster": "http://192.168.68.96:32400/library/metadata/39476/thumb/1772522971?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
@@ -43751,6 +43854,28 @@
       "studio": "T-Street",
       "poster": "https://image.tmdb.org/t/p/w300/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
       "plexPoster": "http://192.168.68.96:32400/library/metadata/39352/thumb/1771232372?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+    },
+    {
+      "id": "plex_40177",
+      "title": "War Machine",
+      "year": "2026",
+      "rating": 6.9,
+      "summary": "Follow the final recruits of a grueling special ops boot camp who encounter a deadly force from beyond this world.",
+      "tagline": "All grit. No quit.",
+      "duration": 109,
+      "genres": [
+        "Action",
+        "Science Fiction"
+      ],
+      "cast": [
+        "Alan Ritchson",
+        "Dennis Quaid",
+        "Stephan James"
+      ],
+      "director": "Patrick Hughes",
+      "studio": "Lionsgate",
+      "poster": "https://image.tmdb.org/t/p/w300/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/40177/thumb/1773240760?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plex_36636",
