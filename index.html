@@ -10,7 +10,7 @@
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="description" content="Your personal cinema library — track, discover, and organize your movies.">
 <link rel="apple-touch-icon" href="reelbox-icon-512.png">
-<title>REELBOX — Movie Library</title>
+<title>REELBOX — Movies &amp; TV</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
 <style>
@@ -498,8 +498,9 @@
   <div class="logo">REEL<span>BOX</span></div>
   <!-- Desktop nav (hidden on mobile) -->
   <nav class="desktop-nav">
-    <button class="nav-btn active" onclick="showView('library', this)">Library</button>
+    <button class="nav-btn active" onclick="showView('library', this)">Movies</button>
     <button class="nav-btn" onclick="showView('discover', this)">Discover</button>
+    <button class="nav-btn" onclick="showView('tv', this)">TV Shows</button>
     <button class="nav-btn" onclick="showView('settings', this)">Settings</button>
   </nav>
   <div class="header-search">
@@ -558,6 +559,38 @@
     </div>
   </div>
   <div id="discoverContent"></div>
+</div>
+
+
+<!-- TV SHOWS VIEW -->
+<div id="view-tv" class="view">
+  <div id="tvDemoBanner" class="demo-banner" style="display:none;">
+    📺 <strong>Demo mode</strong> — Connect Plex in Settings to sync your real TV library.
+  </div>
+  <div class="stats-bar">
+    <div class="stat-card"><div class="stat-icon">📺</div><div><div class="stat-num" id="tvStatTotal">0</div><div class="stat-label">Total</div></div></div>
+    <div class="stat-card"><div class="stat-icon">✅</div><div><div class="stat-num" id="tvStatWatched">0</div><div class="stat-label">Watched</div></div></div>
+    <div class="stat-card"><div class="stat-icon">🔖</div><div><div class="stat-num" id="tvStatWant">0</div><div class="stat-label">Want</div></div></div>
+    <div class="stat-card"><div class="stat-icon">⏳</div><div><div class="stat-num" id="tvStatUnwatched">0</div><div class="stat-label">Unwatched</div></div></div>
+  </div>
+  <div class="filters-row">
+    <button class="filter-btn active" data-filter="all" onclick="setTvFilter('all',this)">All</button>
+    <button class="filter-btn" data-filter="watched" onclick="setTvFilter('watched',this)">✅ Watched</button>
+    <button class="filter-btn" data-filter="want" onclick="setTvFilter('want',this)">🔖 Want</button>
+    <button class="filter-btn" data-filter="unwatched" onclick="setTvFilter('unwatched',this)">⏳ Unwatched</button>
+  </div>
+  <div class="filter-selects">
+    <select class="filter-select" id="tvGenreFilter" onchange="renderTV()"><option value="">All Genres</option></select>
+    <select class="filter-select" id="tvSortOrder" onchange="renderTV()">
+      <option value="title">A–Z</option>
+      <option value="titleDesc">Z–A</option>
+      <option value="yearDesc">Newest</option>
+      <option value="year">Oldest</option>
+      <option value="rating">Top Rated</option>
+      <option value="myRating">My Rating</option>
+    </select>
+  </div>
+  <div class="movie-grid" id="tvGrid"></div>
 </div>
 
 <!-- SETTINGS VIEW -->
@@ -651,11 +684,15 @@
 <nav class="bottom-nav">
   <button class="bottom-nav-btn active" id="bnav-library" onclick="showView('library', this, true)">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="m8 21 4-4 4 4"/><path d="M10 10l2-2 2 2"/></svg>
-    Library
+    Movies
   </button>
   <button class="bottom-nav-btn" id="bnav-discover" onclick="showView('discover', this, true)">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
     Discover
+  </button>
+  <button class="bottom-nav-btn" id="bnav-tv" onclick="showView('tv', this, true)">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="15" rx="2"/><polyline points="17 2 12 7 7 2"/></svg>
+    TV Shows
   </button>
   <button class="bottom-nav-btn" id="bnav-settings" onclick="showView('settings', this, true)">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"/><circle cx="12" cy="12" r="3"/></svg>
@@ -899,6 +936,7 @@ function init() {
     updateStats();
   }
   loadMovieLibrary();
+  loadTvLibrary();
   return; // all rendering is async above
   updateTmdbKeySection();
   initPWA();
@@ -932,6 +970,7 @@ function showView(name, el, fromBottomNav) {
 
   if (name === 'discover') loadDiscoverContent();
   if (name === 'settings') initInstallUI();
+  if (name === 'tv') { renderTV(); updateTvStats(); }
 
   // Scroll to top on view change
   window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -1692,6 +1731,8 @@ async function forceSyncFromGitHub() {
     watchStatuses = { ...watchStatuses, ...(data.watchStatuses || {}) };
     myRatings     = { ...myRatings,     ...(data.myRatings     || {}) };
     wantList      = data.wantList || wantList;
+    if (data.tvStatuses) { tvStatuses = {...tvStatuses, ...data.tvStatuses}; localStorage.setItem('tvStatuses', JSON.stringify(tvStatuses)); }
+    if (data.tvRatings)  { tvRatings  = {...tvRatings,  ...data.tvRatings};  localStorage.setItem('tvRatings',  JSON.stringify(tvRatings)); }
     localStorage.setItem('watchStatuses', JSON.stringify(watchStatuses));
     localStorage.setItem('myRatings',     JSON.stringify(myRatings));
     localStorage.setItem('wantList',      JSON.stringify(wantList));
@@ -1780,6 +1821,306 @@ function dismissInstall() {
 // ════════════════════════════════════════════════
 // make section-title work inline
 document.querySelectorAll && document.querySelectorAll('.section-title');
+
+// ════════════════════════════════════════════════
+// TV SHOWS
+// ════════════════════════════════════════════════
+let tvShows = [];
+let tvStatuses = JSON.parse(localStorage.getItem('tvStatuses') || '{}');
+let tvRatings  = JSON.parse(localStorage.getItem('tvRatings')  || '{}');
+let currentTvFilter = 'all';
+
+const DEMO_TV = [
+  { id:'tv1', title:'Breaking Bad', year:2008, rating:9.5, genres:['Crime','Drama','Thriller'], summary:'A chemistry teacher diagnosed with cancer partners with a former student to secure his family's future by manufacturing methamphetamine.', creator:'Vince Gilligan', cast:['Bryan Cranston','Aaron Paul','Anna Gunn','Dean Norris'], poster:'https://image.tmdb.org/t/p/w300/ggFHVNu6YYI5L9pCfOacjizRGt.jpg', seasons:5 },
+  { id:'tv2', title:'The Wire', year:2002, rating:9.3, genres:['Crime','Drama'], summary:'The Baltimore drug scene, as seen through the eyes of both law enforcement and drug dealers.', creator:'David Simon', cast:['Dominic West','Idris Elba','Lance Reddick','Wendell Pierce'], poster:'https://image.tmdb.org/t/p/w300/4lbclFySvugI51fwsyxBTOm4DqK.jpg', seasons:5 },
+  { id:'tv3', title:'Succession', year:2018, rating:8.9, genres:['Drama','Comedy'], summary:'The Roy family controls one of the biggest media and entertainment conglomerates in the world — but the patriarch's health is failing.', creator:'Jesse Armstrong', cast:['Brian Cox','Jeremy Strong','Sarah Snook','Kieran Culkin'], poster:'https://image.tmdb.org/t/p/w300/e2X8xBNYKmKiRzS9BeVFMnwmJD5.jpg', seasons:4 },
+  { id:'tv4', title:'The Sopranos', year:1999, rating:9.2, genres:['Crime','Drama'], summary:'New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that often cause him to have panic attacks.', creator:'David Chase', cast:['James Gandolfini','Lorraine Bracco','Edie Falco'], poster:'https://image.tmdb.org/t/p/w300/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg', seasons:6 },
+  { id:'tv5', title:'Chernobyl', year:2019, rating:9.4, genres:['Drama','History'], summary:'An exploration of the true story of one of the worst man-made catastrophes in history.', creator:'Craig Mazin', cast:['Jared Harris','Stellan Skarsgård','Emily Watson'], poster:'https://image.tmdb.org/t/p/w300/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg', seasons:1 },
+  { id:'tv6', title:'Severance', year:2022, rating:8.7, genres:['Drama','Sci-Fi','Mystery'], summary:'Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives.', creator:'Dan Erickson', cast:['Adam Scott','Zach Cherry','Britt Lower','Tramell Tillman'], poster:'https://image.tmdb.org/t/p/w300/lMZv8g5oVEvv1BRBg1mRKly7BjO.jpg', seasons:2 },
+  { id:'tv7', title:'The Bear', year:2022, rating:8.7, genres:['Drama','Comedy'], summary:'A young chef from the fine dining world returns to Chicago to run his family's sandwich shop after a family tragedy.', creator:'Christopher Storer', cast:['Jeremy Allen White','Ebon Moss-Bachrach','Ayo Edebiri'], poster:'https://image.tmdb.org/t/p/w300/sHFlbKS3WLqMnp9t2ghADIJFnuQ.jpg', seasons:3 },
+  { id:'tv8', title:'Shogun', year:2024, rating:8.6, genres:['Drama','History','Action'], summary:'In feudal Japan, shipwrecked English navigator John Blackthorne enters into a dangerous power struggle between a feudal lord and a ruthless leader.', creator:'Rachel Kondo', cast:['Hiroyuki Sanada','Cosmo Jarvis','Anna Sawai'], poster:'https://image.tmdb.org/t/p/w300/7O4iVfOMQmdCSxhOg1WnzG1KMTE.jpg', seasons:1 },
+  { id:'tv9', title:'House of the Dragon', year:2022, rating:8.4, genres:['Fantasy','Drama','Action'], summary:'The story of the Targaryen civil war that took place about 200 years before events portrayed in Game of Thrones.', creator:'Ryan J. Condal', cast:['Paddy Considine','Matt Smith','Olivia Cooke','Emma D'Arcy'], poster:'https://image.tmdb.org/t/p/w300/z2yahl2uefxDCl0nogcRBstwruJ.jpg', seasons:2 },
+  { id:'tv10', title:'Slow Horses', year:2022, rating:8.2, genres:['Thriller','Drama'], summary:'A team of British intelligence agents who serve as a dumping ground for MI5's failures, and the man who leads them.', creator:'Mick Herron', cast:['Gary Oldman','Jack Lowden','Kristin Scott Thomas'], poster:'https://image.tmdb.org/t/p/w300/jXBMhaDf93RBaFSC3Cg5MdWPcOR.jpg', seasons:4 },
+  { id:'tv11', title:'Andor', year:2022, rating:8.4, genres:['Sci-Fi','Action','Drama'], summary:'The story of Cassian Andor's journey to becoming a rebel hero in the years leading up to the events of Rogue One.', creator:'Tony Gilroy', cast:['Diego Luna','Genevieve O'Reilly','Stellan Skarsgård'], poster:'https://image.tmdb.org/t/p/w300/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg', seasons:2 },
+  { id:'tv12', title:'The Last of Us', year:2023, rating:8.8, genres:['Drama','Sci-Fi','Horror'], summary:'Joel, a hardened survivor, is hired to smuggle Ellie out of a quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey.', creator:'Craig Mazin, Neil Druckmann', cast:['Pedro Pascal','Bella Ramsey','Gabriel Luna'], poster:'https://image.tmdb.org/t/p/w300/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg', seasons:2 },
+];
+
+function getTvStatus(id) { return tvStatuses[id] || 'unwatched'; }
+
+function loadDemoTV() {
+  tvShows = DEMO_TV.map(s => ({...s}));
+  const b = document.getElementById('tvDemoBanner');
+  if (b) b.style.display = 'flex';
+  renderTV(); updateTvStats();
+}
+
+function updateTvStats() {
+  const total     = tvShows.length;
+  const watched   = tvShows.filter(s => getTvStatus(s.id)==='watched').length;
+  const want      = tvShows.filter(s => getTvStatus(s.id)==='want').length;
+  const unwatched = total - watched - want;
+  const els = { tvStatTotal: total, tvStatWatched: watched, tvStatWant: want, tvStatUnwatched: unwatched };
+  Object.entries(els).forEach(([id,val]) => { const el = document.getElementById(id); if(el) el.textContent = val; });
+}
+
+function setTvFilter(f, el) {
+  currentTvFilter = f;
+  document.querySelectorAll('#view-tv .filter-btn').forEach(b => b.classList.remove('active'));
+  el.classList.add('active');
+  renderTV();
+}
+
+function renderTV() {
+  const grid   = document.getElementById('tvGrid');
+  if (!grid) return;
+  const search = (document.getElementById('globalSearch').value || '').toLowerCase();
+  const genre  = document.getElementById('tvGenreFilter').value;
+  const sort   = document.getElementById('tvSortOrder').value;
+
+  // Rebuild genre filter
+  const genres = [...new Set(tvShows.flatMap(s => s.genres || []))].sort();
+  const genreEl = document.getElementById('tvGenreFilter');
+  const cur = genreEl.value;
+  genreEl.innerHTML = '<option value="">All Genres</option>' + genres.map(g => `<option ${g===cur?'selected':''} value="${g}">${g}</option>`).join('');
+
+  let filtered = tvShows.filter(s => {
+    const matchSearch = !search || s.title.toLowerCase().includes(search) ||
+      (s.cast||[]).join(' ').toLowerCase().includes(search) ||
+      (s.creator||'').toLowerCase().includes(search);
+    const status = getTvStatus(s.id);
+    const matchFilter = currentTvFilter === 'all' || status === currentTvFilter;
+    const matchGenre  = !genre || (s.genres||[]).includes(genre);
+    return matchSearch && matchFilter && matchGenre;
+  });
+
+  filtered.sort((a,b) => {
+    if (sort==='title')      return a.title.localeCompare(b.title);
+    if (sort==='titleDesc')  return b.title.localeCompare(a.title);
+    if (sort==='year')       return (a.year||0)-(b.year||0);
+    if (sort==='yearDesc')   return (b.year||0)-(a.year||0);
+    if (sort==='rating')     return (b.rating||0)-(a.rating||0);
+    if (sort==='myRating')   return (tvRatings[b.id]||0)-(tvRatings[a.id]||0);
+    return 0;
+  });
+
+  if (!filtered.length) {
+    grid.innerHTML = `<div class="empty-state" style="grid-column:1/-1"><div class="big-icon">📺</div><h3>No Shows Found</h3></div>`;
+    return;
+  }
+
+  grid.innerHTML = filtered.map(s => {
+    const status = getTvStatus(s.id);
+    const seasonsLabel = s.seasons ? `<div class="movie-year">${s.seasons} Season${s.seasons!==1?'s':''}</div>` : '';
+    return `<div class="movie-card" onclick="openTvShow('${s.id}')">
+      <div class="movie-status-badge status-${status}"></div>
+      ${s.poster
+        ? `<img class="movie-poster" src="${s.poster}" alt="${esc(s.title)}" loading="lazy" onerror="this.style.display='none'">`
+        : `<div class="poster-placeholder"><span>📺</span><span>${esc(s.title)}</span></div>`}
+      <div class="movie-info">
+        <div class="movie-title">${esc(s.title)}</div>
+        <div class="movie-year">${s.year||''}</div>
+        ${seasonsLabel}
+        ${s.rating ? `<div class="movie-rating">★ ${s.rating}</div>` : ''}
+        ${tvRatings[s.id] ? `<div class="movie-myrating">${'★'.repeat(tvRatings[s.id])}${'☆'.repeat(5-tvRatings[s.id])}</div>` : ''}
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function openTvShow(id) {
+  const s = tvShows.find(x => x.id === id);
+  if (!s) return;
+  const status = getTvStatus(id);
+  const rating = tvRatings[id] || 0;
+
+  document.getElementById('modalContent').innerHTML = `
+    <div class="modal-handle"></div>
+    <div class="modal-hero">
+      <div class="modal-poster">
+        ${s.poster ? `<img src="${s.poster}" alt="${esc(s.title)}" style="width:100%;display:block;" onerror="this.style.display='none'">` : `<div class="poster-placeholder" style="min-height:165px"><span>📺</span></div>`}
+      </div>
+      <div class="modal-meta">
+        <div class="modal-title">${esc(s.title)}</div>
+        <div class="modal-badges">
+          ${s.year    ? `<span class="badge">${s.year}</span>` : ''}
+          ${s.seasons ? `<span class="badge">${s.seasons} Season${s.seasons!==1?'s':''}</span>` : ''}
+          ${(s.genres||[]).map(g=>`<span class="badge">${g}</span>`).join('')}
+          ${s.rating  ? `<span class="badge highlight">★ ${s.rating}</span>` : ''}
+        </div>
+        <div style="font-size:0.7rem;color:var(--text-muted);margin-bottom:0.4rem;text-transform:uppercase;letter-spacing:0.07em;font-weight:600;">Watch Status</div>
+        <div class="status-selector">
+          <button class="status-opt ${status==='watched'?'active':''}"   data-status="watched"   onclick="setTvStatus('${id}','watched')">✅<br>Watched</button>
+          <button class="status-opt ${status==='want'?'active':''}"      data-status="want"      onclick="setTvStatus('${id}','want')">🔖<br>Want</button>
+          <button class="status-opt ${status==='unwatched'?'active':''}" data-status="unwatched" onclick="setTvStatus('${id}','unwatched')">⏳<br>Not Yet</button>
+        </div>
+        <div class="my-rating-section">
+          <div class="my-rating-label">My Rating</div>
+          <div class="star-row" id="tvStarRow-${id}">
+            ${[1,2,3,4,5].map(n=>`<button class="star-btn ${rating>=n?'filled':''}" onclick="setTvRating('${id}',${n})">${rating>=n?'★':'☆'}</button>`).join('')}
+            ${rating ? `<button class="star-clear" onclick="clearTvRating('${id}')">clear</button>` : ''}
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal-body">
+      <div class="modal-section" id="tvTrailerSection-${id}">
+        <button class="btn secondary trailer-btn" onclick="loadTvTrailer('${id}','${esc(s.title)}',${s.year||'null'})">🎬 Watch Trailer</button>
+        <div id="tvTrailerPlayer-${id}" style="display:none;margin-top:0.75rem;border-radius:10px;overflow:hidden;aspect-ratio:16/9;"></div>
+      </div>
+      ${s.summary  ? `<div class="modal-section"><h4>Synopsis</h4><p>${esc(s.summary)}</p></div>` : ''}
+      ${s.creator  ? `<div class="modal-section"><h4>Creator</h4><p>${esc(s.creator)}</p></div>` : ''}
+      ${(s.cast||[]).length ? `<div class="modal-section"><h4>Cast</h4><div class="cast-chips">${s.cast.map(c=>`<span class="cast-chip">${esc(c)}</span>`).join('')}</div></div>` : ''}
+    </div>
+  `;
+
+  document.getElementById('movieModal').classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+
+function setTvStatus(id, status) {
+  tvStatuses[id] = status;
+  localStorage.setItem('tvStatuses', JSON.stringify(tvStatuses));
+  document.querySelectorAll('.status-opt').forEach(b => b.classList.toggle('active', b.dataset.status===status));
+  renderTV(); updateTvStats();
+  saveTvUserdata();
+}
+
+function setTvRating(id, stars) {
+  tvRatings[id] = stars;
+  localStorage.setItem('tvRatings', JSON.stringify(tvRatings));
+  const row = document.getElementById('tvStarRow-' + id);
+  if (row) row.innerHTML = [1,2,3,4,5].map(n=>`<button class="star-btn ${stars>=n?'filled':''}" onclick="setTvRating('${id}',${n})">${stars>=n?'★':'☆'}</button>`).join('') +
+    `<button class="star-clear" onclick="clearTvRating('${id}')">clear</button>`;
+  renderTV();
+  saveTvUserdata();
+}
+
+function clearTvRating(id) {
+  delete tvRatings[id];
+  localStorage.setItem('tvRatings', JSON.stringify(tvRatings));
+  const row = document.getElementById('tvStarRow-' + id);
+  if (row) row.innerHTML = [1,2,3,4,5].map(n=>`<button class="star-btn" onclick="setTvRating('${id}',${n})">☆</button>`).join('');
+  renderTV();
+  saveTvUserdata();
+}
+
+async function loadTvTrailer(showId, title, year) {
+  const btn    = document.querySelector(`#tvTrailerSection-${showId} .trailer-btn`);
+  const player = document.getElementById(`tvTrailerPlayer-${showId}`);
+  if (!tmdbKey) { if(btn) btn.textContent = '❌ No TMDB key'; return; }
+  if(btn) { btn.textContent = '⏳ Loading…'; btn.disabled = true; }
+  try {
+    const searchRes = await fetch(`https://api.themoviedb.org/3/search/tv?api_key=${tmdbKey}&query=${encodeURIComponent(title)}${year?'&first_air_date_year='+year:''}&language=en-US`);
+    const searchData = await searchRes.json();
+    const tmdbId = searchData.results?.[0]?.id;
+    if (!tmdbId) throw new Error('Show not found on TMDB');
+    const vidRes  = await fetch(`https://api.themoviedb.org/3/tv/${tmdbId}/videos?api_key=${tmdbKey}&language=en-US`);
+    const vidData = await vidRes.json();
+    const trailer = vidData.results?.find(v => v.type==='Trailer' && v.site==='YouTube') || vidData.results?.find(v => v.site==='YouTube');
+    if (!trailer) throw new Error('No trailer available');
+    player.innerHTML = `<iframe width="100%" height="100%" src="https://www.youtube.com/embed/${trailer.key}?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius:10px;display:block;"></iframe>`;
+    player.style.display = 'block';
+    if(btn) btn.style.display = 'none';
+  } catch(e) {
+    if(btn) { btn.textContent = `❌ ${e.message}`; btn.disabled = false; }
+  }
+}
+
+// TV sync to GitHub (stored alongside movie data)
+async function saveTvUserdata() {
+  const ghToken = getGhToken();
+  if (!ghToken) return;
+  clearTimeout(window._tvSyncTimer);
+  window._tvSyncTimer = setTimeout(async () => {
+    try {
+      // Read existing userdata and merge TV data in
+      let latestSha = _userdataSha;
+      let existingData = {};
+      try {
+        const res = await fetch(GH_API + '?t=' + Date.now(), { headers: { Authorization: 'token ' + ghToken } });
+        if (res.ok) {
+          const d = await res.json();
+          latestSha = d.sha;
+          existingData = JSON.parse(decodeURIComponent(escape(atob(d.content.replace(/\n/g,'')))));
+        }
+      } catch(e) {}
+      const payload = {
+        ...existingData,
+        tvStatuses: { ...(existingData.tvStatuses||{}), ...tvStatuses },
+        tvRatings:  { ...(existingData.tvRatings||{}),  ...tvRatings  },
+        updated: new Date().toISOString()
+      };
+      const content = btoa(unescape(encodeURIComponent(JSON.stringify(payload, null, 2))));
+      const body = { message: 'ReelBox TV sync', content };
+      if (latestSha) body.sha = latestSha;
+      const res = await fetch(GH_API, {
+        method: 'PUT',
+        headers: { Authorization: 'token ' + ghToken, 'Content-Type': 'application/json' },
+        body: JSON.stringify(body)
+      });
+      if (res.ok) showSyncIndicator('✓ Synced');
+    } catch(e) { showSyncIndicator('⚠ Offline'); }
+  }, 2000);
+}
+
+// Load TV shows from shows.json or localStorage, fall back to demo
+async function loadTvLibrary() {
+  let fromJson = null;
+  try {
+    const r = await fetch('shows.json?_t=' + Date.now(), { cache: 'no-store' });
+    if (r.ok) {
+      const data = await r.json();
+      if (data.shows && data.shows.length) fromJson = data.shows;
+    }
+  } catch(e) {}
+
+  const saved  = localStorage.getItem('plexShows');
+  const cached = saved ? JSON.parse(saved) : null;
+
+  if (fromJson && cached) {
+    const cachedIds = new Set(cached.map(s => s.id));
+    const newShows  = fromJson.filter(s => !cachedIds.has(s.id));
+    tvShows = newShows.length ? [...cached, ...newShows] : cached;
+    if (newShows.length) localStorage.setItem('plexShows', JSON.stringify(tvShows));
+    const b = document.getElementById('tvDemoBanner'); if(b) b.style.display='none';
+  } else if (fromJson) {
+    tvShows = fromJson;
+    localStorage.setItem('plexShows', JSON.stringify(tvShows));
+    const b = document.getElementById('tvDemoBanner'); if(b) b.style.display='none';
+  } else if (cached) {
+    tvShows = cached;
+    const b = document.getElementById('tvDemoBanner'); if(b) b.style.display='none';
+  } else {
+    loadDemoTV();
+    return;
+  }
+
+  // Load TV statuses/ratings from GitHub userdata
+  const ghToken = getGhToken();
+  if (ghToken) {
+    try {
+      const res = await fetch(GH_API + '?t=' + Date.now(), { headers: { Authorization: 'token ' + ghToken } });
+      if (res.ok) {
+        const d = await res.json();
+        _userdataSha = d.sha;
+        const data = JSON.parse(decodeURIComponent(escape(atob(d.content.replace(/\n/g,'')))));
+        if (data.tvStatuses) { tvStatuses = {...tvStatuses, ...data.tvStatuses}; localStorage.setItem('tvStatuses', JSON.stringify(tvStatuses)); }
+        if (data.tvRatings)  { tvRatings  = {...tvRatings,  ...data.tvRatings};  localStorage.setItem('tvRatings',  JSON.stringify(tvRatings)); }
+      }
+    } catch(e) {}
+  }
+
+  renderTV(); updateTvStats();
+}
+
+// Also handle globalSearch filtering TV when on TV view
+const _origFilterMovies = filterMovies;
+filterMovies = function() {
+  _origFilterMovies();
+  const tv = document.getElementById('view-tv');
+  if (tv && tv.classList.contains('active')) renderTV();
+};
+
 
 // ════════════════════════════════════════════════
 // START
