@@ -951,28 +951,27 @@ function _initFinish() {
 // NAVIGATION
 // ════════════════════════════════════════════════
 function showView(name, el, fromBottomNav) {
+  // Hide all views
   document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
-  document.getElementById('view-' + name).classList.add('active');
+  const target = document.getElementById('view-' + name);
+  if (!target) return;
+  target.classList.add('active');
 
   // Update bottom nav
   document.querySelectorAll('.bottom-nav-btn').forEach(b => b.classList.remove('active'));
   const bnav = document.getElementById('bnav-' + name);
   if (bnav) bnav.classList.add('active');
 
-  // Update desktop nav
-  document.querySelectorAll('.desktop-nav .nav-btn').forEach(b => b.classList.remove('active'));
-  if (el && el.classList.contains('nav-btn')) el.classList.add('active');
-  else {
-    document.querySelectorAll('.desktop-nav .nav-btn').forEach(b => {
-      if (b.textContent.trim().toLowerCase().startsWith(name.slice(0,3))) b.classList.add('active');
-    });
-  }
+  // Update desktop nav — match by view name in onclick, not button text
+  document.querySelectorAll('.desktop-nav .nav-btn').forEach(b => {
+    const m = (b.getAttribute('onclick') || '').match(/showView\('([^']+)'/);
+    b.classList.toggle('active', !!(m && m[1] === name));
+  });
 
   if (name === 'discover') loadDiscoverContent();
   if (name === 'settings') initInstallUI();
   if (name === 'tv') { renderTV(); updateTvStats(); }
 
-  // Scroll to top on view change
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
@@ -1071,7 +1070,11 @@ function setFilter(f, el) {
   el.classList.add('active');
   renderMovies();
 }
-function filterMovies() { renderMovies(); }
+function filterMovies() {
+  renderMovies();
+  const tv = document.getElementById('view-tv');
+  if (tv && tv.classList.contains('active')) renderTV();
+}
 
 function loadDemoMovies() {
   movies = DEMO_MOVIES.map(m => ({...m}));
@@ -2114,12 +2117,7 @@ async function loadTvLibrary() {
 }
 
 // Also handle globalSearch filtering TV when on TV view
-const _origFilterMovies = filterMovies;
-filterMovies = function() {
-  _origFilterMovies();
-  const tv = document.getElementById('view-tv');
-  if (tv && tv.classList.contains('active')) renderTV();
-};
+// TV search handled inside filterMovies directly
 
 
 // ════════════════════════════════════════════════
