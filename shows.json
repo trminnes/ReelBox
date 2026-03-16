@@ -1,6 +1,6 @@
 {
-  "synced": "2026-03-16T19:37:19.939184",
-  "count": 74,
+  "synced": "2026-03-16T19:54:51.395125",
+  "count": 75,
   "shows": [
     {
       "id": "plextv_16349",
@@ -837,7 +837,7 @@
     },
     {
       "id": "plextv_34705",
-      "title": "Ghosts (US)",
+      "title": "Ghosts",
       "year": "2021",
       "rating": null,
       "summary": "A young couple, Sam and Jay, inherit a haunted mansion and, unaware of their invisible housemates, plan to turn it into a B&B. Their lives become much more complicated after a fall causes Sam to see the ghosts. Based on the UK series.",
@@ -853,7 +853,7 @@
       ],
       "creator": "",
       "studio": "Joe vs. Joe",
-      "poster": "http://192.168.68.96:32400/library/metadata/34705/thumb/1772096891?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC",
+      "poster": "https://image.tmdb.org/t/p/w300/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
       "plexPoster": "http://192.168.68.96:32400/library/metadata/34705/thumb/1772096891?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
@@ -1257,7 +1257,7 @@
     },
     {
       "id": "plextv_38561",
-      "title": "Robin Hood (2025)",
+      "title": "Robin Hood",
       "year": "2025",
       "rating": null,
       "summary": "Rob, a Saxon outlaw, and Marian, a Norman noblewoman, unite to fight injustice after the Norman conquest. He leads a rebel band while she infiltrates the corrupt court, both striving for justice and peace",
@@ -1273,7 +1273,7 @@
       ],
       "creator": "",
       "studio": "Lionsgate Television",
-      "poster": "http://192.168.68.96:32400/library/metadata/38561/thumb/1773126802?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC",
+      "poster": "https://image.tmdb.org/t/p/w300/3teWChNzKJdbfen46IdeKTygdZa.jpg",
       "plexPoster": "http://192.168.68.96:32400/library/metadata/38561/thumb/1773126802?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
@@ -1404,7 +1404,7 @@
     },
     {
       "id": "plextv_36961",
-      "title": "Underdogs (2025)",
+      "title": "Underdogs",
       "year": "2025",
       "rating": null,
       "summary": "Follow the story of the heroic underdogs of the natural world – the good, the bad and the frankly ugly. From their hidden talents to their bold hygiene choices, unsavory courtship rituals, devious camouflage techniques and “tough love” parenting skills, Underdogs will celebrate and champion the unique and unpredictable behaviors of a little known and surprising cast of animal characters.",
@@ -1417,7 +1417,7 @@
       ],
       "creator": "",
       "studio": "Wildstar Films",
-      "poster": "http://192.168.68.96:32400/library/metadata/36961/thumb/1771060958?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC",
+      "poster": "https://image.tmdb.org/t/p/w300/3QaBwLVPc8W71zC0E3D1j1R8ZLp.jpg",
       "plexPoster": "http://192.168.68.96:32400/library/metadata/36961/thumb/1771060958?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
@@ -1524,6 +1524,27 @@
       "studio": "Offspring Films",
       "poster": "http://192.168.68.96:32400/library/metadata/36953/thumb/1770540063?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC",
       "plexPoster": "http://192.168.68.96:32400/library/metadata/36953/thumb/1770540063?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+    },
+    {
+      "id": "plextv_35236",
+      "title": "Yellowstone",
+      "year": "2018",
+      "rating": null,
+      "summary": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park.",
+      "seasons": 5,
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "cast": [
+        "Luke Grimes",
+        "Kelly Reilly",
+        "Wes Bentley"
+      ],
+      "creator": "",
+      "studio": "101 Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/35236/thumb/1773046065?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_39068",
