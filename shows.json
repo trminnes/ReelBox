@@ -1,6 +1,6 @@
 {
-  "synced": "2026-03-11T21:19:58.863751",
-  "count": 68,
+  "synced": "2026-03-16T19:37:19.939184",
+  "count": 74,
   "shows": [
     {
       "id": "plextv_16349",
@@ -21,7 +21,7 @@
       "creator": "",
       "studio": "Lucasfilm Ltd.",
       "poster": "https://image.tmdb.org/t/p/w300/khZqmwHQicTYoS7Flreb9EddFZC.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16349/thumb/1770540056?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16349/thumb/1773302267?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_16405",
@@ -42,7 +42,7 @@
       "creator": "",
       "studio": "Chuck Lorre Productions",
       "poster": "https://image.tmdb.org/t/p/w300/an3uTx1P0XgHPylgfPV6W7yxKAo.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16405/thumb/1770540057?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16405/thumb/1773302269?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_16703",
@@ -63,7 +63,7 @@
       "creator": "",
       "studio": "Lucasfilm Ltd.",
       "poster": "https://image.tmdb.org/t/p/w300/gNbdjDi1HamTCrfvM9JeA94bNi2.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16703/thumb/1770540057?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16703/thumb/1773302269?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_16712",
@@ -84,7 +84,7 @@
       "creator": "",
       "studio": "Amazon Studios",
       "poster": "https://image.tmdb.org/t/p/w300/kf5Hz70tjNAHg4swGDzOr9BfoZ1.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16712/thumb/1770540058?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16712/thumb/1773302269?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_16722",
@@ -94,8 +94,8 @@
       "summary": "After the stories of Jango and Boba Fett, another warrior emerges in the Star Wars universe. The Mandalorian is set after the fall of the Empire and before the emergence of the First Order. We follow the travails of a lone gunfighter in the outer reaches of the galaxy far from the authority of the New Republic.",
       "seasons": 3,
       "genres": [
-        "Drama",
-        "Action"
+        "Action",
+        "Adventure"
       ],
       "cast": [
         "Pedro Pascal",
@@ -105,7 +105,7 @@
       "creator": "",
       "studio": "Lucasfilm Ltd.",
       "poster": "https://image.tmdb.org/t/p/w300/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16722/thumb/1770540058?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16722/thumb/1773302270?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_16757",
@@ -125,7 +125,7 @@
       "creator": "",
       "studio": "Echo Films",
       "poster": "https://image.tmdb.org/t/p/w300/y9x2R87yt2U616736NJrP0d56dt.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16757/thumb/1770540059?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16757/thumb/1773302270?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_16777",
@@ -146,7 +146,7 @@
       "creator": "",
       "studio": "Electric Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/pqHFkhlO4xRRNOzWEEl3yV9KXiu.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16777/thumb/1770540059?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16777/thumb/1773302270?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_16312",
@@ -166,7 +166,7 @@
       "creator": "",
       "studio": "Universal Television",
       "poster": "https://image.tmdb.org/t/p/w300/5IOj62y2Eb2ngyYmEn1IJ7bFhzH.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16312/thumb/1770540055?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16312/thumb/1773302266?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_16833",
@@ -187,7 +187,7 @@
       "creator": "",
       "studio": "Ranch Hand Productions",
       "poster": "https://image.tmdb.org/t/p/w300/lrbHBAxF9Ir83rxgeBrfmEJriLt.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16833/thumb/1770540059?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16833/thumb/1773302271?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_16918",
@@ -208,7 +208,7 @@
       "creator": "",
       "studio": "Rough House Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/bKb54fgtMrS54VMMl8KdDIFlG3g.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16918/thumb/1770540060?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16918/thumb/1773302271?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_33365",
@@ -249,7 +249,7 @@
       "creator": "",
       "studio": "21 Laps Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/mS9O9mjPlwpLTne4JgQlDkgREWA.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16320/thumb/1770540056?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16320/thumb/1773302267?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_16337",
@@ -270,7 +270,7 @@
       "creator": "",
       "studio": "Doozer",
       "poster": "https://image.tmdb.org/t/p/w300/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16337/thumb/1770540056?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16337/thumb/1773302267?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_20973",
@@ -291,7 +291,7 @@
       "creator": "",
       "studio": "See-Saw Films",
       "poster": "https://image.tmdb.org/t/p/w300/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/20973/thumb/1770540063?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/20973/thumb/1773302274?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_16362",
@@ -312,7 +312,7 @@
       "creator": "",
       "studio": "Doozer",
       "poster": "https://image.tmdb.org/t/p/w300/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16362/thumb/1770540057?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16362/thumb/1773302268?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_16962",
@@ -333,7 +333,7 @@
       "creator": "",
       "studio": "Amazon Studios",
       "poster": "https://image.tmdb.org/t/p/w300/cO4py3L3q5GNPrA0qr1wVDrosK1.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16962/thumb/1770540061?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16962/thumb/1773302272?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_16972",
@@ -354,7 +354,7 @@
       "creator": "",
       "studio": "101 Studios",
       "poster": "https://image.tmdb.org/t/p/w300/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16972/thumb/1770540061?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16972/thumb/1773302272?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_16983",
@@ -375,7 +375,7 @@
       "creator": "",
       "studio": "Shaw Media",
       "poster": "https://image.tmdb.org/t/p/w300/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16983/thumb/1770540061?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16983/thumb/1773302273?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_17095",
@@ -396,7 +396,7 @@
       "creator": "",
       "studio": "Lucasfilm Ltd.",
       "poster": "https://image.tmdb.org/t/p/w300/lw4n5CBlLR62nogy46FyJaIFziH.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/17095/thumb/1770540062?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/17095/thumb/1773302273?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_16923",
@@ -417,7 +417,7 @@
       "creator": "",
       "studio": "Sean Daniel Company",
       "poster": "https://image.tmdb.org/t/p/w300/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16923/thumb/1770540060?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16923/thumb/1773302271?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_16954",
@@ -438,7 +438,7 @@
       "creator": "",
       "studio": "Hivemind",
       "poster": "https://image.tmdb.org/t/p/w300/vpfJK9F0UJNcAIIeC42oJyKMnZQ.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16954/thumb/1770540060?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16954/thumb/1773302272?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_17103",
@@ -458,8 +458,8 @@
       ],
       "creator": "",
       "studio": "101 Studios",
-      "poster": "http://192.168.68.96:32400/library/metadata/17103/thumb/1770540062?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/17103/thumb/1770540062?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "poster": "http://192.168.68.96:32400/library/metadata/17103/thumb/1773302273?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/17103/thumb/1773302273?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_17160",
@@ -480,7 +480,7 @@
       "creator": "",
       "studio": "Berlanti Productions",
       "poster": "https://image.tmdb.org/t/p/w300/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/17160/thumb/1770540062?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/17160/thumb/1773302274?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_39359",
@@ -691,6 +691,25 @@
       "plexPoster": "http://192.168.68.96:32400/library/metadata/36834/thumb/1773126800?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
+      "id": "plextv_40182",
+      "title": "The Dinosaurs",
+      "year": "2026",
+      "rating": null,
+      "summary": "Explores the evolutionary journey of dinosaurs, unraveling their origins, ecological significance, diversification, and eventual extinction.",
+      "seasons": 1,
+      "genres": [
+        "Documentary",
+        "History"
+      ],
+      "cast": [
+        "Morgan Freeman"
+      ],
+      "creator": "",
+      "studio": "Silverback Films",
+      "poster": "https://image.tmdb.org/t/p/w300/x37IK9WWhuzi7tgyMT4ff3kiT5X.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/40182/thumb/1773582526?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+    },
+    {
       "id": "plextv_33567",
       "title": "Eastbound & Down",
       "year": "2009",
@@ -731,6 +750,27 @@
       "studio": "CBS Studios",
       "poster": "https://image.tmdb.org/t/p/w300/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
       "plexPoster": "http://192.168.68.96:32400/library/metadata/33544/thumb/1771490293?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+    },
+    {
+      "id": "plextv_40426",
+      "title": "Free Bert",
+      "year": "2026",
+      "rating": null,
+      "summary": "Bert Kreischer tries to fit into Beverly Hills society when his daughters attend an elite private school.",
+      "seasons": 1,
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "cast": [
+        "Bert Kreischer",
+        "Arden Myrin",
+        "Ava Ryan"
+      ],
+      "creator": "",
+      "studio": "Counterpart Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/18jsL1sUIDL3ice67KoNkq22K6m.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/40426/thumb/1773582597?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_34829",
@@ -793,7 +833,7 @@
       "creator": "",
       "studio": "Chuck Lorre Productions",
       "poster": "https://image.tmdb.org/t/p/w300/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/38551/thumb/1770716081?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/38551/thumb/1773386345?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_34705",
@@ -836,6 +876,27 @@
       "studio": "The Mark Gordon Company",
       "poster": "https://image.tmdb.org/t/p/w300/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
       "plexPoster": "http://192.168.68.96:32400/library/metadata/37780/thumb/1771060958?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+    },
+    {
+      "id": "plextv_40294",
+      "title": "Grimm",
+      "year": "2011",
+      "rating": null,
+      "summary": "After Portland homicide detective Nick Burkhardt discovers he's descended from an elite line of criminal profilers known as \"Grimms,\" he increasingly finds his responsibilities as a detective at odds with his new responsibilities as a Grimm.",
+      "seasons": 6,
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "cast": [
+        "David Giuntoli",
+        "Silas Weir Mitchell",
+        "Russell Hornsby"
+      ],
+      "creator": "",
+      "studio": "Universal Television",
+      "poster": "https://image.tmdb.org/t/p/w300/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/40294/thumb/1773582585?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_38931",
@@ -898,7 +959,7 @@
       "creator": "",
       "studio": "Universal Television",
       "poster": "https://image.tmdb.org/t/p/w300/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/38680/thumb/1770716083?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/38680/thumb/1773386366?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_34474",
@@ -962,6 +1023,27 @@
       "studio": "Marvel Studios",
       "poster": "https://image.tmdb.org/t/p/w300/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
       "plexPoster": "http://192.168.68.96:32400/library/metadata/34442/thumb/1772096889?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+    },
+    {
+      "id": "plextv_40434",
+      "title": "Lost",
+      "year": "2004",
+      "rating": null,
+      "summary": "The past, present, and future lives of surviving Oceanic Flight 815 passengers are dramatically intertwined as a fight for survival ensues in a quest for answers after crashlanding on a mysterious island. Each discovery prompts yet more secrets, as the hastily-formed colony search for a way off the island, or is this their home?",
+      "seasons": 6,
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "cast": [
+        "Matthew Fox",
+        "Evangeline Lilly",
+        "Terry O'Quinn"
+      ],
+      "creator": "",
+      "studio": "ABC Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/40434/thumb/1773582600?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_39960",
@@ -1195,6 +1277,27 @@
       "plexPoster": "http://192.168.68.96:32400/library/metadata/38561/thumb/1773126802?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
+      "id": "plextv_40198",
+      "title": "Scarpetta",
+      "year": "2026",
+      "rating": null,
+      "summary": "Renowned forensic pathologist Dr. Kay Scarpetta returns to her position as Virginia's Chief Medical Examiner, where she investigates a haunting murder with eerie reminders from her first big case decades ago. In 1998, Scarpetta works alongside Detective Pete Marino and FBI Agent Benton Wesley as they investigate a series of brutal stranglings. Based on the best-selling novels by Patricia Cornwell.",
+      "seasons": 1,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "cast": [
+        "Nicole Kidman",
+        "Jamie Lee Curtis",
+        "Bobby Cannavale"
+      ],
+      "creator": "",
+      "studio": "Blossom Films",
+      "poster": "https://image.tmdb.org/t/p/w300/zvkcHCJUPqv7R9ukaiDNkm75jy.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/40198/thumb/1773582574?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+    },
+    {
       "id": "plextv_38566",
       "title": "Shifting Gears",
       "year": "2025",
@@ -1213,7 +1316,7 @@
       "creator": "",
       "studio": "20th Television",
       "poster": "https://image.tmdb.org/t/p/w300/tZnI8fWCtmJ9doCYSJwoJBITBiV.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/38566/thumb/1770716082?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/38566/thumb/1773386345?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_38585",
@@ -1234,7 +1337,28 @@
       "creator": "",
       "studio": "HBO",
       "poster": "https://image.tmdb.org/t/p/w300/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/38585/thumb/1770716082?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/38585/thumb/1773386346?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
+    },
+    {
+      "id": "plextv_40208",
+      "title": "Star Trek",
+      "year": "1966",
+      "rating": null,
+      "summary": "In the 23rd Century, Captain James T. Kirk and the crew of the U.S.S. Enterprise explore the galaxy and defend the United Federation of Planets.",
+      "seasons": 3,
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "cast": [
+        "William Shatner",
+        "Leonard Nimoy",
+        "DeForest Kelley"
+      ],
+      "creator": "",
+      "studio": "Desilu Productions",
+      "poster": "https://image.tmdb.org/t/p/w300/bPsxOpHVpVCX3hFz2fxnF1Vz3Dj.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/40208/thumb/1773582577?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
       "id": "plextv_38023",
