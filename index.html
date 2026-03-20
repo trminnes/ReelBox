@@ -2123,6 +2123,52 @@ async function loadTvLibrary() {
 // ════════════════════════════════════════════════
 // START
 // ════════════════════════════════════════════════
+
+// ════════════════════════════════════════════════
+// AUTO UPDATE CHECK
+// ════════════════════════════════════════════════
+async function checkForAppUpdate() {
+  try {
+    const res = await fetch('./version.json?t=' + Date.now(), { cache: 'no-store' });
+    if (!res.ok) return;
+    const { version } = await res.json();
+    const storedVersion = localStorage.getItem('reelbox_version');
+    if (storedVersion && storedVersion !== version) {
+      console.log('[ReelBox] New version detected:', version, '— clearing cache…');
+      if (navigator.serviceWorker?.controller) {
+        navigator.serviceWorker.controller.postMessage('CLEAR_CACHE');
+      }
+      if ('caches' in window) {
+        const keys = await caches.keys();
+        await Promise.all(keys.map(k => caches.delete(k)));
+      }
+      localStorage.setItem('reelbox_version', version);
+      window.location.reload(true);
+      return;
+    }
+    localStorage.setItem('reelbox_version', version);
+  } catch (err) {
+    console.log('[ReelBox] Version check failed:', err.message);
+  }
+}
+
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('./sw.js').then(reg => {
+      if (reg.waiting) reg.waiting.postMessage('SKIP_WAITING');
+      reg.addEventListener('updatefound', () => {
+        const newWorker = reg.installing;
+        newWorker.addEventListener('statechange', () => {
+          if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+            newWorker.postMessage('SKIP_WAITING');
+          }
+        });
+      });
+    });
+    checkForAppUpdate();
+  });
+}
+  
 init();
 </script>
 </body>
