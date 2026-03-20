@@ -1,5 +1,5 @@
 {
-  "synced": "2026-03-16T19:54:51.395125",
+  "synced": "2026-03-19T21:19:07.171729",
   "count": 75,
   "shows": [
     {
@@ -458,7 +458,7 @@
       ],
       "creator": "",
       "studio": "101 Studios",
-      "poster": "http://192.168.68.96:32400/library/metadata/17103/thumb/1773302273?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC",
+      "poster": "https://image.tmdb.org/t/p/w300/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
       "plexPoster": "http://192.168.68.96:32400/library/metadata/17103/thumb/1773302273?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
@@ -1522,7 +1522,7 @@
       ],
       "creator": "",
       "studio": "Offspring Films",
-      "poster": "http://192.168.68.96:32400/library/metadata/36953/thumb/1770540063?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC",
+      "poster": "https://image.tmdb.org/t/p/w300/ieU298y9GWvkETiLpcdPnlocuYu.jpg",
       "plexPoster": "http://192.168.68.96:32400/library/metadata/36953/thumb/1770540063?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
@@ -1543,7 +1543,7 @@
       ],
       "creator": "",
       "studio": "101 Studios",
-      "poster": "https://image.tmdb.org/t/p/w300/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
       "plexPoster": "http://192.168.68.96:32400/library/metadata/35236/thumb/1773046065?X-Plex-Token=cpyzzf4pT-cFDGpRsJQC"
     },
     {
