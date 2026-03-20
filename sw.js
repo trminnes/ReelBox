@@ -1,4 +1,4 @@
-jsconst CACHE_VERSION = 'reelbox-v2';
+const CACHE_VERSION = 'reelbox-v2';
 const ASSETS = [
   './',
   './index.html',
