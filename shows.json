@@ -1,484 +1,7 @@
 {
-  "synced": "2026-03-30T15:33:39.969278",
+  "synced": "2026-03-30T16:15:05.631356",
   "count": 76,
   "shows": [
-    {
-      "id": "plex_16349",
-      "title": "Andor",
-      "year": "2022",
-      "rating": null,
-      "summary": "In an era filled with danger, deception and intrigue, Cassian Andor will discover the difference he can make in the struggle against the tyrannical Galactic Empire. He embarks on a path that is destined to turn him into a rebel hero.",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "cast": [
-        "Diego Luna",
-        "Denise Gough",
-        "Stellan Skarsgård"
-      ],
-      "studio": "Lucasfilm Ltd.",
-      "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/cXHojTWjLDz3vFn8o46uAR1qjrY.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16349/thumb/1773302267?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_16405",
-      "title": "The Big Bang Theory",
-      "year": "2007",
-      "rating": null,
-      "summary": "The lives of four socially awkward scientists take a wild turn when they meet the beautiful and free-spirited Penny.",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "cast": [
-        "Johnny Galecki",
-        "Jim Parsons",
-        "Kaley Cuoco"
-      ],
-      "studio": "Chuck Lorre Productions",
-      "seasons": 12,
-      "poster": "http://192.168.68.96:32400/library/metadata/16405/thumb/1773302269?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16405/thumb/1773302269?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_16703",
-      "title": "The Book of Boba Fett",
-      "year": "2021",
-      "rating": null,
-      "summary": "After escaping from the mouth of the Sarlacc, the legendary bounty hunter Boba Fett navigates Tatooine's underworld with mercenary Fennec Shand by his side, as they stake their claim on the territory formerly ruled by the deceased crime lord Jabba the Hutt.",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "cast": [
-        "Temuera Morrison",
-        "Ming-Na Wen",
-        "Frank Trigg"
-      ],
-      "studio": "Lucasfilm Ltd.",
-      "seasons": 1,
-      "poster": "http://192.168.68.96:32400/library/metadata/16703/thumb/1773302269?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16703/thumb/1773302269?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_16712",
-      "title": "The Lord of the Rings: The Rings of Power",
-      "year": "2022",
-      "rating": null,
-      "summary": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth.",
-      "genres": [
-        "Drama",
-        "Action"
-      ],
-      "cast": [
-        "Morfydd Clark",
-        "Charlie Vickers",
-        "Robert Aramayo"
-      ],
-      "studio": "Amazon Studios",
-      "seasons": 2,
-      "poster": "https://image.tmdb.org/t/p/w300/oCGyh2JSQNW0PT5jp1QvG4QIljj.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16712/thumb/1773302269?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_16722",
-      "title": "The Mandalorian",
-      "year": "2019",
-      "rating": null,
-      "summary": "After the stories of Jango and Boba Fett, another warrior emerges in the Star Wars universe. The Mandalorian is set after the fall of the Empire and before the emergence of the First Order. We follow the travails of a lone gunfighter in the outer reaches of the galaxy far from the authority of the New Republic.",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "cast": [
-        "Pedro Pascal",
-        "Katee Sackhoff",
-        "Chris Bartlett"
-      ],
-      "studio": "Lucasfilm Ltd.",
-      "seasons": 3,
-      "poster": "http://192.168.68.96:32400/library/metadata/16722/thumb/1773302270?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16722/thumb/1773302270?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_16757",
-      "title": "The Morning Show",
-      "year": "2019",
-      "rating": null,
-      "summary": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
-      "genres": [
-        "Drama"
-      ],
-      "cast": [
-        "Jennifer Aniston",
-        "Reese Witherspoon",
-        "Billy Crudup"
-      ],
-      "studio": "Echo Films",
-      "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/b8uaual7h4z1SUe7TcJyS37GSNi.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16757/thumb/1773302270?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_16777",
-      "title": "The Outpost",
-      "year": "2018",
-      "rating": null,
-      "summary": "Talon, the lone survivor of a race called the Blackbloods, sets off to the edge of civilisation to track her family's killers. On her journey she discovers she has supernatural powers which she must learn to harness in order to achieve her goals.",
-      "genres": [
-        "Fantasy",
-        "Action"
-      ],
-      "cast": [
-        "Jessica Green",
-        "Jake Stormoen",
-        "Anand Desai-Barochia"
-      ],
-      "studio": "Electric Entertainment",
-      "seasons": 4,
-      "poster": "http://192.168.68.96:32400/library/metadata/16777/thumb/1773302270?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16777/thumb/1773302270?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_16312",
-      "title": "Parks and Recreation",
-      "year": "2009",
-      "rating": null,
-      "summary": "In an attempt to beautify her town — and advance her career — Leslie Knope, a mid-level bureaucrat in the Parks and Recreation Department of Pawnee, Indiana, takes on bureaucrats, cranky neighbors, and single-issue fanatics whose weapons are lawsuits, the jumble of city codes, and the democratic process she loves so much.",
-      "genres": [
-        "Comedy"
-      ],
-      "cast": [
-        "Amy Poehler",
-        "Aziz Ansari",
-        "Nick Offerman"
-      ],
-      "studio": "Universal Television",
-      "seasons": 1,
-      "poster": "http://192.168.68.96:32400/library/metadata/16312/thumb/1773302266?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16312/thumb/1773302266?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_16833",
-      "title": "The Ranch",
-      "year": "2016",
-      "rating": null,
-      "summary": "The Ranch is a comedy revolving around a former pro football player who returns to Colorado to help run the family ranch business. The show takes place on the fictional Iron River Ranch in Garrison, Colorado, detailing the life of the Bennetts, a dysfunctional family consisting of two brothers, their rancher father, and his separated wife and local bar owner.",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "cast": [
-        "Ashton Kutcher",
-        "Elisha Cuthbert",
-        "Sam Elliott"
-      ],
-      "studio": "Ranch Hand Productions",
-      "seasons": 4,
-      "poster": "http://192.168.68.96:32400/library/metadata/16833/thumb/1773302271?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16833/thumb/1773302271?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_16918",
-      "title": "The Righteous Gemstones",
-      "year": "2019",
-      "rating": null,
-      "summary": "Eli Gemstone runs a megachurch with his sons Jesse and Kelvin. The church has made the Gemstone family incredibly wealthy and powerful. For them the church is a business, one to be run ruthlessly and efficiently. Wealth and fame also brings its trappings and indiscretions.",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "cast": [
-        "Danny McBride",
-        "Adam Devine",
-        "Edi Patterson"
-      ],
-      "studio": "Rough House Pictures",
-      "seasons": 1,
-      "poster": "http://192.168.68.96:32400/library/metadata/16918/thumb/1773302271?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16918/thumb/1773302271?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_33365",
-      "title": "Schitt's Creek",
-      "year": "2015",
-      "rating": null,
-      "summary": "After being a victim of fraud, Johnny Rose and his family go from extremely wealthy to penniless overnight. The only asset left to them is a small, unsophisticated town: Schitt's Creek. They relocate there. Culture shock ensues.",
-      "genres": [
-        "Comedy"
-      ],
-      "cast": [
-        "Eugene Levy",
-        "Catherine O'Hara",
-        "Dan Levy"
-      ],
-      "studio": "Not A Real Company",
-      "seasons": 6,
-      "poster": "http://192.168.68.96:32400/library/metadata/33365/thumb/1774251505?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/33365/thumb/1774251505?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_16320",
-      "title": "Shadow and Bone",
-      "year": "2021",
-      "rating": null,
-      "summary": "In a world where dark forces have taken over, a young mapmaker, Alina Starkov, accidentally discovers that she has the power to change the fate of the war. She is the only one who has the power to summon light and this will make her play a key role in this war.",
-      "genres": [
-        "Fantasy",
-        "Drama"
-      ],
-      "cast": [
-        "Jessie Mei Li",
-        "Archie Renaux",
-        "Freddy Carter"
-      ],
-      "studio": "21 Laps Entertainment",
-      "seasons": 2,
-      "poster": "https://image.tmdb.org/t/p/w300/wBWpIloTXwV0JwfTzmcVv1qekgH.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16320/thumb/1773302267?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_16337",
-      "title": "Shrinking",
-      "year": "2023",
-      "rating": null,
-      "summary": "Jimmy is struggling to grieve the loss of his wife while being a dad, friend, and therapist. He decides to try a new approach with everyone in his path: unfiltered, brutal honesty. Can he help himself by helping others? Will it bring him back into the light?",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "cast": [
-        "Jason Segel",
-        "Harrison Ford",
-        "Jessica Williams"
-      ],
-      "studio": "Doozer",
-      "seasons": 1,
-      "poster": "http://192.168.68.96:32400/library/metadata/16337/thumb/1773302267?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16337/thumb/1773302267?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_20973",
-      "title": "Slow Horses",
-      "year": "2022",
-      "rating": null,
-      "summary": "A dysfunctional team of MI5 agents navigate the espionage world's smoke and mirrors to defend the UK from sinister forces.",
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "cast": [
-        "Gary Oldman",
-        "Jack Lowden",
-        "Kristin Scott Thomas"
-      ],
-      "studio": "See-Saw Films",
-      "seasons": 1,
-      "poster": "http://192.168.68.96:32400/library/metadata/20973/thumb/1773302274?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/20973/thumb/1773302274?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_16362",
-      "title": "Ted Lasso",
-      "year": "2020",
-      "rating": null,
-      "summary": "In a shock development struggling English Premier League team AFC Richmond hires American football coach Ted Lasso as its new manager. Lasso knows nothing about soccer/football. With unshakable enthusiasm and positivity he rises to the challenge but little known to him there are forces within the club that don't want him to succeed.",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "cast": [
-        "Jason Sudeikis",
-        "Hannah Waddingham",
-        "Jeremy Swift"
-      ],
-      "studio": "Doozer",
-      "seasons": 3,
-      "poster": "http://192.168.68.96:32400/library/metadata/16362/thumb/1773302268?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16362/thumb/1773302268?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_16962",
-      "title": "Tom Clancy's Jack Ryan",
-      "year": "2018",
-      "rating": null,
-      "summary": "When CIA analyst Jack Ryan stumbles upon a suspicious series of bank transfers his search for answers pulls him from the safety of his desk job and catapults him into a deadly game of cat and mouse throughout Europe and the Middle East, with a rising terrorist figurehead preparing for a massive attack against the US and her allies.",
-      "genres": [
-        "Drama",
-        "Action"
-      ],
-      "cast": [
-        "John Krasinski",
-        "Wendell Pierce",
-        "Michael Kelly"
-      ],
-      "studio": "Amazon Studios",
-      "seasons": 1,
-      "poster": "http://192.168.68.96:32400/library/metadata/16962/thumb/1773302272?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16962/thumb/1773302272?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_16972",
-      "title": "Tulsa King",
-      "year": "2022",
-      "rating": null,
-      "summary": "Follows New York Mafia capo Dwight \"The General\" Manfredi, just after he is released from prison after 25 years and unceremoniously exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family might not have his best interests in mind, Dwight slowly builds a \"crew\" from a group of unlikely characters, to help him establish a new criminal empire in a place that to him might as well be another planet.",
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "cast": [
-        "Sylvester Stallone",
-        "Martin Starr",
-        "Jay Will"
-      ],
-      "studio": "101 Studios",
-      "seasons": 1,
-      "poster": "http://192.168.68.96:32400/library/metadata/16972/thumb/1773302272?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16972/thumb/1773302272?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_16983",
-      "title": "Vikings",
-      "year": "2013",
-      "rating": null,
-      "summary": "The adventures of a Ragnar Lothbrok: the greatest hero of his age. The series tells the saga of Ragnar's band of Viking brothers and his family as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods: legend has it that he was a direct descendant of Odin, the god of war and warriors.",
-      "genres": [
-        "Drama",
-        "Action"
-      ],
-      "cast": [
-        "Katheryn Winnick",
-        "Gustaf Skarsgård",
-        "Alexander Ludwig"
-      ],
-      "studio": "Shaw Media",
-      "seasons": 6,
-      "poster": "https://image.tmdb.org/t/p/w300/8T5qNZ8sKVqTLmUeZFluCCqG752.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16983/thumb/1773302273?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_17095",
-      "title": "Willow",
-      "year": "2022",
-      "rating": null,
-      "summary": "Twenty years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
-      "genres": [
-        "Drama",
-        "Action"
-      ],
-      "cast": [
-        "Warwick Davis",
-        "Ellie Bamber",
-        "Ruby Cruz"
-      ],
-      "studio": "Lucasfilm Ltd.",
-      "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/pPmI05HxiBJ3MYUvVXTtG21u37F.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/17095/thumb/1773302273?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_16923",
-      "title": "The Witcher",
-      "year": "2019",
-      "rating": null,
-      "summary": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
-      "genres": [
-        "Drama",
-        "Action"
-      ],
-      "cast": [
-        "Anya Chalotra",
-        "Freya Allan",
-        "Eamon Farren"
-      ],
-      "studio": "Sean Daniel Company",
-      "seasons": 3,
-      "poster": "http://192.168.68.96:32400/library/metadata/16923/thumb/1773302271?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16923/thumb/1773302271?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_16954",
-      "title": "The Witcher: Blood Origin",
-      "year": "2022",
-      "rating": null,
-      "summary": "Set in an elven world 1,200 years before the world of The Witcher, Blood Origins will tell a story lost to time -- the creation of the first prototype Witcher, and the events that lead to the pivotal 'conjunction of the spheres,' when the worlds of monsters, men, and elves merged to become one.",
-      "genres": [
-        "Drama",
-        "Action"
-      ],
-      "cast": [
-        "Sophia Brown",
-        "Laurence O'Fuarain",
-        "Mirren Mack"
-      ],
-      "studio": "Hivemind",
-      "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/n7vf4BHHCglnjgBUjTUbjuUCeei.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16954/thumb/1773302272?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_17103",
-      "title": "Yellowstone (2018)",
-      "year": "2018",
-      "rating": null,
-      "summary": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park.",
-      "genres": [
-        "Drama",
-        "Western"
-      ],
-      "cast": [
-        "Luke Grimes",
-        "Kelly Reilly",
-        "Wes Bentley"
-      ],
-      "studio": "101 Studios",
-      "seasons": 5,
-      "poster": "http://192.168.68.96:32400/library/metadata/17103/thumb/1773302273?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/17103/thumb/1773302273?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_17160",
-      "title": "You",
-      "year": "2018",
-      "rating": null,
-      "summary": "A charming and intense young man inserts himself into the lives of women who fascinate him.",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "cast": [
-        "Penn Badgley",
-        "Victoria Pedretti",
-        "Charlotte Ritchie"
-      ],
-      "studio": "Berlanti Productions",
-      "seasons": 4,
-      "poster": "https://image.tmdb.org/t/p/w300/q719jXXEzOoYaps6babgKnONONX.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/17160/thumb/1773302274?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_39359",
-      "title": "8 Simple Rules",
-      "year": "2002",
-      "rating": null,
-      "summary": "Paul and Cate are raising their three children -- Bridget, Kerry and Rory -- which is no easy task. Oldest daughter Bridget is traversing the dating scene. Kerry is cute and smart, but she has a hard time getting in touch with her true feelings because of her lack of self-confidence. The youngest of the three children, and only boy, Rory is beginning to discover one of life's greatest mysteries -- girls.",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "cast": [
-        "Katey Sagal",
-        "Kaley Cuoco",
-        "Amy Davidson"
-      ],
-      "studio": "Shady Acres Entertainment",
-      "seasons": 2,
-      "poster": "http://192.168.68.96:32400/library/metadata/39359/thumb/1774601921?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/39359/thumb/1774601921?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
     {
       "id": "plex_33923",
       "title": "1883",
@@ -520,24 +43,24 @@
       "plexPoster": "http://192.168.68.96:32400/library/metadata/33913/thumb/1774251528?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_38277",
-      "title": "aka Charlie Sheen",
-      "year": "2025",
+      "id": "plex_39359",
+      "title": "8 Simple Rules",
+      "year": "2002",
       "rating": null,
-      "summary": "After 7 years sober, Charlie Sheen candidly discusses his rise to fame and public downfall, joined by family and friends who share untold stories of his journey through stardom, struggles, and redemption.",
+      "summary": "Paul and Cate are raising their three children -- Bridget, Kerry and Rory -- which is no easy task. Oldest daughter Bridget is traversing the dating scene. Kerry is cute and smart, but she has a hard time getting in touch with her true feelings because of her lack of self-confidence. The youngest of the three children, and only boy, Rory is beginning to discover one of life's greatest mysteries -- girls.",
       "genres": [
-        "Documentary",
-        "Biography"
+        "Comedy",
+        "Drama"
       ],
       "cast": [
-        "Charlie Sheen",
-        "Jon Cryer",
-        "Sean Penn"
+        "Katey Sagal",
+        "Kaley Cuoco",
+        "Amy Davidson"
       ],
-      "studio": "Atlas Independent",
-      "seasons": 1,
-      "poster": "http://192.168.68.96:32400/library/metadata/38277/thumb/1773126801?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/38277/thumb/1773126801?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "studio": "Shady Acres Entertainment",
+      "seasons": 2,
+      "poster": "http://192.168.68.96:32400/library/metadata/39359/thumb/1774601921?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/39359/thumb/1774601921?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33946",
@@ -557,6 +80,26 @@
       "seasons": 5,
       "poster": "http://192.168.68.96:32400/library/metadata/33946/thumb/1774251529?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
       "plexPoster": "http://192.168.68.96:32400/library/metadata/33946/thumb/1774251529?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_16349",
+      "title": "Andor",
+      "year": "2022",
+      "rating": null,
+      "summary": "In an era filled with danger, deception and intrigue, Cassian Andor will discover the difference he can make in the struggle against the tyrannical Galactic Empire. He embarks on a path that is destined to turn him into a rebel hero.",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Diego Luna",
+        "Denise Gough",
+        "Stellan Skarsgård"
+      ],
+      "studio": "Lucasfilm Ltd.",
+      "seasons": 1,
+      "poster": "https://image.tmdb.org/t/p/w300/cXHojTWjLDz3vFn8o46uAR1qjrY.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16349/thumb/1773302267?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33672",
@@ -656,24 +199,6 @@
       "seasons": 8,
       "poster": "http://192.168.68.96:32400/library/metadata/36834/thumb/1773126800?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
       "plexPoster": "http://192.168.68.96:32400/library/metadata/36834/thumb/1773126800?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_40182",
-      "title": "The Dinosaurs",
-      "year": "2026",
-      "rating": null,
-      "summary": "Explores the evolutionary journey of dinosaurs, unraveling their origins, ecological significance, diversification, and eventual extinction.",
-      "genres": [
-        "Documentary",
-        "History"
-      ],
-      "cast": [
-        "Morgan Freeman"
-      ],
-      "studio": "Silverback Films",
-      "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/40182/thumb/1774857523?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33567",
@@ -996,26 +521,6 @@
       "plexPoster": "http://192.168.68.96:32400/library/metadata/40434/thumb/1773582600?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_40715",
-      "title": "The Madison",
-      "year": "2026",
-      "rating": null,
-      "summary": "A New York family's life unravels after a tragedy; they process their grief while vacationing in rural Montana, where they explore human connection amid their profound sorrow.",
-      "genres": [
-        "Drama",
-        "Western"
-      ],
-      "cast": [
-        "Michelle Pfeiffer",
-        "Kurt Russell",
-        "Beau Garrett"
-      ],
-      "studio": "101 Studios",
-      "seasons": 1,
-      "poster": "http://192.168.68.96:32400/library/metadata/40715/thumb/1774829431?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/40715/thumb/1774829431?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
       "id": "plex_39960",
       "title": "Merlin",
       "year": "2008",
@@ -1176,6 +681,25 @@
       "plexPoster": "http://192.168.68.96:32400/library/metadata/35082/thumb/1772352130?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_16312",
+      "title": "Parks and Recreation",
+      "year": "2009",
+      "rating": null,
+      "summary": "In an attempt to beautify her town — and advance her career — Leslie Knope, a mid-level bureaucrat in the Parks and Recreation Department of Pawnee, Indiana, takes on bureaucrats, cranky neighbors, and single-issue fanatics whose weapons are lawsuits, the jumble of city codes, and the democratic process she loves so much.",
+      "genres": [
+        "Comedy"
+      ],
+      "cast": [
+        "Amy Poehler",
+        "Aziz Ansari",
+        "Nick Offerman"
+      ],
+      "studio": "Universal Television",
+      "seasons": 1,
+      "poster": "http://192.168.68.96:32400/library/metadata/16312/thumb/1773302266?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16312/thumb/1773302266?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_39414",
       "title": "Percy Jackson and the Olympians",
       "year": "2023",
@@ -1256,6 +780,45 @@
       "plexPoster": "http://192.168.68.96:32400/library/metadata/40198/thumb/1774765092?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_33365",
+      "title": "Schitt's Creek",
+      "year": "2015",
+      "rating": null,
+      "summary": "After being a victim of fraud, Johnny Rose and his family go from extremely wealthy to penniless overnight. The only asset left to them is a small, unsophisticated town: Schitt's Creek. They relocate there. Culture shock ensues.",
+      "genres": [
+        "Comedy"
+      ],
+      "cast": [
+        "Eugene Levy",
+        "Catherine O'Hara",
+        "Dan Levy"
+      ],
+      "studio": "Not A Real Company",
+      "seasons": 6,
+      "poster": "http://192.168.68.96:32400/library/metadata/33365/thumb/1774251505?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/33365/thumb/1774251505?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_16320",
+      "title": "Shadow and Bone",
+      "year": "2021",
+      "rating": null,
+      "summary": "In a world where dark forces have taken over, a young mapmaker, Alina Starkov, accidentally discovers that she has the power to change the fate of the war. She is the only one who has the power to summon light and this will make her play a key role in this war.",
+      "genres": [
+        "Fantasy",
+        "Drama"
+      ],
+      "cast": [
+        "Jessie Mei Li",
+        "Archie Renaux",
+        "Freddy Carter"
+      ],
+      "studio": "21 Laps Entertainment",
+      "seasons": 2,
+      "poster": "https://image.tmdb.org/t/p/w300/wBWpIloTXwV0JwfTzmcVv1qekgH.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16320/thumb/1773302267?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_38566",
       "title": "Shifting Gears",
       "year": "2025",
@@ -1276,24 +839,44 @@
       "plexPoster": "http://192.168.68.96:32400/library/metadata/38566/thumb/1773386345?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_38585",
-      "title": "The Sopranos",
-      "year": "1999",
+      "id": "plex_16337",
+      "title": "Shrinking",
+      "year": "2023",
       "rating": null,
-      "summary": "New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that affect his mental state, leading him to seek professional psychiatric counseling.",
+      "summary": "Jimmy is struggling to grieve the loss of his wife while being a dad, friend, and therapist. He decides to try a new approach with everyone in his path: unfiltered, brutal honesty. Can he help himself by helping others? Will it bring him back into the light?",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "cast": [
+        "Jason Segel",
+        "Harrison Ford",
+        "Jessica Williams"
+      ],
+      "studio": "Doozer",
+      "seasons": 1,
+      "poster": "http://192.168.68.96:32400/library/metadata/16337/thumb/1773302267?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16337/thumb/1773302267?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_20973",
+      "title": "Slow Horses",
+      "year": "2022",
+      "rating": null,
+      "summary": "A dysfunctional team of MI5 agents navigate the espionage world's smoke and mirrors to defend the UK from sinister forces.",
       "genres": [
         "Drama",
         "Crime"
       ],
       "cast": [
-        "James Gandolfini",
-        "Edie Falco",
-        "Jamie-Lynn Sigler"
+        "Gary Oldman",
+        "Jack Lowden",
+        "Kristin Scott Thomas"
       ],
-      "studio": "HBO",
-      "seasons": 6,
-      "poster": "http://192.168.68.96:32400/library/metadata/38585/thumb/1773386346?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/38585/thumb/1773386346?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "studio": "See-Saw Films",
+      "seasons": 1,
+      "poster": "http://192.168.68.96:32400/library/metadata/20973/thumb/1773302274?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/20973/thumb/1773302274?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40208",
@@ -1356,21 +939,241 @@
       "plexPoster": "http://192.168.68.96:32400/library/metadata/39228/thumb/1773126803?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_36961",
-      "title": "Underdogs",
-      "year": "2025",
+      "id": "plex_16362",
+      "title": "Ted Lasso",
+      "year": "2020",
       "rating": null,
-      "summary": "Follow the story of the heroic underdogs of the natural world – the good, the bad and the frankly ugly. From their hidden talents to their bold hygiene choices, unsavory courtship rituals, devious camouflage techniques and “tough love” parenting skills, Underdogs will celebrate and champion the unique and unpredictable behaviors of a little known and surprising cast of animal characters.",
+      "summary": "In a shock development struggling English Premier League team AFC Richmond hires American football coach Ted Lasso as its new manager. Lasso knows nothing about soccer/football. With unshakable enthusiasm and positivity he rises to the challenge but little known to him there are forces within the club that don't want him to succeed.",
       "genres": [
-        "Documentary"
+        "Comedy",
+        "Drama"
       ],
       "cast": [
-        "Ryan Reynolds"
+        "Jason Sudeikis",
+        "Hannah Waddingham",
+        "Jeremy Swift"
       ],
-      "studio": "Wildstar Films",
+      "studio": "Doozer",
+      "seasons": 3,
+      "poster": "http://192.168.68.96:32400/library/metadata/16362/thumb/1773302268?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16362/thumb/1773302268?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_16405",
+      "title": "The Big Bang Theory",
+      "year": "2007",
+      "rating": null,
+      "summary": "The lives of four socially awkward scientists take a wild turn when they meet the beautiful and free-spirited Penny.",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "cast": [
+        "Johnny Galecki",
+        "Jim Parsons",
+        "Kaley Cuoco"
+      ],
+      "studio": "Chuck Lorre Productions",
+      "seasons": 12,
+      "poster": "http://192.168.68.96:32400/library/metadata/16405/thumb/1773302269?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16405/thumb/1773302269?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_16703",
+      "title": "The Book of Boba Fett",
+      "year": "2021",
+      "rating": null,
+      "summary": "After escaping from the mouth of the Sarlacc, the legendary bounty hunter Boba Fett navigates Tatooine's underworld with mercenary Fennec Shand by his side, as they stake their claim on the territory formerly ruled by the deceased crime lord Jabba the Hutt.",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Temuera Morrison",
+        "Ming-Na Wen",
+        "Frank Trigg"
+      ],
+      "studio": "Lucasfilm Ltd.",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/sXTlI8tWGmB2CL8OQZsjMZvj1cb.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/36961/thumb/1774251530?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.96:32400/library/metadata/16703/thumb/1773302269?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16703/thumb/1773302269?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_40182",
+      "title": "The Dinosaurs",
+      "year": "2026",
+      "rating": null,
+      "summary": "Explores the evolutionary journey of dinosaurs, unraveling their origins, ecological significance, diversification, and eventual extinction.",
+      "genres": [
+        "Documentary",
+        "History"
+      ],
+      "cast": [
+        "Morgan Freeman"
+      ],
+      "studio": "Silverback Films",
+      "seasons": 1,
+      "poster": "https://image.tmdb.org/t/p/w300/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/40182/thumb/1774857523?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_16712",
+      "title": "The Lord of the Rings: The Rings of Power",
+      "year": "2022",
+      "rating": null,
+      "summary": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth.",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "cast": [
+        "Morfydd Clark",
+        "Charlie Vickers",
+        "Robert Aramayo"
+      ],
+      "studio": "Amazon Studios",
+      "seasons": 2,
+      "poster": "https://image.tmdb.org/t/p/w300/oCGyh2JSQNW0PT5jp1QvG4QIljj.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16712/thumb/1773302269?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_40715",
+      "title": "The Madison",
+      "year": "2026",
+      "rating": null,
+      "summary": "A New York family's life unravels after a tragedy; they process their grief while vacationing in rural Montana, where they explore human connection amid their profound sorrow.",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "cast": [
+        "Michelle Pfeiffer",
+        "Kurt Russell",
+        "Beau Garrett"
+      ],
+      "studio": "101 Studios",
+      "seasons": 1,
+      "poster": "http://192.168.68.96:32400/library/metadata/40715/thumb/1774829431?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/40715/thumb/1774829431?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_16722",
+      "title": "The Mandalorian",
+      "year": "2019",
+      "rating": null,
+      "summary": "After the stories of Jango and Boba Fett, another warrior emerges in the Star Wars universe. The Mandalorian is set after the fall of the Empire and before the emergence of the First Order. We follow the travails of a lone gunfighter in the outer reaches of the galaxy far from the authority of the New Republic.",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Pedro Pascal",
+        "Katee Sackhoff",
+        "Chris Bartlett"
+      ],
+      "studio": "Lucasfilm Ltd.",
+      "seasons": 3,
+      "poster": "http://192.168.68.96:32400/library/metadata/16722/thumb/1773302270?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16722/thumb/1773302270?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_16757",
+      "title": "The Morning Show",
+      "year": "2019",
+      "rating": null,
+      "summary": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the team.",
+      "genres": [
+        "Drama"
+      ],
+      "cast": [
+        "Jennifer Aniston",
+        "Reese Witherspoon",
+        "Billy Crudup"
+      ],
+      "studio": "Echo Films",
+      "seasons": 1,
+      "poster": "https://image.tmdb.org/t/p/w300/b8uaual7h4z1SUe7TcJyS37GSNi.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16757/thumb/1773302270?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_16777",
+      "title": "The Outpost",
+      "year": "2018",
+      "rating": null,
+      "summary": "Talon, the lone survivor of a race called the Blackbloods, sets off to the edge of civilisation to track her family's killers. On her journey she discovers she has supernatural powers which she must learn to harness in order to achieve her goals.",
+      "genres": [
+        "Fantasy",
+        "Action"
+      ],
+      "cast": [
+        "Jessica Green",
+        "Jake Stormoen",
+        "Anand Desai-Barochia"
+      ],
+      "studio": "Electric Entertainment",
+      "seasons": 4,
+      "poster": "http://192.168.68.96:32400/library/metadata/16777/thumb/1773302270?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16777/thumb/1773302270?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_16833",
+      "title": "The Ranch",
+      "year": "2016",
+      "rating": null,
+      "summary": "The Ranch is a comedy revolving around a former pro football player who returns to Colorado to help run the family ranch business. The show takes place on the fictional Iron River Ranch in Garrison, Colorado, detailing the life of the Bennetts, a dysfunctional family consisting of two brothers, their rancher father, and his separated wife and local bar owner.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "cast": [
+        "Ashton Kutcher",
+        "Elisha Cuthbert",
+        "Sam Elliott"
+      ],
+      "studio": "Ranch Hand Productions",
+      "seasons": 4,
+      "poster": "http://192.168.68.96:32400/library/metadata/16833/thumb/1773302271?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16833/thumb/1773302271?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_16918",
+      "title": "The Righteous Gemstones",
+      "year": "2019",
+      "rating": null,
+      "summary": "Eli Gemstone runs a megachurch with his sons Jesse and Kelvin. The church has made the Gemstone family incredibly wealthy and powerful. For them the church is a business, one to be run ruthlessly and efficiently. Wealth and fame also brings its trappings and indiscretions.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "cast": [
+        "Danny McBride",
+        "Adam Devine",
+        "Edi Patterson"
+      ],
+      "studio": "Rough House Pictures",
+      "seasons": 1,
+      "poster": "http://192.168.68.96:32400/library/metadata/16918/thumb/1773302271?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16918/thumb/1773302271?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_38585",
+      "title": "The Sopranos",
+      "year": "1999",
+      "rating": null,
+      "summary": "New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that affect his mental state, leading him to seek professional psychiatric counseling.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "cast": [
+        "James Gandolfini",
+        "Edie Falco",
+        "Jamie-Lynn Sigler"
+      ],
+      "studio": "HBO",
+      "seasons": 6,
+      "poster": "http://192.168.68.96:32400/library/metadata/38585/thumb/1773386346?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/38585/thumb/1773386346?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36967",
@@ -1391,26 +1194,6 @@
       "seasons": 1,
       "poster": "http://192.168.68.96:32400/library/metadata/36967/thumb/1774251531?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
       "plexPoster": "http://192.168.68.96:32400/library/metadata/36967/thumb/1774251531?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_38280",
-      "title": "Wednesday",
-      "year": "2022",
-      "rating": null,
-      "summary": "A sleuthing, supernaturally infused mystery charting Wednesday Addams' years as a student at Nevermore Academy. Wednesday's attempts to master her emerging psychic ability, thwart a monstrous killing spree that has terrorized the local town, and solve the supernatural mystery that embroiled her parents 25 years ago - all while navigating her new and very tangled relationships at Nevermore.",
-      "genres": [
-        "Comedy",
-        "Mystery"
-      ],
-      "cast": [
-        "Jenna Ortega",
-        "Emma Myers",
-        "Hunter Doohan"
-      ],
-      "studio": "MGM Television",
-      "seasons": 2,
-      "poster": "https://image.tmdb.org/t/p/w300/lyZtDCNtl1AlAY5h3L6RW8ZWT33.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/38280/thumb/1773126801?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39932",
@@ -1473,6 +1256,163 @@
       "plexPoster": "http://192.168.68.96:32400/library/metadata/36953/thumb/1770540063?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_16923",
+      "title": "The Witcher",
+      "year": "2019",
+      "rating": null,
+      "summary": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "cast": [
+        "Anya Chalotra",
+        "Freya Allan",
+        "Eamon Farren"
+      ],
+      "studio": "Sean Daniel Company",
+      "seasons": 3,
+      "poster": "http://192.168.68.96:32400/library/metadata/16923/thumb/1773302271?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16923/thumb/1773302271?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_16954",
+      "title": "The Witcher: Blood Origin",
+      "year": "2022",
+      "rating": null,
+      "summary": "Set in an elven world 1,200 years before the world of The Witcher, Blood Origins will tell a story lost to time -- the creation of the first prototype Witcher, and the events that lead to the pivotal 'conjunction of the spheres,' when the worlds of monsters, men, and elves merged to become one.",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "cast": [
+        "Sophia Brown",
+        "Laurence O'Fuarain",
+        "Mirren Mack"
+      ],
+      "studio": "Hivemind",
+      "seasons": 1,
+      "poster": "https://image.tmdb.org/t/p/w300/n7vf4BHHCglnjgBUjTUbjuUCeei.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16954/thumb/1773302272?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_16962",
+      "title": "Tom Clancy's Jack Ryan",
+      "year": "2018",
+      "rating": null,
+      "summary": "When CIA analyst Jack Ryan stumbles upon a suspicious series of bank transfers his search for answers pulls him from the safety of his desk job and catapults him into a deadly game of cat and mouse throughout Europe and the Middle East, with a rising terrorist figurehead preparing for a massive attack against the US and her allies.",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "cast": [
+        "John Krasinski",
+        "Wendell Pierce",
+        "Michael Kelly"
+      ],
+      "studio": "Amazon Studios",
+      "seasons": 1,
+      "poster": "http://192.168.68.96:32400/library/metadata/16962/thumb/1773302272?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16962/thumb/1773302272?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_16972",
+      "title": "Tulsa King",
+      "year": "2022",
+      "rating": null,
+      "summary": "Follows New York Mafia capo Dwight \"The General\" Manfredi, just after he is released from prison after 25 years and unceremoniously exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family might not have his best interests in mind, Dwight slowly builds a \"crew\" from a group of unlikely characters, to help him establish a new criminal empire in a place that to him might as well be another planet.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "cast": [
+        "Sylvester Stallone",
+        "Martin Starr",
+        "Jay Will"
+      ],
+      "studio": "101 Studios",
+      "seasons": 1,
+      "poster": "http://192.168.68.96:32400/library/metadata/16972/thumb/1773302272?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16972/thumb/1773302272?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_36961",
+      "title": "Underdogs",
+      "year": "2025",
+      "rating": null,
+      "summary": "Follow the story of the heroic underdogs of the natural world – the good, the bad and the frankly ugly. From their hidden talents to their bold hygiene choices, unsavory courtship rituals, devious camouflage techniques and “tough love” parenting skills, Underdogs will celebrate and champion the unique and unpredictable behaviors of a little known and surprising cast of animal characters.",
+      "genres": [
+        "Documentary"
+      ],
+      "cast": [
+        "Ryan Reynolds"
+      ],
+      "studio": "Wildstar Films",
+      "seasons": 1,
+      "poster": "https://image.tmdb.org/t/p/w300/sXTlI8tWGmB2CL8OQZsjMZvj1cb.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/36961/thumb/1774251530?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_16983",
+      "title": "Vikings",
+      "year": "2013",
+      "rating": null,
+      "summary": "The adventures of a Ragnar Lothbrok: the greatest hero of his age. The series tells the saga of Ragnar's band of Viking brothers and his family as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods: legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "cast": [
+        "Katheryn Winnick",
+        "Gustaf Skarsgård",
+        "Alexander Ludwig"
+      ],
+      "studio": "Shaw Media",
+      "seasons": 6,
+      "poster": "https://image.tmdb.org/t/p/w300/8T5qNZ8sKVqTLmUeZFluCCqG752.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/16983/thumb/1773302273?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_38280",
+      "title": "Wednesday",
+      "year": "2022",
+      "rating": null,
+      "summary": "A sleuthing, supernaturally infused mystery charting Wednesday Addams' years as a student at Nevermore Academy. Wednesday's attempts to master her emerging psychic ability, thwart a monstrous killing spree that has terrorized the local town, and solve the supernatural mystery that embroiled her parents 25 years ago - all while navigating her new and very tangled relationships at Nevermore.",
+      "genres": [
+        "Comedy",
+        "Mystery"
+      ],
+      "cast": [
+        "Jenna Ortega",
+        "Emma Myers",
+        "Hunter Doohan"
+      ],
+      "studio": "MGM Television",
+      "seasons": 2,
+      "poster": "https://image.tmdb.org/t/p/w300/lyZtDCNtl1AlAY5h3L6RW8ZWT33.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/38280/thumb/1773126801?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_17095",
+      "title": "Willow",
+      "year": "2022",
+      "rating": null,
+      "summary": "Twenty years after vanquishing the wicked queen Bavmorda, the sorcerer Willow Ufgood leads a group of misfits on a dangerous rescue mission into the unknown.",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "cast": [
+        "Warwick Davis",
+        "Ellie Bamber",
+        "Ruby Cruz"
+      ],
+      "studio": "Lucasfilm Ltd.",
+      "seasons": 1,
+      "poster": "https://image.tmdb.org/t/p/w300/pPmI05HxiBJ3MYUvVXTtG21u37F.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/17095/thumb/1773302273?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_35236",
       "title": "Yellowstone",
       "year": "2018",
@@ -1493,6 +1433,46 @@
       "plexPoster": "http://192.168.68.96:32400/library/metadata/35236/thumb/1773046065?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_17103",
+      "title": "Yellowstone (2018)",
+      "year": "2018",
+      "rating": null,
+      "summary": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park.",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "cast": [
+        "Luke Grimes",
+        "Kelly Reilly",
+        "Wes Bentley"
+      ],
+      "studio": "101 Studios",
+      "seasons": 5,
+      "poster": "http://192.168.68.96:32400/library/metadata/17103/thumb/1773302273?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/17103/thumb/1773302273?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_17160",
+      "title": "You",
+      "year": "2018",
+      "rating": null,
+      "summary": "A charming and intense young man inserts himself into the lives of women who fascinate him.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "cast": [
+        "Penn Badgley",
+        "Victoria Pedretti",
+        "Charlotte Ritchie"
+      ],
+      "studio": "Berlanti Productions",
+      "seasons": 4,
+      "poster": "https://image.tmdb.org/t/p/w300/q719jXXEzOoYaps6babgKnONONX.jpg",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/17160/thumb/1773302274?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_39068",
       "title": "Young Sheldon",
       "year": "2017",
@@ -1511,6 +1491,26 @@
       "seasons": 7,
       "poster": "http://192.168.68.96:32400/library/metadata/39068/thumb/1773126803?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
       "plexPoster": "http://192.168.68.96:32400/library/metadata/39068/thumb/1773126803?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_38277",
+      "title": "aka Charlie Sheen",
+      "year": "2025",
+      "rating": null,
+      "summary": "After 7 years sober, Charlie Sheen candidly discusses his rise to fame and public downfall, joined by family and friends who share untold stories of his journey through stardom, struggles, and redemption.",
+      "genres": [
+        "Documentary",
+        "Biography"
+      ],
+      "cast": [
+        "Charlie Sheen",
+        "Jon Cryer",
+        "Sean Penn"
+      ],
+      "studio": "Atlas Independent",
+      "seasons": 1,
+      "poster": "http://192.168.68.96:32400/library/metadata/38277/thumb/1773126801?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/38277/thumb/1773126801?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     }
   ]
 }
