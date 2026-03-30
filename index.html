@@ -843,8 +843,41 @@ function showSyncIndicator(msg) {
   setTimeout(() => { el.style.opacity = '0'; }, 3000);
 }
 
-// ════════════════════════════════════════════════
-// DEMO DATA
+// ── GitHub push helpers for movies.json and shows.json ─────────
+const GH_MOVIES_API = `https://api.github.com/repos/${GH_REPO}/contents/movies.json`;
+const GH_SHOWS_API  = `https://api.github.com/repos/${GH_REPO}/contents/shows.json`;
+
+async function pushToGitHub(apiUrl, list, label, statusEl) {
+  const ghToken = getGhToken();
+  if (!ghToken) { console.warn(`push ${label}: no GitHub token`); return; }
+  try {
+    if (statusEl) showStatus(statusEl, 'info', `⏳ Pushing ${label} to GitHub…`);
+    showSyncIndicator(`↑ Pushing ${label}…`);
+    let sha = null;
+    try {
+      const check = await fetch(apiUrl, { headers: { Authorization: `token ${ghToken}` } });
+      if (check.ok) { const d = await check.json(); sha = d.sha; }
+    } catch(e) {}
+    const content = btoa(unescape(encodeURIComponent(JSON.stringify(list, null, 2))));
+    const body = { message: `ReelBox: Plex ${label} sync`, content };
+    if (sha) body.sha = sha;
+    const res = await fetch(apiUrl, {
+      method: 'PUT',
+      headers: { Authorization: `token ${ghToken}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify(body)
+    });
+    if (res.ok) {
+      showSyncIndicator(`✓ ${label} synced`);
+      if (statusEl) showStatus(statusEl, 'success', `✅ ${list.length} ${label} pushed to GitHub!`);
+    } else {
+      showSyncIndicator('⚠ GitHub push failed');
+      if (statusEl) showStatus(statusEl, 'error', `GitHub push failed (${res.status}) — check token has repo scope.`);
+    }
+  } catch(e) { showSyncIndicator('⚠ Offline'); }
+}
+
+function pushMoviesJson(movieList, statusEl) { return pushToGitHub(GH_MOVIES_API, movieList, 'movies', statusEl); }
+function pushShowsJson(showList,  statusEl) { return pushToGitHub(GH_SHOWS_API,  showList,  'TV shows', statusEl); }
 // ════════════════════════════════════════════════
 const DEMO_MOVIES = [
   { id:'d1', title:'Inception', year:2010, rating:8.8, genres:['Sci-Fi','Thriller'], summary:'A thief who steals corporate secrets through dream-sharing technology is given the task of planting an idea into the mind of a CEO.', director:'Christopher Nolan', cast:['Leonardo DiCaprio','Joseph Gordon-Levitt','Elliot Page','Tom Hardy'], poster:'https://image.tmdb.org/t/p/w300/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg', duration:148 },
@@ -1286,37 +1319,83 @@ async function connectPlex() {
     const libRes = await plexFetch(url, '/library/sections', token);
     if (!libRes.ok) throw new Error(`HTTP ${libRes.status} — check your token`);
     const libData = await parsePlexResponse(libRes);
-    const sections = (libData?.MediaContainer?.Directory||[]).filter(s=>s.type==='movie');
+    const allSections   = libData?.MediaContainer?.Directory || [];
+    const movieSections = allSections.filter(s => s.type === 'movie');
+    const tvSections    = allSections.filter(s => s.type === 'show');
 
-    if (!sections.length) { showStatus(status,'error','No movie libraries found on this server.'); return; }
-
-    showStatus(status,'info',`⏳ Found ${sections.length} movie librar${sections.length>1?'ies':'y'} — loading…`);
-    let allMovies = [];
-    for (const sec of sections) {
-      const r = await plexFetch(url, `/library/sections/${sec.key}/all`, token);
-      const d = await parsePlexResponse(r);
-      for (const item of (d?.MediaContainer?.Metadata||[])) {
-        allMovies.push({
-          id: 'plex_' + item.ratingKey,
-          title: item.title, year: item.year,
-          rating: item.rating ? parseFloat(item.rating).toFixed(1) : null,
-          summary: item.summary, tagline: item.tagline,
-          duration: item.duration ? Math.round(item.duration/60000) : null,
-          genres: (item.Genre||[]).map(g=>g.tag),
-          cast: (item.Role||[]).slice(0,8).map(r=>r.tag),
-          director: (item.Director||[]).map(d=>d.tag).join(', '),
-          studio: item.studio || '',
-          poster: item.thumb ? `${url}${item.thumb}?X-Plex-Token=${token}` : null,
-        });
-      }
+    if (!movieSections.length && !tvSections.length) {
+      showStatus(status,'error','No movie or TV libraries found on this server.'); return;
     }
-    movies = allMovies;
-    localStorage.setItem('plexMovies', JSON.stringify(movies));
-    localStorage.setItem('plexUrl', url);
-    localStorage.setItem('plexToken', token);
-    document.getElementById('demoBanner').style.display = 'none';
-    renderMovies(); updateStats();
-    showStatus(status,'success',`✅ Synced ${movies.length} movies from Plex!`);
+
+    // ── Sync Movies ──────────────────────────────────────────────
+    if (movieSections.length) {
+      showStatus(status,'info',`⏳ Loading ${movieSections.length} movie librar${movieSections.length>1?'ies':'y'}…`);
+      let allMovies = [];
+      for (const sec of movieSections) {
+        const r = await plexFetch(url, `/library/sections/${sec.key}/all`, token);
+        const d = await parsePlexResponse(r);
+        for (const item of (d?.MediaContainer?.Metadata||[])) {
+          allMovies.push({
+            id: 'plex_' + item.ratingKey,
+            title: item.title, year: item.year,
+            rating: item.rating ? parseFloat(item.rating).toFixed(1) : null,
+            summary: item.summary, tagline: item.tagline,
+            duration: item.duration ? Math.round(item.duration/60000) : null,
+            genres: (item.Genre||[]).map(g=>g.tag),
+            cast: (item.Role||[]).slice(0,8).map(r=>r.tag),
+            director: (item.Director||[]).map(d=>d.tag).join(', '),
+            studio: item.studio || '',
+            poster: item.thumb ? `${url}${item.thumb}?X-Plex-Token=${token}` : null,
+          });
+        }
+      }
+      movies = allMovies;
+      localStorage.setItem('plexMovies', JSON.stringify(movies));
+      localStorage.setItem('plexUrl', url);
+      localStorage.setItem('plexToken', token);
+      document.getElementById('demoBanner').style.display = 'none';
+      renderMovies(); updateStats();
+      await pushMoviesJson(movies, status);
+    }
+
+    // ── Sync TV Shows ────────────────────────────────────────────
+    if (tvSections.length) {
+      showStatus(status,'info',`⏳ Loading ${tvSections.length} TV librar${tvSections.length>1?'ies':'y'}…`);
+      let allShows = [];
+      for (const sec of tvSections) {
+        const r = await plexFetch(url, `/library/sections/${sec.key}/all`, token);
+        const d = await parsePlexResponse(r);
+        for (const item of (d?.MediaContainer?.Metadata||[])) {
+          allShows.push({
+            id: 'plex_' + item.ratingKey,
+            title: item.title, year: item.year,
+            rating: item.rating ? parseFloat(item.rating).toFixed(1) : null,
+            summary: item.summary,
+            genres: (item.Genre||[]).map(g=>g.tag),
+            cast: (item.Role||[]).slice(0,8).map(r=>r.tag),
+            studio: item.studio || '',
+            seasons: item.childCount ? parseInt(item.childCount) : null,
+            poster: item.thumb ? `${url}${item.thumb}?X-Plex-Token=${token}` : null,
+          });
+        }
+      }
+      // Deduplicate: by id first, then by title — prefer entries with a poster
+      const byId = {};
+      for (const s of allShows) {
+        if (!byId[s.id] || (s.poster && !byId[s.id].poster)) byId[s.id] = s;
+      }
+      const byTitle = {};
+      for (const s of Object.values(byId)) {
+        const key = s.title.toLowerCase().trim();
+        if (!byTitle[key] || (s.poster && !byTitle[key].poster)) byTitle[key] = s;
+      }
+      tvShows = Object.values(byTitle).sort((a,b) => a.title.localeCompare(b.title));
+      localStorage.setItem('plexShows', JSON.stringify(tvShows));
+      const tvBanner = document.getElementById('tvDemoBanner');
+      if (tvBanner) tvBanner.style.display = 'none';
+      renderTV(); updateTvStats();
+      await pushShowsJson(tvShows, status);
+    }
   } catch(err) {
     let hint = '';
     if (err.message.includes('Failed to fetch')||err.message.includes('NetworkError')||err.message.includes('CORS')||err.message.toLowerCase().includes('blocked')) {
@@ -2123,52 +2202,6 @@ async function loadTvLibrary() {
 // ════════════════════════════════════════════════
 // START
 // ════════════════════════════════════════════════
-
-// ════════════════════════════════════════════════
-// AUTO UPDATE CHECK
-// ════════════════════════════════════════════════
-async function checkForAppUpdate() {
-  try {
-    const res = await fetch('./version.json?t=' + Date.now(), { cache: 'no-store' });
-    if (!res.ok) return;
-    const { version } = await res.json();
-    const storedVersion = localStorage.getItem('reelbox_version');
-    if (storedVersion && storedVersion !== version) {
-      console.log('[ReelBox] New version detected:', version, '— clearing cache…');
-      if (navigator.serviceWorker?.controller) {
-        navigator.serviceWorker.controller.postMessage('CLEAR_CACHE');
-      }
-      if ('caches' in window) {
-        const keys = await caches.keys();
-        await Promise.all(keys.map(k => caches.delete(k)));
-      }
-      localStorage.setItem('reelbox_version', version);
-      window.location.reload(true);
-      return;
-    }
-    localStorage.setItem('reelbox_version', version);
-  } catch (err) {
-    console.log('[ReelBox] Version check failed:', err.message);
-  }
-}
-
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => {
-    navigator.serviceWorker.register('./sw.js').then(reg => {
-      if (reg.waiting) reg.waiting.postMessage('SKIP_WAITING');
-      reg.addEventListener('updatefound', () => {
-        const newWorker = reg.installing;
-        newWorker.addEventListener('statechange', () => {
-          if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
-            newWorker.postMessage('SKIP_WAITING');
-          }
-        });
-      });
-    });
-    checkForAppUpdate();
-  });
-}
-  
 init();
 </script>
 </body>
