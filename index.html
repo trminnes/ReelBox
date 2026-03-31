@@ -939,23 +939,11 @@ function init() {
     const saved = localStorage.getItem('plexMovies');
     const cached = saved ? JSON.parse(saved) : null;
 
-    if (fromJson && cached) {
-      // Merge: keep all cached movies, then add any new ones from movies.json
-      const cachedIds = new Set(cached.map(m => m.id));
-      const newMovies = fromJson.filter(m => !cachedIds.has(m.id));
-      if (newMovies.length) {
-        console.log(`ReelBox: merging ${newMovies.length} new movies from movies.json`);
-        movies = [...cached, ...newMovies];
-        localStorage.setItem('plexMovies', JSON.stringify(movies));
-      } else {
-        movies = cached;
-      }
-      document.getElementById('demoBanner').style.display = 'none';
-    } else if (fromJson) {
+    if (fromJson) {
+      // Always use movies.json as the source of truth — replaces stale localStorage
       movies = fromJson;
       localStorage.setItem('plexMovies', JSON.stringify(movies));
       document.getElementById('demoBanner').style.display = 'none';
-      console.log(`ReelBox: loaded ${movies.length} movies from movies.json`);
     } else if (cached) {
       movies = cached;
       document.getElementById('demoBanner').style.display = 'none';
@@ -2159,13 +2147,8 @@ async function loadTvLibrary() {
   const saved  = localStorage.getItem('plexShows');
   const cached = saved ? JSON.parse(saved) : null;
 
-  if (fromJson && cached) {
-    const cachedIds = new Set(cached.map(s => s.id));
-    const newShows  = fromJson.filter(s => !cachedIds.has(s.id));
-    tvShows = newShows.length ? [...cached, ...newShows] : cached;
-    if (newShows.length) localStorage.setItem('plexShows', JSON.stringify(tvShows));
-    const b = document.getElementById('tvDemoBanner'); if(b) b.style.display='none';
-  } else if (fromJson) {
+  if (fromJson) {
+    // Always use shows.json as the source of truth — replaces stale localStorage
     tvShows = fromJson;
     localStorage.setItem('plexShows', JSON.stringify(tvShows));
     const b = document.getElementById('tvDemoBanner'); if(b) b.style.display='none';
