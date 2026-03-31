@@ -1,6 +1,6 @@
 {
-  "synced": "2026-03-30T17:18:43.616883",
-  "count": 76,
+  "synced": "2026-03-31T07:30:35.921052",
+  "count": 75,
   "shows": [
     {
       "id": "plex_33923",
@@ -82,7 +82,7 @@
       "plexPoster": "http://192.168.68.96:32400/library/metadata/33946/thumb/1774251529?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_16349",
+      "id": "plex_36024",
       "title": "Andor",
       "year": "2022",
       "rating": null,
@@ -97,9 +97,9 @@
         "Stellan Skarsgård"
       ],
       "studio": "Lucasfilm Ltd.",
-      "seasons": 1,
+      "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/cXHojTWjLDz3vFn8o46uAR1qjrY.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16349/thumb/1773302267?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/36024/thumb/1773126799?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33672",
@@ -677,11 +677,11 @@
       ],
       "studio": "Tall Ship Productions",
       "seasons": 7,
-      "poster": "http://192.168.68.96:32400/library/metadata/35082/thumb/1772352130?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/35082/thumb/1772352130?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.96:32400/library/metadata/35082/thumb/1774946821?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/35082/thumb/1774946821?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_16312",
+      "id": "plex_35619",
       "title": "Parks and Recreation",
       "year": "2009",
       "rating": null,
@@ -696,8 +696,8 @@
       ],
       "studio": "Universal Television",
       "seasons": 1,
-      "poster": "http://192.168.68.96:32400/library/metadata/16312/thumb/1773302266?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16312/thumb/1773302266?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.96:32400/library/metadata/35619/thumb/1773126797?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/35619/thumb/1773126797?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39414",
@@ -776,11 +776,11 @@
       ],
       "studio": "Blossom Films",
       "seasons": 1,
-      "poster": "http://192.168.68.96:32400/library/metadata/40198/thumb/1774765092?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/40198/thumb/1774765092?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.96:32400/library/metadata/40198/thumb/1774946821?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/40198/thumb/1774946821?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_33365",
+      "id": "plex_35079",
       "title": "Schitt's Creek",
       "year": "2015",
       "rating": null,
@@ -795,11 +795,11 @@
       ],
       "studio": "Not A Real Company",
       "seasons": 6,
-      "poster": "http://192.168.68.96:32400/library/metadata/33365/thumb/1774251505?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/33365/thumb/1774251505?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.96:32400/library/metadata/35079/thumb/1774946820?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/35079/thumb/1774946820?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_16320",
+      "id": "plex_36057",
       "title": "Shadow and Bone",
       "year": "2021",
       "rating": null,
@@ -816,7 +816,7 @@
       "studio": "21 Laps Entertainment",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/wBWpIloTXwV0JwfTzmcVv1qekgH.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16320/thumb/1773302267?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/36057/thumb/1773126800?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38566",
@@ -839,7 +839,7 @@
       "plexPoster": "http://192.168.68.96:32400/library/metadata/38566/thumb/1773386345?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_16337",
+      "id": "plex_36045",
       "title": "Shrinking",
       "year": "2023",
       "rating": null,
@@ -854,12 +854,12 @@
         "Jessica Williams"
       ],
       "studio": "Doozer",
-      "seasons": 1,
-      "poster": "http://192.168.68.96:32400/library/metadata/16337/thumb/1773302267?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16337/thumb/1773302267?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "seasons": 2,
+      "poster": "http://192.168.68.96:32400/library/metadata/36045/thumb/1773126800?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/36045/thumb/1773126800?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_20973",
+      "id": "plex_36037",
       "title": "Slow Horses",
       "year": "2022",
       "rating": null,
@@ -875,8 +875,8 @@
       ],
       "studio": "See-Saw Films",
       "seasons": 1,
-      "poster": "http://192.168.68.96:32400/library/metadata/20973/thumb/1773302274?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/20973/thumb/1773302274?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.96:32400/library/metadata/36037/thumb/1773126799?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/36037/thumb/1773126799?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40208",
@@ -939,7 +939,7 @@
       "plexPoster": "http://192.168.68.96:32400/library/metadata/39228/thumb/1773126803?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_16362",
+      "id": "plex_35983",
       "title": "Ted Lasso",
       "year": "2020",
       "rating": null,
@@ -955,11 +955,11 @@
       ],
       "studio": "Doozer",
       "seasons": 3,
-      "poster": "http://192.168.68.96:32400/library/metadata/16362/thumb/1773302268?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16362/thumb/1773302268?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.96:32400/library/metadata/35983/thumb/1773126799?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/35983/thumb/1773126799?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_16405",
+      "id": "plex_35678",
       "title": "The Big Bang Theory",
       "year": "2007",
       "rating": null,
@@ -975,11 +975,11 @@
       ],
       "studio": "Chuck Lorre Productions",
       "seasons": 12,
-      "poster": "http://192.168.68.96:32400/library/metadata/16405/thumb/1773302269?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16405/thumb/1773302269?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.96:32400/library/metadata/35678/thumb/1773126798?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/35678/thumb/1773126798?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_16703",
+      "id": "plex_35669",
       "title": "The Book of Boba Fett",
       "year": "2021",
       "rating": null,
@@ -995,8 +995,8 @@
       ],
       "studio": "Lucasfilm Ltd.",
       "seasons": 1,
-      "poster": "http://192.168.68.96:32400/library/metadata/16703/thumb/1773302269?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16703/thumb/1773302269?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.96:32400/library/metadata/35669/thumb/1773126798?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/35669/thumb/1773126798?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40182",
@@ -1014,10 +1014,10 @@
       "studio": "Silverback Films",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/40182/thumb/1774857523?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/40182/thumb/1774946821?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_16712",
+      "id": "plex_35655",
       "title": "The Lord of the Rings: The Rings of Power",
       "year": "2022",
       "rating": null,
@@ -1034,7 +1034,7 @@
       "studio": "Amazon Studios",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/oCGyh2JSQNW0PT5jp1QvG4QIljj.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16712/thumb/1773302269?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/35655/thumb/1773126797?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40715",
@@ -1057,7 +1057,7 @@
       "plexPoster": "http://192.168.68.96:32400/library/metadata/40715/thumb/1774829431?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_16722",
+      "id": "plex_35627",
       "title": "The Mandalorian",
       "year": "2019",
       "rating": null,
@@ -1073,11 +1073,11 @@
       ],
       "studio": "Lucasfilm Ltd.",
       "seasons": 3,
-      "poster": "http://192.168.68.96:32400/library/metadata/16722/thumb/1773302270?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16722/thumb/1773302270?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.96:32400/library/metadata/35627/thumb/1773126797?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/35627/thumb/1773126797?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_16757",
+      "id": "plex_35176",
       "title": "The Morning Show",
       "year": "2019",
       "rating": null,
@@ -1091,12 +1091,12 @@
         "Billy Crudup"
       ],
       "studio": "Echo Films",
-      "seasons": 1,
+      "seasons": 3,
       "poster": "https://image.tmdb.org/t/p/w300/b8uaual7h4z1SUe7TcJyS37GSNi.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16757/thumb/1773302270?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/35176/thumb/1773046064?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_16777",
+      "id": "plex_35566",
       "title": "The Outpost",
       "year": "2018",
       "rating": null,
@@ -1112,11 +1112,11 @@
       ],
       "studio": "Electric Entertainment",
       "seasons": 4,
-      "poster": "http://192.168.68.96:32400/library/metadata/16777/thumb/1773302270?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16777/thumb/1773302270?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.96:32400/library/metadata/35566/thumb/1773126796?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/35566/thumb/1773126796?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_16833",
+      "id": "plex_35478",
       "title": "The Ranch",
       "year": "2016",
       "rating": null,
@@ -1132,11 +1132,11 @@
       ],
       "studio": "Ranch Hand Productions",
       "seasons": 4,
-      "poster": "http://192.168.68.96:32400/library/metadata/16833/thumb/1773302271?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16833/thumb/1773302271?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.96:32400/library/metadata/35478/thumb/1773126796?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/35478/thumb/1773126796?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_16918",
+      "id": "plex_35473",
       "title": "The Righteous Gemstones",
       "year": "2019",
       "rating": null,
@@ -1152,8 +1152,8 @@
       ],
       "studio": "Rough House Pictures",
       "seasons": 1,
-      "poster": "http://192.168.68.96:32400/library/metadata/16918/thumb/1773302271?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16918/thumb/1773302271?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.96:32400/library/metadata/35473/thumb/1773126796?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/35473/thumb/1773126796?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38585",
@@ -1256,7 +1256,7 @@
       "plexPoster": "http://192.168.68.96:32400/library/metadata/36953/thumb/1770540063?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_16923",
+      "id": "plex_35436",
       "title": "The Witcher",
       "year": "2019",
       "rating": null,
@@ -1271,12 +1271,12 @@
         "Eamon Farren"
       ],
       "studio": "Sean Daniel Company",
-      "seasons": 3,
-      "poster": "http://192.168.68.96:32400/library/metadata/16923/thumb/1773302271?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16923/thumb/1773302271?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "seasons": 4,
+      "poster": "http://192.168.68.96:32400/library/metadata/35436/thumb/1773046085?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/35436/thumb/1773046085?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_16954",
+      "id": "plex_35422",
       "title": "The Witcher: Blood Origin",
       "year": "2022",
       "rating": null,
@@ -1293,10 +1293,10 @@
       "studio": "Hivemind",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/n7vf4BHHCglnjgBUjTUbjuUCeei.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16954/thumb/1773302272?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/35422/thumb/1773046084?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_16962",
+      "id": "plex_35412",
       "title": "Tom Clancy's Jack Ryan",
       "year": "2018",
       "rating": null,
@@ -1312,11 +1312,11 @@
       ],
       "studio": "Amazon Studios",
       "seasons": 1,
-      "poster": "http://192.168.68.96:32400/library/metadata/16962/thumb/1773302272?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16962/thumb/1773302272?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.96:32400/library/metadata/35412/thumb/1773046066?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/35412/thumb/1773046066?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_16972",
+      "id": "plex_35401",
       "title": "Tulsa King",
       "year": "2022",
       "rating": null,
@@ -1332,8 +1332,8 @@
       ],
       "studio": "101 Studios",
       "seasons": 1,
-      "poster": "http://192.168.68.96:32400/library/metadata/16972/thumb/1773302272?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16972/thumb/1773302272?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.96:32400/library/metadata/35401/thumb/1773046066?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/35401/thumb/1773046066?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36961",
@@ -1353,7 +1353,7 @@
       "plexPoster": "http://192.168.68.96:32400/library/metadata/36961/thumb/1774251530?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_16983",
+      "id": "plex_35300",
       "title": "Vikings",
       "year": "2013",
       "rating": null,
@@ -1370,7 +1370,7 @@
       "studio": "Shaw Media",
       "seasons": 6,
       "poster": "https://image.tmdb.org/t/p/w300/8T5qNZ8sKVqTLmUeZFluCCqG752.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/16983/thumb/1773302273?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/35300/thumb/1773046065?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38280",
@@ -1393,7 +1393,7 @@
       "plexPoster": "http://192.168.68.96:32400/library/metadata/38280/thumb/1773126801?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_17095",
+      "id": "plex_35292",
       "title": "Willow",
       "year": "2022",
       "rating": null,
@@ -1410,7 +1410,7 @@
       "studio": "Lucasfilm Ltd.",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/pPmI05HxiBJ3MYUvVXTtG21u37F.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/17095/thumb/1773302273?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/35292/thumb/1773046065?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35236",
@@ -1433,27 +1433,7 @@
       "plexPoster": "http://192.168.68.96:32400/library/metadata/35236/thumb/1773046065?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_17103",
-      "title": "Yellowstone (2018)",
-      "year": "2018",
-      "rating": null,
-      "summary": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park.",
-      "genres": [
-        "Drama",
-        "Western"
-      ],
-      "cast": [
-        "Luke Grimes",
-        "Kelly Reilly",
-        "Wes Bentley"
-      ],
-      "studio": "101 Studios",
-      "seasons": 5,
-      "poster": "http://192.168.68.96:32400/library/metadata/17103/thumb/1773302273?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/17103/thumb/1773302273?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_17160",
+      "id": "plex_35188",
       "title": "You",
       "year": "2018",
       "rating": null,
@@ -1468,9 +1448,9 @@
         "Charlotte Ritchie"
       ],
       "studio": "Berlanti Productions",
-      "seasons": 4,
+      "seasons": 5,
       "poster": "https://image.tmdb.org/t/p/w300/q719jXXEzOoYaps6babgKnONONX.jpg",
-      "plexPoster": "http://192.168.68.96:32400/library/metadata/17160/thumb/1773302274?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.96:32400/library/metadata/35188/thumb/1773046064?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39068",
