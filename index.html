@@ -520,7 +520,7 @@
 </head>
 <body>
 <div id="update-banner">
-  <span class="ub-msg">🔄 Skywatcher updated! Reload for the latest version.</span>
+  <span class="ub-msg">🔄 ReelBox updated! Reload for the latest version.</span>
   <button class="ub-reload" onclick="window.location.href = window.location.href.split('?')[0] + '?v=' + Date.now()">Reload Now</button>
   <button class="ub-dismiss" onclick="document.getElementById('update-banner').classList.remove('show')" title="Dismiss">✕</button>
 </div>
@@ -757,9 +757,9 @@
 // Format: YYYY-MM-DD.N
 const APP_VERSION = '2026-04-01.1';
 (function() {
-  const stored = localStorage.getItem('skywatcher_version');
+  const stored = localStorage.getItem('ReelBox_version');
   if (stored && stored !== APP_VERSION) { window._showUpdateBanner = true; }
-  localStorage.setItem('skywatcher_version', APP_VERSION);
+  localStorage.setItem('ReelBox_version', APP_VERSION);
 })();
 
 // ════════════════════════════════════════════════
