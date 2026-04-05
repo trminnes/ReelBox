@@ -140,7 +140,8 @@
     "tmdb_1171145": "want",
     "tmdb_1305781": "want",
     "plex_5614": "watched",
-    "plex_1592": "want"
+    "plex_1592": "want",
+    "plex_20451": "want"
   },
   "myRatings": {
     "plex_1576": 4,
@@ -303,5 +304,5 @@
       "poster": "https://image.tmdb.org/t/p/w300/AbunjMKX4P1sDNlKfhYrWkIoRD9.jpg"
     }
   ],
-  "updated": "2026-04-05T17:07:42.949Z"
+  "updated": "2026-04-05T17:09:41.112Z"
 }
