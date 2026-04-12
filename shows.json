@@ -1,5 +1,5 @@
 {
-  "synced": "2026-04-09T20:04:23.430644",
+  "synced": "2026-04-12T13:18:27.052659",
   "count": 75,
   "shows": [
     {
@@ -305,7 +305,7 @@
       "title": "Georgie & Mandy's First Marriage",
       "year": "2024",
       "rating": null,
-      "summary": "Georgie and Mandy navigate the challenges of adulthood, parenting and marriage while raising their young family in Texas.",
+      "summary": "Georgie and Mandy navigate the challenges of adulthood, parenting, and marriage while raising their young family in Texas.",
       "genres": [
         "Comedy",
         "Family"
@@ -318,7 +318,7 @@
       "studio": "Chuck Lorre Productions",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/38551/thumb/1773386345?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/38551/thumb/1775982932?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34705",
@@ -438,7 +438,7 @@
       "studio": "Universal Television",
       "seasons": 8,
       "poster": "https://image.tmdb.org/t/p/w300/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/38680/thumb/1773386366?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/38680/thumb/1775982954?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34474",
@@ -836,7 +836,7 @@
       "studio": "20th Television",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/tZnI8fWCtmJ9doCYSJwoJBITBiV.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/38566/thumb/1773386345?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/38566/thumb/1775982933?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36045",
@@ -854,7 +854,7 @@
         "Jessica Williams"
       ],
       "studio": "Doozer",
-      "seasons": 2,
+      "seasons": 3,
       "poster": "https://image.tmdb.org/t/p/w300/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
       "plexPoster": "http://192.168.68.95:32400/library/metadata/36045/thumb/1775722376?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
@@ -1054,7 +1054,7 @@
       "studio": "101 Studios",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/lRpnGxVYlhWoemkkP4OYgqGrew0.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/40715/thumb/1775722381?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/40715/thumb/1775982954?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35627",
@@ -1173,7 +1173,7 @@
       "studio": "HBO",
       "seasons": 6,
       "poster": "https://image.tmdb.org/t/p/w300/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/38585/thumb/1773386346?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/38585/thumb/1775982933?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36967",
@@ -1252,8 +1252,8 @@
       ],
       "studio": "Offspring Films",
       "seasons": 1,
-      "poster": "http://192.168.68.95:32400/library/metadata/36953/thumb/1770540063?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/36953/thumb/1770540063?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.95:32400/library/metadata/36953/thumb/1775982932?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/36953/thumb/1775982932?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35436",
