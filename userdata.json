@@ -304,5 +304,9 @@
       "poster": "https://image.tmdb.org/t/p/w300/AbunjMKX4P1sDNlKfhYrWkIoRD9.jpg"
     }
   ],
-  "updated": "2026-04-05T17:09:41.112Z"
+  "updated": "2026-04-13T02:52:37.908Z",
+  "tvStatuses": {},
+  "tvRatings": {
+    "plex_38561": 4
+  }
 }
