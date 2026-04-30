@@ -1,6 +1,6 @@
 {
-  "synced": "2026-04-12T13:18:27.052659",
-  "count": 75,
+  "synced": "2026-04-30T06:46:44.161762",
+  "count": 78,
   "shows": [
     {
       "id": "plex_33923",
@@ -20,7 +20,7 @@
       "studio": "101 Studios",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/33923/thumb/1774251528?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/33923/thumb/1776932500?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33913",
@@ -40,7 +40,7 @@
       "studio": "Bosque Ranch Productions",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/33913/thumb/1774251528?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/33913/thumb/1776932500?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39359",
@@ -60,7 +60,7 @@
       "studio": "Shady Acres Entertainment",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/81bJijYZedZ4TSm34rYmW9gEDvN.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/39359/thumb/1774601921?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/39359/thumb/1777270237?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33946",
@@ -79,7 +79,7 @@
       "studio": "Kapital Entertainment",
       "seasons": 5,
       "poster": "https://image.tmdb.org/t/p/w300/uDXPOk3fx1kPM1tQdrTdE2f76p2.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/33946/thumb/1774251529?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/33946/thumb/1776932500?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36024",
@@ -119,7 +119,7 @@
       "studio": "Paramount Television",
       "seasons": 10,
       "poster": "https://image.tmdb.org/t/p/w300/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/33672/thumb/1774251527?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/33672/thumb/1776932481?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33657",
@@ -138,7 +138,7 @@
       "studio": "British Broadcasting Corporation (BBC)",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/pfmgvrMTSnf624ZAdIf2QyxGWQ8.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/33657/thumb/1774251507?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/33657/thumb/1776932481?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33602",
@@ -158,7 +158,7 @@
       "studio": "Hurwitz & Schlossberg Productions",
       "seasons": 6,
       "poster": "https://image.tmdb.org/t/p/w300/6POBWybSBDBKjSs1VAQcnQC1qyt.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/33602/thumb/1774251506?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/33602/thumb/1776932480?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36753",
@@ -178,7 +178,27 @@
       "studio": "Skydance Television",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/6hhKdavCEZi8d584ZtIrQIrBvZI.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/36753/thumb/1774251530?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/36753/thumb/1776932501?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_40824",
+      "title": "DTF St. Louis",
+      "year": "2026",
+      "rating": null,
+      "summary": "A darkly comedic tale of three middle-aged individuals entangled in a love triangle, leading to one's untimely demise.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "cast": [
+        "Jason Bateman",
+        "David Harbour",
+        "Linda Cardellini"
+      ],
+      "studio": "Escape Artists",
+      "seasons": 1,
+      "poster": "https://image.tmdb.org/t/p/w300/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/40824/thumb/1777545833?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36834",
@@ -218,7 +238,7 @@
       "studio": "Rough House Pictures",
       "seasons": 4,
       "poster": "https://image.tmdb.org/t/p/w300/grAnpm6mv6aipoGeS0yS6RuTZSG.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/33567/thumb/1774251506?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/33567/thumb/1776932480?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33544",
@@ -238,7 +258,7 @@
       "studio": "CBS Studios",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/33544/thumb/1774251505?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/33544/thumb/1776932479?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40426",
@@ -258,7 +278,7 @@
       "studio": "Counterpart Studios",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/18jsL1sUIDL3ice67KoNkq22K6m.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/40426/thumb/1773582597?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/40426/thumb/1776326873?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34829",
@@ -278,7 +298,7 @@
       "studio": "Warner Bros. Television",
       "seasons": 10,
       "poster": "https://image.tmdb.org/t/p/w300/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/34829/thumb/1774765090?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/34829/thumb/1777358368?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34745",
@@ -298,7 +318,7 @@
       "studio": "Revolution Sun Studios",
       "seasons": 8,
       "poster": "https://image.tmdb.org/t/p/w300/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/34745/thumb/1774765089?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/34745/thumb/1777358368?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38551",
@@ -338,7 +358,7 @@
       "studio": "Joe vs. Joe",
       "seasons": 4,
       "poster": "https://image.tmdb.org/t/p/w300/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/34705/thumb/1774765088?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/34705/thumb/1777358367?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_37780",
@@ -358,7 +378,7 @@
       "studio": "The Mark Gordon Company",
       "seasons": 21,
       "poster": "https://image.tmdb.org/t/p/w300/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/37780/thumb/1774251532?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/37780/thumb/1776932502?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40294",
@@ -378,7 +398,7 @@
       "studio": "Universal Television",
       "seasons": 6,
       "poster": "https://image.tmdb.org/t/p/w300/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/40294/thumb/1773582585?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/40294/thumb/1776326873?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38931",
@@ -398,7 +418,7 @@
       "studio": "Universal Television",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/3dehoKPCwLwKTWATfzGqoJ2Psdl.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/38931/thumb/1774251532?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/38931/thumb/1776932502?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34695",
@@ -418,7 +438,7 @@
       "studio": "Searchlight Television",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/6PlHUsScubMx3VADGRh1kIylML2.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/34695/thumb/1774765086?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/34695/thumb/1777358367?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38680",
@@ -455,10 +475,10 @@
         "Neil Patrick Harris",
         "Jason Segel"
       ],
-      "studio": "Carter Bays",
+      "studio": "20th Century Fox Television",
       "seasons": 9,
       "poster": "https://image.tmdb.org/t/p/w300/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/34474/thumb/1774765086?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/34474/thumb/1777358367?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34457",
@@ -468,7 +488,7 @@
       "summary": "Set in the proverbial boomtowns of West Texas, Landman is a modern-day tale of fortune seeking in the world of oil rigs. The series is an upstairs/downstairs story of roughnecks and wildcat billionaires fueling a boom so big, it's reshaping our climate, our economy and our geopolitics.",
       "genres": [
         "Drama",
-        "Western"
+        "Crime"
       ],
       "cast": [
         "Billy Bob Thornton",
@@ -478,7 +498,7 @@
       "studio": "Bosque Ranch Productions",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/34457/thumb/1774765084?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/34457/thumb/1777358366?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34442",
@@ -498,7 +518,7 @@
       "studio": "Marvel Studios",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/34442/thumb/1774765083?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/34442/thumb/1777358366?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40434",
@@ -518,7 +538,7 @@
       "studio": "ABC Studios",
       "seasons": 6,
       "poster": "https://image.tmdb.org/t/p/w300/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/40434/thumb/1773582600?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/40434/thumb/1776326873?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39960",
@@ -558,7 +578,7 @@
       "studio": "Levitan Lloyd Productions",
       "seasons": 11,
       "poster": "https://image.tmdb.org/t/p/w300/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/34166/thumb/1774765082?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/34166/thumb/1777358366?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34154",
@@ -578,7 +598,7 @@
       "studio": "Marvel Studios",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/YksR65as1ppF2N48TJAh2PLamX.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/34154/thumb/1774765081?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/34154/thumb/1777358365?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34144",
@@ -598,7 +618,7 @@
       "studio": "Made Up Stories",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/oPcqsZIFHrv7HoGgFQnsGDiPulD.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/34144/thumb/1774765080?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/34144/thumb/1777358365?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34136",
@@ -618,7 +638,7 @@
       "studio": "Lucasfilm Ltd.",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/4Lok3HBSfbQxibQZBygoVCwKKrZ.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/34136/thumb/1774765079?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/34136/thumb/1777358365?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38299",
@@ -658,7 +678,7 @@
       "studio": "Rock Fish Productions",
       "seasons": 4,
       "poster": "https://image.tmdb.org/t/p/w300/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/33489/thumb/1774251505?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/33489/thumb/1776932479?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35082",
@@ -717,7 +737,7 @@
       "studio": "The Gotham Group",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/40eFcTzZier3DWLqldsP5VHxeoD.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/39414/thumb/1774601921?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/39414/thumb/1777270237?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38382",
@@ -856,7 +876,7 @@
       "studio": "Doozer",
       "seasons": 3,
       "poster": "https://image.tmdb.org/t/p/w300/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/36045/thumb/1775722376?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/36045/thumb/1776064375?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36037",
@@ -896,7 +916,7 @@
       "studio": "Desilu Productions",
       "seasons": 3,
       "poster": "https://image.tmdb.org/t/p/w300/bPsxOpHVpVCX3hFz2fxnF1Vz3Dj.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/40208/thumb/1773582577?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/40208/thumb/1776326872?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38023",
@@ -1053,7 +1073,7 @@
       ],
       "studio": "101 Studios",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/lRpnGxVYlhWoemkkP4OYgqGrew0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
       "plexPoster": "http://192.168.68.95:32400/library/metadata/40715/thumb/1775982954?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -1114,6 +1134,26 @@
       "seasons": 4,
       "poster": "https://image.tmdb.org/t/p/w300/pqHFkhlO4xRRNOzWEEl3yV9KXiu.jpg",
       "plexPoster": "http://192.168.68.95:32400/library/metadata/35566/thumb/1775722372?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_40843",
+      "title": "The Pendragon Cycle: Rise of the Merlin",
+      "year": "2026",
+      "rating": null,
+      "summary": "Merlin, the immortal son of the bard Taliesin and Atlantean Princess Charis, is followed through his tragic upbringing, descent into madness, and shocking disappearance, leading to the legend that surrounds him. Set before King Arthur's birth, Merlin, assumed dead or a myth, reemerges in sub-Roman Britain to unite the fractured kingdoms under threat from Saxon invaders.",
+      "genres": [
+        "Fantasy",
+        "Sci-Fi & Fantasy"
+      ],
+      "cast": [
+        "Tom Sharp",
+        "Rose Reid",
+        "Emree Franklin"
+      ],
+      "studio": "Bonfire Legend",
+      "seasons": 1,
+      "poster": "https://image.tmdb.org/t/p/w300/jJfk8NXauN4UgFQ1qn9lFzEk7ib.jpg",
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/40843/thumb/1777545835?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35478",
@@ -1193,7 +1233,7 @@
       "studio": "Outerbanks Entertainment",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/uRzJaOysinMti88BGuu8m8shVCp.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/36967/thumb/1774251531?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/36967/thumb/1776932501?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39932",
@@ -1226,14 +1266,14 @@
         "Drama"
       ],
       "cast": [
-        "Natasha Rothwell",
         "Jon Gries",
+        "Natasha Rothwell",
         "Jennifer Coolidge"
       ],
       "studio": "Rip Cord Productions",
       "seasons": 3,
       "poster": "https://image.tmdb.org/t/p/w300/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
-      "plexPoster": "http://192.168.68.95:32400/library/metadata/38951/thumb/1774251533?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/38951/thumb/1776932502?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36953",
@@ -1429,7 +1469,7 @@
       ],
       "studio": "101 Studios",
       "seasons": 5,
-      "poster": "https://image.tmdb.org/t/p/w300/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
       "plexPoster": "http://192.168.68.95:32400/library/metadata/35236/thumb/1775722350?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -1471,6 +1511,26 @@
       "seasons": 7,
       "poster": "https://image.tmdb.org/t/p/w300/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
       "plexPoster": "http://192.168.68.95:32400/library/metadata/39068/thumb/1775722380?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_40833",
+      "title": "Young Sherlock (2026)",
+      "year": "2026",
+      "rating": null,
+      "summary": "A disgraced, young Sherlock Holmes finds himself wrapped up in a murder case that threatens his liberty. His first ever case unravels a globe-trotting conspiracy, culminating in an explosive showdown that changes his life forever.",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Hero Fiennes Tiffin",
+        "Dónal Finn",
+        "Zine Tseng"
+      ],
+      "studio": "Motive Pictures",
+      "seasons": 1,
+      "poster": "http://192.168.68.95:32400/library/metadata/40833/thumb/1777545835?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.95:32400/library/metadata/40833/thumb/1777545835?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38277",
