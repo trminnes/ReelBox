@@ -1,6 +1,6 @@
 {
-  "synced": "2026-05-30T07:53:58.266221",
-  "count": 78,
+  "synced": "2026-06-07T10:27:08.985757",
+  "count": 84,
   "shows": [
     {
       "id": "plex_33923",
@@ -198,7 +198,7 @@
       "studio": "Escape Artists",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/40824/thumb/1777545833?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.109:32400/library/metadata/40824/thumb/1780217689?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36834",
@@ -239,6 +239,25 @@
       "seasons": 4,
       "poster": "https://image.tmdb.org/t/p/w300/grAnpm6mv6aipoGeS0yS6RuTZSG.jpg",
       "plexPoster": "http://192.168.68.109:32400/library/metadata/33567/thumb/1779603718?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_42101",
+      "title": "Euphoria (US)",
+      "year": "2019",
+      "rating": null,
+      "summary": "A dark coming-of-age drama exploring love, addiction, friendship and identity in a world full of temptation and uncertainty.",
+      "genres": [
+        "Drama"
+      ],
+      "cast": [
+        "Zendaya",
+        "Hunter Schafer",
+        "Sydney Sweeney"
+      ],
+      "studio": "A24",
+      "seasons": 2,
+      "poster": "https://image.tmdb.org/t/p/w300/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
+      "plexPoster": "http://192.168.68.109:32400/library/metadata/42101/thumb/1780743821?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33544",
@@ -461,6 +480,26 @@
       "plexPoster": "http://192.168.68.109:32400/library/metadata/38680/thumb/1778739175?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_42264",
+      "title": "House of the Dragon",
+      "year": "2022",
+      "rating": null,
+      "summary": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "cast": [
+        "Matt Smith",
+        "Steve Toussaint",
+        "Sonoya Mizuno"
+      ],
+      "studio": "HBO",
+      "seasons": 2,
+      "poster": "https://image.tmdb.org/t/p/w300/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "plexPoster": "http://192.168.68.109:32400/library/metadata/42264/thumb/1780841123?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_34474",
       "title": "How I Met Your Mother",
       "year": "2005",
@@ -479,6 +518,26 @@
       "seasons": 9,
       "poster": "https://image.tmdb.org/t/p/w300/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
       "plexPoster": "http://192.168.68.109:32400/library/metadata/34474/thumb/1779958126?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_41946",
+      "title": "JAG",
+      "year": "1995",
+      "rating": null,
+      "summary": "Harmon \"Harm\" Rabb Jr. is a former pilot turned lawyer working for the military's JAG (Judge Advocate General) division, the elite legal wing of officers that prosecutes and defends those accused of military-related crimes. He works closely with Lt. Col. Sarah Mackenzie, and together they do what needs to be done to find the truth.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "cast": [
+        "David James Elliott",
+        "Patrick Labyorteaux",
+        "Catherine Bell"
+      ],
+      "studio": "Paramount Television",
+      "seasons": 9,
+      "poster": "https://image.tmdb.org/t/p/w300/zPyHpkJZ5O08lbgrQQIROXtb3xz.jpg",
+      "plexPoster": "http://192.168.68.109:32400/library/metadata/41946/thumb/1780743805?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34457",
@@ -541,6 +600,26 @@
       "plexPoster": "http://192.168.68.109:32400/library/metadata/40434/thumb/1779004501?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_42072",
+      "title": "Marvel's The Punisher",
+      "year": "2017",
+      "rating": null,
+      "summary": "After exacting revenge on those responsible for the death of his wife and children, Frank Castle uncovers a conspiracy that runs far deeper than New York's criminal underworld. Now known throughout the city as The Punisher, he must discover the truth about injustices that affect more than his family alone.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "cast": [
+        "Jon Bernthal",
+        "Ben Barnes",
+        "Amber Rose Revah"
+      ],
+      "studio": "Marvel Television",
+      "seasons": 2,
+      "poster": "https://image.tmdb.org/t/p/w300/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
+      "plexPoster": "http://192.168.68.109:32400/library/metadata/42072/thumb/1780743820?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_39960",
       "title": "Merlin",
       "year": "2008",
@@ -558,7 +637,7 @@
       "studio": "Shine TV",
       "seasons": 5,
       "poster": "https://image.tmdb.org/t/p/w300/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/39960/thumb/1778138989?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.109:32400/library/metadata/39960/thumb/1780734568?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34166",
@@ -597,7 +676,7 @@
       ],
       "studio": "Marvel Studios",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/YksR65as1ppF2N48TJAh2PLamX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/x6FsYvt33846IQnDSFxla9j0RX8.jpg",
       "plexPoster": "http://192.168.68.109:32400/library/metadata/34154/thumb/1779958105?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -696,9 +775,9 @@
         "Sophie Skelton"
       ],
       "studio": "Tall Ship Productions",
-      "seasons": 7,
+      "seasons": 8,
       "poster": "https://image.tmdb.org/t/p/w300/oftZNfyTVNU7IfOqoGLoT8MGvNs.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/35082/thumb/1777622144?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.109:32400/library/metadata/35082/thumb/1780217689?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35619",
@@ -816,7 +895,7 @@
       "studio": "Not A Real Company",
       "seasons": 6,
       "poster": "https://image.tmdb.org/t/p/w300/iRfSzrPS5VYWQv7KVSEg2BZZL6C.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/35079/thumb/1777622143?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.109:32400/library/metadata/35079/thumb/1780217689?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36057",
@@ -874,7 +953,7 @@
         "Jessica Williams"
       ],
       "studio": "Doozer",
-      "seasons": 6,
+      "seasons": 3,
       "poster": "https://image.tmdb.org/t/p/w300/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
       "plexPoster": "http://192.168.68.109:32400/library/metadata/36045/thumb/1778739174?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
@@ -897,6 +976,26 @@
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/5RuZZIouptatjV96BdPmKmRsnGg.jpg",
       "plexPoster": "http://192.168.68.109:32400/library/metadata/36037/thumb/1778393686?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_42120",
+      "title": "Spin City",
+      "year": "1996",
+      "rating": null,
+      "summary": "Mike Flaherty, the Deputy Mayor of New York City, and his team of half-wits must constantly save the Mayor from embarrassment and the media. Mike is later succeeded by Charlie Crawford.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "cast": [
+        "Barry Bostwick",
+        "Richard Kind",
+        "Alan Ruck"
+      ],
+      "studio": "Ubu Productions",
+      "seasons": 6,
+      "poster": "https://image.tmdb.org/t/p/w300/3Ksmbpg33PigXKWncD8rFMl24vF.jpg",
+      "plexPoster": "http://192.168.68.109:32400/library/metadata/42120/thumb/1780743825?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40208",
@@ -979,6 +1078,26 @@
       "plexPoster": "http://192.168.68.109:32400/library/metadata/35983/thumb/1778393685?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_41838",
+      "title": "The 100",
+      "year": "2014",
+      "rating": null,
+      "summary": "100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet — but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "cast": [
+        "Eliza Taylor",
+        "Bob Morley",
+        "Marie Avgeropoulos"
+      ],
+      "studio": "Warner Bros. Television",
+      "seasons": 7,
+      "poster": "https://image.tmdb.org/t/p/w300/wcaDIAG1QdXQLRaj4vC1EFdBT2.jpg",
+      "plexPoster": "http://192.168.68.109:32400/library/metadata/41838/thumb/1780743791?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_35678",
       "title": "The Big Bang Theory",
       "year": "2007",
@@ -1034,7 +1153,7 @@
       "studio": "Silverback Films",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/x37IK9WWhuzi7tgyMT4ff3kiT5X.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/40182/thumb/1777710727?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.109:32400/library/metadata/40182/thumb/1780389795?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35655",
@@ -1143,17 +1262,17 @@
       "summary": "Merlin, the immortal son of the bard Taliesin and Atlantean Princess Charis, is followed through his tragic upbringing, descent into madness, and shocking disappearance, leading to the legend that surrounds him. Set before King Arthur's birth, Merlin, assumed dead or a myth, reemerges in sub-Roman Britain to unite the fractured kingdoms under threat from Saxon invaders.",
       "genres": [
         "Fantasy",
-        "Sci-Fi & Fantasy"
+        "Drama"
       ],
       "cast": [
         "Tom Sharp",
         "Rose Reid",
-        "Emree Franklin"
+        "Paul Clerkin"
       ],
       "studio": "Bonfire Legend",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/jJfk8NXauN4UgFQ1qn9lFzEk7ib.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/40843/thumb/1777545835?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.109:32400/library/metadata/40843/thumb/1780217690?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35478",
@@ -1253,7 +1372,7 @@
       "studio": "Sony Pictures Television",
       "seasons": 3,
       "poster": "https://image.tmdb.org/t/p/w300/ihBi24EIr5kwAeY2PqmsgAcCj4n.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/39932/thumb/1778138970?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.109:32400/library/metadata/39932/thumb/1780734568?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38951",
@@ -1351,7 +1470,7 @@
         "Michael Kelly"
       ],
       "studio": "Amazon Studios",
-      "seasons": 1,
+      "seasons": 4,
       "poster": "https://image.tmdb.org/t/p/w300/cO4py3L3q5GNPrA0qr1wVDrosK1.jpg",
       "plexPoster": "http://192.168.68.109:32400/library/metadata/35412/thumb/1778393681?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
@@ -1530,8 +1649,8 @@
       ],
       "studio": "Motive Pictures",
       "seasons": 1,
-      "poster": "http://192.168.68.109:32400/library/metadata/40833/thumb/1777545835?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/40833/thumb/1777545835?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.109:32400/library/metadata/40833/thumb/1780217689?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.109:32400/library/metadata/40833/thumb/1780217689?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38277",
