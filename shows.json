@@ -1,5 +1,5 @@
 {
-  "synced": "2026-06-13T09:06:37.952348",
+  "synced": "2026-06-28T07:53:44.466653",
   "count": 84,
   "shows": [
     {
@@ -19,8 +19,8 @@
       ],
       "studio": "101 Studios",
       "seasons": 2,
-      "poster": "https://image.tmdb.org/t/p/w300/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/33923/thumb/1779603720?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/33923/thumb/1782284733?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/33923/thumb/1782284733?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33913",
@@ -39,8 +39,8 @@
       ],
       "studio": "Bosque Ranch Productions",
       "seasons": 2,
-      "poster": "https://image.tmdb.org/t/p/w300/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/33913/thumb/1779603720?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/33913/thumb/1782284733?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/33913/thumb/1782284733?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39359",
@@ -59,8 +59,8 @@
       ],
       "studio": "Shady Acres Entertainment",
       "seasons": 2,
-      "poster": "https://image.tmdb.org/t/p/w300/81bJijYZedZ4TSm34rYmW9gEDvN.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/39359/thumb/1779867521?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/39359/thumb/1782542165?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/39359/thumb/1782542165?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33946",
@@ -78,8 +78,8 @@
       ],
       "studio": "Kapital Entertainment",
       "seasons": 5,
-      "poster": "https://image.tmdb.org/t/p/w300/uDXPOk3fx1kPM1tQdrTdE2f76p2.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/33946/thumb/1779603720?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/33946/thumb/1782284734?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/33946/thumb/1782284734?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36024",
@@ -98,8 +98,8 @@
       ],
       "studio": "Lucasfilm Ltd.",
       "seasons": 2,
-      "poster": "https://image.tmdb.org/t/p/w300/khZqmwHQicTYoS7Flreb9EddFZC.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/36024/thumb/1780992789?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/36024/thumb/1780992789?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/36024/thumb/1780992789?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33672",
@@ -118,8 +118,8 @@
       ],
       "studio": "Paramount Television",
       "seasons": 10,
-      "poster": "https://image.tmdb.org/t/p/w300/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/33672/thumb/1779603719?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/33672/thumb/1782284732?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/33672/thumb/1782284732?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33657",
@@ -137,8 +137,8 @@
       ],
       "studio": "British Broadcasting Corporation (BBC)",
       "seasons": 2,
-      "poster": "https://image.tmdb.org/t/p/w300/pfmgvrMTSnf624ZAdIf2QyxGWQ8.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/33657/thumb/1779603719?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/33657/thumb/1779603719?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/33657/thumb/1779603719?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33602",
@@ -157,8 +157,8 @@
       ],
       "studio": "Hurwitz & Schlossberg Productions",
       "seasons": 6,
-      "poster": "https://image.tmdb.org/t/p/w300/6POBWybSBDBKjSs1VAQcnQC1qyt.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/33602/thumb/1779603719?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/33602/thumb/1782284732?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/33602/thumb/1782284732?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36753",
@@ -177,8 +177,8 @@
       ],
       "studio": "Skydance Television",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/6hhKdavCEZi8d584ZtIrQIrBvZI.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/36753/thumb/1779603721?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/36753/thumb/1782284734?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/36753/thumb/1782284734?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40824",
@@ -197,8 +197,8 @@
       ],
       "studio": "Escape Artists",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/40824/thumb/1780217689?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/40824/thumb/1780217689?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/40824/thumb/1780217689?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36834",
@@ -217,8 +217,8 @@
       ],
       "studio": "Showtime Networks",
       "seasons": 8,
-      "poster": "https://image.tmdb.org/t/p/w300/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/36834/thumb/1780992791?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/36834/thumb/1780992791?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/36834/thumb/1780992791?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33567",
@@ -237,8 +237,8 @@
       ],
       "studio": "Rough House Pictures",
       "seasons": 4,
-      "poster": "https://image.tmdb.org/t/p/w300/grAnpm6mv6aipoGeS0yS6RuTZSG.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/33567/thumb/1779603718?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/33567/thumb/1782284731?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/33567/thumb/1782284731?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42101",
@@ -256,8 +256,8 @@
       ],
       "studio": "A24",
       "seasons": 2,
-      "poster": "https://image.tmdb.org/t/p/w300/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/42101/thumb/1780743821?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/42101/thumb/1780743821?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/42101/thumb/1780743821?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33544",
@@ -276,8 +276,8 @@
       ],
       "studio": "CBS Studios",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/33544/thumb/1779603718?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/33544/thumb/1782284731?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/33544/thumb/1782284731?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40426",
@@ -296,8 +296,8 @@
       ],
       "studio": "Counterpart Studios",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/18jsL1sUIDL3ice67KoNkq22K6m.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/40426/thumb/1779004413?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/40426/thumb/1781598186?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/40426/thumb/1781598186?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34829",
@@ -316,8 +316,8 @@
       ],
       "studio": "Warner Bros. Television",
       "seasons": 10,
-      "poster": "https://image.tmdb.org/t/p/w300/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/34829/thumb/1779958128?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/34829/thumb/1782628719?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/34829/thumb/1782628719?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34745",
@@ -336,8 +336,8 @@
       ],
       "studio": "Revolution Sun Studios",
       "seasons": 8,
-      "poster": "https://image.tmdb.org/t/p/w300/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/34745/thumb/1779958127?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/34745/thumb/1782628719?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/34745/thumb/1782628719?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38551",
@@ -356,8 +356,8 @@
       ],
       "studio": "Chuck Lorre Productions",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/38551/thumb/1781332040?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/38551/thumb/1781332040?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/38551/thumb/1781332040?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34705",
@@ -376,8 +376,8 @@
       ],
       "studio": "Joe vs. Joe",
       "seasons": 4,
-      "poster": "https://image.tmdb.org/t/p/w300/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/34705/thumb/1779958127?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/34705/thumb/1782628718?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/34705/thumb/1782628718?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_37780",
@@ -396,8 +396,8 @@
       ],
       "studio": "The Mark Gordon Company",
       "seasons": 21,
-      "poster": "https://image.tmdb.org/t/p/w300/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/37780/thumb/1779603722?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/37780/thumb/1782284735?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/37780/thumb/1782284735?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40294",
@@ -416,8 +416,8 @@
       ],
       "studio": "Universal Television",
       "seasons": 6,
-      "poster": "https://image.tmdb.org/t/p/w300/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/40294/thumb/1779004321?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/40294/thumb/1781598185?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/40294/thumb/1781598185?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38931",
@@ -436,8 +436,8 @@
       ],
       "studio": "Universal Television",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/3dehoKPCwLwKTWATfzGqoJ2Psdl.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/38931/thumb/1779603722?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/38931/thumb/1782284735?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/38931/thumb/1782284735?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34695",
@@ -456,8 +456,8 @@
       ],
       "studio": "Searchlight Television",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/6PlHUsScubMx3VADGRh1kIylML2.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/34695/thumb/1779958127?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/34695/thumb/1782628718?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/34695/thumb/1782628718?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38680",
@@ -476,8 +476,8 @@
       ],
       "studio": "Universal Television",
       "seasons": 8,
-      "poster": "https://image.tmdb.org/t/p/w300/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/38680/thumb/1781332041?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/38680/thumb/1781332041?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/38680/thumb/1781332041?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42264",
@@ -496,8 +496,8 @@
       ],
       "studio": "HBO",
       "seasons": 2,
-      "poster": "https://image.tmdb.org/t/p/w300/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/42264/thumb/1780841123?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/42264/thumb/1780841123?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/42264/thumb/1780841123?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34474",
@@ -516,8 +516,8 @@
       ],
       "studio": "20th Century Fox Television",
       "seasons": 9,
-      "poster": "https://image.tmdb.org/t/p/w300/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/34474/thumb/1779958126?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/34474/thumb/1782628718?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/34474/thumb/1782628718?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_41946",
@@ -536,8 +536,8 @@
       ],
       "studio": "Paramount Television",
       "seasons": 9,
-      "poster": "https://image.tmdb.org/t/p/w300/zPyHpkJZ5O08lbgrQQIROXtb3xz.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/41946/thumb/1780743805?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/41946/thumb/1780743805?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/41946/thumb/1780743805?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34457",
@@ -556,8 +556,8 @@
       ],
       "studio": "Bosque Ranch Productions",
       "seasons": 2,
-      "poster": "https://image.tmdb.org/t/p/w300/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/34457/thumb/1779958126?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/34457/thumb/1782628717?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/34457/thumb/1782628717?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34442",
@@ -570,14 +570,14 @@
         "Adventure"
       ],
       "cast": [
-        "Gugu Mbatha-Raw",
         "Tom Hiddleston",
-        "Sophia Di Martino"
+        "Sophia Di Martino",
+        "Wunmi Mosaku"
       ],
       "studio": "Marvel Studios",
       "seasons": 2,
-      "poster": "https://image.tmdb.org/t/p/w300/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/34442/thumb/1779958125?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/34442/thumb/1782628717?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/34442/thumb/1782628717?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40434",
@@ -596,8 +596,8 @@
       ],
       "studio": "ABC Studios",
       "seasons": 6,
-      "poster": "https://image.tmdb.org/t/p/w300/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/40434/thumb/1779004501?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/40434/thumb/1781598186?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/40434/thumb/1781598186?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42072",
@@ -616,8 +616,8 @@
       ],
       "studio": "Marvel Television",
       "seasons": 2,
-      "poster": "https://image.tmdb.org/t/p/w300/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/42072/thumb/1780743820?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/42072/thumb/1780743820?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/42072/thumb/1780743820?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39960",
@@ -636,8 +636,8 @@
       ],
       "studio": "Shine TV",
       "seasons": 5,
-      "poster": "https://image.tmdb.org/t/p/w300/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/39960/thumb/1780734568?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/39960/thumb/1780734568?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/39960/thumb/1780734568?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34166",
@@ -656,8 +656,8 @@
       ],
       "studio": "Levitan Lloyd Productions",
       "seasons": 11,
-      "poster": "https://image.tmdb.org/t/p/w300/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/34166/thumb/1779958125?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/34166/thumb/1782628717?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/34166/thumb/1782628717?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34154",
@@ -676,8 +676,8 @@
       ],
       "studio": "Marvel Studios",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/x6FsYvt33846IQnDSFxla9j0RX8.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/34154/thumb/1779958105?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/34154/thumb/1782628716?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/34154/thumb/1782628716?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34144",
@@ -696,8 +696,8 @@
       ],
       "studio": "Made Up Stories",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/oPcqsZIFHrv7HoGgFQnsGDiPulD.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/34144/thumb/1779958104?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/34144/thumb/1782628716?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/34144/thumb/1782628716?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34136",
@@ -716,8 +716,8 @@
       ],
       "studio": "Lucasfilm Ltd.",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/4Lok3HBSfbQxibQZBygoVCwKKrZ.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/34136/thumb/1779958104?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/34136/thumb/1779958104?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/34136/thumb/1779958104?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38299",
@@ -736,8 +736,8 @@
       ],
       "studio": "Rhode Island Ave. Productions",
       "seasons": 4,
-      "poster": "https://image.tmdb.org/t/p/w300/1yjFVQZuW8aofZ5Cgol8iImsVFp.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/38299/thumb/1780992851?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/38299/thumb/1780992851?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/38299/thumb/1780992851?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33489",
@@ -756,8 +756,8 @@
       ],
       "studio": "Rock Fish Productions",
       "seasons": 4,
-      "poster": "https://image.tmdb.org/t/p/w300/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/33489/thumb/1779603717?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/33489/thumb/1782284731?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/33489/thumb/1782284731?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35082",
@@ -776,8 +776,8 @@
       ],
       "studio": "Tall Ship Productions",
       "seasons": 8,
-      "poster": "https://image.tmdb.org/t/p/w300/oftZNfyTVNU7IfOqoGLoT8MGvNs.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/35082/thumb/1780217689?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/35082/thumb/1780217689?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/35082/thumb/1780217689?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35619",
@@ -795,8 +795,8 @@
       ],
       "studio": "Universal Television",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/5IOj62y2Eb2ngyYmEn1IJ7bFhzH.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/35619/thumb/1780992784?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/35619/thumb/1780992784?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/35619/thumb/1780992784?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39414",
@@ -815,8 +815,8 @@
       ],
       "studio": "The Gotham Group",
       "seasons": 2,
-      "poster": "https://image.tmdb.org/t/p/w300/40eFcTzZier3DWLqldsP5VHxeoD.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/39414/thumb/1779867521?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/39414/thumb/1782542165?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/39414/thumb/1782542165?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38382",
@@ -835,8 +835,8 @@
       ],
       "studio": "Amazon Studios",
       "seasons": 3,
-      "poster": "https://image.tmdb.org/t/p/w300/31GlRQMiDunO8cl3NxTz34U64rf.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/38382/thumb/1780992904?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/38382/thumb/1780992904?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/38382/thumb/1780992904?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38561",
@@ -855,8 +855,8 @@
       ],
       "studio": "Lionsgate Television",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/3teWChNzKJdbfen46IdeKTygdZa.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/38561/thumb/1780992954?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/38561/thumb/1780992954?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/38561/thumb/1780992954?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40198",
@@ -875,8 +875,8 @@
       ],
       "studio": "Blossom Films",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/zvkcHCJUPqv7R9ukaiDNkm75jy.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/40198/thumb/1780993015?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/40198/thumb/1780993015?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/40198/thumb/1780993015?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35079",
@@ -894,8 +894,8 @@
       ],
       "studio": "Not A Real Company",
       "seasons": 6,
-      "poster": "https://image.tmdb.org/t/p/w300/iRfSzrPS5VYWQv7KVSEg2BZZL6C.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/35079/thumb/1780217689?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/35079/thumb/1780217689?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/35079/thumb/1780217689?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36057",
@@ -914,8 +914,8 @@
       ],
       "studio": "21 Laps Entertainment",
       "seasons": 2,
-      "poster": "https://image.tmdb.org/t/p/w300/mS9O9mjPlwpLTne4JgQlDkgREWA.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/36057/thumb/1780992790?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/36057/thumb/1780992790?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/36057/thumb/1780992790?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38566",
@@ -934,8 +934,8 @@
       ],
       "studio": "20th Television",
       "seasons": 2,
-      "poster": "https://image.tmdb.org/t/p/w300/tZnI8fWCtmJ9doCYSJwoJBITBiV.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/38566/thumb/1781332040?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/38566/thumb/1781332040?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/38566/thumb/1781332040?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36045",
@@ -954,8 +954,8 @@
       ],
       "studio": "Doozer",
       "seasons": 3,
-      "poster": "https://image.tmdb.org/t/p/w300/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/36045/thumb/1781332039?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/36045/thumb/1781332039?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/36045/thumb/1781332039?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36037",
@@ -974,8 +974,8 @@
       ],
       "studio": "See-Saw Films",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/5RuZZIouptatjV96BdPmKmRsnGg.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/36037/thumb/1780992790?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/36037/thumb/1780992790?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/36037/thumb/1780992790?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42120",
@@ -994,8 +994,8 @@
       ],
       "studio": "Ubu Productions",
       "seasons": 6,
-      "poster": "https://image.tmdb.org/t/p/w300/3Ksmbpg33PigXKWncD8rFMl24vF.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/42120/thumb/1780743825?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/42120/thumb/1780743825?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/42120/thumb/1780743825?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40208",
@@ -1014,8 +1014,8 @@
       ],
       "studio": "Desilu Productions",
       "seasons": 3,
-      "poster": "https://image.tmdb.org/t/p/w300/bPsxOpHVpVCX3hFz2fxnF1Vz3Dj.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/40208/thumb/1779004240?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/40208/thumb/1781598185?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/40208/thumb/1781598185?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38023",
@@ -1034,8 +1034,8 @@
       ],
       "studio": "MGM Television",
       "seasons": 10,
-      "poster": "https://image.tmdb.org/t/p/w300/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/38023/thumb/1780992792?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/38023/thumb/1780992792?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/38023/thumb/1780992792?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39228",
@@ -1054,8 +1054,8 @@
       ],
       "studio": "21 Laps Entertainment",
       "seasons": 5,
-      "poster": "https://image.tmdb.org/t/p/w300/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/39228/thumb/1780993014?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/39228/thumb/1780993014?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/39228/thumb/1780993014?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35983",
@@ -1074,8 +1074,8 @@
       ],
       "studio": "Doozer",
       "seasons": 3,
-      "poster": "https://image.tmdb.org/t/p/w300/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/35983/thumb/1780992788?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/35983/thumb/1780992788?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/35983/thumb/1780992788?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_41838",
@@ -1094,8 +1094,8 @@
       ],
       "studio": "Warner Bros. Television",
       "seasons": 7,
-      "poster": "https://image.tmdb.org/t/p/w300/wcaDIAG1QdXQLRaj4vC1EFdBT2.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/41838/thumb/1780743791?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/41838/thumb/1780743791?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/41838/thumb/1780743791?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35678",
@@ -1114,8 +1114,8 @@
       ],
       "studio": "Chuck Lorre Productions",
       "seasons": 12,
-      "poster": "https://image.tmdb.org/t/p/w300/an3uTx1P0XgHPylgfPV6W7yxKAo.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/35678/thumb/1780992788?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/35678/thumb/1780992788?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/35678/thumb/1780992788?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35669",
@@ -1134,8 +1134,8 @@
       ],
       "studio": "Lucasfilm Ltd.",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/gNbdjDi1HamTCrfvM9JeA94bNi2.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/35669/thumb/1780992787?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/35669/thumb/1780992787?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/35669/thumb/1780992787?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40182",
@@ -1152,8 +1152,8 @@
       ],
       "studio": "Silverback Films",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/x37IK9WWhuzi7tgyMT4ff3kiT5X.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/40182/thumb/1780389795?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/40182/thumb/1780389795?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/40182/thumb/1780389795?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35655",
@@ -1172,8 +1172,8 @@
       ],
       "studio": "Amazon Studios",
       "seasons": 2,
-      "poster": "https://image.tmdb.org/t/p/w300/kf5Hz70tjNAHg4swGDzOr9BfoZ1.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/35655/thumb/1780992786?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/35655/thumb/1780992786?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/35655/thumb/1780992786?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40715",
@@ -1192,8 +1192,8 @@
       ],
       "studio": "101 Studios",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/40715/thumb/1781332041?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/40715/thumb/1781332041?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/40715/thumb/1781332041?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35627",
@@ -1212,8 +1212,8 @@
       ],
       "studio": "Lucasfilm Ltd.",
       "seasons": 3,
-      "poster": "https://image.tmdb.org/t/p/w300/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/35627/thumb/1780992785?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/35627/thumb/1780992785?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/35627/thumb/1780992785?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35176",
@@ -1231,8 +1231,8 @@
       ],
       "studio": "Echo Films",
       "seasons": 3,
-      "poster": "https://image.tmdb.org/t/p/w300/y9x2R87yt2U616736NJrP0d56dt.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/35176/thumb/1780992776?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/35176/thumb/1780992776?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/35176/thumb/1780992776?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35566",
@@ -1251,8 +1251,8 @@
       ],
       "studio": "Electric Entertainment",
       "seasons": 4,
-      "poster": "https://image.tmdb.org/t/p/w300/pqHFkhlO4xRRNOzWEEl3yV9KXiu.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/35566/thumb/1780992784?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/35566/thumb/1780992784?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/35566/thumb/1780992784?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40843",
@@ -1271,8 +1271,8 @@
       ],
       "studio": "Bonfire Legend",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/jJfk8NXauN4UgFQ1qn9lFzEk7ib.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/40843/thumb/1780217690?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/40843/thumb/1780217690?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/40843/thumb/1780217690?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35478",
@@ -1291,8 +1291,8 @@
       ],
       "studio": "Ranch Hand Productions",
       "seasons": 4,
-      "poster": "https://image.tmdb.org/t/p/w300/lrbHBAxF9Ir83rxgeBrfmEJriLt.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/35478/thumb/1780992783?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/35478/thumb/1780992783?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/35478/thumb/1780992783?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35473",
@@ -1311,8 +1311,8 @@
       ],
       "studio": "Rough House Pictures",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/bKb54fgtMrS54VMMl8KdDIFlG3g.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/35473/thumb/1780992782?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/35473/thumb/1780992782?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/35473/thumb/1780992782?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38585",
@@ -1331,8 +1331,8 @@
       ],
       "studio": "HBO",
       "seasons": 6,
-      "poster": "https://image.tmdb.org/t/p/w300/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/38585/thumb/1781332041?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/38585/thumb/1781332041?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/38585/thumb/1781332041?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36967",
@@ -1351,8 +1351,8 @@
       ],
       "studio": "Outerbanks Entertainment",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/uRzJaOysinMti88BGuu8m8shVCp.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/36967/thumb/1779603721?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/36967/thumb/1782284735?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/36967/thumb/1782284735?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39932",
@@ -1371,8 +1371,8 @@
       ],
       "studio": "Sony Pictures Television",
       "seasons": 3,
-      "poster": "https://image.tmdb.org/t/p/w300/ihBi24EIr5kwAeY2PqmsgAcCj4n.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/39932/thumb/1780734568?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/39932/thumb/1780734568?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/39932/thumb/1780734568?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38951",
@@ -1391,8 +1391,8 @@
       ],
       "studio": "Rip Cord Productions",
       "seasons": 3,
-      "poster": "https://image.tmdb.org/t/p/w300/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/38951/thumb/1779603723?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/38951/thumb/1779603723?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/38951/thumb/1779603723?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36953",
@@ -1411,8 +1411,8 @@
       ],
       "studio": "Offspring Films",
       "seasons": 1,
-      "poster": "http://192.168.68.109:32400/library/metadata/36953/thumb/1775982932?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/36953/thumb/1775982932?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/36953/thumb/1775982932?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/36953/thumb/1775982932?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35436",
@@ -1431,8 +1431,8 @@
       ],
       "studio": "Sean Daniel Company",
       "seasons": 4,
-      "poster": "https://image.tmdb.org/t/p/w300/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/35436/thumb/1780992782?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/35436/thumb/1780992782?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/35436/thumb/1780992782?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35422",
@@ -1451,8 +1451,8 @@
       ],
       "studio": "Hivemind",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/vpfJK9F0UJNcAIIeC42oJyKMnZQ.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/35422/thumb/1780992781?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/35422/thumb/1780992781?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/35422/thumb/1780992781?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35412",
@@ -1471,8 +1471,8 @@
       ],
       "studio": "Amazon Studios",
       "seasons": 4,
-      "poster": "https://image.tmdb.org/t/p/w300/cO4py3L3q5GNPrA0qr1wVDrosK1.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/35412/thumb/1780992780?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/35412/thumb/1780992780?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/35412/thumb/1780992780?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35401",
@@ -1491,8 +1491,8 @@
       ],
       "studio": "101 Studios",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/35401/thumb/1780992780?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/35401/thumb/1780992780?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/35401/thumb/1780992780?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36961",
@@ -1509,8 +1509,8 @@
       ],
       "studio": "Wildstar Films",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/3QaBwLVPc8W71zC0E3D1j1R8ZLp.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/36961/thumb/1779603721?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/36961/thumb/1779603721?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/36961/thumb/1779603721?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35300",
@@ -1529,8 +1529,8 @@
       ],
       "studio": "Shaw Media",
       "seasons": 6,
-      "poster": "https://image.tmdb.org/t/p/w300/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/35300/thumb/1780992779?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/35300/thumb/1780992779?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/35300/thumb/1780992779?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38280",
@@ -1549,8 +1549,8 @@
       ],
       "studio": "MGM Television",
       "seasons": 2,
-      "poster": "https://image.tmdb.org/t/p/w300/36xXlhEpQqVVPuiZhfoQuaY4OlA.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/38280/thumb/1780992793?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/38280/thumb/1780992793?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/38280/thumb/1780992793?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35292",
@@ -1569,8 +1569,8 @@
       ],
       "studio": "Lucasfilm Ltd.",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/lw4n5CBlLR62nogy46FyJaIFziH.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/35292/thumb/1780992778?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/35292/thumb/1780992778?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/35292/thumb/1780992778?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35236",
@@ -1589,8 +1589,8 @@
       ],
       "studio": "101 Studios",
       "seasons": 5,
-      "poster": "https://image.tmdb.org/t/p/w300/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/35236/thumb/1780992778?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/35236/thumb/1780992778?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/35236/thumb/1780992778?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35188",
@@ -1609,8 +1609,8 @@
       ],
       "studio": "Berlanti Productions",
       "seasons": 5,
-      "poster": "https://image.tmdb.org/t/p/w300/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/35188/thumb/1780992777?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/35188/thumb/1780992777?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/35188/thumb/1780992777?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39068",
@@ -1629,8 +1629,8 @@
       ],
       "studio": "Warner Bros. Television",
       "seasons": 7,
-      "poster": "https://image.tmdb.org/t/p/w300/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/39068/thumb/1780993014?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/39068/thumb/1780993014?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/39068/thumb/1780993014?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40833",
@@ -1649,8 +1649,8 @@
       ],
       "studio": "Motive Pictures",
       "seasons": 1,
-      "poster": "http://192.168.68.109:32400/library/metadata/40833/thumb/1780217689?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/40833/thumb/1780217689?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/40833/thumb/1780217689?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/40833/thumb/1780217689?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38277",
@@ -1669,8 +1669,8 @@
       ],
       "studio": "Atlas Independent",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/pHAM8Fzek7xwTbqmaxPXAjCAjz1.jpg",
-      "plexPoster": "http://192.168.68.109:32400/library/metadata/38277/thumb/1780992793?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.101:32400/library/metadata/38277/thumb/1780992793?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.101:32400/library/metadata/38277/thumb/1780992793?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     }
   ]
 }
