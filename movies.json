@@ -1,5 +1,5 @@
 {
-  "synced": "2026-07-04T08:29:54.643581",
+  "synced": "2026-07-04T09:31:28.411803",
   "count": 2180,
   "movies": [
     {
@@ -853,21 +853,6 @@
       "studio": "Mad Chance",
       "poster": "https://image.tmdb.org/t/p/w300/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/1576/thumb/1781765222?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_21165",
-      "title": "18 Babygirl",
-      "year": "2024",
-      "rating": null,
-      "summary": "",
-      "tagline": "",
-      "duration": 115,
-      "genres": [],
-      "cast": [],
-      "director": "",
-      "studio": "",
-      "poster": "http://192.168.68.200:32400/library/metadata/21165/thumb/1738501926?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/21165/thumb/1738501926?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1592",
@@ -3324,6 +3309,28 @@
       "studio": "Big Talk Studios",
       "poster": "https://image.tmdb.org/t/p/w300/tYzFuYXmT8LOYASlFCkaPiAFAl0.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/2933/thumb/1781853222?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_21165",
+      "title": "Babygirl",
+      "year": "2024",
+      "rating": 7.6,
+      "summary": "A high-powered CEO (Nicole Kidman) puts her career and family on the line when she begins an affair with her much younger intern (Harris Dickinson) in this bold, subversive erotic thriller.",
+      "tagline": "Get exactly what you want.",
+      "duration": 115,
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "cast": [
+        "Nicole Kidman",
+        "Harris Dickinson",
+        "Antonio Banderas"
+      ],
+      "director": "Halina Reijn",
+      "studio": "A24",
+      "poster": "https://image.tmdb.org/t/p/w300/ilwO6elz3mLV9CToT7C8pjVeKX0.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/21165/thumb/1783171646?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2956",
