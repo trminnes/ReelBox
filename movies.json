@@ -1,6 +1,6 @@
 {
-  "synced": "2026-08-01T07:14:25.261810",
-  "count": 2213,
+  "synced": "2026-08-08T08:18:14.786313",
+  "count": 2219,
   "movies": [
     {
       "id": "plex_18547",
@@ -22,7 +22,7 @@
       "director": "Steven Brill",
       "studio": "Irwin Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/ykIpbOWvqx3Jz6oMFss5ldIVkfU.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/18547/thumb/1772269323?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/18547/thumb/1785745761?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_18548",
@@ -41,7 +41,7 @@
       "director": "Jay Karas",
       "studio": "New Wave Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/8stTLVktSAATgFdCeaEUSh6WU2j.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/18548/thumb/1783065002?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/18548/thumb/1785745761?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_18549",
@@ -60,7 +60,7 @@
       "director": "Jay Karas",
       "studio": "Comedy Dynamics",
       "poster": "https://image.tmdb.org/t/p/w300/q1WE1V01HMz1TGrqFPbLLiXeNdU.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/18549/thumb/1783065003?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/18549/thumb/1785745761?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_18551",
@@ -232,7 +232,7 @@
       "director": "Stan Lathan",
       "studio": "Stan Lathan TV",
       "poster": "https://image.tmdb.org/t/p/w300/lSK4iExkkVnrA8iPxZwbs8IfnUy.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/18562/thumb/1780471164?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/18562/thumb/1785828636?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_18563",
@@ -396,7 +396,7 @@
       "director": "Leslie Small",
       "studio": "HartBeat Productions",
       "poster": "https://image.tmdb.org/t/p/w300/lzYQkVuEN0zw2JvJsMUsOU47nb4.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/18581/thumb/1783152183?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/18581/thumb/1785828639?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_18582",
@@ -435,10 +435,10 @@
         "Halle Berry",
         "Don Cheadle"
       ],
-      "director": "Tim Story, Leslie Small",
+      "director": "Leslie Small, Tim Story",
       "studio": "Universal Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/94Qgm35Vo9FWY744OWQm1dfCAZv.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/18583/thumb/1783152184?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/18583/thumb/1785828640?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_18584",
@@ -457,7 +457,7 @@
       "director": "Ben Brewer",
       "studio": "800 Pound Gorilla Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/5UlIOZrZxL18XWN7WX6Wpu69cbf.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/18584/thumb/1783152184?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/18584/thumb/1785828640?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_18591",
@@ -572,7 +572,7 @@
       "director": "John L. Spencer",
       "studio": "",
       "poster": "https://image.tmdb.org/t/p/w300/ry2HDP5KyEV3R7htXlFAeQbbXgf.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/18615/thumb/1780471170?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/18615/thumb/1785828642?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_18616",
@@ -753,7 +753,7 @@
       "tagline": "Seven heroes. Seven times the fun.",
       "duration": 87,
       "genres": [
-        "Animation",
+        "Comedy",
         "Fantasy"
       ],
       "cast": [
@@ -764,7 +764,7 @@
       "director": "Harald Siepermann, Boris Aljinovic",
       "studio": "Erfttal Film",
       "poster": "https://image.tmdb.org/t/p/w300/sLCAaFHgKUgogHR6OuTOwIPhN8l.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1230/thumb/1783411064?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1230/thumb/1786086132?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_11632",
@@ -1039,7 +1039,7 @@
       "tagline": "A new hero unleashed.",
       "duration": 74,
       "genres": [
-        "Animation",
+        "Children",
         "Family"
       ],
       "cast": [
@@ -1050,7 +1050,7 @@
       "director": "Jim Kammerud, Brian Smith",
       "studio": "Disney Television Animation",
       "poster": "https://image.tmdb.org/t/p/w300/uB0DQU4Cog8tYrkiOEVTmDw6Qnn.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/234/thumb/1783064982?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/234/thumb/1785745741?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1593",
@@ -1676,8 +1676,8 @@
       "tagline": "A world of wonders in one great picture!",
       "duration": 75,
       "genres": [
-        "Animation",
-        "Musical"
+        "Family",
+        "Fantasy"
       ],
       "cast": [
         "Kathryn Beaumont",
@@ -1687,7 +1687,7 @@
       "director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
       "studio": "Walt Disney Productions",
       "poster": "https://image.tmdb.org/t/p/w300/20cvfwfaFqNbe9Fc3VEHJuPRxmn.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/235/thumb/1783064982?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/235/thumb/1785745741?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1969",
@@ -1818,7 +1818,7 @@
       ],
       "director": "Fede Álvarez",
       "studio": "20th Century Studios",
-      "poster": "https://image.tmdb.org/t/p/w300/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/2uSWRTtCG336nuBiG8jOTEUKSy8.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/20989/thumb/1782980719?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -1981,8 +1981,8 @@
       "tagline": "Sun, sea and squeaks.",
       "duration": 87,
       "genres": [
-        "Adventure",
-        "Comedy"
+        "Comedy",
+        "Family"
       ],
       "cast": [
         "Jason Lee",
@@ -1992,7 +1992,7 @@
       "director": "Mike Mitchell",
       "studio": "Fox 2000 Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/npOXWVoZyl8UrF2wtByHtfmsWSX.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/237/thumb/1783064983?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/237/thumb/1785745742?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2417",
@@ -2234,7 +2234,7 @@
       "director": "Mike Elliott",
       "studio": "Universal 1440 Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/xqvX5A24dbIWaeYsMTxxKX5qOfz.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/21197/thumb/1782980726?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/21197/thumb/1785652647?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2479",
@@ -2545,13 +2545,13 @@
       "id": "plex_1231",
       "title": "The Angry Birds Movie",
       "year": "2016",
-      "rating": 4.4,
+      "rating": null,
       "summary": "An island populated entirely by happy, flightless birds or almost entirely. In this paradise, Red, a bird with a temper problem, speedy Chuck, and the volatile Bomb have always been outsiders. But when the island is visited by mysterious green piggies, it’s up to these unlikely outcasts to figure out what the pigs are up to.",
       "tagline": "They came in peace, they left in chaos.",
       "duration": 97,
       "genres": [
-        "Animation",
-        "Action"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Jason Sudeikis",
@@ -2561,7 +2561,7 @@
       "director": "Clay Kaytis, Fergal Reilly",
       "studio": "Rovio Animation",
       "poster": "https://image.tmdb.org/t/p/w300/iOH0fEFtV9z9rZp9zmBFGGeWicv.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1231/thumb/1783411065?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1231/thumb/1786086133?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2579",
@@ -3330,7 +3330,7 @@
       "director": "Halina Reijn",
       "studio": "A24",
       "poster": "https://image.tmdb.org/t/p/w300/ilwO6elz3mLV9CToT7C8pjVeKX0.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/21165/thumb/1783171646?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/21165/thumb/1785828656?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2956",
@@ -3429,8 +3429,8 @@
       "tagline": "Miami's finest are now its most wanted.",
       "duration": 116,
       "genres": [
-        "Comedy",
-        "Action"
+        "Action",
+        "Adventure"
       ],
       "cast": [
         "Will Smith",
@@ -3440,7 +3440,7 @@
       "director": "Adil El Arbi, Bilall Fallah",
       "studio": "Westbrook",
       "poster": "https://image.tmdb.org/t/p/w300/oGythE98MYleE6mZlGs5oBGkux1.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20970/thumb/1782980717?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20970/thumb/1785652637?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3020",
@@ -3526,7 +3526,7 @@
       "director": "Mark Waters",
       "studio": "Ingenious Media",
       "poster": "https://image.tmdb.org/t/p/w300/xmsEwpA2fSq6IO3sfKrLuIPLHSc.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/9/thumb/1783064960?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/9/thumb/1785745720?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_19133",
@@ -3680,7 +3680,7 @@
       "director": "Owen Hurley",
       "studio": "Technicolor Animation",
       "poster": "https://image.tmdb.org/t/p/w300/4HSPgeq04YUghXbSO5tSPP0jZ4k.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/254/thumb/1783064984?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/254/thumb/1785745743?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_239",
@@ -3702,7 +3702,7 @@
       "director": "William Lau",
       "studio": "Mattel",
       "poster": "https://image.tmdb.org/t/p/w300/aUVd4itaF4mDFgld99wMIihjUK7.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/239/thumb/1780389774?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/239/thumb/1785745743?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_238",
@@ -3955,8 +3955,8 @@
       "tagline": "Be our guest.",
       "duration": 129,
       "genres": [
-        "Musical",
-        "Family"
+        "Family",
+        "Musical"
       ],
       "cast": [
         "Emma Watson",
@@ -3966,7 +3966,7 @@
       "director": "Bill Condon",
       "studio": "Walt Disney Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/255/thumb/1783064985?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/255/thumb/1785745744?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_15484",
@@ -3987,7 +3987,7 @@
       ],
       "director": "Wayne Wang",
       "studio": "20th Century Fox",
-      "poster": "https://image.tmdb.org/t/p/w300/oMUFS7HmIyTeui5xuoIEkPYTWC8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/4YiXfOorYunAc8w8ZhTzavoNsxl.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/15484/thumb/1782891671?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -4000,7 +4000,7 @@
       "duration": 91,
       "genres": [
         "Comedy",
-        "Family"
+        "Animation"
       ],
       "cast": [
         "Jerry Seinfeld",
@@ -4009,8 +4009,8 @@
       ],
       "director": "Simon J. Smith, Steve Hickner",
       "studio": "Columbus 81 Productions",
-      "poster": "http://192.168.68.200:32400/library/metadata/257/thumb/1783064985?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/257/thumb/1783064985?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.200:32400/library/metadata/257/thumb/1785745744?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/257/thumb/1785745744?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2196",
@@ -4271,7 +4271,7 @@
       "director": "Martin Brest",
       "studio": "Paramount Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20822/thumb/1782980710?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20822/thumb/1785652631?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_20812",
@@ -4282,8 +4282,8 @@
       "tagline": "Axel Foley is back. Back where he doesn't belong.",
       "duration": 103,
       "genres": [
-        "Action",
-        "Comedy"
+        "Comedy",
+        "Crime"
       ],
       "cast": [
         "Eddie Murphy",
@@ -4293,7 +4293,7 @@
       "director": "Tony Scott",
       "studio": "Eddie Murphy Productions",
       "poster": "https://image.tmdb.org/t/p/w300/egDakU8O5yUwpUJP9IMAUVtIDll.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20812/thumb/1782980710?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20812/thumb/1785652631?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_20811",
@@ -4315,7 +4315,7 @@
       "director": "John Landis",
       "studio": "Eddie Murphy Productions",
       "poster": "https://image.tmdb.org/t/p/w300/7vIpCkgGEfk5LZwm78nMxswLJRH.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20811/thumb/1774946796?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20811/thumb/1785652630?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_20452",
@@ -4337,7 +4337,7 @@
       "director": "Mark Molloy",
       "studio": "Don Simpson/Jerry Bruckheimer Films",
       "poster": "https://image.tmdb.org/t/p/w300/zszRKfzjM5jltiq8rk6rasKVpUv.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20452/thumb/1782980703?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20452/thumb/1785652624?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_11838",
@@ -4358,7 +4358,7 @@
       ],
       "director": "Hasraf Dulull",
       "studio": "Ground Control Entertainment",
-      "poster": "https://image.tmdb.org/t/p/w300/wuezKxgZReQmqIrI9QOJZ23Z0y4.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/2wCc7YaeolNRo4Bh3xNG4zmu1XQ.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/11838/thumb/1785223239?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -4403,7 +4403,7 @@
       "director": "Steven Spielberg",
       "studio": "Walt Disney Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/w17Mc2x2olB5CtewznUFxgpvne0.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1232/thumb/1783411065?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1232/thumb/1786086133?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_11840",
@@ -4941,7 +4941,7 @@
       "duration": 86,
       "genres": [
         "Action",
-        "Thriller"
+        "Drama"
       ],
       "cast": [
         "Rutger Hauer",
@@ -4951,7 +4951,7 @@
       "director": "Phillip Noyce",
       "studio": "Interscope Communications",
       "poster": "https://image.tmdb.org/t/p/w300/ufbA7v7b2xt85Cf1tocr69cwuCO.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/21200/thumb/1782980726?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/21200/thumb/1785652647?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3427",
@@ -5662,18 +5662,18 @@
       "tagline": "Change your fate.",
       "duration": 94,
       "genres": [
-        "Action",
-        "Adventure"
+        "Family",
+        "Fantasy"
       ],
       "cast": [
         "Kelly Macdonald",
         "Emma Thompson",
         "Billy Connolly"
       ],
-      "director": "Mark Andrews, Brenda Chapman",
+      "director": "Brenda Chapman, Mark Andrews",
       "studio": "Pixar",
       "poster": "https://image.tmdb.org/t/p/w300/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/261/thumb/1783064986?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/261/thumb/1785745745?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3562",
@@ -5853,8 +5853,8 @@
       "tagline": "See through another’s eyes, feel through another's heart, and discover the meaning of brotherhood.",
       "duration": 85,
       "genres": [
-        "Animation",
-        "Adventure"
+        "Children",
+        "Family"
       ],
       "cast": [
         "Joaquin Phoenix",
@@ -5863,8 +5863,8 @@
       ],
       "director": "Aaron Blaise, Robert Walker",
       "studio": "Walt Disney Feature Animation",
-      "poster": "http://192.168.68.200:32400/library/metadata/327/thumb/1783064986?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/327/thumb/1783064986?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.200:32400/library/metadata/327/thumb/1785745745?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/327/thumb/1785745745?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_12045",
@@ -5907,7 +5907,7 @@
       ],
       "director": "Stuart Rosenberg",
       "studio": "20th Century Fox",
-      "poster": "https://image.tmdb.org/t/p/w300/4DhrSojl3J0Z4wZyM2CfNGnKQWl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/fjf3elnOC32m1BdNyxiL8CzNc6t.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/3614/thumb/1784617550?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -6237,7 +6237,7 @@
       ],
       "director": "Hal Needham",
       "studio": "Orange Sky Golden Harvest",
-      "poster": "https://image.tmdb.org/t/p/w300/pvn9SbMq9q8wJXt3KAp9kP7pmpb.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/yDO1xRq4LOAv720xqJHHEVz5Sr9.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/12063/thumb/1782542154?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -6381,8 +6381,8 @@
       "tagline": "50% hero. 100% cotton.",
       "duration": 89,
       "genres": [
-        "Animation",
-        "Family"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Kevin Hart",
@@ -6392,7 +6392,7 @@
       "director": "David Soren",
       "studio": "DreamWorks Animation",
       "poster": "https://image.tmdb.org/t/p/w300/vKSmaPct5OEeMoD8ue30RisHlKD.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/328/thumb/1780389777?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/328/thumb/1785745746?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_12117",
@@ -6425,7 +6425,7 @@
       "tagline": "From this moment, everything will change.",
       "duration": 102,
       "genres": [
-        "Comedy",
+        "Family",
         "Animation"
       ],
       "cast": [
@@ -6436,7 +6436,7 @@
       "director": "Brian Fee",
       "studio": "Pixar",
       "poster": "https://image.tmdb.org/t/p/w300/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/329/thumb/1783064987?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/329/thumb/1785745746?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_12118",
@@ -6480,7 +6480,7 @@
       "director": "Randall Emmett",
       "studio": "Convergence Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/v3youHDLigrtIis1NqTjlY8Sk38.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/19788/thumb/1782980692?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/19788/thumb/1785652615?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3856",
@@ -6785,7 +6785,7 @@
       "director": "Shannon Hartman",
       "studio": "Chelsea Handler Productions",
       "poster": "https://image.tmdb.org/t/p/w300/92bo4Jp2YevmwXoxzGNtEMsgRRO.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/33513/thumb/1772096868?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/33513/thumb/1785652650?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3969",
@@ -6851,7 +6851,7 @@
       "director": "Edwin L. Marin",
       "studio": "Metro-Goldwyn-Mayer",
       "poster": "https://image.tmdb.org/t/p/w300/cvr7x3CjBMsHv2GptR0tcFddMSa.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1/thumb/1780389749?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1/thumb/1785745718?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_102",
@@ -6895,7 +6895,7 @@
       "director": "Clive Donner",
       "studio": "Entertainment Partners Ltd.",
       "poster": "https://image.tmdb.org/t/p/w300/m3T3iLdE6J5PrqvvP0XNHBvM2bm.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2/thumb/1780389750?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2/thumb/1785745719?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_135",
@@ -6907,7 +6907,7 @@
       "duration": 104,
       "genres": [
         "Comedy",
-        "Family"
+        "Fantasy"
       ],
       "cast": [
         "Darby Camp",
@@ -6917,7 +6917,7 @@
       "director": "Clay Kaytis",
       "studio": "1492 Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/5Il2EMSF2KecrUKZPuen6BZmaCP.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/135/thumb/1783064967?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/135/thumb/1785745728?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_12126",
@@ -6950,7 +6950,7 @@
       "tagline": "",
       "duration": 88,
       "genres": [
-        "Romance",
+        "Comedy",
         "Family"
       ],
       "cast": [
@@ -6961,7 +6961,7 @@
       "director": "Danny Salles",
       "studio": "Thriller Films",
       "poster": "https://image.tmdb.org/t/p/w300/gjRlM0MJsbvxg9jgXILoE9u4g98.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/136/thumb/1775024827?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/136/thumb/1785745728?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_90",
@@ -7004,7 +7004,7 @@
       "director": "Joe Roth",
       "studio": "Revolution Studios",
       "poster": "https://image.tmdb.org/t/p/w300/q866vL3KhAjbkZH1enT7AoxmRHx.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/11/thumb/1783064960?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/11/thumb/1785745721?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3972",
@@ -7147,8 +7147,8 @@
       "tagline": "Welcome to the frontline.",
       "duration": 109,
       "genres": [
-        "Action",
-        "War"
+        "War",
+        "Drama"
       ],
       "cast": [
         "Kirsten Dunst",
@@ -7158,7 +7158,7 @@
       "director": "Alex Garland",
       "studio": "DNA Films",
       "poster": "https://image.tmdb.org/t/p/w300/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/19825/thumb/1782980695?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/19825/thumb/1785652616?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3992",
@@ -7929,8 +7929,8 @@
       "tagline": "True love never dies.",
       "duration": 111,
       "genres": [
-        "Action",
-        "Thriller"
+        "Horror",
+        "Crime"
       ],
       "cast": [
         "Bill Skarsgård",
@@ -7939,8 +7939,8 @@
       ],
       "director": "Rupert Sanders",
       "studio": "Davis Films",
-      "poster": "https://image.tmdb.org/t/p/w300/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20966/thumb/1782980717?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "https://image.tmdb.org/t/p/w300/g8TbOXrNMuqq7AaKqdvqS2oG4ob.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20966/thumb/1785652637?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_12189",
@@ -8444,7 +8444,7 @@
       "director": "Shawn Levy",
       "studio": "Marvel Studios",
       "poster": "https://image.tmdb.org/t/p/w300/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20951/thumb/1782980714?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20951/thumb/1785652635?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4385",
@@ -8806,8 +8806,8 @@
       "tagline": "They're not bad. They're just born that way.",
       "duration": 112,
       "genres": [
-        "Action",
-        "Adventure"
+        "Family",
+        "Fantasy"
       ],
       "cast": [
         "Dove Cameron",
@@ -8817,7 +8817,7 @@
       "director": "Kenny Ortega",
       "studio": "Bad Angels Productions, Ltd.",
       "poster": "https://image.tmdb.org/t/p/w300/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/19826/thumb/1782980695?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/19826/thumb/1785652617?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4513",
@@ -8858,10 +8858,10 @@
         "Kristen Wiig",
         "Benjamin Bratt"
       ],
-      "director": "Pierre Coffin, Chris Renaud",
+      "director": "Chris Renaud, Pierre Coffin",
       "studio": "Illumination",
       "poster": "https://image.tmdb.org/t/p/w300/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/345/thumb/1783064988?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/345/thumb/1785745747?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_346",
@@ -8872,8 +8872,8 @@
       "tagline": "Oh brother.",
       "duration": 90,
       "genres": [
-        "Adventure",
-        "Action"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Steve Carell",
@@ -8883,7 +8883,7 @@
       "director": "Kyle Balda, Pierre Coffin",
       "studio": "Illumination",
       "poster": "https://image.tmdb.org/t/p/w300/6t3YWl7hrr88lCEFlGVqW5yV99R.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/346/thumb/1780389779?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/346/thumb/1785745747?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_20917",
@@ -8894,8 +8894,8 @@
       "tagline": "Things just got a little more despicable.",
       "duration": 94,
       "genres": [
-        "Animation",
-        "Adventure"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Steve Carell",
@@ -8905,7 +8905,7 @@
       "director": "Chris Renaud",
       "studio": "Universal Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20917/thumb/1782980713?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20917/thumb/1785652634?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4514",
@@ -9629,7 +9629,7 @@
       ],
       "director": "Terence Young",
       "studio": "EON Productions",
-      "poster": "https://image.tmdb.org/t/p/w300/f9HsemSsBEHN5eoMble1bj6fDxs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/9zCOLJmLNst0sCPZlkW1IRoH65E.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/6925/thumb/1784794130?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -9921,13 +9921,13 @@
       "id": "plex_21180",
       "title": "Drive-Away Dolls",
       "year": "2024",
-      "rating": 6.4,
+      "rating": 6.3,
       "summary": "Jamie regrets her breakup with her girlfriend, while Marian needs to relax. In search of a fresh start, they embark on an unexpected road trip to Tallahassee. Things quickly go awry when they cross paths with a group of inept criminals.",
       "tagline": "A story of two ladies going south.",
       "duration": 84,
       "genres": [
-        "Action",
-        "Comedy"
+        "Comedy",
+        "Crime"
       ],
       "cast": [
         "Margaret Qualley",
@@ -9937,7 +9937,7 @@
       "director": "Ethan Coen",
       "studio": "Focus Features",
       "poster": "https://image.tmdb.org/t/p/w300/6QPKmqntFgLm6sB47AtSelEGGPM.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/21180/thumb/1782980724?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/21180/thumb/1785652643?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_12301",
@@ -10023,7 +10023,7 @@
       ],
       "director": "Denis Villeneuve",
       "studio": "Legendary Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/v1tRXZ4JtD2Iv6fjkPvT4GiwslV.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/4830/thumb/1784361051?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -10386,8 +10386,8 @@
       "tagline": "There's a little magic in all of us...almost all of us.",
       "duration": 102,
       "genres": [
-        "Animation",
-        "Comedy"
+        "Children",
+        "Family"
       ],
       "cast": [
         "Stephanie Beatriz",
@@ -10397,7 +10397,7 @@
       "director": "Byron Howard, Jared Bush",
       "studio": "Walt Disney Animation Studios",
       "poster": "https://image.tmdb.org/t/p/w300/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/403/thumb/1780389780?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/403/thumb/1785745749?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4952",
@@ -10440,7 +10440,7 @@
       ],
       "director": "Gavin Hood",
       "studio": "Digital Domain",
-      "poster": "https://image.tmdb.org/t/p/w300/wgDlp3CT8SyLKJ52oFxrQONcw86.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/pVcRI5YKnkkgaAD876jBeKb189d.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/4955/thumb/1784704310?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -10527,7 +10527,7 @@
       ],
       "director": "Robert Clouse",
       "studio": "Concord Productions",
-      "poster": "https://image.tmdb.org/t/p/w300/fyrh2ULEcmLpGTVLPQqFW45hqr5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/zN7OOSARMLVzl9xJqkW2CcZ3xhY.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/4974/thumb/1782025973?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -10561,8 +10561,8 @@
       "tagline": "Discover a world beyond your imagination.",
       "duration": 102,
       "genres": [
-        "Action",
-        "Adventure"
+        "Family",
+        "Fantasy"
       ],
       "cast": [
         "Colin Farrell",
@@ -10572,7 +10572,7 @@
       "director": "Chris Wedge",
       "studio": "Blue Sky Studios",
       "poster": "https://image.tmdb.org/t/p/w300/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/430/thumb/1780389781?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/430/thumb/1785745749?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_12306",
@@ -11059,13 +11059,13 @@
       "id": "plex_19847",
       "title": "The Fall Guy",
       "year": "2024",
-      "rating": 8.2,
+      "rating": 8.1,
       "summary": "He's a stuntman, and like everyone in the stunt community, he gets blown up, shot, crashed, thrown through windows and dropped from the highest of heights, all for our entertainment. And now, fresh off an almost career-ending accident, this working-class hero has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job. What could possibly go right?",
       "tagline": "Fall hard.",
       "duration": 126,
       "genres": [
         "Action",
-        "Drama"
+        "Comedy"
       ],
       "cast": [
         "Ryan Gosling",
@@ -11075,7 +11075,7 @@
       "director": "David Leitch",
       "studio": "87North Productions",
       "poster": "https://image.tmdb.org/t/p/w300/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/19847/thumb/1782980698?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/19847/thumb/1785652619?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_5100",
@@ -11096,7 +11096,7 @@
       ],
       "director": "Scott Hicks",
       "studio": "Apex Entertainment",
-      "poster": "https://image.tmdb.org/t/p/w300/iEbLkYzyiUdOKNK4WNBFyGH7r2Y.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/sWGqNkWVr6JWL4grHFFGV3datuQ.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/5100/thumb/1784704319?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -11174,8 +11174,8 @@
       "tagline": "What if you made different choices? What if you said yes, instead of no? What if you got a second chance?",
       "duration": 126,
       "genres": [
-        "Drama",
-        "Comedy"
+        "Comedy",
+        "Drama"
       ],
       "cast": [
         "Nicolas Cage",
@@ -11185,7 +11185,7 @@
       "director": "Brett Ratner",
       "studio": "Beacon Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/9wToOVsKuf0XeKhlauzCa3D8Gui.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/21034/thumb/1782980720?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/21034/thumb/1785652640?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_471",
@@ -11196,7 +11196,7 @@
       "tagline": "The most sensational sound you'll ever see!",
       "duration": 124,
       "genres": [
-        "Fantasy",
+        "Family",
         "Animation"
       ],
       "cast": [
@@ -11204,10 +11204,10 @@
         "Walt Disney",
         "Julietta Novis"
       ],
-      "director": "Wilfred Jackson, Bill Roberts, Paul Satterfield",
+      "director": "Samuel Armstrong, James Algar, Bill Roberts",
       "studio": "Walt Disney Productions",
       "poster": "https://image.tmdb.org/t/p/w300/5m9njnidjR0syG2gpVPVgcEMB2X.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/471/thumb/1783064991?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/471/thumb/1785745750?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_472",
@@ -11218,8 +11218,8 @@
       "tagline": "Featuring Seven new Sequences plus \"The Sorcerer's Apprentice\"",
       "duration": 75,
       "genres": [
-        "Musical",
-        "Animation"
+        "Family",
+        "Fantasy"
       ],
       "cast": [
         "Steve Martin",
@@ -11229,7 +11229,7 @@
       "director": "James Algar, Gaëtan Brizzi, Pixote Hunt",
       "studio": "Walt Disney Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/5rwAtUaKEK48CPUijVfVU0IPKPZ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/472/thumb/1783064991?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/472/thumb/1785745750?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_5106",
@@ -11447,7 +11447,7 @@
       ],
       "director": "Justin Lin",
       "studio": "Universal Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/lUtVoRukW7WNtUySwd8hWlByBds.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/6nDZExrDKIXvSAghsFKVFRVJuSf.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/5222/thumb/1784704323?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -11557,7 +11557,7 @@
       ],
       "director": "Amy Heckerling",
       "studio": "Refugee Films",
-      "poster": "https://image.tmdb.org/t/p/w300/s1DA8H7qwoOcAEhow2rCzuQtpuO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/e15rmfjf0m6EGLe4MnNhwD3Dd1W.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/5252/thumb/1782025989?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -11624,7 +11624,7 @@
       "director": "Mick Davis, Philippe Martinez",
       "studio": "MSR Media",
       "poster": "https://image.tmdb.org/t/p/w300/mI6mFCO3lrJ4ovzwfmoLs58uhlK.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/29/thumb/1783064961?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/29/thumb/1785745722?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_5321",
@@ -11874,18 +11874,18 @@
       "tagline": "An unforgettable journey she probably won't remember.",
       "duration": 97,
       "genres": [
-        "Animation",
-        "Family"
+        "Family",
+        "Animation"
       ],
       "cast": [
-        "Albert Brooks",
         "Ellen DeGeneres",
+        "Albert Brooks",
         "Ed O'Neill"
       ],
       "director": "Andrew Stanton",
       "studio": "Pixar",
       "poster": "https://image.tmdb.org/t/p/w300/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/511/thumb/1783064992?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/511/thumb/1785745751?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_12432",
@@ -12139,7 +12139,7 @@
       "duration": 91,
       "genres": [
         "Thriller",
-        "Drama"
+        "Action"
       ],
       "cast": [
         "Mark Wahlberg",
@@ -12149,7 +12149,7 @@
       "director": "Mel Gibson",
       "studio": "Davis Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/q0bCG4NX32iIEsRFZqRtuvzNCyZ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/21174/thumb/1782980724?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/21174/thumb/1785652643?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_19697",
@@ -12204,8 +12204,8 @@
       "tagline": "Someone's going down",
       "duration": 81,
       "genres": [
-        "Family",
-        "Action"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Hugh Jackman",
@@ -12215,7 +12215,7 @@
       "director": "David Bowers, Sam Fell",
       "studio": "DreamWorks Animation",
       "poster": "https://image.tmdb.org/t/p/w300/kgoZI4xh38RrEYEPVib6a12UPLn.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/532/thumb/1783064992?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/532/thumb/1785745751?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_12460",
@@ -12259,7 +12259,7 @@
       "director": "Greg Berlanti",
       "studio": "These Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/gjk8YdXpItoC1in53FCrZMFIuBx.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20894/thumb/1782980712?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20894/thumb/1785652633?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_5511",
@@ -12545,7 +12545,7 @@
       "director": "Seth Gordon",
       "studio": "Spyglass Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/zixj44TC7rwzpxtJAG5OzFJnEqe.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/30/thumb/1783064962?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/30/thumb/1785745723?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_12534",
@@ -12600,8 +12600,8 @@
       "tagline": "The greatest turkey movie of all time.",
       "duration": 91,
       "genres": [
-        "Animation",
-        "Comedy"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Owen Wilson",
@@ -12611,7 +12611,7 @@
       "director": "Jimmy Hayward",
       "studio": "Reel FX Creative Studios",
       "poster": "https://image.tmdb.org/t/p/w300/gnSU2wUBq2gTkBEkxY8C1d1fXAQ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/533/thumb/1783064993?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/533/thumb/1785745752?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_5608",
@@ -12776,8 +12776,8 @@
       "tagline": "Who will save the day? The ice guy? The nice guy? The snow man? Or no man?",
       "duration": 102,
       "genres": [
-        "Adventure",
-        "Animation"
+        "Children",
+        "Family"
       ],
       "cast": [
         "Idina Menzel",
@@ -12787,7 +12787,7 @@
       "director": "Chris Buck, Jennifer Lee",
       "studio": "Walt Disney Animation Studios",
       "poster": "https://image.tmdb.org/t/p/w300/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/534/thumb/1783064993?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/534/thumb/1785745752?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1519",
@@ -12798,8 +12798,8 @@
       "tagline": "",
       "duration": 8,
       "genres": [
-        "Animation",
-        "Adventure"
+        "Family",
+        "Fantasy"
       ],
       "cast": [
         "Kristen Bell",
@@ -12809,7 +12809,7 @@
       "director": "Chris Buck, Jennifer Lee",
       "studio": "Walt Disney Animation Studios",
       "poster": "https://image.tmdb.org/t/p/w300/mPrDJ7puYzPLG5kPM96iNszF2sM.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1519/thumb/1783065000?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1519/thumb/1785745759?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_565",
@@ -12820,8 +12820,8 @@
       "tagline": "The past is not what it seems.",
       "duration": 104,
       "genres": [
-        "Adventure",
-        "Animation"
+        "Family",
+        "Fantasy"
       ],
       "cast": [
         "Idina Menzel",
@@ -12831,7 +12831,7 @@
       "director": "Jennifer Lee, Chris Buck",
       "studio": "Walt Disney Animation Studios",
       "poster": "https://image.tmdb.org/t/p/w300/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/565/thumb/1783064994?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/565/thumb/1785745753?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_5614",
@@ -13175,7 +13175,7 @@
       ],
       "director": "Adrian Grünberg",
       "studio": "Icon Productions",
-      "poster": "https://image.tmdb.org/t/p/w300/y4IACuEUGkygp2QsZPUEMY5Tlft.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/sLzL1xG6JgVEEQ4DqSJpnJw3D2A.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/5747/thumb/1784704344?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -13297,8 +13297,8 @@
       "tagline": "It'll send a chill down your spine.",
       "duration": 117,
       "genres": [
-        "Fantasy",
-        "Adventure"
+        "Comedy",
+        "Science Fiction"
       ],
       "cast": [
         "Mckenna Grace",
@@ -13308,7 +13308,7 @@
       "director": "Gil Kenan",
       "studio": "Ghost Corps",
       "poster": "https://image.tmdb.org/t/p/w300/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/19789/thumb/1782980693?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/19789/thumb/1785652615?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_5857",
@@ -13506,7 +13506,7 @@
       "director": "Ridley Scott",
       "studio": "Paramount Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/21121/thumb/1782980722?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/21121/thumb/1785652642?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_5916",
@@ -13571,7 +13571,7 @@
       ],
       "director": "Francis Ford Coppola",
       "studio": "Paramount Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/ecBRkXerAZqRRUfR8Lt3L3Dh6J5.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/12644/thumb/1782628679?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -13671,8 +13671,8 @@
       "tagline": "Rise together or fall alone.",
       "duration": 115,
       "genres": [
-        "Action",
-        "Adventure"
+        "Science Fiction",
+        "Fantasy"
       ],
       "cast": [
         "Rebecca Hall",
@@ -13682,7 +13682,7 @@
       "director": "Adam Wingard",
       "studio": "Legendary Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/19790/thumb/1782980694?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/19790/thumb/1785652616?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_5920",
@@ -13835,7 +13835,7 @@
       ],
       "director": "Guy Hamilton",
       "studio": "EON Productions",
-      "poster": "https://image.tmdb.org/t/p/w300/aKNFzaqQgPzsGXnsMc4kJH5hFIV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/3zqmjujYSkgLSrdvvZ9VnDfaDRV.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/6955/thumb/1784794132?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -14186,9 +14186,9 @@
         "Ralph Richardson"
       ],
       "director": "Hugh Hudson",
-      "studio": "Edgar Rice Burroughs Inc.",
+      "studio": "Edgar Rice Burroughs",
       "poster": "https://image.tmdb.org/t/p/w300/rdtEIdzqJTVhSLsjuR4U9t1KKxp.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20963/thumb/1782980716?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20963/thumb/1785652636?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6054",
@@ -14461,7 +14461,7 @@
       "tagline": "Love will give you life.",
       "duration": 105,
       "genres": [
-        "Animation",
+        "Family",
         "Fantasy"
       ],
       "cast": [
@@ -14472,7 +14472,7 @@
       "director": "Mark Gustafson, Guillermo del Toro",
       "studio": "The Jim Henson Company",
       "poster": "https://image.tmdb.org/t/p/w300/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/21278/thumb/1782980728?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/21278/thumb/1785652649?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_12768",
@@ -14730,7 +14730,7 @@
       "cast": [],
       "director": "Soyeon Kim",
       "studio": "",
-      "poster": "https://image.tmdb.org/t/p/w300/mBBBXseq4k4dI63k06XIrsc02j8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/j343Rpj3WeNvP0SV80zveve70io.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/6208/thumb/1709509307?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -14808,7 +14808,7 @@
       "tagline": "Something evil has returned to Hogwarts!",
       "duration": 161,
       "genres": [
-        "Adventure",
+        "Family",
         "Fantasy"
       ],
       "cast": [
@@ -14819,7 +14819,7 @@
       "director": "Chris Columbus",
       "studio": "Warner Bros. Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20108/thumb/1782980699?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20108/thumb/1785652620?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_20247",
@@ -14841,7 +14841,7 @@
       "director": "David Yates",
       "studio": "Warner Bros. Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20247/thumb/1782980700?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20247/thumb/1785652621?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_20248",
@@ -14863,7 +14863,7 @@
       "director": "David Yates",
       "studio": "Warner Bros. Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20248/thumb/1782980700?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20248/thumb/1785652621?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_20249",
@@ -14874,7 +14874,7 @@
       "tagline": "Dark and difficult times lie ahead.",
       "duration": 157,
       "genres": [
-        "Adventure",
+        "Family",
         "Fantasy"
       ],
       "cast": [
@@ -14885,7 +14885,7 @@
       "director": "Mike Newell",
       "studio": "Warner Bros. Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20249/thumb/1782980701?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20249/thumb/1785652622?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_20250",
@@ -14896,8 +14896,8 @@
       "tagline": "Dark secrets revealed.",
       "duration": 154,
       "genres": [
-        "Adventure",
-        "Action"
+        "Family",
+        "Fantasy"
       ],
       "cast": [
         "Daniel Radcliffe",
@@ -14907,7 +14907,7 @@
       "director": "David Yates",
       "studio": "Warner Bros. Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20250/thumb/1782980701?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20250/thumb/1785652622?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39267",
@@ -14918,8 +14918,8 @@
       "tagline": "The rebellion begins.",
       "duration": 138,
       "genres": [
-        "Adventure",
-        "Action"
+        "Family",
+        "Fantasy"
       ],
       "cast": [
         "Daniel Radcliffe",
@@ -14929,7 +14929,7 @@
       "director": "David Yates",
       "studio": "Warner Bros. Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/39267/thumb/1782980730?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/39267/thumb/1785652650?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_20280",
@@ -14940,7 +14940,7 @@
       "tagline": "Something wicked this way comes.",
       "duration": 142,
       "genres": [
-        "Adventure",
+        "Family",
         "Fantasy"
       ],
       "cast": [
@@ -14951,7 +14951,7 @@
       "director": "Alfonso Cuarón",
       "studio": "Warner Bros. Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20280/thumb/1782980702?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20280/thumb/1785652623?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_20086",
@@ -15116,8 +15116,8 @@
       "tagline": "From the dark side to our side.",
       "duration": 132,
       "genres": [
-        "Fantasy",
-        "Action"
+        "Action",
+        "Adventure"
       ],
       "cast": [
         "Ron Perlman",
@@ -15127,7 +15127,7 @@
       "director": "Guillermo del Toro",
       "studio": "Revolution Studios",
       "poster": "https://image.tmdb.org/t/p/w300/lbaTEneOofwvAyg77R8HbFML2zT.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/19832/thumb/1782980696?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/19832/thumb/1785652617?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6221",
@@ -15226,8 +15226,8 @@
       "tagline": "Coming from a crayon box near you",
       "duration": 77,
       "genres": [
-        "Animation",
-        "Family"
+        "Family",
+        "Animation"
       ],
       "cast": [
         "Christina Ricci",
@@ -15237,7 +15237,7 @@
       "director": "Frank Gladstone",
       "studio": "Exodus Film Group",
       "poster": "https://image.tmdb.org/t/p/w300/r43IegMrhoVGnyD0NM1wYlmaflc.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1260/thumb/1783411066?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1260/thumb/1786086134?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6239",
@@ -15435,7 +15435,7 @@
       "director": "Ron Howard",
       "studio": "Imagine Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/aA0D6DKIfLtXYNy94Qq2IW5NiGR.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20750/thumb/1782980706?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20750/thumb/1785652627?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6304",
@@ -15456,7 +15456,7 @@
       ],
       "director": "Mel Brooks",
       "studio": "Brooksfilms",
-      "poster": "https://image.tmdb.org/t/p/w300/6iAl78qZHT65erPXr2YW6Y54wlY.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/1bMaEfI76yrGjCSDquCippAFIDI.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/6304/thumb/1784794104?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -15501,7 +15501,7 @@
       "director": "Richard Linklater",
       "studio": "Aggregate Films",
       "poster": "https://image.tmdb.org/t/p/w300/oil3EZwKFp3CWxZnfGfGglesvm9.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20454/thumb/1782980703?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20454/thumb/1785652624?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6318",
@@ -15732,8 +15732,8 @@
       "tagline": "Earth just got a little stranger.",
       "duration": 94,
       "genres": [
-        "Animation",
-        "Fantasy"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Jim Parsons",
@@ -15743,7 +15743,7 @@
       "director": "Tim Johnson",
       "studio": "DreamWorks Animation",
       "poster": "https://image.tmdb.org/t/p/w300/usFenYnk6mr8C62dB1MoAfSWMGR.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/566/thumb/1783064994?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/566/thumb/1785745753?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6326",
@@ -15809,7 +15809,7 @@
       "director": "Chris Columbus",
       "studio": "20th Century Fox",
       "poster": "https://image.tmdb.org/t/p/w300/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/44/thumb/1783064962?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/44/thumb/1785745723?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_46",
@@ -15831,7 +15831,7 @@
       "director": "Dan Mazer",
       "studio": "20th Century Studios",
       "poster": "https://image.tmdb.org/t/p/w300/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/46/thumb/1780389754?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/46/thumb/1785745724?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6359",
@@ -16040,18 +16040,18 @@
       "tagline": "They're back to raise a little terror.",
       "duration": 89,
       "genres": [
-        "Animation",
-        "Comedy"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Adam Sandler",
-        "Andy Samberg",
-        "Selena Gomez"
+        "Selena Gomez",
+        "Andy Samberg"
       ],
       "director": "Genndy Tartakovsky",
       "studio": "Columbia Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/3nFnrivNgipSKZ8LZJJbRSlAcTR.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/595/thumb/1783064995?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/595/thumb/1785745754?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_622",
@@ -16067,13 +16067,13 @@
       ],
       "cast": [
         "Adam Sandler",
-        "Andy Samberg",
+        "Kathryn Hahn",
         "Selena Gomez"
       ],
       "director": "Genndy Tartakovsky",
       "studio": "Columbia Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/lzE5BwGQea1nek7TPXUuC5AZ6rq.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/622/thumb/1783064995?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/622/thumb/1785745754?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_635",
@@ -16084,18 +16084,18 @@
       "tagline": "Change can be scary.",
       "duration": 88,
       "genres": [
-        "Animation",
-        "Adventure"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Andy Samberg",
         "Selena Gomez",
         "Kathryn Hahn"
       ],
-      "director": "Derek Drymon, Jennifer Kluska",
+      "director": "Jennifer Kluska, Derek Drymon",
       "studio": "Sony Pictures Animation",
       "poster": "https://image.tmdb.org/t/p/w300/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/635/thumb/1783064996?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/635/thumb/1785745755?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_636",
@@ -16106,18 +16106,18 @@
       "tagline": "Where monsters go to get away from it all.",
       "duration": 92,
       "genres": [
-        "Animation",
-        "Comedy"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
+        "Selena Gomez",
         "Adam Sandler",
-        "Andy Samberg",
-        "Selena Gomez"
+        "Andy Samberg"
       ],
       "director": "Genndy Tartakovsky",
       "studio": "Columbia Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/636/thumb/1783064996?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/636/thumb/1785745755?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6437",
@@ -16194,8 +16194,8 @@
       "tagline": "You're a mean one, Mr. Grinch.",
       "duration": 26,
       "genres": [
-        "Animation",
-        "Family"
+        "Family",
+        "Animation"
       ],
       "cast": [
         "Boris Karloff",
@@ -16205,7 +16205,7 @@
       "director": "Chuck Jones",
       "studio": "The Cat in the Hat Productions",
       "poster": "https://image.tmdb.org/t/p/w300/7ir0iRuPK9OEuH569cp0nF5CJce.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/47/thumb/1783064963?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/47/thumb/1785745724?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6455",
@@ -16260,18 +16260,18 @@
       "tagline": "What started as fire and fury will become friendship.",
       "duration": 98,
       "genres": [
-        "Fantasy",
-        "Action"
+        "Family",
+        "Animation"
       ],
       "cast": [
         "Jay Baruchel",
         "Gerard Butler",
         "Craig Ferguson"
       ],
-      "director": "Chris Sanders, Dean DeBlois",
+      "director": "Dean DeBlois, Chris Sanders",
       "studio": "DreamWorks Animation",
       "poster": "https://image.tmdb.org/t/p/w300/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/688/thumb/1783064997?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/688/thumb/1785745756?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_637",
@@ -16282,8 +16282,8 @@
       "tagline": "Training is over. The adventure begins.",
       "duration": 102,
       "genres": [
-        "Action",
-        "Adventure"
+        "Family",
+        "Fantasy"
       ],
       "cast": [
         "Jay Baruchel",
@@ -16293,7 +16293,7 @@
       "director": "Dean DeBlois",
       "studio": "DreamWorks Animation",
       "poster": "https://image.tmdb.org/t/p/w300/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/637/thumb/1780389787?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/637/thumb/1785745756?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6463",
@@ -16535,7 +16535,7 @@
       "director": "Irene Taylor",
       "studio": "Sony Music Entertainment Canada",
       "poster": "https://image.tmdb.org/t/p/w300/v0zvMBdwzgSAj9xCufxDuq1WoJO.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20458/thumb/1782980704?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20458/thumb/1785652625?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6490",
@@ -16678,8 +16678,8 @@
       "tagline": "They’re going out with a bang.",
       "duration": 94,
       "genres": [
-        "Family",
-        "Comedy"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Ray Romano",
@@ -16689,7 +16689,7 @@
       "director": "Michael Thurmeier",
       "studio": "Blue Sky Studios",
       "poster": "https://image.tmdb.org/t/p/w300/okF78W1AcXAenlYFE3vna9Uuqjp.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/689/thumb/1783064998?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/689/thumb/1785745757?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6537",
@@ -16766,8 +16766,8 @@
       "tagline": "A story you have to believe to see.",
       "duration": 107,
       "genres": [
-        "Comedy",
-        "Fantasy"
+        "Drama",
+        "Family"
       ],
       "cast": [
         "Cailey Fleming",
@@ -16777,7 +16777,7 @@
       "director": "John Krasinski",
       "studio": "Paramount Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20461/thumb/1782980704?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20461/thumb/1785652625?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_19353",
@@ -16919,8 +16919,8 @@
       "tagline": "It's been too long, dahlings.",
       "duration": 118,
       "genres": [
-        "Action",
-        "Adventure"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Craig T. Nelson",
@@ -16930,7 +16930,7 @@
       "director": "Brad Bird",
       "studio": "Pixar",
       "poster": "https://image.tmdb.org/t/p/w300/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/690/thumb/1780389789?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/690/thumb/1785745757?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6564",
@@ -17380,8 +17380,8 @@
       "tagline": "Loyalty has a scent. And it smells like rebellion.",
       "duration": 101,
       "genres": [
-        "Comedy",
-        "Animation"
+        "Animation",
+        "Adventure"
       ],
       "cast": [
         "Bryan Cranston",
@@ -17391,7 +17391,7 @@
       "director": "Wes Anderson",
       "studio": "Studio Babelsberg",
       "poster": "https://image.tmdb.org/t/p/w300/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/712/thumb/1783064999?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/712/thumb/1785745758?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6802",
@@ -17468,8 +17468,8 @@
       "tagline": "He's the world's coolest dad and he's gonna prove it.",
       "duration": 101,
       "genres": [
-        "Family",
-        "Fantasy"
+        "Comedy",
+        "Family"
       ],
       "cast": [
         "Michael Keaton",
@@ -17479,7 +17479,7 @@
       "director": "Troy Miller",
       "studio": "The Canton Company",
       "poster": "https://image.tmdb.org/t/p/w300/tdSyQJe7vEDcH9kEVqzVcr0O9lS.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/80/thumb/1783064964?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/80/thumb/1785745724?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6842",
@@ -17822,7 +17822,7 @@
       "director": "Brian Levant",
       "studio": "1492 Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/81/thumb/1780389756?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/81/thumb/1785745725?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_7018",
@@ -17877,8 +17877,8 @@
       "tagline": "Bravery Comes In All Sizes",
       "duration": 80,
       "genres": [
-        "Animation",
-        "Adventure"
+        "Comedy",
+        "Family"
       ],
       "cast": [
         "Bryan Adams",
@@ -17887,8 +17887,8 @@
       ],
       "director": "Duncan MacNeillie",
       "studio": "Jock Animation",
-      "poster": "http://192.168.68.200:32400/library/metadata/740/thumb/1777791156?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/740/thumb/1777791156?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.200:32400/library/metadata/740/thumb/1785828627?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/740/thumb/1785828627?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_7079",
@@ -18009,8 +18009,8 @@
       "tagline": "The world is a stage.",
       "duration": 138,
       "genres": [
-        "Crime",
-        "Drama"
+        "Drama",
+        "Crime"
       ],
       "cast": [
         "Joaquin Phoenix",
@@ -18020,7 +18020,7 @@
       "director": "Todd Phillips",
       "studio": "Warner Bros. Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/if8QiqCI7WAGImKcJCfzp6VTyKA.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/21118/thumb/1782980721?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/21118/thumb/1785652641?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_21280",
@@ -18031,8 +18031,8 @@
       "tagline": "Revenge gets ugly.",
       "duration": 82,
       "genres": [
-        "Action",
-        "Western"
+        "Western",
+        "Action"
       ],
       "cast": [
         "Josh Brolin",
@@ -18042,7 +18042,7 @@
       "director": "Jimmy Hayward",
       "studio": "Warner Bros. Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/xwAdu0lOO2Y5sXjK87glhJg3c6r.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/21280/thumb/1782980728?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/21280/thumb/1785652649?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_7167",
@@ -18275,8 +18275,8 @@
       ],
       "director": "",
       "studio": "DQ Entertainment",
-      "poster": "http://192.168.68.200:32400/library/metadata/1290/thumb/1783411066?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1290/thumb/1783411066?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.200:32400/library/metadata/1290/thumb/1786086134?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1290/thumb/1786086134?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_7215",
@@ -18319,7 +18319,7 @@
       ],
       "director": "Steven Spielberg",
       "studio": "Universal Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/b1xCNnyrPebIc7EWNZIa6jhb1Ww.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/19698/thumb/1782891714?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -18430,7 +18430,7 @@
       "director": "Lisa Gottlieb",
       "studio": "Triton",
       "poster": "https://image.tmdb.org/t/p/w300/7ffvsRv8ueYYK0H3zocmNRPd8yN.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/19840/thumb/1782980696?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/19840/thumb/1785652618?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_7252",
@@ -18485,8 +18485,8 @@
       "tagline": "",
       "duration": 96,
       "genres": [
-        "Animation",
-        "Adventure"
+        "Family",
+        "Fantasy"
       ],
       "cast": [
         "Saoirse Ronan",
@@ -18496,7 +18496,7 @@
       "director": "Manuel Sicilia",
       "studio": "Audiovisual Aval SGR",
       "poster": "https://image.tmdb.org/t/p/w300/z6GrOTKOazrLnHQWVrN1pA082qi.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/772/thumb/1780471156?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/772/thumb/1785828628?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_7396",
@@ -19046,7 +19046,7 @@
       "director": "Mark Osborne, John Stevenson",
       "studio": "DreamWorks Animation",
       "poster": "https://image.tmdb.org/t/p/w300/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/774/thumb/1783152172?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/774/thumb/1785828628?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_773",
@@ -19057,8 +19057,8 @@
       "tagline": "The future of Kung Fu hangs in balance.",
       "duration": 90,
       "genres": [
-        "Action",
-        "Adventure"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Jack Black",
@@ -19068,7 +19068,7 @@
       "director": "Jennifer Yuh Nelson",
       "studio": "DreamWorks Animation",
       "poster": "https://image.tmdb.org/t/p/w300/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/773/thumb/1777791157?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/773/thumb/1785828628?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_816",
@@ -19079,8 +19079,8 @@
       "tagline": "Grab destiny by the dumplings.",
       "duration": 95,
       "genres": [
-        "Animation",
-        "Action"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Jack Black",
@@ -19090,19 +19090,19 @@
       "director": "Jennifer Yuh Nelson, Alessandro Carloni",
       "studio": "DreamWorks Animation",
       "poster": "https://image.tmdb.org/t/p/w300/oajNi4Su39WAByHI6EONu8G8HYn.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/816/thumb/1780471158?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/816/thumb/1785828629?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_20953",
       "title": "Kung Fu Panda 4",
       "year": "2024",
-      "rating": null,
+      "rating": 7.1,
       "summary": "After Po is tapped to become the Spiritual Leader of the Valley of Peace, he needs to find and train a new Dragon Warrior, while a wicked sorceress plans to re-summon all the master villains whom Po has vanquished to the spirit realm.",
       "tagline": "The “Dragon” returns.",
       "duration": 94,
       "genres": [
-        "Animation",
-        "Action"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Jack Black",
@@ -19112,7 +19112,7 @@
       "director": "Mike Mitchell",
       "studio": "DreamWorks Animation",
       "poster": "https://image.tmdb.org/t/p/w300/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20953/thumb/1782980715?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20953/thumb/1785652635?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_13116",
@@ -19264,7 +19264,7 @@
       ],
       "director": "Jan de Bont",
       "studio": "Paramount Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/g8ucmMzh58MBGl5BpFhmnSjfWR0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/ylIEGeAr2ygSClK4FDj9mi2Ah22.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/7603/thumb/1784875636?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -19673,7 +19673,7 @@
       "director": "Eric Summer, Éric Warin",
       "studio": "Main Journey",
       "poster": "https://image.tmdb.org/t/p/w300/z3rMbQ0BQRdV1DkBn0pS7iN3e5L.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/817/thumb/1783152173?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/817/thumb/1785828629?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_7619",
@@ -20036,8 +20036,8 @@
       "tagline": "Infinity awaits.",
       "duration": 105,
       "genres": [
-        "Animation",
-        "Action"
+        "Family",
+        "Science Fiction"
       ],
       "cast": [
         "Chris Evans",
@@ -20046,8 +20046,8 @@
       ],
       "director": "Angus MacLane",
       "studio": "Pixar",
-      "poster": "https://image.tmdb.org/t/p/w300/b9t3w1loraDh7hjdWmpc9ZsaYns.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/819/thumb/1780471159?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "https://image.tmdb.org/t/p/w300/ox4goZd956BxqJH6iLwhWPL9ct4.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/819/thumb/1785828631?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_7727",
@@ -20091,7 +20091,7 @@
       "director": "Howy Parkins",
       "studio": "Disney Television Animation",
       "poster": "https://image.tmdb.org/t/p/w300/pzcQ7cQBHIdsKLN4exd7bCyy1pk.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1437/thumb/1780734533?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1437/thumb/1786086138?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_18784",
@@ -20618,7 +20618,7 @@
       ],
       "director": "Steven Spielberg",
       "studio": "Universal Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/ss6cqHQc72eCsXrvne11XVZs3bR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/7st3JW0xpMAkwB3dYfv3iqAwD8Y.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/13390/thumb/1785311756?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -20740,8 +20740,8 @@
       "tagline": "Prepare for an unforgettable trip.",
       "duration": 95,
       "genres": [
-        "Animation",
-        "Adventure"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Jacob Tremblay",
@@ -20751,7 +20751,7 @@
       "director": "Enrico Casarosa",
       "studio": "Pixar",
       "poster": "https://image.tmdb.org/t/p/w300/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/820/thumb/1783152174?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/820/thumb/1785828631?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_7934",
@@ -20861,7 +20861,7 @@
       "director": "Eric Darnell, Tom McGrath",
       "studio": "Pacific Data Images",
       "poster": "https://image.tmdb.org/t/p/w300/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/836/thumb/1783152175?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/836/thumb/1785828632?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_835",
@@ -20883,7 +20883,7 @@
       "director": "Eric Darnell, Tom McGrath, Conrad Vernon",
       "studio": "DreamWorks Animation",
       "poster": "https://image.tmdb.org/t/p/w300/ekraj4ksvIKeuvQVEevEJkuybZd.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/835/thumb/1775110313?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/835/thumb/1785828632?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_18809",
@@ -21234,7 +21234,7 @@
       ],
       "director": "Ridley Scott",
       "studio": "Genre Films",
-      "poster": "https://image.tmdb.org/t/p/w300/pjYWdykADVLTCh5g475RnI2hWIN.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/fASz8A0yFE3QB6LgGoOfwvFSseV.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/13474/thumb/1782720405?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -21864,7 +21864,7 @@
       "director": "Tristram Shapeero",
       "studio": "Sycamore Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/yiBwooPaWWPI0Q3B8XqvY6AJn3L.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3/thumb/1780389750?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3/thumb/1785745719?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_8303",
@@ -21919,7 +21919,7 @@
       "tagline": "All for fun and fun for all",
       "duration": 68,
       "genres": [
-        "Adventure",
+        "Comedy",
         "Animation"
       ],
       "cast": [
@@ -21930,7 +21930,7 @@
       "director": "Donovan Cook",
       "studio": "DisneyToon Studios",
       "poster": "https://image.tmdb.org/t/p/w300/23bvOwfOS9fw347Yc68yPpkmd8i.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/887/thumb/1783152176?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/887/thumb/1785828633?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_8309",
@@ -22513,7 +22513,7 @@
       "tagline": "Before they were incorporated, they had to be educated.",
       "duration": 104,
       "genres": [
-        "Family",
+        "Comedy",
         "Animation"
       ],
       "cast": [
@@ -22524,7 +22524,7 @@
       "director": "Dan Scanlon",
       "studio": "Pixar",
       "poster": "https://image.tmdb.org/t/p/w300/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/888/thumb/1783152176?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/888/thumb/1785828633?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_7726",
@@ -22907,8 +22907,8 @@
       "tagline": "History is catching up with them.",
       "duration": 92,
       "genres": [
-        "Animation",
-        "Adventure"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Ty Burrell",
@@ -22918,7 +22918,7 @@
       "director": "Rob Minkoff",
       "studio": "Pacific Data Images",
       "poster": "https://image.tmdb.org/t/p/w300/hPcImYndWESKHzT2GHVCDsUxzYg.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/923/thumb/1783065000?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/923/thumb/1785745758?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_8660",
@@ -23224,7 +23224,7 @@
       "director": "Joel Zwick",
       "studio": "Gold Circle Films",
       "poster": "https://image.tmdb.org/t/p/w300/ztc05ym0T3stnBpRHdxEs3Zwsmp.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20755/thumb/1782980706?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20755/thumb/1785652627?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_8732",
@@ -23826,8 +23826,8 @@
       "tagline": "Bear to be different",
       "duration": 91,
       "genres": [
-        "Family",
-        "Adventure"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Rob Schneider",
@@ -23837,7 +23837,7 @@
       "director": "Trevor Wall",
       "studio": "Lionsgate",
       "poster": "https://image.tmdb.org/t/p/w300/ouaoVSV7aOSWTNnQ9iDA1jw0pgg.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/945/thumb/1783152177?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/945/thumb/1785828634?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_13666",
@@ -24041,13 +24041,13 @@
       "id": "plex_1317",
       "title": "The Nut Job",
       "year": "2014",
-      "rating": 1.3,
+      "rating": 1.2,
       "summary": "Surly, a curmudgeon, independent squirrel is banished from his park and forced to survive in the city. Lucky for him, he stumbles on the one thing that may be able to save his life, and the rest of park community, as they gear up for winter - Maury's Nut Store.",
       "tagline": "No nuts, no glory.",
       "duration": 86,
       "genres": [
-        "Animation",
-        "Comedy"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Will Arnett",
@@ -24057,7 +24057,7 @@
       "director": "Peter Lepeniotis",
       "studio": "GulfStream Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/4iHnGlmOjAj2k5zUftYDIzSITCf.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1317/thumb/1780734528?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1317/thumb/1786086134?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_13703",
@@ -24702,8 +24702,8 @@
       "tagline": "NY's finest were busy.",
       "duration": 116,
       "genres": [
-        "Action",
-        "Comedy"
+        "Comedy",
+        "Crime"
       ],
       "cast": [
         "Will Ferrell",
@@ -24713,7 +24713,7 @@
       "director": "Adam McKay",
       "studio": "Columbia Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/wNEHNqo3MgHmj3BUiPSqqq5czcm.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20823/thumb/1782980711?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20823/thumb/1785652632?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_13767",
@@ -25336,8 +25336,8 @@
       "tagline": "The movie event that will blow their cover.",
       "duration": 119,
       "genres": [
-        "Animation",
-        "Family"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Tom McGrath",
@@ -25347,7 +25347,7 @@
       "director": "Simon J. Smith, Eric Darnell",
       "studio": "DreamWorks Animation",
       "poster": "https://image.tmdb.org/t/p/w300/dXbpNrPDZDMEbujFoOxmMNQVMHa.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/956/thumb/1780471162?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/956/thumb/1785828634?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_9322",
@@ -25463,13 +25463,13 @@
       "id": "plex_957",
       "title": "Peter Rabbit",
       "year": "2018",
-      "rating": null,
+      "rating": 6.3,
       "summary": "A rabbit sneaks into a garden to steal food, and they get a new challenge with a new owner.",
       "tagline": "Who said the countryside was peaceful?",
       "duration": 95,
       "genres": [
-        "Animation",
-        "Comedy"
+        "Comedy",
+        "Family"
       ],
       "cast": [
         "James Corden",
@@ -25479,7 +25479,7 @@
       "director": "Will Gluck",
       "studio": "Columbia Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/lugOvdaNpbVGQK9TyMRDiUbLtY6.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/957/thumb/1783411056?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/957/thumb/1786086125?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_9347",
@@ -25776,8 +25776,8 @@
       "tagline": "When others fly out, heroes fly in.",
       "duration": 84,
       "genres": [
-        "Animation",
-        "Comedy"
+        "Family",
+        "Animation"
       ],
       "cast": [
         "Ed Harris",
@@ -25787,7 +25787,7 @@
       "director": "Bobs Gannaway",
       "studio": "Disney Television Animation",
       "poster": "https://image.tmdb.org/t/p/w300/pOmteFeBDI9FJOPTDvYJYFeAtdp.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/958/thumb/1783411056?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/958/thumb/1786086126?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_9511",
@@ -26173,7 +26173,7 @@
       "duration": 97,
       "genres": [
         "Family",
-        "Romance"
+        "Musical"
       ],
       "cast": [
         "Anika Noni Rose",
@@ -26183,7 +26183,7 @@
       "director": "Ron Clements, John Musker",
       "studio": "Walt Disney Animation Studios",
       "poster": "https://image.tmdb.org/t/p/w300/yprv5PbnEksoVj2v6XEnDBg9joR.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1352/thumb/1783411068?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1352/thumb/1786086136?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_20408",
@@ -26205,7 +26205,7 @@
       "director": "Rob Reiner",
       "studio": "The Princess Bride",
       "poster": "https://image.tmdb.org/t/p/w300/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20408/thumb/1782980702?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20408/thumb/1785652623?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1348",
@@ -26216,8 +26216,8 @@
       "tagline": "",
       "duration": 71,
       "genres": [
-        "Animation",
-        "Family"
+        "Family",
+        "Fantasy"
       ],
       "cast": [
         "Lalainia Lindbjerg",
@@ -26227,7 +26227,7 @@
       "director": "Doug Krohn",
       "studio": "MGA Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/nGyzdjZkR2InuTDdmWatrYUa12B.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1348/thumb/1775465759?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1348/thumb/1786086135?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2103",
@@ -26546,8 +26546,8 @@
       "tagline": "Live for danger. Fight for justice. Pray for mercy.",
       "duration": 90,
       "genres": [
-        "Action",
-        "Adventure"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Antonio Banderas",
@@ -26557,7 +26557,7 @@
       "director": "Chris Miller",
       "studio": "DreamWorks Animation",
       "poster": "https://image.tmdb.org/t/p/w300/7a5Jzjr9TmffGy76y1SZhn3sCiz.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/995/thumb/1780734519?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/995/thumb/1786086127?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_959",
@@ -26569,7 +26569,7 @@
       "duration": 102,
       "genres": [
         "Comedy",
-        "Animation"
+        "Fantasy"
       ],
       "cast": [
         "Antonio Banderas",
@@ -26579,7 +26579,7 @@
       "director": "Joel Crawford",
       "studio": "DreamWorks Animation",
       "poster": "https://image.tmdb.org/t/p/w300/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/959/thumb/1783411057?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/959/thumb/1786086126?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_13874",
@@ -26809,8 +26809,8 @@
       "tagline": "No man can walk out on his own story.",
       "duration": 112,
       "genres": [
-        "Action",
-        "Adventure"
+        "Western",
+        "Action"
       ],
       "cast": [
         "Johnny Depp",
@@ -26820,7 +26820,7 @@
       "director": "Gore Verbinski",
       "studio": "Paramount Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1016/thumb/1783411058?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1016/thumb/1786086127?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1043",
@@ -26831,8 +26831,8 @@
       "tagline": "He's dying to become a chef.",
       "duration": 111,
       "genres": [
-        "Animation",
-        "Comedy"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Patton Oswalt",
@@ -26842,7 +26842,7 @@
       "director": "Brad Bird",
       "studio": "Pixar",
       "poster": "https://image.tmdb.org/t/p/w300/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1043/thumb/1783411058?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1043/thumb/1786086127?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_9740",
@@ -26875,18 +26875,18 @@
       "tagline": "A quest to save her world.",
       "duration": 107,
       "genres": [
-        "Animation",
-        "Action"
+        "Action",
+        "Adventure"
       ],
       "cast": [
         "Kelly Marie Tran",
         "Awkwafina",
         "Gemma Chan"
       ],
-      "director": "Don Hall, Carlos López Estrada",
+      "director": "Carlos López Estrada, Don Hall",
       "studio": "Walt Disney Animation Studios",
       "poster": "https://image.tmdb.org/t/p/w300/5nVhgCzxKbK47OLIKxCR1syulOn.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1044/thumb/1783411059?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1044/thumb/1786086128?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_20983",
@@ -26908,7 +26908,7 @@
       "director": "Sean McNamara",
       "studio": "Rawhide Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/o21NB4f5fNk1dtrRlyAmA0C0cb3.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20983/thumb/1782980718?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20983/thumb/1785652638?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_9796",
@@ -27215,7 +27215,7 @@
       ],
       "director": "Chris McKay",
       "studio": "Skybound Entertainment",
-      "poster": "https://image.tmdb.org/t/p/w300/jG83l0tDwoQj3hBAioIsJ5rTPHw.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/9860/thumb/1785047325?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -27512,8 +27512,8 @@
       "tagline": "A frog with an identity crisis.",
       "duration": 85,
       "genres": [
-        "Animation",
-        "Comedy"
+        "Family",
+        "Animation"
       ],
       "cast": [
         "Sean Astin",
@@ -27523,7 +27523,7 @@
       "director": "Chuck Powers",
       "studio": "KRU Studios",
       "poster": "https://image.tmdb.org/t/p/w300/vKHPzB0LqFJkf8TqLrhZEmoQIfr.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1067/thumb/1783411059?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1067/thumb/1786086128?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_9934",
@@ -27644,8 +27644,8 @@
       "tagline": "It's on in the Amazon.",
       "duration": 92,
       "genres": [
-        "Animation",
-        "Adventure"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Jesse Eisenberg",
@@ -27655,7 +27655,7 @@
       "director": "Carlos Saldanha",
       "studio": "Blue Sky Studios",
       "poster": "https://image.tmdb.org/t/p/w300/gVNTBrjxh2YRmQFjlaqrNbHVvrd.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1068/thumb/1783411060?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1068/thumb/1786086129?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_10008",
@@ -27743,7 +27743,7 @@
       "director": "Beth McCarthy-Miller",
       "studio": "Casey Patterson Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/guph6RgrrQSDQpDckGaIHLS5wzg.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/19786/thumb/1782980691?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/19786/thumb/1785652615?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_10040",
@@ -27918,7 +27918,7 @@
       ],
       "director": "John G. Avildsen",
       "studio": "Winkler Films",
-      "poster": "https://image.tmdb.org/t/p/w300/aYtBYWqCdUqcnoodWJdcTG3pFev.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/xSI0dbKLDETwhiVUy6hGE8KXUln.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/10061/thumb/1785047337?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -28101,8 +28101,8 @@
       "tagline": "You might even say it glows!",
       "duration": 52,
       "genres": [
-        "Animation",
-        "Family"
+        "Family",
+        "Fantasy"
       ],
       "cast": [
         "Burl Ives",
@@ -28112,7 +28112,7 @@
       "director": "Larry Roemer",
       "studio": "Rankin/Bass Productions",
       "poster": "https://image.tmdb.org/t/p/w300/xjAElUhXuc7zFJPj3qUHjcySNsE.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/100/thumb/1783064966?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/100/thumb/1785745727?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_10171",
@@ -28302,7 +28302,7 @@
       "director": "Sydney Pollack",
       "studio": "Paramount Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/i8PbLJDPU7vCwwscWD625oHbJy.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20961/thumb/1782980715?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20961/thumb/1785652636?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_10227",
@@ -28323,7 +28323,7 @@
       ],
       "director": "Daniel Espinosa",
       "studio": "Universal Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/7CBhSjQa07LYt0RGejYjWugGmdV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/7SYBPjv5ywF6cI4BSFFtlDyChT2.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/10227/thumb/1785047343?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -28740,7 +28740,7 @@
       "director": "Richard Donner",
       "studio": "Paramount Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/21120/thumb/1782980722?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/21120/thumb/1785652641?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_13907",
@@ -28862,7 +28862,7 @@
       "duration": 86,
       "genres": [
         "Comedy",
-        "Adventure"
+        "Animation"
       ],
       "cast": [
         "Louis C.K.",
@@ -28872,7 +28872,7 @@
       "director": "Chris Renaud",
       "studio": "Illumination",
       "poster": "https://image.tmdb.org/t/p/w300/g3Hms6AE174doeGR1gz5zX5sVsv.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1380/thumb/1783411069?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1380/thumb/1786086136?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_13933",
@@ -29180,7 +29180,7 @@
       "director": "Michael Patrick King",
       "studio": "Village Roadshow Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/iHSRxhZsPaVuLCivvV6WEkMVGWU.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20757/thumb/1782980707?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20757/thumb/1785652628?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_10382",
@@ -29274,12 +29274,12 @@
       "id": "plex_20771",
       "title": "Shakespeare in Love",
       "year": "1998",
-      "rating": 9.2,
+      "rating": 9.3,
       "summary": "Young William Shakespeare is forced to stage his latest comedy, 'Romeo and Ethel, the Pirate's Daughter', before it's even written. When lovely noblewoman Viola de Lesseps auditions for a role, they fall into forbidden love — and Shakespeare's play finds a new life (and title). As their relationship intensifies, the comedy soon transforms into tragedy.",
       "tagline": "Love is the only inspiration.",
       "duration": 124,
       "genres": [
-        "History",
+        "Drama",
         "Romance"
       ],
       "cast": [
@@ -29290,7 +29290,7 @@
       "director": "John Madden",
       "studio": "Miramax",
       "poster": "https://image.tmdb.org/t/p/w300/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20771/thumb/1782980708?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20771/thumb/1785652628?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_13979",
@@ -29488,7 +29488,7 @@
       "director": "Guy Ritchie",
       "studio": "Village Roadshow Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/2HsHurlnTOyU6yUS14gY6BQCyRs.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20781/thumb/1782980708?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20781/thumb/1785652629?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_14015",
@@ -29850,8 +29850,8 @@
       "tagline": "The fantastic tale of his greatest adventure.",
       "duration": 82,
       "genres": [
-        "Adventure",
-        "Action"
+        "Family",
+        "Fantasy"
       ],
       "cast": [
         "Brad Pitt",
@@ -29861,7 +29861,7 @@
       "director": "Tim Johnson, Patrick Gilmore",
       "studio": "DreamWorks Animation",
       "poster": "https://image.tmdb.org/t/p/w300/yiW2L1fDiBT7AeWXrykhTNtPrr8.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1069/thumb/1783411061?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1069/thumb/1786086129?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_10516",
@@ -29916,7 +29916,7 @@
       "tagline": "Where will your dreams take you?",
       "duration": 110,
       "genres": [
-        "Musical",
+        "Comedy",
         "Animation"
       ],
       "cast": [
@@ -29927,7 +29927,7 @@
       "director": "Garth Jennings",
       "studio": "Illumination",
       "poster": "https://image.tmdb.org/t/p/w300/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1070/thumb/1780734522?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1070/thumb/1786086129?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_10522",
@@ -30201,7 +30201,7 @@
       "tagline": "Smurf happens.",
       "duration": 103,
       "genres": [
-        "Family",
+        "Comedy",
         "Animation"
       ],
       "cast": [
@@ -30212,7 +30212,7 @@
       "director": "Raja Gosnell",
       "studio": "Columbia Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/vRhnslP2gW0QDym7BsMeSuioUfK.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/21251/thumb/1783152201?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/21251/thumb/1785828656?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1382",
@@ -30223,8 +30223,8 @@
       "tagline": "Get ready to get naughty!",
       "duration": 105,
       "genres": [
-        "Family",
-        "Fantasy"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Katy Perry",
@@ -30234,7 +30234,7 @@
       "director": "Raja Gosnell",
       "studio": "NeoReel",
       "poster": "https://image.tmdb.org/t/p/w300/tmjvgbEH4BKYFfHmWXjXrHgi8wT.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1382/thumb/1783411069?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1382/thumb/1786086137?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1081",
@@ -30246,7 +30246,7 @@
       "duration": 90,
       "genres": [
         "Family",
-        "Adventure"
+        "Fantasy"
       ],
       "cast": [
         "Demi Lovato",
@@ -30256,7 +30256,7 @@
       "director": "Kelly Asbury",
       "studio": "The Kerner Entertainment Company",
       "poster": "https://image.tmdb.org/t/p/w300/swt9crREg1UcKgg3wGWfoFNlXOz.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1081/thumb/1780734523?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1081/thumb/1786086130?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_10697",
@@ -30977,7 +30977,7 @@
       "director": "Sean Anders",
       "studio": "Maximum Effort",
       "poster": "https://image.tmdb.org/t/p/w300/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/134/thumb/1783064967?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/134/thumb/1785745727?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_10945",
@@ -31005,13 +31005,13 @@
       "id": "plex_1383",
       "title": "The SpongeBob Movie: Sponge Out of Water",
       "year": "2015",
-      "rating": 8.0,
+      "rating": null,
       "summary": "Evil pirate Burger Beard is in search of the final page of a magical book that makes any evil plan he writes in it come true, but the final page happens to be the Krabby Patty secret formula. When Burger Beard endangers Bikini Bottom, SpongeBob, Patrick, Mr. Krabs, Squidward, Sandy, and Plankton must embark on a quest to retrieve the recipe and save their city...a quest that takes them to the surface world and transforms them into superheroes.",
       "tagline": "Making waves in our world.",
       "duration": 93,
       "genres": [
-        "Animation",
-        "Family"
+        "Children",
+        "Comedy"
       ],
       "cast": [
         "Tom Kenny",
@@ -31021,7 +31021,7 @@
       "director": "Paul Tibbitt, Mike Mitchell",
       "studio": "Paramount Animation",
       "poster": "https://image.tmdb.org/t/p/w300/2WDmjUlSAPlA27i2OwEC7sRTFw3.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1383/thumb/1783411070?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1383/thumb/1786086137?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_10946",
@@ -31846,8 +31846,8 @@
       "tagline": "Find Your Flock",
       "duration": 87,
       "genres": [
-        "Animation",
-        "Comedy"
+        "Comedy",
+        "Family"
       ],
       "cast": [
         "Andy Samberg",
@@ -31857,19 +31857,19 @@
       "director": "Doug Sweetland, Nicholas Stoller",
       "studio": "RatPac Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/pwGolX8JmGJhhcUjO5SJt38Uk0m.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1127/thumb/1775465752?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1127/thumb/1786086131?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1128",
       "title": "Strange World",
       "year": "2022",
-      "rating": 7.2,
+      "rating": null,
       "summary": "A journey deep into an uncharted and treacherous land, where fantastical creatures await the legendary Clades—a family of explorers whose differences threaten to topple their latest, and by far most crucial, mission.",
       "tagline": "Journey to a place where nothing is as it appears!",
       "duration": 103,
       "genres": [
-        "Animation",
-        "Action"
+        "Children",
+        "Family"
       ],
       "cast": [
         "Jake Gyllenhaal",
@@ -31879,7 +31879,7 @@
       "director": "Don Hall",
       "studio": "Walt Disney Animation Studios",
       "poster": "https://image.tmdb.org/t/p/w300/a9x70QUXs6uEwtin1SGNKoFXoia.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1128/thumb/1783411063?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1128/thumb/1786086131?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_11254",
@@ -31900,7 +31900,7 @@
       ],
       "director": "Ivan Reitman",
       "studio": "Columbia Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/vP8tPOgmJSNOh4bpOv1bFjid3rZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/toyyN62VLUXoUudFbHPdrrmRFSZ.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/11254/thumb/1785138784?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -31967,7 +31967,7 @@
       "director": "SK Dale",
       "studio": "Millennium Media",
       "poster": "https://image.tmdb.org/t/p/w300/gBenxR01Uy0Ev9RTIw6dVBPoyQU.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20994/thumb/1782980719?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20994/thumb/1785652639?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_21166",
@@ -31979,7 +31979,7 @@
       "duration": 141,
       "genres": [
         "Drama",
-        "Horror"
+        "Science Fiction"
       ],
       "cast": [
         "Demi Moore",
@@ -31989,7 +31989,7 @@
       "director": "Coralie Fargeat",
       "studio": "Working Title Films",
       "poster": "https://image.tmdb.org/t/p/w300/uYJvxMWMb9W4zIY3cbM50sj3dpC.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/21166/thumb/1782980723?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/21166/thumb/1785652642?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_11259",
@@ -32097,7 +32097,7 @@
       ],
       "director": "Carl Reiner",
       "studio": "Paramount Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/t1ezbv4rVZ8xoCbenHyMnkt7SmR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/kNkDCXB2JXGnaG3KwvzAAjmZiV8.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/11277/thumb/1785223213?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -32284,8 +32284,8 @@
       "tagline": "Royal adventures, magical moments, and family bonds that last forever.",
       "duration": 80,
       "genres": [
-        "Animation",
-        "Family"
+        "Family",
+        "Fantasy"
       ],
       "cast": [
         "Laura Bailey",
@@ -32295,7 +32295,7 @@
       "director": "Richard Rich",
       "studio": "Crest Animation",
       "poster": "https://image.tmdb.org/t/p/w300/vfDbTS4eg5I7x70JoPIFvyzayx0.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1422/thumb/1780734532?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1422/thumb/1786086137?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_11369",
@@ -32525,8 +32525,8 @@
       "tagline": "The legend starts here",
       "duration": 94,
       "genres": [
-        "Family",
-        "Animation"
+        "Adventure",
+        "Action"
       ],
       "cast": [
         "Kellan Lutz",
@@ -32536,7 +32536,7 @@
       "director": "Reinhard Klooss",
       "studio": "Ambient Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1158/thumb/1783411064?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1158/thumb/1786086132?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_11418",
@@ -33196,7 +33196,7 @@
       "director": "Alan Taylor",
       "studio": "Marvel Studios",
       "poster": "https://image.tmdb.org/t/p/w300/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/21286/thumb/1782980729?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/21286/thumb/1785652650?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_19272",
@@ -33371,7 +33371,7 @@
       ],
       "director": "Terence Young",
       "studio": "EON Productions",
-      "poster": "https://image.tmdb.org/t/p/w300/wCc4qllaTDsQN8zgGkAgQrKO6N9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/oJ5ybB57eidPLqZUltrVjshqwcs.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/6994/thumb/1776760426?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -33427,8 +33427,8 @@
       "tagline": "",
       "duration": 77,
       "genres": [
-        "Animation",
-        "Family"
+        "Family",
+        "Animation"
       ],
       "cast": [
         "Jim Cummings",
@@ -33438,7 +33438,7 @@
       "director": "Jun Falkenstein",
       "studio": "Walt Disney Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/9OdZKUdGfaBAUwRLbtWpFWKbILO.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1423/thumb/1783411071?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1423/thumb/1786086138?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_19337",
@@ -33493,8 +33493,8 @@
       "tagline": "Enter the world of fairies",
       "duration": 78,
       "genres": [
-        "Animation",
-        "Family"
+        "Family",
+        "Fantasy"
       ],
       "cast": [
         "Mae Whitman",
@@ -33504,7 +33504,7 @@
       "director": "Bradley Raymond",
       "studio": "DisneyToon Studios",
       "poster": "https://image.tmdb.org/t/p/w300/3Ma0r1n8kfH7UaQMS7bJ9KsYUjT.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1457/thumb/1780734533?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1457/thumb/1786086138?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1478",
@@ -33515,8 +33515,8 @@
       "tagline": "What would you do if you met a fairy?",
       "duration": 76,
       "genres": [
-        "Animation",
-        "Adventure"
+        "Family",
+        "Animation"
       ],
       "cast": [
         "Mae Whitman",
@@ -33526,7 +33526,7 @@
       "director": "Bradley Raymond",
       "studio": "DisneyToon Studios",
       "poster": "https://image.tmdb.org/t/p/w300/cb7PrVIYbwIadQqWxgSU6CGHJjj.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1478/thumb/1783411072?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1478/thumb/1786086139?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1479",
@@ -33537,8 +33537,8 @@
       "tagline": "They don't see what I see.",
       "duration": 76,
       "genres": [
-        "Adventure",
-        "Animation"
+        "Family",
+        "Fantasy"
       ],
       "cast": [
         "Ginnifer Goodwin",
@@ -33548,7 +33548,7 @@
       "director": "Steve Loter",
       "studio": "DisneyToon Studios",
       "poster": "https://image.tmdb.org/t/p/w300/3S0mmmpYStB3GqodRghcfOt81wQ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1479/thumb/1783411072?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1479/thumb/1786086139?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1481",
@@ -33559,8 +33559,8 @@
       "tagline": "Adventure beyond Pixie Hollow.",
       "duration": 80,
       "genres": [
-        "Animation",
-        "Family"
+        "Family",
+        "Animation"
       ],
       "cast": [
         "Mae Whitman",
@@ -33570,7 +33570,7 @@
       "director": "Klay Hall",
       "studio": "DisneyToon Studios",
       "poster": "https://image.tmdb.org/t/p/w300/hg1959yuBkHb4BKbIvETQSfxGCT.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1481/thumb/1783411073?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1481/thumb/1786086139?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1347",
@@ -33582,7 +33582,7 @@
       "duration": 78,
       "genres": [
         "Family",
-        "Animation"
+        "Fantasy"
       ],
       "cast": [
         "Mae Whitman",
@@ -33592,7 +33592,7 @@
       "director": "Peggy Holmes",
       "studio": "DisneyToon Studios",
       "poster": "https://image.tmdb.org/t/p/w300/81oxrsugqqs8sAVNX9fdlz57cVU.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1347/thumb/1783411067?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1347/thumb/1786086135?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_14189",
@@ -34114,8 +34114,8 @@
       "tagline": "Find your happy place.",
       "duration": 93,
       "genres": [
-        "Animation",
-        "Adventure"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Anna Kendrick",
@@ -34125,7 +34125,7 @@
       "director": "Mike Mitchell",
       "studio": "DreamWorks Animation",
       "poster": "https://image.tmdb.org/t/p/w300/9VlK2j0THZWzhQPq0W3Oc0IIdBB.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1482/thumb/1783411073?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1482/thumb/1786086140?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_14799",
@@ -34180,8 +34180,8 @@
       "tagline": "Meet Morgan Hiller. He's a rebel about to become a hero.",
       "duration": 112,
       "genres": [
-        "Drama",
-        "Action"
+        "Comedy",
+        "Drama"
       ],
       "cast": [
         "James Spader",
@@ -34191,7 +34191,7 @@
       "director": "Fritz Kiersch",
       "studio": "Planet Productions",
       "poster": "https://image.tmdb.org/t/p/w300/9FueZsXEXNqFlmB2o2WuGQPdkv5.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/19848/thumb/1782980698?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/19848/thumb/1785652619?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1485",
@@ -34202,7 +34202,7 @@
       "tagline": "He's fast. They're furious.",
       "duration": 96,
       "genres": [
-        "Adventure",
+        "Comedy",
         "Animation"
       ],
       "cast": [
@@ -34213,7 +34213,7 @@
       "director": "David Soren",
       "studio": "DreamWorks Animation",
       "poster": "https://image.tmdb.org/t/p/w300/inTKQni4YW8syrfgnXHwzmNeSo4.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1485/thumb/1783411074?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1485/thumb/1786086140?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_14806",
@@ -34367,7 +34367,7 @@
       "director": "Lee Isaac Chung",
       "studio": "Universal Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20838/thumb/1782980711?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20838/thumb/1785652632?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_14821",
@@ -34388,7 +34388,7 @@
       ],
       "director": "Don Siegel",
       "studio": "Sanen Productions",
-      "poster": "https://image.tmdb.org/t/p/w300/RbuNHMlrw7M2w1R3hZMAPwh6dG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/2G9eM8UAM57TanLBhuPmz3jaNZG.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/14821/thumb/1785478153?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -34756,7 +34756,7 @@
       "director": "Julian Farino",
       "studio": "Municipal Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/d9CTnTHip1RbVi2OQbA2LJJQAGI.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20984/thumb/1782980718?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20984/thumb/1785652638?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_14946",
@@ -34799,7 +34799,7 @@
       ],
       "director": "Lou Adler",
       "studio": "Paramount Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/lKXINU3ApbhFPQJ3pqgMzGPCYnH.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/bZclIeyzmybXLe3hTbFOIqlyPE0.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/14947/thumb/1785478160?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -34811,8 +34811,8 @@
       "tagline": "Two worlds. One future.",
       "duration": 108,
       "genres": [
-        "Drama",
-        "Romance"
+        "Science Fiction",
+        "Drama"
       ],
       "cast": [
         "Kirsten Dunst",
@@ -34822,7 +34822,7 @@
       "director": "Juan Diego Solanas",
       "studio": "Upside Down Films",
       "poster": "https://image.tmdb.org/t/p/w300/wImo0dC72HRoI5QO85dGavmxW6q.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1518/thumb/1783411075?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1518/thumb/1786086142?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_14948",
@@ -35086,7 +35086,7 @@
       "director": "Kelly Marcel",
       "studio": "Columbia Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/21087/thumb/1782980721?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/21087/thumb/1785652640?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_15009",
@@ -35536,8 +35536,8 @@
       "tagline": "Let them see you.",
       "duration": 102,
       "genres": [
-        "Fantasy",
-        "Horror"
+        "Horror",
+        "Mystery"
       ],
       "cast": [
         "Dakota Fanning",
@@ -35547,7 +35547,7 @@
       "director": "Ishana Night Shyamalan",
       "studio": "Blinding Edge Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/vZVEUPychdvZLrTNwWErr9xZFmu.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20910/thumb/1782980713?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20910/thumb/1785652633?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_14298",
@@ -35954,8 +35954,8 @@
       "tagline": "Rediscover Jack London's Masterpiece",
       "duration": 87,
       "genres": [
-        "Animation",
-        "Adventure"
+        "Family",
+        "Animation"
       ],
       "cast": [
         "Raphaël Personnaz",
@@ -35965,7 +35965,7 @@
       "director": "Alexandre Espigares",
       "studio": "Bidibul Productions",
       "poster": "https://image.tmdb.org/t/p/w300/m3EweWiLJ93m4CZLenbKhTNvcH0.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1516/thumb/1783411074?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1516/thumb/1786086141?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_15391",
@@ -36095,7 +36095,7 @@
       ],
       "director": "Jean-Marc Vallée",
       "studio": "Fox Searchlight Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/jnLnLYP5pGDfri04gxtAqAvkHMw.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/ohhWI4Xwf4m4HjbQiIkyAhLekUy.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/15413/thumb/1782891668?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -36138,7 +36138,7 @@
       "director": "Gordon Shoemaker Foxwood",
       "studio": "Big Bad Film",
       "poster": "https://image.tmdb.org/t/p/w300/xA0S3tLtLlCHD35f2ibonKerKaY.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20477/thumb/1782980705?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20477/thumb/1785652626?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_15439",
@@ -36193,8 +36193,8 @@
       "tagline": "Discover your true nature.",
       "duration": 102,
       "genres": [
-        "Animation",
-        "Family"
+        "Family",
+        "Animation"
       ],
       "cast": [
         "Lupita Nyong'o",
@@ -36204,7 +36204,7 @@
       "director": "Chris Sanders",
       "studio": "DreamWorks Animation",
       "poster": "https://image.tmdb.org/t/p/w300/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/20995/thumb/1782980720?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/20995/thumb/1785652639?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_15441",
@@ -36869,7 +36869,7 @@
       ],
       "director": "Lewis Gilbert",
       "studio": "EON Productions",
-      "poster": "https://image.tmdb.org/t/p/w300/9mvNd43HgTkbfPwX6MF6EoPIMIa.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/gIhS0VC7YzI8pj6zfS3KxsxV0dS.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/7001/thumb/1784794137?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -36914,7 +36914,7 @@
       "director": "Nicholas Stoller",
       "studio": "Amazon MGM Studios",
       "poster": "https://image.tmdb.org/t/p/w300/muXnwAdVdEEktto0NBNMyqK3uQH.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/21167/thumb/1782980723?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/21167/thumb/1785652642?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_15641",
@@ -37057,8 +37057,8 @@
       "tagline": "Welcome to the urban jungle.",
       "duration": 107,
       "genres": [
-        "Animation",
-        "Action"
+        "Children",
+        "Comedy"
       ],
       "cast": [
         "Ginnifer Goodwin",
@@ -37068,7 +37068,7 @@
       "director": "Byron Howard, Rich Moore",
       "studio": "Walt Disney Animation Studios",
       "poster": "https://image.tmdb.org/t/p/w300/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1517/thumb/1783411075?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1517/thumb/1786086141?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_15695",
@@ -37223,6 +37223,28 @@
       "studio": "Raimi Productions",
       "poster": "https://image.tmdb.org/t/p/w300/rzRb63TldOKdKydCvWJM8B6EkPM.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/36339/thumb/1769325276?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_42638",
+      "title": "1000 Men and Me: The Bonnie Blue Story",
+      "year": "2025",
+      "rating": null,
+      "summary": "Adult content creator Bonnie Blue announced that she’d slept with 1057 men in 12 hours. Exploring the polarising debate around Bonnie and the pornification of our society, the film follows her over the most eye-opening six months of her life.",
+      "tagline": "",
+      "duration": 60,
+      "genres": [
+        "Documentary",
+        "TV Movie"
+      ],
+      "cast": [
+        "Bonnie Blue",
+        "Victoria Silver",
+        "Josh Lee Spooner"
+      ],
+      "director": "Victoria Silver",
+      "studio": "Magnificent Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/ip78INb1BSW1YbQLd5iOnsYvsc5.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42638/thumb/1785996800?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36304",
@@ -38349,7 +38371,7 @@
       ],
       "director": "Gábor Csupó",
       "studio": "Lauren Levine Productions Inc.",
-      "poster": "https://image.tmdb.org/t/p/w300/ieIoNyJvtwQ6joyG6npTKxnCtGH.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/3xFxGodKPMFLheS8rujFSmLfcq4.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/40150/thumb/1773296296?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -38679,7 +38701,7 @@
       "director": "Darren Aronofsky",
       "studio": "Protozoa Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/cvda8s5J8YaHjTyEyXQpvD6f3iV.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/38413/thumb/1784614167?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/38413/thumb/1785651331?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38438",
@@ -38810,7 +38832,7 @@
       ],
       "director": "Kay Cannon",
       "studio": "Fulwell 73 Productions",
-      "poster": "https://image.tmdb.org/t/p/w300/clDFqATL4zcE7LzUwkrVj3zHvk7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/wkeOjIcpuqLMW4GnVowlM9VI0JE.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/41655/thumb/1782713032?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -39249,7 +39271,7 @@
       "director": "Michael Sarnoski",
       "studio": "Lyrical Media",
       "poster": "https://image.tmdb.org/t/p/w300/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42612/thumb/1785536913?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42612/thumb/1786176333?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36179",
@@ -39389,7 +39411,7 @@
       "year": "2026",
       "rating": null,
       "summary": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe… But little do they know that changing the past created a new villain — Maddox Hatter. When Maddox captures the Queen of Hearts, Red and Chloe must work alongside Red’s new sister Pink, Luisa Madrigal’s son Luis, and Maddox’s son Max to save her and Wonderland.",
-      "tagline": "",
+      "tagline": "ONE BIG TROPHY, ONE BIG THREAT",
       "duration": 95,
       "genres": [
         "Action",
@@ -39403,7 +39425,7 @@
       "director": "Kimmy Gatewood",
       "studio": "Suzanne Todd Productions",
       "poster": "https://image.tmdb.org/t/p/w300/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42597/thumb/1785536912?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42597/thumb/1786176331?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36780",
@@ -39426,6 +39448,28 @@
       "studio": "Green Dog Films",
       "poster": "https://image.tmdb.org/t/p/w300/uFQduVyYIinJy3eLjozgfl6Xtcn.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/36780/thumb/1769418218?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_42634",
+      "title": "Die My Love",
+      "year": "2025",
+      "rating": 7.5,
+      "summary": "A writer and young mother is suffering post-partum depression and slowly spiralling into madness. Moving into an old house with her husband, she grows more and more agitated and erratic as her mind begins to unravel.",
+      "tagline": "Everything. Is. Fine.",
+      "duration": 119,
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "cast": [
+        "Jennifer Lawrence",
+        "Robert Pattinson",
+        "Sissy Spacek"
+      ],
+      "director": "Lynne Ramsay",
+      "studio": "Excellent Cadaver",
+      "poster": "https://image.tmdb.org/t/p/w300/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42634/thumb/1785970687?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42598",
@@ -39533,7 +39577,7 @@
       ],
       "director": "Luc Besson",
       "studio": "EuropaCorp",
-      "poster": "https://image.tmdb.org/t/p/w300/dYRqA50yd0nB3qBR7AtWEJJQ8q.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/ykyRfv7JDofLxXLAwtLXaSuaFfM.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/37800/thumb/1782719536?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -39667,6 +39711,28 @@
       "studio": "Entertainment One",
       "poster": "https://image.tmdb.org/t/p/w300/qa5aZpO8tQqhlDaE0flalS1TuIS.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/39460/thumb/1782713381?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_42633",
+      "title": "Echo Valley",
+      "year": "2025",
+      "rating": 5.3,
+      "summary": "Kate is dealing with a personal tragedy while owning and training horses in Echo Valley, an isolated and picturesque place, when her daughter, Claire, arrives at her doorstep, frightened, trembling and covered in someone else's blood.",
+      "tagline": "A mother at peace. A daughter in crisis. A night that changes everything.",
+      "duration": 105,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "cast": [
+        "Julianne Moore",
+        "Sydney Sweeney",
+        "Domhnall Gleeson"
+      ],
+      "director": "Michael Pearce",
+      "studio": "Black Bicycle Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w300/AsqALJWqGRgnKEo3gt1TCOF4nCM.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42633/thumb/1785996800?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38985",
@@ -40257,7 +40323,7 @@
       "director": "Heng Aik Siong",
       "studio": "ACT 2 Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42620/thumb/1785536913?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42620/thumb/1786176334?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_37337",
@@ -42293,7 +42359,7 @@
       "director": "J.C. Chandor",
       "studio": "Columbia Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/37162/thumb/1784614102?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/37162/thumb/1785651264?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_37030",
@@ -42357,7 +42423,7 @@
       "director": "Amy Scott",
       "studio": "Makemake",
       "poster": "https://image.tmdb.org/t/p/w300/axIiOZ0yVD258CTpbw7mTF9h6Ph.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/41049/thumb/1784614266?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/41049/thumb/1785651434?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33520",
@@ -42401,6 +42467,28 @@
       "studio": "Angel Studios",
       "poster": "https://image.tmdb.org/t/p/w300/62nu9AEIeyDNCQ2xJabq7gwb2zR.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/36817/thumb/1782714670?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_42651",
+      "title": "The Last Stand of Ellen Cole",
+      "year": "2024",
+      "rating": null,
+      "summary": "When an evil contractor goes to extreme measures to evict a testy tenant who is standing in the way of his new project, he fails to take into account that this seemingly harmless old woman is a trained killer and will do anything to protect her beloved home.",
+      "tagline": "",
+      "duration": 97,
+      "genres": [
+        "Action",
+        "Western"
+      ],
+      "cast": [
+        "Lin Shaye",
+        "Liz Caribel Sierra",
+        "Craig Tate"
+      ],
+      "director": "Derek Lee, Clif Prowse",
+      "studio": "Regency Enterprises",
+      "poster": "https://image.tmdb.org/t/p/w300/oq1pGVQ2t3Cy4v7sA4LRhNjtZuJ.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42651/thumb/1785970686?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36408",
@@ -43446,7 +43534,7 @@
       "director": "Dan Berk, Robert Olsen",
       "studio": "Safehouse Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/37279/thumb/1784614107?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/37279/thumb/1785651268?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_41127",
@@ -43790,7 +43878,7 @@
       ],
       "director": "Joel Coen, Ethan Coen",
       "studio": "Miramax",
-      "poster": "https://image.tmdb.org/t/p/w300/uB7RDZby43Wvu8SKGHHTwGyTDBX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/6d5XOczc226jECq0LIX0siKtgHR.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/37060/thumb/1782715560?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -43858,6 +43946,28 @@
       "studio": "Universal Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/svXVRoRSu6zzFtCzkRsjZS7Lqpd.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/37723/thumb/1782717227?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_42632",
+      "title": "Nonnas",
+      "year": "2025",
+      "rating": 8.2,
+      "summary": "After losing his beloved mother, a man risks everything to honor her by opening an Italian restaurant with actual grandmothers as the chefs.",
+      "tagline": "Your table is waiting.",
+      "duration": 114,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "cast": [
+        "Vince Vaughn",
+        "Lorraine Bracco",
+        "Talia Shire"
+      ],
+      "director": "Stephen Chbosky",
+      "studio": "Fifth Season",
+      "poster": "https://image.tmdb.org/t/p/w300/5Bf1xlxLuCHdi74MpdFi2Yz3FGJ.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42632/thumb/1785970686?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39431",
@@ -44550,7 +44660,7 @@
       "director": "Shane Black",
       "studio": "Team Downey",
       "poster": "https://image.tmdb.org/t/p/w300/ovZ0zq0NwRghtWI1oLaM0lWuoEw.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/38416/thumb/1784614168?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/38416/thumb/1785651331?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38882",
@@ -44792,7 +44902,7 @@
       "director": "Reinaldo Marcus Green",
       "studio": "Marvel Studios",
       "poster": "https://image.tmdb.org/t/p/w300/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/40859/thumb/1785223258?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/40859/thumb/1785651418?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_37761",
@@ -44880,7 +44990,7 @@
       "director": "Matt Bettinelli-Olpin, Tyler Gillett",
       "studio": "Searchlight Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/40769/thumb/1784614245?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/40769/thumb/1785651412?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42599",
@@ -45163,7 +45273,7 @@
       "director": "John L. Spencer",
       "studio": "Derek Productions",
       "poster": "https://image.tmdb.org/t/p/w300/u54OhdSaaLBh02Y4Nf5cETkh8Ku.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/39490/thumb/1784614208?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/39490/thumb/1785651375?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40614",
@@ -45337,7 +45447,7 @@
       "director": "Jay Roach",
       "studio": "Searchlight Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/99O8HLHklXGzvF2TqiRqr7WddzT.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/38522/thumb/1784614183?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/38522/thumb/1785651350?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_37588",
@@ -45533,7 +45643,7 @@
       "director": "Kevin Williamson",
       "studio": "Paramount Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/40582/thumb/1784614230?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/40582/thumb/1785651398?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40583",
@@ -45938,7 +46048,7 @@
       "director": "Adam Rehmeier",
       "studio": "T-Street",
       "poster": "https://image.tmdb.org/t/p/w300/wCXd5tpUSc12LVPd2oN9OKU1EVQ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/40088/thumb/1784614212?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/40088/thumb/1785651379?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_41153",
@@ -46071,6 +46181,28 @@
       "studio": "Focus Features",
       "poster": "https://image.tmdb.org/t/p/w300/xStmzLprgzqjzfvpBI7uTbcRpwQ.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/39469/thumb/1782715776?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_42630",
+      "title": "Soulm8te",
+      "year": "2026",
+      "rating": 5.5,
+      "summary": "A man acquires an Artificially Intelligent android to cope with the loss of his recently deceased wife. In an attempt to create a truly sentient partner, he inadvertently turns a harmless lovebot into a deadly soulmate.",
+      "tagline": "You can't turn off the power of love.",
+      "duration": 99,
+      "genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "cast": [
+        "David Rysdahl",
+        "Lily Sullivan",
+        "Claudia Doumit"
+      ],
+      "director": "Kate Dolan",
+      "studio": "Blumhouse Productions",
+      "poster": "https://image.tmdb.org/t/p/w300/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42630/thumb/1786176334?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36215",
@@ -46466,7 +46598,7 @@
       "director": "Craig Gillespie",
       "studio": "DC Studios",
       "poster": "https://image.tmdb.org/t/p/w300/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42600/thumb/1785564479?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42600/thumb/1786176333?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36555",
@@ -46641,7 +46773,7 @@
       ],
       "director": "John Carpenter",
       "studio": "Universal Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/ob1NaOSYDC4iBaFkTgIUecaMFGT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/37032/thumb/1769418231?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -47740,8 +47872,8 @@
       "tagline": "The future belongs to those who fight.",
       "duration": 91,
       "genres": [
-        "Action",
-        "Drama"
+        "Science Fiction",
+        "Action"
       ],
       "cast": [
         "Billie Boullet",
@@ -47751,7 +47883,7 @@
       "director": "Brad Anderson",
       "studio": "23ten",
       "poster": "https://image.tmdb.org/t/p/w300/ahj1JU8r0uJv7QII5Uj7tKzbEsC.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/39354/thumb/1782717289?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/39354/thumb/1785970687?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40089",
@@ -48071,8 +48203,8 @@
       "tagline": "The moose are on the loose.",
       "duration": 73,
       "genres": [
-        "Animation",
-        "Comedy"
+        "Children",
+        "Family"
       ],
       "cast": [
         "Patrick Dempsey",
@@ -48081,8 +48213,8 @@
       ],
       "director": "Ben Gluck",
       "studio": "DisneyToon Studios",
-      "poster": "http://192.168.68.200:32400/library/metadata/17298/thumb/1778138941?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/17298/thumb/1778138941?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.200:32400/library/metadata/17298/thumb/1786086146?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/17298/thumb/1786086146?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_17469",
@@ -48108,8 +48240,8 @@
       "tagline": "Someone's going down",
       "duration": 81,
       "genres": [
-        "Family",
-        "Action"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Hugh Jackman",
@@ -48118,8 +48250,8 @@
       ],
       "director": "David Bowers, Sam Fell",
       "studio": "DreamWorks Animation",
-      "poster": "http://192.168.68.200:32400/library/metadata/17504/thumb/1783411086?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/17504/thumb/1783411086?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.200:32400/library/metadata/17504/thumb/1786086151?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/17504/thumb/1786086151?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_17988",
@@ -48130,8 +48262,8 @@
       "tagline": "No man can walk out on his own story.",
       "duration": 112,
       "genres": [
-        "Action",
-        "Adventure"
+        "Western",
+        "Action"
       ],
       "cast": [
         "Johnny Depp",
@@ -48140,8 +48272,8 @@
       ],
       "director": "Gore Verbinski",
       "studio": "Paramount Pictures",
-      "poster": "http://192.168.68.200:32400/library/metadata/17988/thumb/1783411101?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/17988/thumb/1783411101?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.200:32400/library/metadata/17988/thumb/1786086164?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/17988/thumb/1786086164?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_17628",
@@ -48182,8 +48314,8 @@
       "tagline": "Live for danger. Fight for justice. Pray for mercy.",
       "duration": 90,
       "genres": [
-        "Action",
-        "Adventure"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Antonio Banderas",
@@ -48192,8 +48324,8 @@
       ],
       "director": "Chris Miller",
       "studio": "DreamWorks Animation",
-      "poster": "http://192.168.68.200:32400/library/metadata/17987/thumb/1778138965?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/17987/thumb/1778138965?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.200:32400/library/metadata/17987/thumb/1786086164?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/17987/thumb/1786086164?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_18037",
@@ -48204,8 +48336,8 @@
       "tagline": "He's dying to become a chef.",
       "duration": 111,
       "genres": [
-        "Animation",
-        "Comedy"
+        "Comedy",
+        "Animation"
       ],
       "cast": [
         "Patton Oswalt",
@@ -48214,8 +48346,8 @@
       ],
       "director": "Brad Bird",
       "studio": "Pixar",
-      "poster": "http://192.168.68.200:32400/library/metadata/18037/thumb/1783411102?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/18037/thumb/1783411102?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.200:32400/library/metadata/18037/thumb/1786086165?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/18037/thumb/1786086165?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     }
   ]
 }
