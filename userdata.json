@@ -2,7 +2,7 @@
   "watchStatuses": {
     "plex_1638": "watched",
     "plex_234": "watched",
-    "plex_1576": "unwatched",
+    "plex_1576": "watched",
     "plex_39457": "unwatched",
     "plex_37018": "watched",
     "plex_1615": "watched",
@@ -305,5 +305,5 @@
       "poster": "https://image.tmdb.org/t/p/w300/AbunjMKX4P1sDNlKfhYrWkIoRD9.jpg"
     }
   ],
-  "updated": "2026-07-04T13:19:03.519Z"
+  "updated": "2026-08-15T14:54:32.685Z"
 }
