@@ -1,6 +1,6 @@
 {
-  "synced": "2026-08-08T08:18:26.209378",
-  "count": 88,
+  "synced": "2026-09-12T07:20:26.178227",
+  "count": 90,
   "shows": [
     {
       "id": "plex_33923",
@@ -20,7 +20,7 @@
       "studio": "101 Studios",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/33923/thumb/1784967098?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/33923/thumb/1787647665?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33913",
@@ -40,7 +40,7 @@
       "studio": "Bosque Ranch Productions",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/33913/thumb/1784967098?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/33913/thumb/1787647665?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39359",
@@ -60,7 +60,7 @@
       "studio": "Shady Acres Entertainment",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/81bJijYZedZ4TSm34rYmW9gEDvN.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/39359/thumb/1785138785?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/39359/thumb/1787733441?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42571",
@@ -80,7 +80,7 @@
       "studio": "Friendly Wolf Pictures",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42571/thumb/1784332931?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42571/thumb/1786950602?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33946",
@@ -99,7 +99,7 @@
       "studio": "Kapital Entertainment",
       "seasons": 5,
       "poster": "https://image.tmdb.org/t/p/w300/uDXPOk3fx1kPM1tQdrTdE2f76p2.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/33946/thumb/1784967099?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/33946/thumb/1787647665?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36024",
@@ -108,18 +108,18 @@
       "rating": null,
       "summary": "In an era filled with danger, deception and intrigue, Cassian Andor will discover the difference he can make in the struggle against the tyrannical Galactic Empire. He embarks on a path that is destined to turn him into a rebel hero.",
       "genres": [
-        "Action",
-        "Adventure"
+        "Adventure",
+        "Fantasy"
       ],
       "cast": [
         "Diego Luna",
-        "Denise Gough",
-        "Stellan Skarsgård"
+        "Anton Lesser",
+        "Muhannad Bhaier"
       ],
       "studio": "Lucasfilm Ltd.",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/khZqmwHQicTYoS7Flreb9EddFZC.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/36024/thumb/1783670473?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/36024/thumb/1789030844?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33672",
@@ -139,7 +139,7 @@
       "studio": "Paramount Television",
       "seasons": 10,
       "poster": "https://image.tmdb.org/t/p/w300/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/33672/thumb/1784967098?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/33672/thumb/1787647664?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33657",
@@ -158,7 +158,7 @@
       "studio": "British Broadcasting Corporation (BBC)",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/pfmgvrMTSnf624ZAdIf2QyxGWQ8.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/33657/thumb/1784967097?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/33657/thumb/1787647664?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33602",
@@ -178,7 +178,7 @@
       "studio": "Hurwitz & Schlossberg Productions",
       "seasons": 6,
       "poster": "https://image.tmdb.org/t/p/w300/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/33602/thumb/1784967078?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/33602/thumb/1787647663?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36753",
@@ -188,7 +188,7 @@
       "summary": "Alex Cross is a brilliant but flawed homicide detective and full of contradictions. A doting father and family man, Cross is single-minded to the point of obsession when he hunts killers. He is desperate for love, but his wife’s murder has left him too damaged to receive it.",
       "genres": [
         "Mystery",
-        "Thriller"
+        "Crime"
       ],
       "cast": [
         "Aldis Hodge",
@@ -198,7 +198,7 @@
       "studio": "Skydance Television",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/6hhKdavCEZi8d584ZtIrQIrBvZI.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/36753/thumb/1784967099?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/36753/thumb/1787647666?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40824",
@@ -218,7 +218,7 @@
       "studio": "Escape Artists",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/40824/thumb/1785567351?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/40824/thumb/1788164113?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36834",
@@ -227,8 +227,8 @@
       "rating": null,
       "summary": "He's smart. He's lovable. He's Dexter Morgan, America's favorite serial killer, who spends his days solving crimes and his nights committing them.",
       "genres": [
-        "Drama",
-        "Mystery"
+        "Thriller",
+        "Crime"
       ],
       "cast": [
         "Michael C. Hall",
@@ -238,7 +238,7 @@
       "studio": "Showtime Networks",
       "seasons": 8,
       "poster": "https://image.tmdb.org/t/p/w300/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/36834/thumb/1783670474?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/36834/thumb/1789030845?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42550",
@@ -258,7 +258,7 @@
       "studio": "Paramount Television Studios",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42550/thumb/1784332929?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42550/thumb/1786950601?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33567",
@@ -278,7 +278,7 @@
       "studio": "Rough House Pictures",
       "seasons": 4,
       "poster": "https://image.tmdb.org/t/p/w300/gLbk34xxqd31mLjaPnBMs7Fyse.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/33567/thumb/1784967078?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/33567/thumb/1787647663?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42101",
@@ -297,7 +297,7 @@
       "studio": "A24",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/ypmtwojDd751Peszi62DVLytqqC.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42101/thumb/1786086170?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42101/thumb/1788763027?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33544",
@@ -317,7 +317,7 @@
       "studio": "CBS Studios",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/33544/thumb/1784967077?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/33544/thumb/1787647663?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40426",
@@ -337,7 +337,7 @@
       "studio": "Counterpart Studios",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/18jsL1sUIDL3ice67KoNkq22K6m.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/40426/thumb/1784271908?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/40426/thumb/1786868119?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34829",
@@ -357,7 +357,7 @@
       "studio": "Warner Bros. Television",
       "seasons": 10,
       "poster": "https://image.tmdb.org/t/p/w300/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/34829/thumb/1785223288?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/34829/thumb/1787897243?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34745",
@@ -377,7 +377,7 @@
       "studio": "Revolution Sun Studios",
       "seasons": 8,
       "poster": "https://image.tmdb.org/t/p/w300/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/34745/thumb/1785223288?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/34745/thumb/1787897243?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38551",
@@ -397,7 +397,7 @@
       "studio": "Chuck Lorre Productions",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/38551/thumb/1783931913?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/38551/thumb/1789203400?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34705",
@@ -417,7 +417,7 @@
       "studio": "Joe vs. Joe",
       "seasons": 4,
       "poster": "https://image.tmdb.org/t/p/w300/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/34705/thumb/1785223288?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/34705/thumb/1787897242?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_37780",
@@ -437,7 +437,7 @@
       "studio": "The Mark Gordon Company",
       "seasons": 21,
       "poster": "https://image.tmdb.org/t/p/w300/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/37780/thumb/1784967100?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/37780/thumb/1787647667?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40294",
@@ -447,7 +447,7 @@
       "summary": "After Portland homicide detective Nick Burkhardt discovers he's descended from an elite line of criminal profilers known as \"Grimms,\" he increasingly finds his responsibilities as a detective at odds with his new responsibilities as a Grimm.",
       "genres": [
         "Mystery",
-        "Fantasy"
+        "Drama"
       ],
       "cast": [
         "David Giuntoli",
@@ -457,7 +457,7 @@
       "studio": "Universal Television",
       "seasons": 6,
       "poster": "https://image.tmdb.org/t/p/w300/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/40294/thumb/1784271907?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/40294/thumb/1786868119?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38931",
@@ -477,7 +477,7 @@
       "studio": "Universal Television",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/3dehoKPCwLwKTWATfzGqoJ2Psdl.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/38931/thumb/1784967101?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/38931/thumb/1787647667?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34695",
@@ -497,7 +497,7 @@
       "studio": "Searchlight Television",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/6PlHUsScubMx3VADGRh1kIylML2.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/34695/thumb/1785223287?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/34695/thumb/1787897242?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38680",
@@ -517,7 +517,7 @@
       "studio": "Universal Television",
       "seasons": 8,
       "poster": "https://image.tmdb.org/t/p/w300/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/38680/thumb/1783931914?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/38680/thumb/1789203401?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42264",
@@ -537,7 +537,7 @@
       "studio": "HBO",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42264/thumb/1786086171?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42264/thumb/1788763028?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34474",
@@ -557,7 +557,7 @@
       "studio": "20th Century Fox Television",
       "seasons": 9,
       "poster": "https://image.tmdb.org/t/p/w300/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/34474/thumb/1785223287?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/34474/thumb/1787897242?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_41946",
@@ -577,7 +577,7 @@
       "studio": "Paramount Television",
       "seasons": 9,
       "poster": "https://image.tmdb.org/t/p/w300/zPyHpkJZ5O08lbgrQQIROXtb3xz.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/41946/thumb/1786086169?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/41946/thumb/1788763026?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34457",
@@ -597,7 +597,27 @@
       "studio": "Bosque Ranch Productions",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/34457/thumb/1785223287?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/34457/thumb/1787897242?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_42895",
+      "title": "Lioness",
+      "year": "2023",
+      "rating": null,
+      "summary": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "cast": [
+        "Zoe Saldaña",
+        "Laysla De Oliveira",
+        "Dave Annable"
+      ],
+      "studio": "Blossom Films",
+      "seasons": 2,
+      "poster": "https://image.tmdb.org/t/p/w300/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42895/thumb/1789211810?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34442",
@@ -616,8 +636,8 @@
       ],
       "studio": "Marvel Studios",
       "seasons": 2,
-      "poster": "https://image.tmdb.org/t/p/w300/rX1wQMTKFqF0gvZyS0DDQqgnQPB.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/34442/thumb/1785223286?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "https://image.tmdb.org/t/p/w300/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/34442/thumb/1787897241?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40434",
@@ -637,7 +657,7 @@
       "studio": "ABC Studios",
       "seasons": 6,
       "poster": "https://image.tmdb.org/t/p/w300/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/40434/thumb/1784271908?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/40434/thumb/1786868120?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42561",
@@ -657,7 +677,7 @@
       "studio": "A24",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42561/thumb/1784332930?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42561/thumb/1786950601?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42535",
@@ -667,7 +687,7 @@
       "summary": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
       "genres": [
         "Drama",
-        "Action"
+        "Crime"
       ],
       "cast": [
         "Luke Grimes",
@@ -677,7 +697,7 @@
       "studio": "101 Studios",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42535/thumb/1784332929?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42535/thumb/1786950581?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42072",
@@ -697,7 +717,7 @@
       "studio": "Marvel Television",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42072/thumb/1786086170?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42072/thumb/1788763026?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39960",
@@ -717,7 +737,7 @@
       "studio": "Shine TV",
       "seasons": 5,
       "poster": "https://image.tmdb.org/t/p/w300/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/39960/thumb/1786086169?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/39960/thumb/1788763025?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34166",
@@ -737,7 +757,7 @@
       "studio": "Levitan Lloyd Productions",
       "seasons": 11,
       "poster": "https://image.tmdb.org/t/p/w300/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/34166/thumb/1785223286?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/34166/thumb/1787897241?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34154",
@@ -757,7 +777,7 @@
       "studio": "Marvel Studios",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/x6FsYvt33846IQnDSFxla9j0RX8.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/34154/thumb/1785223285?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/34154/thumb/1787897241?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34144",
@@ -777,7 +797,7 @@
       "studio": "Made Up Stories",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/oPcqsZIFHrv7HoGgFQnsGDiPulD.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/34144/thumb/1785223285?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/34144/thumb/1787897240?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_34136",
@@ -797,7 +817,7 @@
       "studio": "Lucasfilm Ltd.",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/qJRB789ceLryrLvOKrZqLKr2CGf.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/34136/thumb/1785223285?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/34136/thumb/1787897240?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38299",
@@ -806,8 +826,8 @@
       "rating": null,
       "summary": "Charles, Oliver and Mabel, three eccentric neighbors, find purpose and chaos in solving murders that hit close to home through their true-crime podcast, turning their New York apartment building into a playground of mystery and mischief.",
       "genres": [
-        "Comedy",
-        "Mystery"
+        "Mystery",
+        "Crime"
       ],
       "cast": [
         "Steve Martin",
@@ -817,14 +837,14 @@
       "studio": "Rhode Island Ave. Productions",
       "seasons": 4,
       "poster": "https://image.tmdb.org/t/p/w300/1yjFVQZuW8aofZ5Cgol8iImsVFp.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/38299/thumb/1783670475?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/38299/thumb/1789030846?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33489",
       "title": "Outer Banks",
       "year": "2020",
       "rating": null,
-      "summary": "On an island of haves and have-nots, teen John B enlists his three best friends to hunt for a legendary treasure linked to his father's disappearance.",
+      "summary": "On North Carolina's Outer Banks, a tight-knit group of working-class teenagers known as the Pogues embark on dangerous treasure hunts, uncovering buried secrets, family mysteries, romance, and rivalries while fighting to stay together.",
       "genres": [
         "Drama",
         "Mystery"
@@ -834,10 +854,10 @@
         "Madelyn Cline",
         "Madison Bailey"
       ],
-      "studio": "Rock Fish Productions",
+      "studio": "Rockfish",
       "seasons": 4,
       "poster": "https://image.tmdb.org/t/p/w300/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/33489/thumb/1784967077?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/33489/thumb/1787647644?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35082",
@@ -857,7 +877,7 @@
       "studio": "Tall Ship Productions",
       "seasons": 8,
       "poster": "https://image.tmdb.org/t/p/w300/oftZNfyTVNU7IfOqoGLoT8MGvNs.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/35082/thumb/1785567351?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/35082/thumb/1788164112?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35619",
@@ -876,7 +896,7 @@
       "studio": "Universal Television",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/5IOj62y2Eb2ngyYmEn1IJ7bFhzH.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/35619/thumb/1783670471?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/35619/thumb/1789030842?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39414",
@@ -886,7 +906,7 @@
       "summary": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
       "genres": [
         "Family",
-        "Fantasy"
+        "Drama"
       ],
       "cast": [
         "Walker Scobell",
@@ -896,14 +916,14 @@
       "studio": "The Gotham Group",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/bd5ZIqiz1PRiLC7FLexzVBf8qu1.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/39414/thumb/1785138785?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/39414/thumb/1787733442?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38382",
       "title": "Reacher",
       "year": "2022",
       "rating": null,
-      "summary": "When retired Military Police Officer Jack Reacher is arrested for a murder he did not commit, he finds himself in the middle of a deadly conspiracy full of dirty cops, shady businessmen, and scheming politicians. With nothing but his wits, he must figure out what is happening in Margrave, Georgia.",
+      "summary": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
       "genres": [
         "Crime",
         "Drama"
@@ -916,7 +936,7 @@
       "studio": "Amazon Studios",
       "seasons": 3,
       "poster": "https://image.tmdb.org/t/p/w300/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/38382/thumb/1783670475?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/38382/thumb/1789030847?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38561",
@@ -926,7 +946,7 @@
       "summary": "Rob, a Saxon outlaw, and Marian, a Norman noblewoman, unite to fight injustice after the Norman conquest. He leads a rebel band while she infiltrates the corrupt court, both striving for justice and peace",
       "genres": [
         "Drama",
-        "Adventure"
+        "Action"
       ],
       "cast": [
         "Jack Patten",
@@ -936,7 +956,7 @@
       "studio": "Lionsgate Television",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/3teWChNzKJdbfen46IdeKTygdZa.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/38561/thumb/1783670475?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/38561/thumb/1789030847?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40198",
@@ -956,7 +976,7 @@
       "studio": "Blossom Films",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/zvkcHCJUPqv7R9ukaiDNkm75jy.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/40198/thumb/1783670476?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/40198/thumb/1789030848?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35079",
@@ -984,8 +1004,8 @@
       "rating": null,
       "summary": "In a world where dark forces have taken over, a young mapmaker, Alina Starkov, accidentally discovers that she has the power to change the fate of the war. She is the only one who has the power to summon light and this will make her play a key role in this war.",
       "genres": [
-        "Fantasy",
-        "Drama"
+        "Drama",
+        "Fantasy"
       ],
       "cast": [
         "Jessie Mei Li",
@@ -995,7 +1015,7 @@
       "studio": "21 Laps Entertainment",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/mS9O9mjPlwpLTne4JgQlDkgREWA.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/36057/thumb/1783670473?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/36057/thumb/1789030845?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38566",
@@ -1015,7 +1035,7 @@
       "studio": "20th Television",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/tZnI8fWCtmJ9doCYSJwoJBITBiV.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/38566/thumb/1783931914?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/38566/thumb/1789203401?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36045",
@@ -1035,7 +1055,7 @@
       "studio": "Doozer",
       "seasons": 3,
       "poster": "https://image.tmdb.org/t/p/w300/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/36045/thumb/1783931913?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/36045/thumb/1789203400?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36037",
@@ -1054,8 +1074,8 @@
       ],
       "studio": "See-Saw Films",
       "seasons": 1,
-      "poster": "https://image.tmdb.org/t/p/w300/5RuZZIouptatjV96BdPmKmRsnGg.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/36037/thumb/1783670473?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "https://image.tmdb.org/t/p/w300/w2jauz2PeSjFQifDObI3qDen4f7.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/36037/thumb/1789030844?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42120",
@@ -1075,7 +1095,7 @@
       "studio": "Ubu Productions",
       "seasons": 6,
       "poster": "https://image.tmdb.org/t/p/w300/3Ksmbpg33PigXKWncD8rFMl24vF.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42120/thumb/1786086170?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42120/thumb/1788763027?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40208",
@@ -1094,8 +1114,8 @@
       ],
       "studio": "Desilu Productions",
       "seasons": 3,
-      "poster": "https://image.tmdb.org/t/p/w300/9byecLwsbbkAqGdxcKuuTI5kEzZ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/40208/thumb/1784271907?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "https://image.tmdb.org/t/p/w300/f2wbC7fxiOJqzTb6HPr4N6bsjLF.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/40208/thumb/1786868119?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38023",
@@ -1115,7 +1135,7 @@
       "studio": "MGM Television",
       "seasons": 10,
       "poster": "https://image.tmdb.org/t/p/w300/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/38023/thumb/1783670474?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/38023/thumb/1789030845?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39228",
@@ -1135,7 +1155,7 @@
       "studio": "21 Laps Entertainment",
       "seasons": 5,
       "poster": "https://image.tmdb.org/t/p/w300/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/39228/thumb/1783670476?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/39228/thumb/1789030848?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35983",
@@ -1155,7 +1175,7 @@
       "studio": "Doozer",
       "seasons": 4,
       "poster": "https://image.tmdb.org/t/p/w300/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/35983/thumb/1786176335?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/35983/thumb/1789030844?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_41838",
@@ -1175,7 +1195,7 @@
       "studio": "Warner Bros. Television",
       "seasons": 7,
       "poster": "https://image.tmdb.org/t/p/w300/wHIMMLFsk32wIzDmawWkYVbxFCS.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/41838/thumb/1786086169?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/41838/thumb/1788763026?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35678",
@@ -1195,7 +1215,7 @@
       "studio": "Chuck Lorre Productions",
       "seasons": 12,
       "poster": "https://image.tmdb.org/t/p/w300/euKFiO5M125rpngFRBbSW83beeI.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/35678/thumb/1783670472?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/35678/thumb/1789030843?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35669",
@@ -1215,7 +1235,7 @@
       "studio": "Lucasfilm Ltd.",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/gNbdjDi1HamTCrfvM9JeA94bNi2.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/35669/thumb/1783670471?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/35669/thumb/1789030843?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40182",
@@ -1233,7 +1253,27 @@
       "studio": "Silverback Films",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/x37IK9WWhuzi7tgyMT4ff3kiT5X.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/40182/thumb/1785745763?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/40182/thumb/1788419222?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_42858",
+      "title": "The Hawk",
+      "year": "2026",
+      "rating": null,
+      "summary": "Lonnie Hawkins, 2004's number one golfer, struggles on the back nine of his career to recapture his magic. His body says retire, but his heart says he's not done yet. His ex-wife and his son Lance, golf's new golden boy, know he's through. But with one more major to win to complete golf's Grand Slam, Lonnie refuses to believe he's anything other than one stroke away from the greatest comeback in golf history.",
+      "genres": [
+        "Comedy",
+        "Sport"
+      ],
+      "cast": [
+        "Will Ferrell",
+        "Molly Shannon",
+        "Jimmy Tatro"
+      ],
+      "studio": "Gloria Sanchez Productions",
+      "seasons": 1,
+      "poster": "https://image.tmdb.org/t/p/w300/6XCbqv7t0rYE2U1jzjh52fBxczj.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42858/thumb/1788563485?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35655",
@@ -1253,7 +1293,7 @@
       "studio": "Amazon Studios",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/kf5Hz70tjNAHg4swGDzOr9BfoZ1.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/35655/thumb/1783670471?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/35655/thumb/1789030842?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40715",
@@ -1263,7 +1303,7 @@
       "summary": "A New York family's life unravels after a tragedy; they process their grief while vacationing in rural Montana, where they explore human connection amid their profound sorrow.",
       "genres": [
         "Drama",
-        "Western"
+        "Family"
       ],
       "cast": [
         "Michelle Pfeiffer",
@@ -1273,7 +1313,7 @@
       "studio": "101 Studios",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/40715/thumb/1783931915?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/40715/thumb/1789203402?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35627",
@@ -1288,12 +1328,12 @@
       "cast": [
         "Pedro Pascal",
         "Katee Sackhoff",
-        "Chris Bartlett"
+        "Misty Rosas"
       ],
       "studio": "Lucasfilm Ltd.",
       "seasons": 3,
       "poster": "https://image.tmdb.org/t/p/w300/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/35627/thumb/1783670471?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/35627/thumb/1789030842?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35176",
@@ -1312,7 +1352,7 @@
       "studio": "Echo Films",
       "seasons": 3,
       "poster": "https://image.tmdb.org/t/p/w300/y9x2R87yt2U616736NJrP0d56dt.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/35176/thumb/1783670467?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/35176/thumb/1789030837?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35566",
@@ -1321,8 +1361,8 @@
       "rating": null,
       "summary": "Talon, the lone survivor of a race called the Blackbloods, sets off to the edge of civilisation to track her family's killers. On her journey she discovers she has supernatural powers which she must learn to harness in order to achieve her goals.",
       "genres": [
-        "Fantasy",
-        "Action"
+        "Drama",
+        "Fantasy"
       ],
       "cast": [
         "Jessica Green",
@@ -1332,7 +1372,7 @@
       "studio": "Electric Entertainment",
       "seasons": 4,
       "poster": "https://image.tmdb.org/t/p/w300/pqHFkhlO4xRRNOzWEEl3yV9KXiu.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/35566/thumb/1783670470?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/35566/thumb/1789030841?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40843",
@@ -1352,7 +1392,7 @@
       "studio": "Bonfire Legend",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/jJfk8NXauN4UgFQ1qn9lFzEk7ib.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/40843/thumb/1785567352?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/40843/thumb/1788164113?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35478",
@@ -1372,7 +1412,7 @@
       "studio": "Ranch Hand Productions",
       "seasons": 4,
       "poster": "https://image.tmdb.org/t/p/w300/lrbHBAxF9Ir83rxgeBrfmEJriLt.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/35478/thumb/1783670470?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/35478/thumb/1789030841?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35473",
@@ -1392,7 +1432,7 @@
       "studio": "Rough House Pictures",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/bKb54fgtMrS54VMMl8KdDIFlG3g.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/35473/thumb/1783670470?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/35473/thumb/1789030841?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38585",
@@ -1412,7 +1452,7 @@
       "studio": "HBO",
       "seasons": 6,
       "poster": "https://image.tmdb.org/t/p/w300/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/38585/thumb/1783931914?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/38585/thumb/1789203401?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36967",
@@ -1432,7 +1472,7 @@
       "studio": "Outerbanks Entertainment",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/uRzJaOysinMti88BGuu8m8shVCp.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/36967/thumb/1784967100?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/36967/thumb/1787647666?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39932",
@@ -1452,7 +1492,7 @@
       "studio": "Sony Pictures Television",
       "seasons": 3,
       "poster": "https://image.tmdb.org/t/p/w300/ihBi24EIr5kwAeY2PqmsgAcCj4n.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/39932/thumb/1786086168?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/39932/thumb/1788763025?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38951",
@@ -1472,7 +1512,7 @@
       "studio": "Rip Cord Productions",
       "seasons": 3,
       "poster": "https://image.tmdb.org/t/p/w300/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/38951/thumb/1784967101?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/38951/thumb/1787647667?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36953",
@@ -1501,7 +1541,7 @@
       "rating": null,
       "summary": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
       "genres": [
-        "Drama",
+        "Fantasy",
         "Action"
       ],
       "cast": [
@@ -1512,7 +1552,7 @@
       "studio": "Sean Daniel Company",
       "seasons": 4,
       "poster": "https://image.tmdb.org/t/p/w300/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/35436/thumb/1783670469?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/35436/thumb/1789030840?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35422",
@@ -1532,7 +1572,7 @@
       "studio": "Hivemind",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/vpfJK9F0UJNcAIIeC42oJyKMnZQ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/35422/thumb/1783670469?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/35422/thumb/1789030840?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35412",
@@ -1541,8 +1581,8 @@
       "rating": null,
       "summary": "When CIA analyst Jack Ryan stumbles upon a suspicious series of bank transfers his search for answers pulls him from the safety of his desk job and catapults him into a deadly game of cat and mouse throughout Europe and the Middle East, with a rising terrorist figurehead preparing for a massive attack against the US and her allies.",
       "genres": [
-        "Drama",
-        "Action"
+        "Thriller",
+        "Crime"
       ],
       "cast": [
         "John Krasinski",
@@ -1552,7 +1592,7 @@
       "studio": "Amazon Studios",
       "seasons": 4,
       "poster": "https://image.tmdb.org/t/p/w300/cO4py3L3q5GNPrA0qr1wVDrosK1.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/35412/thumb/1783670469?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/35412/thumb/1789030839?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35401",
@@ -1572,7 +1612,7 @@
       "studio": "101 Studios",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/35401/thumb/1783670468?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/35401/thumb/1789030839?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36961",
@@ -1590,7 +1630,7 @@
       "studio": "Wildstar Films",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/3QaBwLVPc8W71zC0E3D1j1R8ZLp.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/36961/thumb/1784967100?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/36961/thumb/1787647666?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35300",
@@ -1610,7 +1650,7 @@
       "studio": "Shaw Media",
       "seasons": 6,
       "poster": "https://image.tmdb.org/t/p/w300/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/35300/thumb/1783670468?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/35300/thumb/1789030839?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38280",
@@ -1630,7 +1670,7 @@
       "studio": "MGM Television",
       "seasons": 2,
       "poster": "https://image.tmdb.org/t/p/w300/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/38280/thumb/1783670475?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/38280/thumb/1789030846?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35292",
@@ -1650,7 +1690,7 @@
       "studio": "Lucasfilm Ltd.",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/lw4n5CBlLR62nogy46FyJaIFziH.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/35292/thumb/1783670468?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/35292/thumb/1789030838?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35236",
@@ -1669,8 +1709,8 @@
       ],
       "studio": "101 Studios",
       "seasons": 5,
-      "poster": "https://image.tmdb.org/t/p/w300/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/35236/thumb/1783670467?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "https://image.tmdb.org/t/p/w300/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/35236/thumb/1789030838?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_35188",
@@ -1680,7 +1720,7 @@
       "summary": "A charming and intense young man inserts himself into the lives of women who fascinate him.",
       "genres": [
         "Crime",
-        "Drama"
+        "Mystery"
       ],
       "cast": [
         "Penn Badgley",
@@ -1690,7 +1730,7 @@
       "studio": "Berlanti Productions",
       "seasons": 5,
       "poster": "https://image.tmdb.org/t/p/w300/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/35188/thumb/1783670467?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/35188/thumb/1789030838?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39068",
@@ -1710,7 +1750,7 @@
       "studio": "Warner Bros. Television",
       "seasons": 7,
       "poster": "https://image.tmdb.org/t/p/w300/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/39068/thumb/1783670476?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/39068/thumb/1789030847?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40833",
@@ -1719,8 +1759,8 @@
       "rating": null,
       "summary": "A disgraced, young Sherlock Holmes finds himself wrapped up in a murder case that threatens his liberty. His first ever case unravels a globe-trotting conspiracy, culminating in an explosive showdown that changes his life forever.",
       "genres": [
-        "Action",
-        "Adventure"
+        "Mystery",
+        "Action"
       ],
       "cast": [
         "Hero Fiennes Tiffin",
@@ -1729,8 +1769,8 @@
       ],
       "studio": "Motive Pictures",
       "seasons": 1,
-      "poster": "http://192.168.68.200:32400/library/metadata/40833/thumb/1785567352?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/40833/thumb/1785567352?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "http://192.168.68.200:32400/library/metadata/40833/thumb/1788164113?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/40833/thumb/1788164113?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38277",
@@ -1750,7 +1790,7 @@
       "studio": "Atlas Independent",
       "seasons": 1,
       "poster": "https://image.tmdb.org/t/p/w300/pHAM8Fzek7xwTbqmaxPXAjCAjz1.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/38277/thumb/1783670474?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/38277/thumb/1789030846?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     }
   ]
 }
