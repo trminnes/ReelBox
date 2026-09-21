@@ -1,6 +1,6 @@
 {
-  "synced": "2026-09-12T07:20:15.693046",
-  "count": 2241,
+  "synced": "2026-09-20T20:45:13.870037",
+  "count": 2267,
   "movies": [
     {
       "id": "plex_18547",
@@ -676,7 +676,7 @@
       "director": "John Singleton",
       "studio": "Ardustry Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/6nDZExrDKIXvSAghsFKVFRVJuSf.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1591/thumb/1787039000?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1591/thumb/1789712746?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_11587",
@@ -874,7 +874,7 @@
       "director": "Phil Lord, Christopher Miller",
       "studio": "Columbia Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/850chzYHYbT3IISl6Q7dbBuFP2B.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1592/thumb/1784442282?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1592/thumb/1789712746?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1594",
@@ -896,7 +896,7 @@
       "director": "Brian Helgeland",
       "studio": "Legendary Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/iZ7jVGQWj3eBUdqwAPUlKk0BaS2.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1594/thumb/1781765226?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1594/thumb/1789712747?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1595",
@@ -940,7 +940,7 @@
       "director": "Carl Rinsch",
       "studio": "Mid Atlantic Films",
       "poster": "https://image.tmdb.org/t/p/w300/xDHnmcroujCRG0ysYQaiswjbyHd.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1615/thumb/1784442284?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1615/thumb/1789712748?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1637",
@@ -1006,7 +1006,7 @@
       "director": "Kyle Marvin",
       "studio": "199 Productions",
       "poster": "https://image.tmdb.org/t/p/w300/qhSFHOS9CeXTqGgmbCi5pteIc6k.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1680/thumb/1784442287?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1680/thumb/1789712751?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1577",
@@ -1072,7 +1072,7 @@
       "director": "Noam Murro",
       "studio": "Legendary Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/wYDdWN1McB1Sio4z1dPSkb40Z78.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1593/thumb/1787039001?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1593/thumb/1789712747?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1570",
@@ -1094,7 +1094,7 @@
       "director": "Marc Webb",
       "studio": "Fox Searchlight Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1570/thumb/1787038998?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1570/thumb/1789712744?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1578",
@@ -1138,7 +1138,7 @@
       "director": "Sam Mendes",
       "studio": "DreamWorks Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1588/thumb/1787039000?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1588/thumb/1789712745?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2284",
@@ -1160,7 +1160,7 @@
       "director": "Oliver Daly",
       "studio": "Lakeshore Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2284/thumb/1787120571?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2284/thumb/1789800989?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1835",
@@ -1182,7 +1182,7 @@
       "director": "Lazar Bodroža",
       "studio": "Mir Media Group",
       "poster": "https://image.tmdb.org/t/p/w300/aXosp6MFBxYi4m6ZmE4u1auReHc.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1835/thumb/1784442293?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1835/thumb/1789712757?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1865",
@@ -1204,7 +1204,7 @@
       "director": "Edward Zwick",
       "studio": "TriStar Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/9KqG5OFi3NLJYBbsDSA8pZ3dln.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1865/thumb/1787039011?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1865/thumb/1789712757?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1866",
@@ -1226,7 +1226,7 @@
       "director": "Richard Curtis",
       "studio": "Universal Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1866/thumb/1787039012?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1866/thumb/1789712757?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1888",
@@ -1248,7 +1248,7 @@
       "director": "Andrew Davis",
       "studio": "Warner Bros. Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/pS6j4cIrv1LWSIk5NxYvpQwNTsT.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1888/thumb/1787039012?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1888/thumb/1789712758?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_8286",
@@ -1336,7 +1336,7 @@
       "director": "Frank Marino",
       "studio": "Levity Entertainment Group",
       "poster": "https://image.tmdb.org/t/p/w300/f0OQLvQL0vyAia6zNKvq0pwdlEt.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1889/thumb/1787039013?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1889/thumb/1789712758?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_11646",
@@ -1424,7 +1424,7 @@
       "director": "Paul Weitz",
       "studio": "Focus Features",
       "poster": "https://image.tmdb.org/t/p/w300/f3HoCikJxypRtLJptBwvs7L7etE.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1893/thumb/1787039013?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1893/thumb/1789712759?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_11700",
@@ -1490,7 +1490,7 @@
       "director": "M. Night Shyamalan",
       "studio": "Columbia Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/iXMvYIlzzJBs352CfeiQcBvovZt.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1894/thumb/1787039014?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1894/thumb/1789712759?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1910",
@@ -1512,7 +1512,7 @@
       "director": "Martin Scorsese",
       "studio": "Double Play",
       "poster": "https://image.tmdb.org/t/p/w300/8upjM945SVY99tu2Z8OG27Jd4m6.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1910/thumb/1787039014?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1910/thumb/1789712760?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1911",
@@ -1556,7 +1556,7 @@
       "director": "Elliott Lester",
       "studio": "Ingenious Media",
       "poster": "https://image.tmdb.org/t/p/w300/25oWTCGqIik4gUTMidx3L8DI4Bt.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1913/thumb/1787039015?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1913/thumb/1789712760?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1939",
@@ -1618,10 +1618,10 @@
         "Julie Hagerty",
         "Leslie Nielsen"
       ],
-      "director": "Jim Abrahams, David Zucker, Jerry Zucker",
+      "director": "Jerry Zucker, David Zucker, Jim Abrahams",
       "studio": "Paramount Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1956/thumb/1787039017?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1956/thumb/1789712762?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1957",
@@ -1636,14 +1636,14 @@
         "Fantasy"
       ],
       "cast": [
-        "Will Smith",
         "Mena Massoud",
+        "Will Smith",
         "Naomi Scott"
       ],
       "director": "Guy Ritchie",
       "studio": "Walt Disney Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1957/thumb/1787039017?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1957/thumb/1789712763?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1961",
@@ -1665,7 +1665,7 @@
       "director": "Mario Azzopardi",
       "studio": "Chesler/Perlmutter Productions",
       "poster": "https://image.tmdb.org/t/p/w300/eNBth8F4UTfrN9hFqZtSKGf1nJ8.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1961/thumb/1787039018?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1961/thumb/1789712763?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_235",
@@ -1709,7 +1709,7 @@
       "director": "James Bobin",
       "studio": "Walt Disney Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/kbGamUkYfgKIYIrU8kW5oc0NatZ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1969/thumb/1787039018?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1969/thumb/1789712763?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1970",
@@ -1731,7 +1731,7 @@
       "director": "Mary Nighy",
       "studio": "Babe Nation Films",
       "poster": "https://image.tmdb.org/t/p/w300/3QpO7dxLXBdPgWpNLKvRNojz7bv.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1970/thumb/1787039019?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1970/thumb/1789712764?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2004",
@@ -1797,7 +1797,7 @@
       "director": "Jean-Pierre Jeunet",
       "studio": "20th Century Fox",
       "poster": "https://image.tmdb.org/t/p/w300/9aRDMlU5Zwpysilm0WCWzU2PCFv.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2303/thumb/1781765263?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2303/thumb/1789800990?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_20989",
@@ -1841,7 +1841,7 @@
       "director": "James Cameron",
       "studio": "SLM Production Group",
       "poster": "https://image.tmdb.org/t/p/w300/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2304/thumb/1784442324?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2304/thumb/1789800991?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2305",
@@ -1883,7 +1883,7 @@
       "director": "Edward Berger",
       "studio": "Amusement Park Films",
       "poster": "https://image.tmdb.org/t/p/w300/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2346/thumb/1784442325?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2346/thumb/1789800991?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2347",
@@ -1927,7 +1927,7 @@
       "director": "Robert Zemeckis",
       "studio": "Paramount Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/sV4lXM32quwminL3TP36nlNPp7Q.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2349/thumb/1784531953?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2349/thumb/1789800993?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2415",
@@ -1949,7 +1949,7 @@
       "director": "Albert Hughes",
       "studio": "Studio 8",
       "poster": "https://image.tmdb.org/t/p/w300/afdZAIcAQscziqVtsEoh2PwsYTW.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2415/thumb/1784531953?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2415/thumb/1789800993?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2416",
@@ -1970,7 +1970,7 @@
       "director": "Jacob Cooney",
       "studio": "Broken Films",
       "poster": "https://image.tmdb.org/t/p/w300/s00AwtusVVG8lpA3fquKaE63NWW.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2416/thumb/1787206416?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2416/thumb/1789800994?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_237",
@@ -2014,7 +2014,7 @@
       "director": "Michael Apted",
       "studio": "Samuel Goldwyn Films",
       "poster": "https://image.tmdb.org/t/p/w300/zr48JEuwxcYM03NcdJU6qWMHPtq.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2417/thumb/1787206416?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2417/thumb/1789800994?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_11736",
@@ -2080,7 +2080,7 @@
       "director": "Michael Cuesta",
       "studio": "TIK Films",
       "poster": "https://image.tmdb.org/t/p/w300/w6vjeHx3UEaBXIyc8VFqyZYKznD.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2418/thumb/1787206417?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2418/thumb/1789800995?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2433",
@@ -2146,7 +2146,7 @@
       "director": "David O. Russell",
       "studio": "Annapurna Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/z6O1KDhfWDTm5ZBr6Ovr0eg8LqO.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2436/thumb/1787206419?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2436/thumb/1789800996?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2462",
@@ -2168,7 +2168,7 @@
       "director": "Doug Liman",
       "studio": "Universal Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/23ILgoPSO5ShKcTZOuiTVfqFAUB.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2462/thumb/1784531957?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2462/thumb/1789800996?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2463",
@@ -2190,7 +2190,7 @@
       "director": "Paul Weitz",
       "studio": "Zide-Perry Productions",
       "poster": "https://image.tmdb.org/t/p/w300/5P68by2Thn8wHAziyWGEw2O7hco.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2463/thumb/1787206420?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2463/thumb/1789800997?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2478",
@@ -2212,7 +2212,7 @@
       "director": "J.B. Rogers",
       "studio": "Universal Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/854ZZxXdeabAs90mrV72NqShJqR.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2478/thumb/1784531958?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2478/thumb/1789800997?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_21197",
@@ -2255,7 +2255,7 @@
       "director": "Jon Hurwitz, Hayden Schlossberg",
       "studio": "Universal Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/de5QBIdVR4dnkBZ4a0zjkS4lTg.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2479/thumb/1787206421?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2479/thumb/1789800998?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2480",
@@ -2277,7 +2277,7 @@
       "director": "Boris Wexler",
       "studio": "Escape Films",
       "poster": "https://image.tmdb.org/t/p/w300/2DYzh3QdcF102ceNGUmqsUVw9ri.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2480/thumb/1787206422?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2480/thumb/1789800998?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2500",
@@ -2299,7 +2299,7 @@
       "director": "Clint Eastwood",
       "studio": "Warner Bros. Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/i1U46OwMc6vlm7OoSUKfqUH615e.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2500/thumb/1787206422?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2500/thumb/1789800999?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2503",
@@ -2365,7 +2365,7 @@
       "director": "Jesse Dylan",
       "studio": "Loumolo & Co.",
       "poster": "https://image.tmdb.org/t/p/w300/pCO3lJv2PzPkJty29APxCVSjyoE.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2525/thumb/1787206424?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2525/thumb/1789801000?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2568",
@@ -2387,7 +2387,7 @@
       "director": "John Landis",
       "studio": "Lyncanthrope Films",
       "poster": "https://image.tmdb.org/t/p/w300/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2568/thumb/1787206425?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2568/thumb/1789801001?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2541",
@@ -2409,7 +2409,7 @@
       "director": "Franck Khalfoun",
       "studio": "Blumhouse Productions",
       "poster": "https://image.tmdb.org/t/p/w300/c9Nyu8YZfLsWWbze4DEGPbnwCcT.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2541/thumb/1787206424?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2541/thumb/1789801000?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2566",
@@ -2495,7 +2495,7 @@
       "director": "Rob Reiner",
       "studio": "Castle Rock Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/bJoWtA8OAIqavlb5mbx3EzvxFUA.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2577/thumb/1784531964?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2577/thumb/1789801003?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2578",
@@ -2517,7 +2517,7 @@
       "director": "Ric Roman Waugh",
       "studio": "Campbell Grobman Films",
       "poster": "https://image.tmdb.org/t/p/w300/fapXd3v9qTcNBTm39ZC4KUVQDNf.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2578/thumb/1784531965?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2578/thumb/1789801003?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_11739",
@@ -2583,7 +2583,7 @@
       "director": "Luc Besson",
       "studio": "EuropaCorp",
       "poster": "https://image.tmdb.org/t/p/w300/2U0oAVAE0lDRhNmJPPYhDW9kQ8t.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2579/thumb/1787206428?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2579/thumb/1789801004?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2645",
@@ -2671,7 +2671,7 @@
       "director": "Peyton Reed",
       "studio": "Marvel Studios",
       "poster": "https://image.tmdb.org/t/p/w300/cFQEO687n1K6umXbInzocxcnAQz.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2646/thumb/1787206429?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2646/thumb/1789801005?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2647",
@@ -2737,7 +2737,7 @@
       "director": "Will Gluck",
       "studio": "Olive Bridge Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/5qHoazZiaLe7oFBok7XlUhg96f2.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2005/thumb/1781765245?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2005/thumb/1789712765?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2705",
@@ -2759,7 +2759,7 @@
       "director": "Edward Drake",
       "studio": "308 Enterprises",
       "poster": "https://image.tmdb.org/t/p/w300/chTkFGToW5bsyw3hgLAe4S5Gt3.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2705/thumb/1784531968?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2705/thumb/1789801006?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2716",
@@ -2781,7 +2781,7 @@
       "director": "James Wan",
       "studio": "The Safran Company",
       "poster": "https://image.tmdb.org/t/p/w300/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2716/thumb/1784531969?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2716/thumb/1789801007?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2006",
@@ -2803,7 +2803,7 @@
       "director": "James Wan",
       "studio": "Warner Bros. Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2006/thumb/1787039020?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2006/thumb/1789712765?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2754",
@@ -2847,7 +2847,7 @@
       "director": "Ben Affleck",
       "studio": "GK Films",
       "poster": "https://image.tmdb.org/t/p/w300/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2755/thumb/1784531970?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2755/thumb/1789801007?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_18808",
@@ -2913,7 +2913,7 @@
       "director": "Larry Charles",
       "studio": "Kasbah-Film Tanger",
       "poster": "https://image.tmdb.org/t/p/w300/tUmo47WFeFRIQktGXYxWnSZXO6P.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2757/thumb/1787206433?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2757/thumb/1789801008?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2756",
@@ -2934,7 +2934,7 @@
       "director": "Stephen Durham",
       "studio": "2nd Nature Films",
       "poster": "https://image.tmdb.org/t/p/w300/oswZEJav9ymqIc9B1cjA9Pz2tj1.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2756/thumb/1784531970?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2756/thumb/1789801008?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_19373",
@@ -3000,7 +3000,7 @@
       "director": "Denis Villeneuve",
       "studio": "FilmNation Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2779/thumb/1787206433?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2779/thumb/1789801009?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2780",
@@ -3066,7 +3066,7 @@
       "director": "J.K. Amalou",
       "studio": "Silver Leaf Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/5INyciUa2zkdU66d0YbvPjYwfwE.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2781/thumb/1784531972?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2781/thumb/1789801010?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2846",
@@ -3154,7 +3154,7 @@
       "director": "Jay Roach",
       "studio": "New Line Cinema",
       "poster": "https://image.tmdb.org/t/p/w300/jiF7UShERJFn5RtgfBK2lIJrOTc.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2848/thumb/1787206436?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2848/thumb/1789801012?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2849",
@@ -3261,10 +3261,10 @@
         "Chris Evans",
         "Mark Ruffalo"
       ],
-      "director": "Anthony Russo, Joe Russo",
+      "director": "Joe Russo, Anthony Russo",
       "studio": "Marvel Studios",
       "poster": "https://image.tmdb.org/t/p/w300/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2861/thumb/1787206437?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2861/thumb/1789801013?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2912",
@@ -3283,10 +3283,10 @@
         "Chris Evans",
         "Chris Hemsworth"
       ],
-      "director": "Joe Russo, Anthony Russo",
+      "director": "Anthony Russo, Joe Russo",
       "studio": "Marvel Studios",
       "poster": "https://image.tmdb.org/t/p/w300/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2912/thumb/1787206438?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2912/thumb/1789801014?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2933",
@@ -3352,7 +3352,7 @@
       "director": "Damien Chazelle",
       "studio": "Paramount Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2956/thumb/1787206440?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2956/thumb/1789801015?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2963",
@@ -3374,7 +3374,7 @@
       "director": "Mathieu Kassovitz",
       "studio": "StudioCanal",
       "poster": "https://image.tmdb.org/t/p/w300/bQqb3T0FIHOvgozzX9aygmWUbLZ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2963/thumb/1787206440?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2963/thumb/1789801015?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2999",
@@ -3396,7 +3396,7 @@
       "director": "Alan Metter",
       "studio": "Orion Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/nspYnZ6QwqAQXaCLjbGKfEA83tf.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2999/thumb/1787206441?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2999/thumb/1789801016?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3000",
@@ -3418,7 +3418,7 @@
       "director": "Adil El Arbi, Bilall Fallah",
       "studio": "Columbia Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3000/thumb/1787206441?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3000/thumb/1789801016?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_20970",
@@ -3592,7 +3592,7 @@
       "director": "Allan Ungar",
       "studio": "Goldrush Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/yph9PAbmjYPvyvbeZvdYIhCZHEu.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3026/thumb/1784531982?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3026/thumb/1789801018?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2007",
@@ -3614,7 +3614,7 @@
       "director": "Greta Gerwig",
       "studio": "LuckyChap Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2007/thumb/1787039020?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2007/thumb/1789712766?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_241",
@@ -3658,7 +3658,7 @@
       "director": "Ezekiel Norton",
       "studio": "Mattel Playground Productions",
       "poster": "https://image.tmdb.org/t/p/w300/nCviAdChxibrKRZfvG7MZ2wsqdR.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/242/thumb/1787038995?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/242/thumb/1789712742?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_254",
@@ -3768,7 +3768,7 @@
       "director": "Christopher Nolan",
       "studio": "Warner Bros. Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3100/thumb/1787206444?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3100/thumb/1789801018?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3101",
@@ -3790,7 +3790,7 @@
       "director": "Zack Snyder",
       "studio": "Warner Bros. Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3101/thumb/1784531983?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3101/thumb/1789801019?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3102",
@@ -3809,10 +3809,10 @@
         "Dirk Benedict",
         "Lorne Greene"
       ],
-      "director": "Richard A. Colla, Alan J. Levi",
+      "director": "Alan J. Levi, Richard A. Colla",
       "studio": "Glen A. Larson Productions",
       "poster": "https://image.tmdb.org/t/p/w300/96ETJEnHoVuptkCNMtxcEZ5iWzN.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3102/thumb/1781853227?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3102/thumb/1789801019?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3147",
@@ -3834,7 +3834,7 @@
       "director": "Jonas Pate",
       "studio": "Universal Television",
       "poster": "https://image.tmdb.org/t/p/w300/fuHuvxnfcPXZauX1Pm7qwmc9k5L.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3147/thumb/1787206445?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3147/thumb/1789801020?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3149",
@@ -3856,7 +3856,7 @@
       "director": "Seth Gordon",
       "studio": "Uncharted",
       "poster": "https://image.tmdb.org/t/p/w300/6HE4xd8zloDqmjMZuhUCCw2UcY1.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3149/thumb/1787206446?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3149/thumb/1789801020?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_19339",
@@ -4054,7 +4054,7 @@
       "director": "Jay Chandrasekhar",
       "studio": "Broken Lizard Industries",
       "poster": "https://image.tmdb.org/t/p/w300/5srGbSv3zhEUjXFOZR9qHkgJO6l.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3150/thumb/1787206446?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3150/thumb/1789801021?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3151",
@@ -4098,7 +4098,7 @@
       "director": "Aaron Sorkin",
       "studio": "Amazon Studios",
       "poster": "https://image.tmdb.org/t/p/w300/oztBLWdRk5gApYmNdADXvXkLT5m.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3180/thumb/1784531987?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3180/thumb/1789801022?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3181",
@@ -4142,7 +4142,7 @@
       "director": "Sturla Gunnarsson",
       "studio": "The Film Works",
       "poster": "https://image.tmdb.org/t/p/w300/49s4KMmF2YBJhHYTqwdvikpTztt.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3191/thumb/1787206448?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3191/thumb/1789801023?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3203",
@@ -4235,7 +4235,7 @@
       "year": "2018",
       "rating": 3.3,
       "summary": "The story follows Joe, (Cage), a down-on-his-luck truck driver haunted by the memory of his deceased wife and child. He meets Julie (Potente), a spiritually gifted woman who enlists Joe in a desperate effort to find the lost soul of her comatose daughter, Billie (Mitchell). But the spirit of Joe's dead wife Mary proves stronger, possessing the young woman's body and determined to settle her unfinished business with the living.",
-      "tagline": "Vengeance Is Born In Hell",
+      "tagline": "Vengeance is born in hell.",
       "duration": 90,
       "genres": [
         "Mystery",
@@ -4249,7 +4249,7 @@
       "director": "Maria Pulera",
       "studio": "Rise Up",
       "poster": "https://image.tmdb.org/t/p/w300/7V25KUnWkf0NP7wtGkbmPjEfYf9.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3245/thumb/1778917288?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3245/thumb/1789894294?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_20822",
@@ -4468,7 +4468,7 @@
       "director": "George Tillman Jr.",
       "studio": "Mandalay Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/fdVd6thTstt0MQ4dUC1IXiOXpxv.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3249/thumb/1787206450?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3249/thumb/1789894295?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_260",
@@ -4600,7 +4600,7 @@
       "director": "Dean Parisot",
       "studio": "Endeavor Content",
       "poster": "https://image.tmdb.org/t/p/w300/4V2nTPfeB59TcqJcUfQ9ziTi7VN.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3252/thumb/1787206451?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3252/thumb/1789894296?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3253",
@@ -4622,7 +4622,7 @@
       "director": "Peter Hewitt",
       "studio": "Nelson Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3253/thumb/1787206451?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3253/thumb/1789894296?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3254",
@@ -4644,7 +4644,7 @@
       "director": "Stephen Herek",
       "studio": "DEG",
       "poster": "https://image.tmdb.org/t/p/w300/tV25lGWGWGEqUe3U0xjQTBgilSx.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3254/thumb/1787206452?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3254/thumb/1789894297?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3264",
@@ -4688,7 +4688,7 @@
       "director": "Alejandro G. Iñárritu",
       "studio": "TSG Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3265/thumb/1787206453?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3265/thumb/1789894298?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3295",
@@ -4710,7 +4710,7 @@
       "director": "Jaume Collet-Serra",
       "studio": "New Line Cinema",
       "poster": "https://image.tmdb.org/t/p/w300/rCtreCr4xiYEWDQTebybolIh6Xe.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3295/thumb/1787206453?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3295/thumb/1789894298?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3322",
@@ -4726,12 +4726,12 @@
       "cast": [
         "Kevin Costner",
         "Jillian Estell",
-        "Jennifer Ehle"
+        "Octavia Spencer"
       ],
       "director": "Mike Binder",
       "studio": "IM Global",
       "poster": "https://image.tmdb.org/t/p/w300/hOxxudUwgh5KGC7LtxDCkkwn1YP.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3322/thumb/1781853236?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3322/thumb/1789894299?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3296",
@@ -4775,7 +4775,7 @@
       "director": "Cate Shortland",
       "studio": "Marvel Studios",
       "poster": "https://image.tmdb.org/t/p/w300/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3297/thumb/1787206454?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3297/thumb/1789894299?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3323",
@@ -4797,7 +4797,7 @@
       "director": "Michael Mann",
       "studio": "Legendary Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/7zu6HPnKPjNA7NuR4DGRdaH0PdX.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3323/thumb/1787206455?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3323/thumb/1789894300?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3330",
@@ -4819,7 +4819,7 @@
       "director": "Mark Williams",
       "studio": "The Solution",
       "poster": "https://image.tmdb.org/t/p/w300/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3330/thumb/1787206456?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3330/thumb/1789894300?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3391",
@@ -4841,13 +4841,13 @@
       "director": "Ron Yuan",
       "studio": "Universal 1440 Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/bIp7UbNKaBBxA9086jLCCRuXA6W.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3391/thumb/1784531997?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3391/thumb/1789894302?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3373",
       "title": "Blade Runner",
       "year": "1982",
-      "rating": 9.4,
+      "rating": 8.9,
       "summary": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
       "tagline": "Man has made his match ...now it's his problem.",
       "duration": 118,
@@ -4863,7 +4863,7 @@
       "director": "Ridley Scott",
       "studio": "Shaw Brothers",
       "poster": "https://image.tmdb.org/t/p/w300/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3373/thumb/1787206456?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3373/thumb/1789894301?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3374",
@@ -4885,7 +4885,7 @@
       "director": "Denis Villeneuve",
       "studio": "Alcon Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3374/thumb/1787206457?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3374/thumb/1789894301?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3409",
@@ -4907,7 +4907,7 @@
       "director": "Mel Brooks",
       "studio": "Crossbow Productions",
       "poster": "https://image.tmdb.org/t/p/w300/vNw1gOEDdYTDeNMuuq8OmiEHrfH.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3409/thumb/1787206458?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3409/thumb/1789894302?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3415",
@@ -4929,7 +4929,7 @@
       "director": "Frank Coraci",
       "studio": "GulfStream Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/o2YrH9jS7CAfWjETHFeL0tth79E.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3415/thumb/1784531998?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3415/thumb/1789894303?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_21200",
@@ -4995,7 +4995,7 @@
       "director": "Kay Cannon",
       "studio": "Hurwitz & Schlossberg Productions",
       "poster": "https://image.tmdb.org/t/p/w300/uvlUQXg0AlpGzKukO11K7QtW3Yu.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3428/thumb/1787206459?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3428/thumb/1789894303?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3429",
@@ -5017,7 +5017,7 @@
       "director": "Jean-François Richet",
       "studio": "Wild Bunch",
       "poster": "https://image.tmdb.org/t/p/w300/xgzmEJNM2ePcwwDZOGGznwPPnsc.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3429/thumb/1787206459?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3429/thumb/1789894304?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3448",
@@ -5083,7 +5083,7 @@
       "director": "Uwe Boll",
       "studio": "Boll Kino Beteiligungs GmbH & Co. KG",
       "poster": "https://image.tmdb.org/t/p/w300/kS48eBvmVXtNJGXWW5QMQmm1JbO.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3467/thumb/1787206461?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3467/thumb/1789894305?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3471",
@@ -5105,7 +5105,7 @@
       "director": "David S. F. Wilson",
       "studio": "Original Film",
       "poster": "https://image.tmdb.org/t/p/w300/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3471/thumb/1787206461?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3471/thumb/1789894306?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2021",
@@ -5127,7 +5127,7 @@
       "director": "Ángel Manuel Soto",
       "studio": "Warner Bros. Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2021/thumb/1784442305?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2021/thumb/1789712766?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3473",
@@ -5149,7 +5149,7 @@
       "director": "C.B. Harding",
       "studio": "Parallel Entertainment Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/fUlTnmldkZQCSOy3nCAfire0SWM.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3473/thumb/1787206462?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3473/thumb/1789894306?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_11863",
@@ -5237,7 +5237,7 @@
       "director": "Bryan Singer",
       "studio": "20th Century Fox",
       "poster": "https://image.tmdb.org/t/p/w300/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3474/thumb/1784532003?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3474/thumb/1789894306?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3475",
@@ -5259,7 +5259,7 @@
       "director": "Philip Barantini",
       "studio": "Ascendant Films",
       "poster": "https://image.tmdb.org/t/p/w300/kdkk7OBnIL1peW2zwcAAp6O54Jo.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3475/thumb/1787206463?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3475/thumb/1789894307?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3503",
@@ -5278,10 +5278,10 @@
         "Matt O'Leary",
         "Arnar Jónsson"
       ],
-      "director": "Andrew Sullivan, Geoffrey Orthwein",
+      "director": "Geoffrey Orthwein, Andrew Sullivan",
       "studio": "Kansha Films",
       "poster": "https://image.tmdb.org/t/p/w300/cedeEgSeKpsFZH9z9LgWbEqILlW.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3503/thumb/1787206463?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3503/thumb/1789894307?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3525",
@@ -5303,7 +5303,7 @@
       "director": "Jay Roach",
       "studio": "Lighthouse Management + Media",
       "poster": "https://image.tmdb.org/t/p/w300/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3525/thumb/1787206464?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3525/thumb/1789894308?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_3528",
@@ -5586,7 +5586,7 @@
       "director": "Graham Annable, Anthony Stacchi",
       "studio": "LAIKA",
       "poster": "https://image.tmdb.org/t/p/w300/npBf0yc5Gt7aAyyVOcYtFyT2IPa.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1233/thumb/1787038997?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1233/thumb/1789712743?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_12027",
@@ -7831,7 +7831,7 @@
       "director": "Gareth Edwards",
       "studio": "New Regency Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/3dSivDtOuyxLDxPH4v2tcNG1fP7.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2197/thumb/1787120568?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2197/thumb/1789800986?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4134",
@@ -8051,7 +8051,7 @@
       "director": "John Lyde",
       "studio": "Arrowstorm Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/ypVg8jxAkdWxoRQ1jcObtAXLy2M.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4706/thumb/1781681605?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4706/thumb/1789712777?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4216",
@@ -8554,7 +8554,7 @@
       "director": "Kenneth Branagh",
       "studio": "Genre Films",
       "poster": "https://image.tmdb.org/t/p/w300/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4422/thumb/1786950574?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4422/thumb/1789630333?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4419",
@@ -8642,7 +8642,7 @@
       "director": "Renny Harlin",
       "studio": "Riche-Ludwig Productions",
       "poster": "https://image.tmdb.org/t/p/w300/fyn0zyCI4kIlbDoHH0Hzv09hDC5.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4458/thumb/1786950575?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4458/thumb/1789630333?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4482",
@@ -8664,7 +8664,7 @@
       "director": "Adrian Lyne",
       "studio": "New Regency Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4482/thumb/1786950575?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4482/thumb/1789630334?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4485",
@@ -8686,7 +8686,7 @@
       "director": "Peter Berg",
       "studio": "Summit Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/jgBIYCZACe3iaS9TL2XzVGkO5p5.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4485/thumb/1786950576?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4485/thumb/1789630334?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_12236",
@@ -8774,7 +8774,7 @@
       "director": "Ken Scott",
       "studio": "DreamWorks Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/huXHYDclKT4RM1OvS3O7SXYRAU0.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4492/thumb/1786950577?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4492/thumb/1789630336?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_12250",
@@ -8840,7 +8840,7 @@
       "director": "Kenny Ortega",
       "studio": "Bad Angels Productions, Ltd.",
       "poster": "https://image.tmdb.org/t/p/w300/7IRy0iHdaS0JI3ng4ZYlk5gLSFn.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4513/thumb/1786950577?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4513/thumb/1789630336?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_345",
@@ -8928,7 +8928,7 @@
       "director": "Victor Levin",
       "studio": "The Fyzz",
       "poster": "https://image.tmdb.org/t/p/w300/ioj2FMnMgD0eHgYfd31HtWOtBWU.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4514/thumb/1786950578?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4514/thumb/1789630337?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6923",
@@ -8994,7 +8994,7 @@
       "director": "Marc Lawrence",
       "studio": "Banter",
       "poster": "https://image.tmdb.org/t/p/w300/zNRLfwUGKaSQEDvOKlIOLGn8qRk.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4538/thumb/1786950578?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4538/thumb/1789630337?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6924",
@@ -9060,7 +9060,7 @@
       "director": "Collin Schiffli",
       "studio": "Align",
       "poster": "https://image.tmdb.org/t/p/w300/byXLJZq5vfveYdAWaC4uMtojsWj.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4547/thumb/1786950579?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4547/thumb/1789630338?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_12259",
@@ -9126,7 +9126,7 @@
       "director": "Matt Drummond",
       "studio": "Extinct Production",
       "poster": "https://image.tmdb.org/t/p/w300/xOe4S3eGogWQk4H8NhVe6eNJZSO.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4549/thumb/1786950580?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4549/thumb/1789630339?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4553",
@@ -9169,7 +9169,7 @@
       "director": "Don Siegel",
       "studio": "Malpaso Productions",
       "poster": "https://image.tmdb.org/t/p/w300/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4554/thumb/1786950580?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4554/thumb/1789630340?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4558",
@@ -9235,13 +9235,13 @@
       "director": "Neil Burger",
       "studio": "Summit Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4594/thumb/1787039025?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4594/thumb/1789712770?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2348",
       "title": "The Divergent Series: Allegiant",
       "year": "2016",
-      "rating": 1.1,
+      "rating": null,
       "summary": "After the earth-shattering revelations of Insurgent, Tris must escape with Four beyond the wall that encircles Chicago to finally discover the shocking truth of the world outside.",
       "tagline": "The truth lies beyond the wall.",
       "duration": 121,
@@ -9257,7 +9257,7 @@
       "director": "Robert Schwentke",
       "studio": "Mandeville Films",
       "poster": "https://image.tmdb.org/t/p/w300/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2348/thumb/1787206414?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2348/thumb/1789800992?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_15721",
@@ -9301,7 +9301,7 @@
       "director": "Quentin Tarantino",
       "studio": "The Weinstein Company",
       "poster": "https://image.tmdb.org/t/p/w300/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4595/thumb/1787039025?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4595/thumb/1789712770?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_12288",
@@ -9389,7 +9389,7 @@
       "director": "Nick Hurran",
       "studio": "BBC Cymru Wales",
       "poster": "https://image.tmdb.org/t/p/w300/6c0CjymaupC5xerJCemuaSV4CLj.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4615/thumb/1787039026?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4615/thumb/1789712772?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4627",
@@ -9408,10 +9408,10 @@
         "Aavi Haas",
         "Ryder McLaughlin"
       ],
-      "director": "Channing Tatum, Reid Carolin",
+      "director": "Reid Carolin, Channing Tatum",
       "studio": "FilmNation Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/zHQy4h36WwuCetKS7C3wcT1hkgA.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4627/thumb/1784359119?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4627/thumb/1789712772?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4643",
@@ -9433,7 +9433,7 @@
       "director": "Paul Schrader",
       "studio": "Shanghai Gigantic Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/ve6qJRjs2OUsXLIHLson3j4eVTB.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4643/thumb/1787039027?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4643/thumb/1789712772?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4651",
@@ -9477,7 +9477,7 @@
       "director": "Lasse Hallström",
       "studio": "Amblin Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/3jcNvhtVQe5Neoffdic39fRactM.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1707/thumb/1787039006?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1707/thumb/1789712752?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4652",
@@ -9499,7 +9499,7 @@
       "director": "Stephen Gaghan",
       "studio": "Universal Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/3Nt3v1uzUgfSuVARD1AnI9g9Zl9.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4652/thumb/1787039028?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4652/thumb/1789712773?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_347",
@@ -9565,7 +9565,7 @@
       "director": "Joseph Gordon-Levitt",
       "studio": "Ram Bergman Productions",
       "poster": "https://image.tmdb.org/t/p/w300/uh8bwvgGXeUKzdL4oSul9zxyTcd.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4653/thumb/1787039029?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4653/thumb/1789712774?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4668",
@@ -9587,7 +9587,7 @@
       "director": "Adam McKay",
       "studio": "Hyperobject Industries",
       "poster": "https://image.tmdb.org/t/p/w300/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4668/thumb/1784359533?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4668/thumb/1789712774?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4702",
@@ -9609,7 +9609,7 @@
       "director": "Alexander Payne",
       "studio": "Ad Hominem Enterprises",
       "poster": "https://image.tmdb.org/t/p/w300/5bNzInSSAXfr0MFlHfb4IoQePVx.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4702/thumb/1787039030?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4702/thumb/1789712775?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6925",
@@ -9659,7 +9659,7 @@
       "id": "plex_4704",
       "title": "Draft Day",
       "year": "2014",
-      "rating": 6.0,
+      "rating": 5.9,
       "summary": "At the NFL Draft, General Manager Sonny Weaver has the opportunity to rebuild his team when he trades for the number one pick. He must decide what he's willing to sacrifice on a life-changing day for a few hundred young men with NFL dreams.",
       "tagline": "The greatest victories don't always happen on the field.",
       "duration": 110,
@@ -9675,13 +9675,13 @@
       "director": "Ivan Reitman",
       "studio": "Lionsgate",
       "poster": "https://image.tmdb.org/t/p/w300/bnl2ocjS1io4UCPhjoFuPKmJ9bf.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4704/thumb/1787039031?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4704/thumb/1789712776?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4705",
       "title": "Dragon Blade",
       "year": "2015",
-      "rating": 3.6,
+      "rating": 3.8,
       "summary": "When corrupt Roman leader Tiberius arrives with a giant army to claim the Silk Road, Huo An teams up his army with an elite Legion of defected Roman soldiers led by General Lucius to protect his country and his new friends.",
       "tagline": "When the Eagle meets the Dragon",
       "duration": 127,
@@ -9697,7 +9697,7 @@
       "director": "Daniel Lee",
       "studio": "Visualizer Film Company",
       "poster": "https://image.tmdb.org/t/p/w300/hrEbZNZQ385i4snYWyCDpYrEofO.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4705/thumb/1784359964?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4705/thumb/1789712776?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_12289",
@@ -9741,7 +9741,7 @@
       "director": "Rob Cohen",
       "studio": "Raffaella De Laurentiis Productions",
       "poster": "https://image.tmdb.org/t/p/w300/lxhsdC8wuGgQf0gKCt8wyHHxGcQ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4756/thumb/1787039032?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4756/thumb/1789712777?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2028",
@@ -9807,7 +9807,7 @@
       "director": "Ivan Silvestrini",
       "studio": "Raffaella Productions",
       "poster": "https://image.tmdb.org/t/p/w300/qs6gz6atyQcAvqC6qZaslOjliUG.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4790/thumb/1784360293?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4790/thumb/1789712778?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4794",
@@ -9872,7 +9872,7 @@
       "director": "Matthew Robbins",
       "studio": "Paramount Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/92VXAEwbjebYqTeUa7uX5bBtDuD.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4796/thumb/1787039034?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4796/thumb/1789712779?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4798",
@@ -9916,7 +9916,7 @@
       "director": "Nicolas Winding Refn",
       "studio": "FilmDistrict",
       "poster": "https://image.tmdb.org/t/p/w300/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4799/thumb/1787039035?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4799/thumb/1789712780?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_21180",
@@ -9982,7 +9982,7 @@
       "director": "Danny Leiner",
       "studio": "20th Century Fox",
       "poster": "https://image.tmdb.org/t/p/w300/A5FBQplPsSVVvdYn4NHgtWYF8un.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4800/thumb/1784360913?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4800/thumb/1789712780?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4812",
@@ -10025,7 +10025,7 @@
       "director": "Denis Villeneuve",
       "studio": "Legendary Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/v1tRXZ4JtD2Iv6fjkPvT4GiwslV.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4830/thumb/1787039036?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4830/thumb/1789712781?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4833",
@@ -10047,7 +10047,7 @@
       "director": "John Francis Daley, Jonathan Goldstein",
       "studio": "Entertainment One",
       "poster": "https://image.tmdb.org/t/p/w300/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4833/thumb/1787039037?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4833/thumb/1789712782?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4832",
@@ -10069,7 +10069,7 @@
       "director": "Gerry Lively",
       "studio": "Zinc Entertainment Inc.",
       "poster": "https://image.tmdb.org/t/p/w300/n3eezeLwKTQwgkqbySs0v74nXeP.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4832/thumb/1787039037?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4832/thumb/1789712782?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4836",
@@ -10091,7 +10091,7 @@
       "director": "Christopher Nolan",
       "studio": "Warner Bros. Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/4836/thumb/1787039038?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/4836/thumb/1789712783?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4848",
@@ -10639,7 +10639,7 @@
       "director": "Antoine Fuqua",
       "studio": "Columbia Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2179/thumb/1787120566?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2179/thumb/1789800984?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4998",
@@ -10923,7 +10923,7 @@
       "director": "Scott Waugh",
       "studio": "Millennium Media",
       "poster": "https://image.tmdb.org/t/p/w300/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2029/thumb/1787039022?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2029/thumb/1789712767?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_5056",
@@ -11141,7 +11141,7 @@
       ],
       "director": "Luc Besson",
       "studio": "EuropaCorp",
-      "poster": "https://image.tmdb.org/t/p/w300/qFf8anju5f2epI0my8RdwwIXFIP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/x2arN02JFsZcDKmBb0SIjG8Smc8.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/12382/thumb/1787984528?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -12040,7 +12040,7 @@
       "director": "Andy Muschietti",
       "studio": "Warner Bros. Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2180/thumb/1784442317?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2180/thumb/1789800985?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_19369",
@@ -12646,7 +12646,7 @@
       "duration": 109,
       "genres": [
         "Action",
-        "Adventure"
+        "Comedy"
       ],
       "cast": [
         "John Cena",
@@ -12656,7 +12656,7 @@
       "director": "Pierre Morel",
       "studio": "Endurance Media",
       "poster": "https://image.tmdb.org/t/p/w300/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2031/thumb/1787039022?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2031/thumb/1789712767?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_5609",
@@ -13572,7 +13572,7 @@
       ],
       "director": "Francis Ford Coppola",
       "studio": "Paramount Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/sSuQTCZwqKrNBNIsksO9IAUoWP9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/8a1lJs7mFyGhGhZZDT1azJUoQiZ.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/12644/thumb/1787984536?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -13903,7 +13903,7 @@
       "director": "John Moore",
       "studio": "Mid Atlantic Films",
       "poster": "https://image.tmdb.org/t/p/w300/qJ0csDXAVFMsNn0cRcjy6W6PxAK.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1724/thumb/1781765231?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1724/thumb/1789712752?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_1725",
@@ -14747,13 +14747,13 @@
       ],
       "cast": [
         "Adam Sandler",
-        "Christopher McDonald",
-        "Julie Bowen"
+        "Julie Bowen",
+        "Christopher McDonald"
       ],
       "director": "Dennis Dugan",
       "studio": "Universal Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/4RnCeRzvI1xk5tuNWjpDKzSnJDk.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2032/thumb/1784442308?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2032/thumb/1789712768?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_12771",
@@ -14995,7 +14995,7 @@
       "director": "Justin Simien",
       "studio": "Walt Disney Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/8Im6DknDVxRiGXc5t8rVOJyzuNx.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2047/thumb/1784442308?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2047/thumb/1789712768?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6214",
@@ -15721,7 +15721,7 @@
       "director": "Tom Tykwer",
       "studio": "Playtone",
       "poster": "https://image.tmdb.org/t/p/w300/wmjWGb2tqtOA4XPnK1tpIfzRtSQ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1756/thumb/1787039007?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1756/thumb/1789712753?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_566",
@@ -15787,7 +15787,7 @@
       "director": "Chris Columbus",
       "studio": "Hughes Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/31/thumb/1787038993?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/31/thumb/1789712740?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_44",
@@ -16425,7 +16425,7 @@
       "director": "Francis Lawrence",
       "studio": "Lionsgate",
       "poster": "https://image.tmdb.org/t/p/w300/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2207/thumb/1787120569?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2207/thumb/1789800987?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6485",
@@ -16667,7 +16667,7 @@
       "director": "John Donkin",
       "studio": "Bardel Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/9ginbMWmt9y7PIHW1c9hnbIVWPm.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1261/thumb/1787038997?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1261/thumb/1789712743?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_689",
@@ -16958,7 +16958,7 @@
       "id": "plex_2048",
       "title": "Indiana Jones and the Dial of Destiny",
       "year": "2023",
-      "rating": 7.1,
+      "rating": 7.0,
       "summary": "Finding himself in a new era, and approaching retirement, Indy wrestles with fitting into a world that seems to have outgrown him. But as the tentacles of an all-too-familiar evil return in the form of an old rival, Indy must don his hat and pick up his whip once more to make sure an ancient and powerful artifact doesn't fall into the wrong hands.",
       "tagline": "A legend will face his destiny.",
       "duration": 155,
@@ -16974,7 +16974,7 @@
       "director": "James Mangold",
       "studio": "Lucasfilm Ltd.",
       "poster": "https://image.tmdb.org/t/p/w300/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2048/thumb/1784442309?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2048/thumb/1789712769?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6632",
@@ -17390,7 +17390,7 @@
       ],
       "director": "Wes Anderson",
       "studio": "Studio Babelsberg",
-      "poster": "https://image.tmdb.org/t/p/w300/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/4C7ZHv5LUPq7XzxC3nq8mBr77sP.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/712/thumb/1788419216?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -17457,7 +17457,7 @@
       "director": "Frank Capra",
       "studio": "Liberty Films",
       "poster": "https://image.tmdb.org/t/p/w300/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/68/thumb/1787038994?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/68/thumb/1789712740?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_80",
@@ -17625,7 +17625,7 @@
       "director": "Jeff Tremaine",
       "studio": "Paramount Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/dDSMzBEaM0LYSy9Muo0zsCo77Vh.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3001/thumb/1787206442?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3001/thumb/1789801017?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6905",
@@ -17735,7 +17735,7 @@
       "director": "Jerry Belson",
       "studio": "Paramount Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/o3CTFJuHGEBE9UzyXjGX6Vy74aC.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2058/thumb/1787120559?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2058/thumb/1789800977?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_7016",
@@ -18254,7 +18254,7 @@
       ],
       "director": "Jon Favreau",
       "studio": "Walt Disney Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/yN1kuupnPTLUprgfvC5WapgrxG4.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/2Epx7F9X7DrFptn4seqn4mzBVks.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/13192/thumb/1787984553?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -18319,7 +18319,7 @@
       ],
       "director": "Steven Spielberg",
       "studio": "Universal Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/d9mtMGQDLANKieb9PbD3yK7xxzo.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/19698/thumb/1782891714?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -20465,7 +20465,7 @@
       "director": "Joseph J. Lawson",
       "studio": "The Asylum",
       "poster": "https://image.tmdb.org/t/p/w300/wMovcNZDHV5KtEXni3pMWkxG0w9.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1936/thumb/1781765241?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1936/thumb/1789712761?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_13348",
@@ -20618,7 +20618,7 @@
       ],
       "director": "Steven Spielberg",
       "studio": "Universal Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/7st3JW0xpMAkwB3dYfv3iqAwD8Y.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/s4RkAQWI9hgzctXgNFos8sJUnXJ.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/13390/thumb/1785311756?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -21234,7 +21234,7 @@
       ],
       "director": "Ridley Scott",
       "studio": "Genre Films",
-      "poster": "https://image.tmdb.org/t/p/w300/fASz8A0yFE3QB6LgGoOfwvFSseV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/13474/thumb/1788075197?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -21388,7 +21388,7 @@
       ],
       "director": "Lana Wachowski, Lilly Wachowski",
       "studio": "Village Roadshow Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/13476/thumb/1788075199?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -21996,7 +21996,7 @@
       "director": "Seth MacFarlane",
       "studio": "RGB Media",
       "poster": "https://image.tmdb.org/t/p/w300/n9SicwnoNGWBwE75le27sUhCLMm.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1797/thumb/1787039008?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1797/thumb/1789712754?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_20463",
@@ -22238,7 +22238,7 @@
       "director": "Christopher McQuarrie",
       "studio": "Paramount Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2063/thumb/1787120560?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2063/thumb/1789800978?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_19195",
@@ -22787,7 +22787,7 @@
       "director": "J.C. Chandor",
       "studio": "Participant",
       "poster": "https://image.tmdb.org/t/p/w300/gYTUNxLcFomCdXe3D4Hq8OLwgv0.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1798/thumb/1787039009?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1798/thumb/1789712754?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_13535",
@@ -23180,7 +23180,7 @@
       "director": "John Stalberg Jr.",
       "studio": "Highland Film Group",
       "poster": "https://image.tmdb.org/t/p/w300/7pXRA6HpxYjp3ISimzLqmH4ibGz.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2064/thumb/1787120560?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2064/thumb/1789800979?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_8705",
@@ -23268,7 +23268,7 @@
       "director": "Nia Vardalos",
       "studio": "Playtone",
       "poster": "https://image.tmdb.org/t/p/w300/8yO8okCs9iohJ0iDVls6QYfu6l6.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2065/thumb/1787120560?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2065/thumb/1789800979?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_8733",
@@ -23465,7 +23465,7 @@
       "director": "Nicholas Stoller",
       "studio": "Good Universe",
       "poster": "https://image.tmdb.org/t/p/w300/sN1RU08CMi8xkRIibremh3AOdgw.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/3025/thumb/1787206443?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/3025/thumb/1789801018?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_8776",
@@ -25083,7 +25083,7 @@
       ],
       "director": "Lee Daniels",
       "studio": "Lee Daniels Entertainment",
-      "poster": "https://image.tmdb.org/t/p/w300/AiALtw5Nl4adb6oO4VndBPo3RkQ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/vEQZW279igbQpgQ0SwKuxzxV8UU.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/13775/thumb/1788075213?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -26095,7 +26095,7 @@
       "director": "Garry Marshall",
       "studio": "Touchstone Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/oVKX1Pt1q7jXTkTk51mu2S0sAB0.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2102/thumb/1787120562?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2102/thumb/1789800981?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_9623",
@@ -26645,7 +26645,7 @@
       "director": "John Krasinski",
       "studio": "Paramount Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1807/thumb/1787039009?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1807/thumb/1789712755?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_9743",
@@ -26936,7 +26936,7 @@
       "id": "plex_2120",
       "title": "Rebel Moon - Part One: A Child of Fire",
       "year": "2023",
-      "rating": 2.2,
+      "rating": 5.3,
       "summary": "When a peaceful settlement on the edge of a distant moon finds itself threatened by a tyrannical ruling force, a stranger living among its villagers becomes their best hope for survival.",
       "tagline": "There are no heroes. Only rebels.",
       "duration": 136,
@@ -26952,7 +26952,7 @@
       "director": "Zack Snyder",
       "studio": "The Stone Quarry",
       "poster": "https://image.tmdb.org/t/p/w300/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2120/thumb/1787120563?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2120/thumb/1789800981?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_13878",
@@ -27458,7 +27458,7 @@
       "director": "Tim Brown",
       "studio": "Darius Films",
       "poster": "https://image.tmdb.org/t/p/w300/kv4n3xgRWtkldaD4kyy1FvpW6bO.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2182/thumb/1787120567?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2182/thumb/1789800986?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_2121",
@@ -27479,7 +27479,7 @@
       "director": "Jeff Kanew",
       "studio": "Interscope Communications",
       "poster": "https://image.tmdb.org/t/p/w300/v8aETLufi4WIinhQ994oWkehtaC.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2121/thumb/1787120564?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2121/thumb/1789800982?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_13880",
@@ -27982,7 +27982,7 @@
       "director": "Akinam X",
       "studio": "Cinetimacy",
       "poster": "https://image.tmdb.org/t/p/w300/7MhXiTmTl16LwXNPbWCmqxj7UxH.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2122/thumb/1773386328?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2122/thumb/1789800982?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_10129",
@@ -28390,7 +28390,7 @@
       "director": "Emerald Fennell",
       "studio": "LuckyChap Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/zGTfMwG112BC66mpaveVxoWPOaB.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2136/thumb/1787120564?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2136/thumb/1789800983?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_10241",
@@ -29267,7 +29267,7 @@
       ],
       "director": "James Glickenhaus",
       "studio": "Shapiro-Glickenhaus Entertainment",
-      "poster": "https://image.tmdb.org/t/p/w300/bj0bTImQPWkBBD3Kh2ArqAqEnv5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/plAXkoFiYPPB1acri2VcoiNDklL.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/10385/thumb/1785138744?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -29773,7 +29773,7 @@
       "director": "Paul Feig",
       "studio": "Feigco Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/aIYsjQM0piKc0ibPBCTWv3sqshj.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1808/thumb/1787039010?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1808/thumb/1789712755?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_10504",
@@ -30713,7 +30713,7 @@
       "director": "Alejandro Monteverde",
       "studio": "Santa Fe Films",
       "poster": "https://image.tmdb.org/t/p/w300/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2177/thumb/1787120565?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2177/thumb/1789800983?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_10795",
@@ -30998,7 +30998,7 @@
       ],
       "director": "M. Night Shyamalan",
       "studio": "Blinding Edge Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/ow2BSQGKJtZpH2zZY1rmX8eXKAi.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/10945/thumb/1774506021?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -31219,7 +31219,7 @@
       "director": "Bradley Cooper",
       "studio": "Warner Bros. Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1816/thumb/1787039010?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1816/thumb/1789712756?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_10999",
@@ -31526,7 +31526,7 @@
       ],
       "director": "Rian Johnson",
       "studio": "Lucasfilm Ltd.",
-      "poster": "https://image.tmdb.org/t/p/w300/ySaaKHOLAQU5HoZqWmzDIj1VvZ1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/11158/thumb/1787811662?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -31988,7 +31988,7 @@
       ],
       "director": "Coralie Fargeat",
       "studio": "Working Title Films",
-      "poster": "https://image.tmdb.org/t/p/w300/vhbQQdPnfLUxhdXhREITF5cYppT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/21166/thumb/1788332944?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -32010,7 +32010,7 @@
       ],
       "director": "Zack Snyder",
       "studio": "Legendary Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/jtaUDnvIiHUd2ranDcjB5AbPx6o.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/3Cuzw1KSzItbKAKvMcMYsMfuse.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/11259/thumb/1787897170?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -32646,7 +32646,7 @@
       "director": "Sam Wrench",
       "studio": "Taylor Swift Productions",
       "poster": "https://image.tmdb.org/t/p/w300/jf3YO8hOqGHCupsREf5qymYq1n.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2178/thumb/1781765257?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2178/thumb/1789800984?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_11458",
@@ -32734,7 +32734,7 @@
       "director": "Jonathan Liebesman",
       "studio": "Platinum Dunes",
       "poster": "https://image.tmdb.org/t/p/w300/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1214/thumb/1787038996?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1214/thumb/1789712743?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_11461",
@@ -33130,7 +33130,7 @@
       "director": "Kenneth Branagh",
       "studio": "Marvel Studios",
       "poster": "https://image.tmdb.org/t/p/w300/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/137/thumb/1787038995?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/137/thumb/1789712741?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_14503",
@@ -33897,7 +33897,7 @@
       ],
       "director": "Ben Affleck",
       "studio": "Legendary Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/3nf5gRs6XvHCTF96cfkbslKCx2H.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/19316/thumb/1788244510?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -33962,7 +33962,7 @@
       ],
       "director": "Michael Bay",
       "studio": "DreamWorks Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/lkZ9gqCEjzX85lKR6Jjd1uGAXNp.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/xJ5W0mOAWCVaXmU0pBZh4NjSRv2.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/14672/thumb/1788164083?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -34022,7 +34022,7 @@
       "director": "Steven Caple Jr.",
       "studio": "Skydance Media",
       "poster": "https://image.tmdb.org/t/p/w300/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2218/thumb/1787120570?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2218/thumb/1789800988?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_14767",
@@ -34278,7 +34278,7 @@
       ],
       "director": "Bill Condon",
       "studio": "Summit Entertainment",
-      "poster": "https://image.tmdb.org/t/p/w300/qs8LsHKYlVRmJbFUiSUhhRAygwj.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/7IGdPaKujv0BjI0Zd0m0a4CzEjJ.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/14197/thumb/1788075239?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -35283,7 +35283,7 @@
       "director": "Scott Frank",
       "studio": "Traveling Picture Show Company",
       "poster": "https://image.tmdb.org/t/p/w300/euPgyPsiNFp6gOBB7nUFxvN5ZaY.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/1834/thumb/1784442293?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/1834/thumb/1789712756?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_15077",
@@ -36825,7 +36825,7 @@
       "director": "Sammi Cohen",
       "studio": "Happy Madison Productions",
       "poster": "https://image.tmdb.org/t/p/w300/ukpifWBW2xEmMtJX4bCpoNpWEr2.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/2226/thumb/1787120570?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/2226/thumb/1789800988?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_15639",
@@ -37243,7 +37243,7 @@
       "director": "Tim Story",
       "studio": "Sony Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42679/thumb/1788563450?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42679/thumb/1789894311?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36304",
@@ -37763,6 +37763,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/36593/thumb/1782718620?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_42921",
+      "title": "Avengers: Age of Ultron",
+      "year": "2015",
+      "rating": 7.5,
+      "summary": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan.",
+      "tagline": "A new age has come.",
+      "duration": 141,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Hemsworth",
+        "Mark Ruffalo"
+      ],
+      "director": "Joss Whedon",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42921/thumb/1789917133?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_36779",
       "title": "Ballerina",
       "year": "2025",
@@ -38111,6 +38133,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/33455/thumb/1782715644?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_42923",
+      "title": "Black Panther: Wakanda Forever",
+      "year": "2022",
+      "rating": 8.4,
+      "summary": "Queen Ramonda, Shuri, M'Baku, Okoye and the Dora Milaje fight to protect the kingdom of Wakanda from intervening world powers in the wake of King T'Challa's death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for their nation.",
+      "tagline": "Forever.",
+      "duration": 161,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Letitia Wright",
+        "Tenoch Huerta Mejía",
+        "Lupita Nyong'o"
+      ],
+      "director": "Ryan Coogler",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42923/thumb/1789917134?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_40882",
       "title": "Blackfish",
       "year": "2013",
@@ -38371,7 +38415,7 @@
       "director": "Lin Oeding",
       "studio": "Pride of Gypsies",
       "poster": "https://image.tmdb.org/t/p/w300/253Bw5I3Zj3e2thCThjO7byEUCL.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42697/thumb/1788563452?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42697/thumb/1789282621?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_37215",
@@ -38436,7 +38480,7 @@
       ],
       "director": "Gábor Csupó",
       "studio": "Lauren Levine Productions Inc.",
-      "poster": "https://image.tmdb.org/t/p/w300/3xFxGodKPMFLheS8rujFSmLfcq4.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/ieIoNyJvtwQ6joyG6npTKxnCtGH.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/40150/thumb/1773296296?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -38590,7 +38634,7 @@
       "director": "Jonah Feingold",
       "studio": "Night",
       "poster": "https://image.tmdb.org/t/p/w300/z7aBU98usPaaFymldN6IcYRsHZr.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42372/thumb/1784332896?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42372/thumb/1789284722?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36305",
@@ -38759,13 +38803,13 @@
       "director": "Steven Spielberg",
       "studio": "Kemp Company",
       "poster": "https://image.tmdb.org/t/p/w300/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42700/thumb/1788563453?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42700/thumb/1789283149?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36169",
       "title": "Catwoman",
       "year": "2004",
-      "rating": null,
+      "rating": 0.8,
       "summary": "Liquidated after discovering a corporate conspiracy, mild-mannered graphic artist Patience Phillips washes up on an island, where she's resurrected and endowed with the prowess of a cat — and she's eager to use her new skills... as a vigilante. Before you can say \"cat and mouse\", handsome gumshoe Tom Lone is on her tail, fascinated by both of her personas.",
       "tagline": "You can’t CATch her.",
       "duration": 104,
@@ -38781,7 +38825,7 @@
       "director": "Pitof",
       "studio": "Village Roadshow Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/pvnPgukFyEKgCzyOxyLiwyZ8T1C.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/36169/thumb/1769325263?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/36169/thumb/1789917135?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38413",
@@ -38803,7 +38847,7 @@
       "director": "Darren Aronofsky",
       "studio": "Protozoa Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/cvda8s5J8YaHjTyEyXQpvD6f3iV.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/38413/thumb/1788761455?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/38413/thumb/1789280670?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38438",
@@ -38826,6 +38870,50 @@
       "studio": "Caro-McLeod",
       "poster": "https://image.tmdb.org/t/p/w300/1LX8AOUGDSrBDzgC4KLtRvyJFgY.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/38438/thumb/1769592466?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_42968",
+      "title": "Chances Are",
+      "year": "1989",
+      "rating": 6.8,
+      "summary": "Louie Jeffries is happily married to Corinne. On their first anniversary, Louie is killed crossing the road. Louie is reincarnated as Alex Finch, and twenty years later, fate brings Alex and Louie's daughter, Miranda, together. It's not until Alex is invited to Louie's home that he begins to remember his former life, wife and best friend. Of course, there's also the problem that he's attracted to Louie's/his own daughter.",
+      "tagline": "Alex has a lifetime full of wonderful memories. Unfortunately, they're not his.",
+      "duration": 108,
+      "genres": [
+        "Fantasy",
+        "Comedy"
+      ],
+      "cast": [
+        "Cybill Shepherd",
+        "Robert Downey Jr.",
+        "Ryan O'Neal"
+      ],
+      "director": "Emile Ardolino",
+      "studio": "TriStar Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/1HFExVaxxIGaFjy3NVxK29gvucR.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42968/thumb/1789917135?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_42969",
+      "title": "Chappie",
+      "year": "2015",
+      "rating": 3.2,
+      "summary": "In the near future, crime is patrolled by a mechanized police force. When one police droid, Chappie, is stolen and given new programming, he becomes the first robot with the ability to think and feel for himself.",
+      "tagline": "I am consciousness. I am alive. I am Chappie.",
+      "duration": 120,
+      "genres": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "cast": [
+        "Sharlto Copley",
+        "Dev Patel",
+        "Hugh Jackman"
+      ],
+      "director": "Neill Blomkamp",
+      "studio": "Columbia Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/uuDUpzlMFomdSfNWlpEPS9nVZWV.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42969/thumb/1789917136?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36694",
@@ -38957,7 +39045,29 @@
       "director": "Uwe Boll",
       "studio": "Event Film Distribution",
       "poster": "https://image.tmdb.org/t/p/w300/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42373/thumb/1788075245?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42373/thumb/1789283237?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_42972",
+      "title": "City of Ember",
+      "year": "2008",
+      "rating": 5.3,
+      "summary": "For generations, the people of the City of Ember have flourished in an amazing world of glittering lights. But Ember's once powerful generator is failing and the great lamps that illuminate the city are starting to flicker.",
+      "tagline": "Escape is the only option",
+      "duration": 95,
+      "genres": [
+        "Family",
+        "Fantasy"
+      ],
+      "cast": [
+        "Saoirse Ronan",
+        "Harry Treadaway",
+        "Bill Murray"
+      ],
+      "director": "Gil Kenan",
+      "studio": "Playtone",
+      "poster": "https://image.tmdb.org/t/p/w300/xHYxFNsl8KuT4tHai8d1Y5gJI0F.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42972/thumb/1789917136?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33457",
@@ -39114,6 +39224,21 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/36176/thumb/1782713901?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_42989",
+      "title": "Corsari CutThroat Island",
+      "year": "1995",
+      "rating": null,
+      "summary": "",
+      "tagline": "",
+      "duration": 125,
+      "genres": [],
+      "cast": [],
+      "director": "",
+      "studio": "",
+      "poster": "https://image.tmdb.org/t/p/w300/hYdeBZ4BFXivdouxLfQGWNE6zRx.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42989/thumb/1789917136?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_36309",
       "title": "The Covenant",
       "year": "2006",
@@ -39154,8 +39279,8 @@
       ],
       "director": "Dave Green",
       "studio": "Troll Court Entertainment",
-      "poster": "https://image.tmdb.org/t/p/w300/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42825/thumb/1789203398?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "https://image.tmdb.org/t/p/w300/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42825/thumb/1789894314?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40894",
@@ -39221,7 +39346,7 @@
       "director": "Stephen Frears",
       "studio": "Lorimar Film Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/7etDozwd9Pf5oCcyo4h1Hki6U13.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42374/thumb/1784332898?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42374/thumb/1789283859?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42501",
@@ -39395,7 +39520,7 @@
       "director": "Michael Sarnoski",
       "studio": "Lyrical Media",
       "poster": "https://image.tmdb.org/t/p/w300/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42612/thumb/1788075249?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42612/thumb/1789282529?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36179",
@@ -39549,7 +39674,7 @@
       "director": "Kimmy Gatewood",
       "studio": "Suzanne Todd Productions",
       "poster": "https://image.tmdb.org/t/p/w300/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42597/thumb/1788075248?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42597/thumb/1789894309?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36780",
@@ -39593,7 +39718,7 @@
       "director": "Lynne Ramsay",
       "studio": "Excellent Cadaver",
       "poster": "https://image.tmdb.org/t/p/w300/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42634/thumb/1785970687?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42634/thumb/1789283097?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42598",
@@ -39615,7 +39740,7 @@
       "director": "Steven Spielberg",
       "studio": "Universal Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42598/thumb/1788075248?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42598/thumb/1789282756?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39459",
@@ -39680,7 +39805,29 @@
       "director": "Julia Hart",
       "studio": "Original Headquarters",
       "poster": "https://image.tmdb.org/t/p/w300/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42876/thumb/1789203399?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42876/thumb/1789284694?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_42999",
+      "title": "Don't Worry Darling",
+      "year": "2022",
+      "rating": 3.8,
+      "summary": "While her husband leaves home every day to work in a top secret facility, a young 1950s housewife begins to question her life when she notices strange behavior from the other wives in the neighborhood.",
+      "tagline": "Are you ready to live the life you deserve?",
+      "duration": 123,
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "cast": [
+        "Florence Pugh",
+        "Harry Styles",
+        "Chris Pine"
+      ],
+      "director": "Olivia Wilde",
+      "studio": "Vertigo Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w300/wjAJWfuE5OQm5zerlOAbTxdHFMV.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42999/thumb/1789917138?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36469",
@@ -39791,6 +39938,50 @@
       "studio": "Blumhouse Productions",
       "poster": "https://image.tmdb.org/t/p/w300/hSQPSW8aLjsMBfwqGjgJ6HozTkp.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/35166/thumb/1782718282?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_43000",
+      "title": "Dune",
+      "year": "1984",
+      "rating": 3.6,
+      "summary": "In the year 10,191, the most precious substance in the universe is the spice Melange. The spice extends life. The spice expands consciousness. The spice is vital to space travel.  The spice exists on only one planet in the entire universe, the vast desert planet Arrakis, also known as Dune.  Its native inhabitants, the Fremen, have long held a prophecy that a man would come, a messiah who would lead them to true freedom.",
+      "tagline": "A world beyond your experience, beyond your imagination.",
+      "duration": 136,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Kyle MacLachlan",
+        "Francesca Annis",
+        "Patrick Stewart"
+      ],
+      "director": "David Lynch",
+      "studio": "The De Laurentiis Company",
+      "poster": "https://image.tmdb.org/t/p/w300/4kJmUCE7mkVJjXa7A0g2rY4IGTm.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/43000/thumb/1789917138?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_43001",
+      "title": "Dune: Part Two",
+      "year": "2024",
+      "rating": 9.2,
+      "summary": "Paul Atreides aligns with Chani and the Fremen, fueled by a desire for retribution against those who dismantled his family. Confronted with a pivotal decision between his profound affection for an individual and the destiny of the universe, he commits to averting a dire future he alone envisions.",
+      "tagline": "Long live the fighters.",
+      "duration": 166,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Timothée Chalamet",
+        "Zendaya",
+        "Rebecca Ferguson"
+      ],
+      "director": "Denis Villeneuve",
+      "studio": "Legendary Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/43001/thumb/1789917139?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40897",
@@ -40051,7 +40242,7 @@
       "director": "Philip Barantini",
       "studio": "Legendary Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42379/thumb/1788075245?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42379/thumb/1789894308?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36473",
@@ -40318,6 +40509,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/40929/thumb/1782720464?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_43015",
+      "title": "Finding Neverland",
+      "year": "2004",
+      "rating": 8.3,
+      "summary": "During a writing slump, playwright J.M. Barrie meets a widow and her four children, all young boys—who soon become an important part of Barrie’s life and the inspiration that lead him to create his masterpiece. Peter Pan.",
+      "tagline": "Where will your imagination take you?",
+      "duration": 101,
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "cast": [
+        "Johnny Depp",
+        "Kate Winslet",
+        "Julie Christie"
+      ],
+      "director": "Marc Forster",
+      "studio": "Miramax",
+      "poster": "https://image.tmdb.org/t/p/w300/A9jgLICNCEb3lvWdNaIKAG9pRdp.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/43015/thumb/1789917140?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_42701",
       "title": "First Man",
       "year": "2018",
@@ -40337,7 +40550,7 @@
       "director": "Damien Chazelle",
       "studio": "Universal Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42701/thumb/1788563454?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42701/thumb/1789284741?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_37692",
@@ -40490,8 +40703,8 @@
       ],
       "director": "Heng Aik Siong",
       "studio": "ACT 2 Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42620/thumb/1786176334?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "https://image.tmdb.org/t/p/w300/ivQ1Z3lI1xWvAeGDHBw3CCYZDGJ.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42620/thumb/1789283580?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42707",
@@ -40512,7 +40725,7 @@
       "director": "David Wain",
       "studio": "Likely Story",
       "poster": "https://image.tmdb.org/t/p/w300/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42707/thumb/1788563455?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42707/thumb/1789894311?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_37337",
@@ -40581,7 +40794,7 @@
       "id": "plex_42586",
       "title": "The Get Out",
       "year": "2026",
-      "rating": 4.8,
+      "rating": 4.5,
       "summary": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement. After masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business.",
       "tagline": "The night life is dirty business.",
       "duration": 102,
@@ -40592,12 +40805,12 @@
       "cast": [
         "Russell Crowe",
         "Luke Evans",
-        "Aaron Paul"
+        "Teresa Palmer"
       ],
       "director": "Derrick Borte",
       "studio": "Nickel City Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42586/thumb/1788075247?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42586/thumb/1789894309?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36720",
@@ -40706,7 +40919,7 @@
       "director": "Tyree Dillihay",
       "studio": "Sony Pictures Animation",
       "poster": "https://image.tmdb.org/t/p/w300/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42380/thumb/1784332899?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42380/thumb/1789284004?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36341",
@@ -40837,7 +41050,7 @@
       ],
       "director": "Gore Verbinski",
       "studio": "Constantin Film",
-      "poster": "https://image.tmdb.org/t/p/w300/af7yguGbWQyvYtk6QCD5l4yBbKN.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/40567/thumb/1778481948?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -41147,6 +41360,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/40060/thumb/1782714720?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_43012",
+      "title": "The Happening",
+      "year": "2008",
+      "rating": 1.7,
+      "summary": "When a deadly airborne virus threatens to wipe out the northeastern United States, teacher Elliot Moore and his wife Alma flee from contaminated cities into the countryside in a fight to discover the truth. Is it terrorism, the accidental release of some toxic military bio weapon -- or something even more sinister?",
+      "tagline": "We've sensed it. We've seen the signs. Now...it's happening.",
+      "duration": 90,
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ],
+      "cast": [
+        "Mark Wahlberg",
+        "Zooey Deschanel",
+        "John Leguizamo"
+      ],
+      "director": "M. Night Shyamalan",
+      "studio": "20th Century Fox",
+      "poster": "https://image.tmdb.org/t/p/w300/fP4nBrtmc0teSDDHzYmDE7TLQBT.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/43012/thumb/1789917139?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_42386",
       "title": "Happy Accidents",
       "year": "2000",
@@ -41367,6 +41602,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/36948/thumb/1782714284?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_43023",
+      "title": "Hereafter",
+      "year": "2010",
+      "rating": 4.8,
+      "summary": "An American factory worker, a French journalist and a London school boy set out on a spiritual journey after death touches their lives in different ways.",
+      "tagline": "Touched by death. Changed by life.",
+      "duration": 129,
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "cast": [
+        "Matt Damon",
+        "Cécile de France",
+        "Bryce Dallas Howard"
+      ],
+      "director": "Clint Eastwood",
+      "studio": "Warner Bros. Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/nOy0X8XSmSDOuwV8pqT70WoWHwT.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/43023/thumb/1789917140?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_37710",
       "title": "Highest 2 Lowest",
       "year": "2025",
@@ -41518,7 +41775,7 @@
       "director": "Daniel Chong",
       "studio": "Pixar",
       "poster": "https://image.tmdb.org/t/p/w300/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42389/thumb/1784332900?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42389/thumb/1789284140?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_41256",
@@ -41629,6 +41886,28 @@
       "studio": "DreamWorks Animation",
       "poster": "https://image.tmdb.org/t/p/w300/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/36985/thumb/1769418226?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_43027",
+      "title": "Hulk",
+      "year": "2003",
+      "rating": 6.3,
+      "summary": "Bruce Banner, a genetics researcher with a tragic past, suffers a lab accident that makes him transform into a raging, giant green monster when angered, making him a target of forces seeking to abuse his power.",
+      "tagline": "What if everything you were forced to keep inside was suddenly set free?",
+      "duration": 138,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Eric Bana",
+        "Jennifer Connelly",
+        "Sam Elliott"
+      ],
+      "director": "Ang Lee",
+      "studio": "Marvel Enterprises",
+      "poster": "https://image.tmdb.org/t/p/w300/UllIft2jLSBaay3zQyMV4GNdfy.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/43027/thumb/1789917140?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_41621",
@@ -41803,7 +42082,7 @@
       "director": "Gregg Araki",
       "studio": "Black Bear Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42877/thumb/1789211788?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42877/thumb/1789894314?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39463",
@@ -42001,7 +42280,7 @@
       "director": "John Landis",
       "studio": "Universal Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/voqfHibbZVtl9o6D2MRcdQmN42i.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42412/thumb/1784332903?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42412/thumb/1789283316?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36565",
@@ -42012,8 +42291,8 @@
       "tagline": "Do not trust anyone. Do not show emotion. Do not fall asleep.",
       "duration": 99,
       "genres": [
-        "Science Fiction",
-        "Thriller"
+        "Horror",
+        "Science Fiction"
       ],
       "cast": [
         "Nicole Kidman",
@@ -42023,7 +42302,7 @@
       "director": "Oliver Hirschbiegel",
       "studio": "Village Roadshow Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/oS5rMuJXwNZZPx0ojhvjgduglD2.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/36565/thumb/1782717879?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/36565/thumb/1789917141?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42889",
@@ -42045,7 +42324,7 @@
       "director": "Olivia Wilde",
       "studio": "Annapurna Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42889/thumb/1789211791?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42889/thumb/1789894317?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42413",
@@ -42067,7 +42346,7 @@
       "director": "Malcolm Venville",
       "studio": "Universal Pictures Content Group",
       "poster": "https://image.tmdb.org/t/p/w300/yZqhFJDenLfgF1VygOOCNmAdS1P.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42413/thumb/1784332903?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42413/thumb/1789283116?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36605",
@@ -42111,7 +42390,29 @@
       "director": "John Suits",
       "studio": "Hideout Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42818/thumb/1788563461?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42818/thumb/1789282413?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_43037",
+      "title": "It's a Boy Girl Thing",
+      "year": "2006",
+      "rating": 6.7,
+      "summary": "A visit to a natural history museum proves catastrophic for two high school rivals, an overachiever and a jock, when an ancient Aztec statue casts a spell that causes them to switch bodies and see exactly what it's like to walk in the other's shoes.",
+      "tagline": "They've turned into the things they hated most... each other.",
+      "duration": 96,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "cast": [
+        "Kevin Zegers",
+        "Samaire Armstrong",
+        "Sherry Miller"
+      ],
+      "director": "Nick Hurran",
+      "studio": "Rocket Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/uA4ZJdlILmIGSqBjfM4mkWvtcTt.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/43037/thumb/1789917142?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40987",
@@ -42243,7 +42544,7 @@
       "director": "Jeff Tremaine",
       "studio": "Paramount Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/tfgccePxnswMqhmtxafliLlcCVR.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42731/thumb/1788563455?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42731/thumb/1789894312?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_37289",
@@ -42354,6 +42655,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/37432/thumb/1782715772?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_43038",
+      "title": "Jupiter Ascending",
+      "year": "2015",
+      "rating": 2.8,
+      "summary": "A genetically engineered soldier informs a young woman of her extraordinary destiny.",
+      "tagline": "Expand your universe.",
+      "duration": 128,
+      "genres": [
+        "Science Fiction",
+        "Fantasy"
+      ],
+      "cast": [
+        "Channing Tatum",
+        "Mila Kunis",
+        "Sean Bean"
+      ],
+      "director": "Lilly Wachowski, Lana Wachowski",
+      "studio": "Warner Bros. Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/2NCcAZ3M3F0FxENYmammBknwpVn.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/43038/thumb/1789917142?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_36196",
       "title": "Just Like Heaven",
       "year": "2005",
@@ -42395,7 +42718,7 @@
       "director": "Martin Campbell",
       "studio": "Head Gear Films",
       "poster": "https://image.tmdb.org/t/p/w300/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42878/thumb/1789211789?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42878/thumb/1789894315?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36939",
@@ -42658,7 +42981,7 @@
       "director": "J.C. Chandor",
       "studio": "Columbia Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/37162/thumb/1788761392?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/37162/thumb/1789280606?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_37030",
@@ -42722,7 +43045,29 @@
       "director": "Amy Scott",
       "studio": "Makemake",
       "poster": "https://image.tmdb.org/t/p/w300/axIiOZ0yVD258CTpbw7mTF9h6Ph.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/41049/thumb/1788761551?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/41049/thumb/1789280768?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_43124",
+      "title": "The Last Assassins",
+      "year": "2026",
+      "rating": null,
+      "summary": "In a frozen world cloaked in lethal fog, a protector escorts an orphaned girl to her last living relative. Their journey leads to a derelict lab where holographic secrets reveal her family's past and hint at her unique power.",
+      "tagline": "",
+      "duration": 83,
+      "genres": [
+        "Adventure",
+        "Science Fiction"
+      ],
+      "cast": [
+        "Josh Bainbridge",
+        "Athena Park",
+        "Lora Burke"
+      ],
+      "director": "James Anthony Usas",
+      "studio": "Other Animal",
+      "poster": "https://image.tmdb.org/t/p/w300/dCEvwyR3XlTos78iHZzPa8a3urg.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/43124/thumb/1789917146?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_33520",
@@ -42787,13 +43132,13 @@
       "director": "Derek Lee, Clif Prowse",
       "studio": "Regency Enterprises",
       "poster": "https://image.tmdb.org/t/p/w300/oq1pGVQ2t3Cy4v7sA4LRhNjtZuJ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42651/thumb/1785970686?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42651/thumb/1789283312?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42880",
       "title": "The Last Sunrise",
       "year": "2026",
-      "rating": null,
+      "rating": 4.0,
       "summary": "A young American woman with health challenges finds unexpected romance with a charismatic local during her summer in Majorca, forcing her to weigh her heart's desires against family obligations and her planned return home.",
       "tagline": "One summer to feel everything.",
       "duration": 107,
@@ -42809,7 +43154,7 @@
       "director": "Carlson Young",
       "studio": "Amazon MGM Studios",
       "poster": "https://image.tmdb.org/t/p/w300/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42880/thumb/1789211789?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42880/thumb/1789894315?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36408",
@@ -43010,6 +43355,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/37273/thumb/1782713335?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_43041",
+      "title": "Limitless",
+      "year": "2011",
+      "rating": 6.8,
+      "summary": "The life of an unsuccessful writer is transformed by a top-secret 'smart drug' that allows him to use 100% of his brain and become a perfect version of himself. His enhanced abilities soon attract shadowy forces that threaten his new life.",
+      "tagline": "What if a pill could make you rich and powerful?",
+      "duration": 106,
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "cast": [
+        "Bradley Cooper",
+        "Robert De Niro",
+        "Abbie Cornish"
+      ],
+      "director": "Neil Burger",
+      "studio": "Relativity Media",
+      "poster": "https://image.tmdb.org/t/p/w300/r8anWUCVK7MZEolcfPrM9eFkRO4.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/43041/thumb/1789917143?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_37703",
       "title": "A Line of Fire",
       "year": "2025",
@@ -43051,7 +43418,7 @@
       "director": "Frank Oz",
       "studio": "Geffen Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/iKkbN17OmFosaW6asCNZTTsyvpu.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42872/thumb/1788568232?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42872/thumb/1789281598?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_41278",
@@ -43164,6 +43531,50 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/36665/thumb/1782719491?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_43091",
+      "title": "Love at Second Sight",
+      "year": "2019",
+      "rating": null,
+      "summary": "A man tries to make his wife fall in love with him again, after waking up in an alternate reality where she never knew him.",
+      "tagline": "",
+      "duration": 119,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "cast": [
+        "François Civil",
+        "Joséphine Japy",
+        "Benjamin Lavernhe"
+      ],
+      "director": "Hugo Gélin",
+      "studio": "Zazi Films",
+      "poster": "https://image.tmdb.org/t/p/w300/11CkMVD0dPjhAZPaf0u9VfS46lw.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/43091/thumb/1789917144?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_43092",
+      "title": "Love Potion No. 9",
+      "year": "1992",
+      "rating": 2.5,
+      "summary": "Unlucky in love, chemist Paul Matthews visits gypsy Madame Rosa for help. Quickly realizing he is a hopeless nerd, she gifts him with Love Potion No. 8, which makes anyone who wears it irresistible to the opposite sex for four hours. Paul and animal psychologist coworker Diane Farrow decide to test it on themselves. The awkward pair suddenly find themselves alluring to anyone they approach, but soon realize they are most attracted to each other.",
+      "tagline": "Imagine if sex appeal came in a bottle.",
+      "duration": 96,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Tate Donovan",
+        "Anne Bancroft"
+      ],
+      "director": "Dale Launer",
+      "studio": "Penta Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/n0DYahGGueR96mhajPGGgZpFL4k.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/43092/thumb/1789917144?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_42735",
       "title": "Lucky Strike",
       "year": "2026",
@@ -43183,7 +43594,7 @@
       "director": "Rod Lurie",
       "studio": "Perfection Hunter Productions",
       "poster": "https://image.tmdb.org/t/p/w300/7AEBdyGYXumXWmMFeynE8227KeZ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42735/thumb/1788588320?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42735/thumb/1789894312?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_37296",
@@ -43293,7 +43704,7 @@
       "director": "Ben Gregor",
       "studio": "Neal Street Productions",
       "poster": "https://image.tmdb.org/t/p/w300/udXvLxC5gAqN8SinemyFBEcHpTf.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42491/thumb/1784332909?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42491/thumb/1789282767?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_37811",
@@ -43406,6 +43817,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/36325/thumb/1782713334?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_43103",
+      "title": "Masters of the Universe",
+      "year": "1987",
+      "rating": 2.1,
+      "summary": "When He-Man (Dolph Lundgren) is driven from Eternia after Skeletor (Frank Langella) seizes Castle Grayskull, a stolen portal device strands the fight on Earth, where a pair of teenagers become entangled in a war that spans worlds.",
+      "tagline": "A battle fought in the stars...now comes to Earth.",
+      "duration": 106,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Dolph Lundgren",
+        "Frank Langella",
+        "Billy Barty"
+      ],
+      "director": "Gary Goddard",
+      "studio": "Pressman Film",
+      "poster": "https://image.tmdb.org/t/p/w300/gaUecXFd31V68yOTJPJYaB9YhAf.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/43103/thumb/1789917144?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_42432",
       "title": "Masters of the Universe",
       "year": "2026",
@@ -43425,7 +43858,7 @@
       "director": "Travis Knight",
       "studio": "Escape Artists",
       "poster": "https://image.tmdb.org/t/p/w300/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42432/thumb/1788075246?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42432/thumb/1789283715?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_37394",
@@ -43454,7 +43887,7 @@
       "title": "Mayday",
       "year": "2026",
       "rating": 8.3,
-      "summary": "Lieutenant Troy Brennan takes part in a top secret surveillance mission over Soviet airspace. Things take a sharp turn, however, when he is forced to eject from his plane over the Russian wilderness. He is rescued by a paradoxical Russian native and the two begin to appreciate both their differences and commonalities.",
+      "summary": "Lieutenant Troy Kelly takes part in a top secret surveillance mission over Soviet airspace. Things take a sharp turn, however, when he is forced to eject from his plane over the Russian wilderness. He is rescued by a paradoxical Russian native and the two begin to appreciate both their differences and commonalities.",
       "tagline": "A friendship with major red flags.",
       "duration": 110,
       "genres": [
@@ -43469,7 +43902,7 @@
       "director": "Jonathan Goldstein, John Francis Daley",
       "studio": "Skydance Media",
       "poster": "https://image.tmdb.org/t/p/w300/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42879/thumb/1789211789?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42879/thumb/1789630340?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_41651",
@@ -43906,7 +44339,7 @@
       "director": "Dan Berk, Robert Olsen",
       "studio": "Safehouse Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/37279/thumb/1788761397?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/37279/thumb/1789280611?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_41127",
@@ -44038,7 +44471,7 @@
       "director": "Jean-François Richet",
       "studio": "Punch Palace Productions",
       "poster": "https://image.tmdb.org/t/p/w300/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42739/thumb/1788761643?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42739/thumb/1789894313?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_37402",
@@ -44362,7 +44795,7 @@
       "director": "Stephen Chbosky",
       "studio": "Fifth Season",
       "poster": "https://image.tmdb.org/t/p/w300/5Bf1xlxLuCHdi74MpdFi2Yz3FGJ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42632/thumb/1785970686?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42632/thumb/1789283805?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39431",
@@ -44447,7 +44880,7 @@
       "director": "Christopher Nolan",
       "studio": "Universal Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42887/thumb/1789203398?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42887/thumb/1789894316?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36809",
@@ -44706,7 +45139,7 @@
       ],
       "director": "Robert Redford",
       "studio": "Paramount Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/tJVETEDAKgD3fEh88SHOvMvOQue.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/5gQLGRmBV8XoqWgkxuRFwe3jZV7.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/37061/thumb/1782717343?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -45078,7 +45511,7 @@
       "director": "Shane Black",
       "studio": "Team Downey",
       "poster": "https://image.tmdb.org/t/p/w300/ovZ0zq0NwRghtWI1oLaM0lWuoEw.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/38416/thumb/1788761456?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/38416/thumb/1789280670?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38882",
@@ -45166,7 +45599,7 @@
       "director": "Anthony Maras",
       "studio": "Working Title Films",
       "poster": "https://image.tmdb.org/t/p/w300/gFjEggtrejCN79r6SXRjM269OtG.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42462/thumb/1786351801?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42462/thumb/1789281688?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_41140",
@@ -45232,7 +45665,7 @@
       "director": "Johannes Roberts",
       "studio": "18Hz Productions",
       "poster": "https://image.tmdb.org/t/p/w300/rKleYiEj4pFqxedTRWfujLooi84.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/40568/thumb/1788563459?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/40568/thumb/1789283818?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_38502",
@@ -45320,7 +45753,7 @@
       "director": "Reinaldo Marcus Green",
       "studio": "Marvel Studios",
       "poster": "https://image.tmdb.org/t/p/w300/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/40859/thumb/1788761536?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/40859/thumb/1789280752?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_37761",
@@ -45408,7 +45841,7 @@
       "director": "Matt Bettinelli-Olpin, Tyler Gillett",
       "studio": "Searchlight Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/40769/thumb/1788761531?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/40769/thumb/1789280747?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42599",
@@ -45430,7 +45863,29 @@
       "director": "Steven Spielberg",
       "studio": "Amblin Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42599/thumb/1785536912?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42599/thumb/1789283101?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_43106",
+      "title": "Real Steel",
+      "year": "2011",
+      "rating": 6.0,
+      "summary": "Charlie Kenton is a washed-up fighter who retired from the ring when robots took over the sport. After his robot is trashed, he reluctantly teams up with his estranged son to rebuild and train an unlikely contender.",
+      "tagline": "Courage is stronger than steel.",
+      "duration": 127,
+      "genres": [
+        "Action",
+        "Science Fiction"
+      ],
+      "cast": [
+        "Hugh Jackman",
+        "Dakota Goyo",
+        "Evangeline Lilly"
+      ],
+      "director": "Shawn Levy",
+      "studio": "DreamWorks Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/43106/thumb/1789917145?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_37753",
@@ -45691,7 +46146,7 @@
       "director": "John L. Spencer",
       "studio": "Derek Productions",
       "poster": "https://image.tmdb.org/t/p/w300/u54OhdSaaLBh02Y4Nf5cETkh8Ku.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/39490/thumb/1788761495?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/39490/thumb/1789280710?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40614",
@@ -45713,7 +46168,7 @@
       "director": "Joe Carnahan",
       "studio": "Artists Equity",
       "poster": "https://image.tmdb.org/t/p/w300/4wsYWH73Hb1B6noGIFaRQSAkuXj.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/40614/thumb/1788563461?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/40614/thumb/1789282501?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40086",
@@ -45865,7 +46320,7 @@
       "director": "Jay Roach",
       "studio": "Searchlight Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/99O8HLHklXGzvF2TqiRqr7WddzT.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/38522/thumb/1788761470?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/38522/thumb/1789280685?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_37588",
@@ -45909,7 +46364,7 @@
       "director": "Kevin Macdonald",
       "studio": "Amazon MGM Studios",
       "poster": "https://image.tmdb.org/t/p/w300/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42827/thumb/1789203399?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42827/thumb/1789369561?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36654",
@@ -46083,7 +46538,7 @@
       "director": "Kevin Williamson",
       "studio": "Paramount Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/40582/thumb/1788761516?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/40582/thumb/1789280732?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40583",
@@ -46488,7 +46943,7 @@
       "director": "Adam Rehmeier",
       "studio": "T-Street",
       "poster": "https://image.tmdb.org/t/p/w300/wCXd5tpUSc12LVPd2oN9OKU1EVQ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/40088/thumb/1788761499?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/40088/thumb/1789280714?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_41153",
@@ -46626,7 +47081,7 @@
       "id": "plex_42630",
       "title": "Soulm8te",
       "year": "2026",
-      "rating": 4.7,
+      "rating": 4.2,
       "summary": "A man acquires an Artificially Intelligent android to cope with the loss of his recently deceased wife. In an attempt to create a truly sentient partner, he inadvertently turns a harmless lovebot into a deadly soulmate.",
       "tagline": "You can't turn off the power of love.",
       "duration": 99,
@@ -46642,7 +47097,7 @@
       "director": "Kate Dolan",
       "studio": "Blumhouse Productions",
       "poster": "https://image.tmdb.org/t/p/w300/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42630/thumb/1788075250?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42630/thumb/1789894310?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36215",
@@ -46733,6 +47188,50 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/40706/thumb/1782714006?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_43109",
+      "title": "Spider-Man 3",
+      "year": "2007",
+      "rating": 6.2,
+      "summary": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
+      "tagline": "The greatest battle lies within.",
+      "duration": 139,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Tobey Maguire",
+        "Kirsten Dunst",
+        "James Franco"
+      ],
+      "director": "Sam Raimi",
+      "studio": "Laura Ziskin Productions",
+      "poster": "https://image.tmdb.org/t/p/w300/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/43109/thumb/1789917146?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_43125",
+      "title": "The Spiderwick Chronicles",
+      "year": "2008",
+      "rating": 8.1,
+      "summary": "Upon moving into the run-down Spiderwick Estate with their mother, twin brothers Jared and Simon Grace, along with their sister Mallory, find themselves pulled into an alternate world full of faeries and other creatures.",
+      "tagline": "Their world is closer than you think.",
+      "duration": 96,
+      "genres": [
+        "Family",
+        "Fantasy"
+      ],
+      "cast": [
+        "Freddie Highmore",
+        "Sarah Bolger",
+        "David Strathairn"
+      ],
+      "director": "Mark Waters",
+      "studio": "Paramount Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/uN7MUMaCXfa8DbMMp61A8iXEcEG.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/43125/thumb/1789917146?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_38418",
       "title": "Splitsville",
       "year": "2025",
@@ -46774,7 +47273,7 @@
       "director": "Francesco Lucente",
       "studio": "Lucente Filmed Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42484/thumb/1784332908?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42484/thumb/1789284757?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36544",
@@ -46928,7 +47427,7 @@
       "director": "Rob Reiner",
       "studio": "Castle Rock Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/8rm0CZpHW1D7pIv8OguJNHF93LV.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42495/thumb/1784332910?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42495/thumb/1789282622?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42489",
@@ -46950,7 +47449,7 @@
       "director": "Erdem Tepegöz",
       "studio": "OGM Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/81xUChgVphBFehihIgbXbyneZXP.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42489/thumb/1785223284?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42489/thumb/1789283884?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_41183",
@@ -47038,7 +47537,7 @@
       "director": "Craig Gillespie",
       "studio": "DC Studios",
       "poster": "https://image.tmdb.org/t/p/w300/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42600/thumb/1788075249?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42600/thumb/1789894310?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36555",
@@ -47755,7 +48254,7 @@
       "director": "Jon Avnet",
       "studio": "Cinergi Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/zF67qcf7skMHLpXnifodinUqCFr.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42497/thumb/1784332911?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42497/thumb/1789283860?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_39042",
@@ -47778,6 +48277,21 @@
       "studio": "SP Media Group",
       "poster": "https://image.tmdb.org/t/p/w300/yef0tY1Nw3BX8PJTfBLieqHj5Hw.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/39042/thumb/1782719786?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_43149",
+      "title": "Valhalla Rising M1080 Atomixhq Com",
+      "year": "",
+      "rating": null,
+      "summary": "",
+      "tagline": "",
+      "duration": 93,
+      "genres": [],
+      "cast": [],
+      "director": "",
+      "studio": "",
+      "poster": "http://192.168.68.200:32400/library/metadata/43149/thumb/1789917147?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/43149/thumb/1789917147?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40756",
@@ -47822,6 +48336,28 @@
       "studio": "T-Street",
       "poster": "https://image.tmdb.org/t/p/w300/iV9LM8aUb83BjCCx2RUnKE5sSQg.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/39352/thumb/1782716286?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_43151",
+      "title": "WALL·E",
+      "year": "2008",
+      "rating": 9.5,
+      "summary": "In a future where humans have temporarily abandoned Earth, a trash-compacting robot falls in love with a flying droid and helps her on her quest to restore hope to mankind.",
+      "tagline": "After 700 years of doing what he was built for, he'll discover what he was meant for.",
+      "duration": 98,
+      "genres": [
+        "Family",
+        "Animation"
+      ],
+      "cast": [
+        "Benjamin A. Burtt",
+        "Elissa Knight",
+        "Jeff Garlin"
+      ],
+      "director": "Andrew Stanton",
+      "studio": "Pixar",
+      "poster": "https://image.tmdb.org/t/p/w300/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/43151/thumb/1789917149?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_41366",
@@ -48090,7 +48626,7 @@
       "id": "plex_42888",
       "title": "The Whisper Man",
       "year": "2026",
-      "rating": 4.7,
+      "rating": 4.6,
       "summary": "A grieving father and his young son relocate to the quiet town of Garretton, which was terrorized by a serial killer known as The Whisper Man 15 years earlier, while rumors circulate that Whisper Man worked with an accomplice.",
       "tagline": "If you leave a door half open, soon you'll hear the whispers spoken.",
       "duration": 114,
@@ -48105,8 +48641,8 @@
       ],
       "director": "James Ashcroft",
       "studio": "AGBO",
-      "poster": "https://image.tmdb.org/t/p/w300/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42888/thumb/1789211791?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "https://image.tmdb.org/t/p/w300/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42888/thumb/1789894316?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_42499",
@@ -48127,7 +48663,7 @@
       "director": "Peter Kosminsky",
       "studio": "John Wells Productions",
       "poster": "https://image.tmdb.org/t/p/w300/pOdmhUaqvg4twAHqrhL5Onjgalb.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/42499/thumb/1784332911?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/42499/thumb/1789284019?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_36367",
@@ -48304,6 +48840,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/41774/thumb/1782714314?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_43152",
+      "title": "Woman on Top",
+      "year": "2000",
+      "rating": 3.5,
+      "summary": "Set to the intoxicating rhythms of Brazil, \"Woman on Top\" is a spicy, sexy comedy about the magic of food, love and music. Meet Isabella, a sultry enchantress born with the special gift of melting the palates and hearts of men everywhere. When she decides to break free from her rocky marriage and the stifling kitchen of her husband's restaurant in Brazil, she spirits off to San Francisco in pursuit of her dreams of a real culinary career.",
+      "tagline": "A sexy comedy that turns happily ever after upside down.",
+      "duration": 92,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "cast": [
+        "Penélope Cruz",
+        "Murilo Benício",
+        "Mark Feuerstein"
+      ],
+      "director": "Fina Torres",
+      "studio": "Fox Searchlight Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/eYHvcMeVjWPwATYI0VCdecMy2n3.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/43152/thumb/1789917149?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_41779",
       "title": "Woodwalkers",
       "year": "2024",
@@ -48366,8 +48924,8 @@
       ],
       "director": "Brad Anderson",
       "studio": "23ten",
-      "poster": "https://image.tmdb.org/t/p/w300/ahj1JU8r0uJv7QII5Uj7tKzbEsC.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/39354/thumb/1785970687?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "poster": "https://image.tmdb.org/t/p/w300/nWHx1vchbmLU3HTEJSAiBgpWPqn.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/39354/thumb/1789283133?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_40089",
