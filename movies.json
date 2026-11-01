@@ -1,7 +1,1016 @@
 {
-  "synced": "2026-11-01T09:29:29.178278",
-  "count": 751,
+  "synced": "2026-11-01T10:47:52.301667",
+  "count": 843,
   "movies": [
+    {
+      "id": "plex_48175",
+      "title": "The Croods",
+      "year": "2013",
+      "rating": 7.1,
+      "summary": "\"The Croods\" are an eccentric family of cavemen, who survive the harsh terrain by living accordingly to a strict set of rules. But when their home is destroyed in the wake of an impending disaster known as \"The End\", they are forced to leave their home of shelter and security, and into the wilderness of the unknown to find a new home.",
+      "tagline": "The journey begins.",
+      "duration": 99,
+      "genres": [
+        "Comedy",
+        "Animation"
+      ],
+      "cast": [
+        "Nicolas Cage",
+        "Emma Stone",
+        "Ryan Reynolds"
+      ],
+      "director": "Chris Sanders, Kirk DeMicco",
+      "studio": "DreamWorks Animation",
+      "poster": "https://image.tmdb.org/t/p/w300/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48175/thumb/1793543320?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48145",
+      "title": "Despicable Me 2",
+      "year": "2013",
+      "rating": 7.5,
+      "summary": "When a new criminal comes to town, the Anti-Villain League decides to hire Gru in order to fight him off. While Gru initially refuses, he eventually agrees after his aide goes back to his evil ways.",
+      "tagline": "More minions. More despicable.",
+      "duration": 98,
+      "genres": [
+        "Comedy",
+        "Animation"
+      ],
+      "cast": [
+        "Steve Carell",
+        "Kristen Wiig",
+        "Benjamin Bratt"
+      ],
+      "director": "Chris Renaud, Pierre Coffin",
+      "studio": "Illumination",
+      "poster": "https://image.tmdb.org/t/p/w300/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48145/thumb/1793543317?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48146",
+      "title": "Epic",
+      "year": "2013",
+      "rating": 6.5,
+      "summary": "A teenager finds herself transported to a deep forest setting where a battle between the forces of good and evil is taking place. She bands together with a ragtag group of characters to save their world--and ours.",
+      "tagline": "Discover a world beyond your imagination.",
+      "duration": 102,
+      "genres": [
+        "Family",
+        "Fantasy"
+      ],
+      "cast": [
+        "Colin Farrell",
+        "Amanda Seyfried",
+        "Christoph Waltz"
+      ],
+      "director": "Chris Wedge",
+      "studio": "Blue Sky Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48146/thumb/1793543318?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48147",
+      "title": "Frozen",
+      "year": "2013",
+      "rating": 8.9,
+      "summary": "Fearless optimist Anna teams up with rugged mountain man Kristoff and his loyal reindeer Sven in an epic journey to find Anna's sister Elsa, whose icy powers have trapped the kingdom of Arendelle in eternal winter.",
+      "tagline": "Who will save the day? The ice guy? The nice guy? The snow man? Or no man?",
+      "duration": 102,
+      "genres": [
+        "Family",
+        "Fantasy"
+      ],
+      "cast": [
+        "Kristen Bell",
+        "Idina Menzel",
+        "Jonathan Groff"
+      ],
+      "director": "Jennifer Lee, Chris Buck",
+      "studio": "Walt Disney Animation Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48147/thumb/1793543319?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48148",
+      "title": "The Smurfs 2",
+      "year": "2013",
+      "rating": 1.4,
+      "summary": "The Smurfs team up with their human friends to rescue Smurfette, who has been abducted by Gargamel, since she knows a secret spell that can turn the evil sorcerer's newest creation, creatures called \"The Naughties\", into real Smurfs.",
+      "tagline": "Get ready to get naughty!",
+      "duration": 105,
+      "genres": [
+        "Comedy",
+        "Animation"
+      ],
+      "cast": [
+        "Katy Perry",
+        "Hank Azaria",
+        "Neil Patrick Harris"
+      ],
+      "director": "Raja Gosnell",
+      "studio": "NeoReel",
+      "poster": "https://image.tmdb.org/t/p/w300/tmjvgbEH4BKYFfHmWXjXrHgi8wT.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48148/thumb/1793543319?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48196",
+      "title": "Tarzan",
+      "year": "2013",
+      "rating": 2.0,
+      "summary": "One of the most classic and revered stories of all time, Edgar Rice Burroughs' Tarzan returns to the big screen for a new generation. Tarzan and Jane face a mercenary army dispatched by the evil CEO of Greystoke Energies, a man who took over the company from Tarzan's parents, after they died in a plane crash in the African jungle.",
+      "tagline": "The legend starts here",
+      "duration": 94,
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "cast": [
+        "Kellan Lutz",
+        "Spencer Locke",
+        "Les Bubb"
+      ],
+      "director": "Reinhard Klooss",
+      "studio": "Ambient Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w300/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48196/thumb/1793543319?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48246",
+      "title": "8-Bit Christmas",
+      "year": "2021",
+      "rating": 8.4,
+      "summary": "Jake Doyle has come home for Christmas. He tells his daughter the story of how he got a Nintendo Entertainment System on Christmas Day in 1988 and his sister got a \"real\" Cabbage Patch doll. Telling him that video games are bad for kids will not stop young Jake and his friends. How far will they go?",
+      "tagline": "How far would you go to score the ultimate gift?",
+      "duration": 98,
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "cast": [
+        "Winslow Fegley",
+        "Neil Patrick Harris",
+        "Steve Zahn"
+      ],
+      "director": "Michael Dowse",
+      "studio": "Star Thrower Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w300/5YwaISdOwp8Zu6O7kwBeUn8a7Pu.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48246/thumb/1793543320?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48247",
+      "title": "A Bad Moms Christmas",
+      "year": "2017",
+      "rating": 3.2,
+      "summary": "Amy, Kiki and Carla – three under-appreciated and over-burdened women – rebel against the challenges and expectations of the Super Bowl for mothers: Christmas. And if creating a more perfect holiday for their families wasn’t hard enough, they have to do all of that while hosting and entertaining their own mothers.",
+      "tagline": "Celebrate the holidays like a mother.",
+      "duration": 105,
+      "genres": [
+        "Comedy"
+      ],
+      "cast": [
+        "Mila Kunis",
+        "Kristen Bell",
+        "Kathryn Hahn"
+      ],
+      "director": "Scott Moore, Jon Lucas",
+      "studio": "STXfilms",
+      "poster": "https://image.tmdb.org/t/p/w300/gPNHolu7AGnrB7r5kvJRRTfwMFR.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48247/thumb/1793543321?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48288",
+      "title": "Bad Santa",
+      "year": "2003",
+      "rating": 7.8,
+      "summary": "You'd better watch out - Willie T. Soke is coming to town, and he doesn't care if you've been naughty or nice. Willie's favorite holiday tradition is to fill his sacks with loot lifted from shopping malls across the country. But this year his plot gets derailed by a wisecracking store detective, a sexy bartender, and a kid who's convinced Willie is the real Santa Claus.",
+      "tagline": "He doesn't care if you're naughty or nice.",
+      "duration": 100,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "cast": [
+        "Billy Bob Thornton",
+        "Tony Cox",
+        "Lauren Graham"
+      ],
+      "director": "Terry Zwigoff",
+      "studio": "Mike Zoss Productions",
+      "poster": "https://image.tmdb.org/t/p/w300/rfClLIyeHqpMofmrPY8DaLe4z9x.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48288/thumb/1793543325?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48287",
+      "title": "Bad Santa 2",
+      "year": "2016",
+      "rating": 2.3,
+      "summary": "Fueled by cheap whiskey, greed and hatred, Willie teams up once again with his angry little sidekick, Marcus, to knock off a Chicago charity on Christmas Eve.",
+      "tagline": "Giving the holidays another shot.",
+      "duration": 95,
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "cast": [
+        "Billy Bob Thornton",
+        "Kathy Bates",
+        "Tony Cox"
+      ],
+      "director": "Mark Waters",
+      "studio": "Ingenious Media",
+      "poster": "https://image.tmdb.org/t/p/w300/xmsEwpA2fSq6IO3sfKrLuIPLHSc.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48287/thumb/1793543324?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48272",
+      "title": "A Boy Called Christmas",
+      "year": "2021",
+      "rating": 8.4,
+      "summary": "In this origin story of Father Christmas, an ordinary boy--with a loyal pet mouse and a reindeer at his side--sets out on an extraordinary adventure to find his father, who is on a quest to discover the fabled village of Elfhelm.",
+      "tagline": "Experience the magic.",
+      "duration": 107,
+      "genres": [
+        "Family",
+        "Fantasy"
+      ],
+      "cast": [
+        "Henry Lawfull",
+        "Toby Jones",
+        "Sally Hawkins"
+      ],
+      "director": "Gil Kenan",
+      "studio": "StudioCanal UK",
+      "poster": "https://image.tmdb.org/t/p/w300/1sRejtiHOZGggZd9RcmdqbapLM5.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48272/thumb/1793543324?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48248",
+      "title": "A Charlie Brown Christmas",
+      "year": "1965",
+      "rating": 8.6,
+      "summary": "When Charlie Brown complains about the overwhelming materialism that he sees amongst everyone during the Christmas season, Lucy suggests that he become director of the school Christmas pageant. Charlie Brown accepts, but it proves to be a frustrating struggle. When an attempt to restore the proper spirit with a forlorn little fir Christmas tree fails, he needs Linus.",
+      "tagline": "That's what Christmas is all about, Charlie Brown!",
+      "duration": 26,
+      "genres": [
+        "Family",
+        "Animation"
+      ],
+      "cast": [
+        "Peter Robbins",
+        "Christopher Shea",
+        "Tracy Stratford"
+      ],
+      "director": "Bill Melendez",
+      "studio": "United Feature Syndicate",
+      "poster": "https://image.tmdb.org/t/p/w300/6fDmxNVFGSYlVR01zbYSZ4M0lU0.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48248/thumb/1793543322?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48269",
+      "title": "A Christmas Carol",
+      "year": "1984",
+      "rating": 9.8,
+      "summary": "Miser Ebenezer Scrooge is awakened on Christmas Eve by spirits who reveal to him his own miserable existence, what opportunities he wasted in his youth, his current cruelties, and the dire fate that awaits him if he does not change his ways. Scrooge is faced with his own story of growing bitterness and meanness, and must decide what his own future will hold: death or redemption.",
+      "tagline": "A new powerful presentation of the most loved ghost story of all time!",
+      "duration": 101,
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "cast": [
+        "George C. Scott",
+        "Roger Rees",
+        "David Warner"
+      ],
+      "director": "Clive Donner",
+      "studio": "Entertainment Partners Ltd.",
+      "poster": "https://image.tmdb.org/t/p/w300/m3T3iLdE6J5PrqvvP0XNHBvM2bm.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48269/thumb/1793543323?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48249",
+      "title": "A Christmas Carol",
+      "year": "2009",
+      "rating": 5.2,
+      "summary": "Miser Ebenezer Scrooge is awakened on Christmas Eve by spirits who reveal to him his own miserable existence, what opportunities he wasted in his youth, his current cruelties, and the dire fate that awaits him if he does not change his ways. Scrooge is faced with his own story of growing bitterness and meanness, and must decide what his own future will hold: death or redemption.",
+      "tagline": "It only takes one night to change your life.",
+      "duration": 96,
+      "genres": [
+        "Family",
+        "Fantasy"
+      ],
+      "cast": [
+        "Jim Carrey",
+        "Gary Oldman",
+        "Colin Firth"
+      ],
+      "director": "Robert Zemeckis",
+      "studio": "Walt Disney Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/xNwlAIdx1Ln28GRiQttUP9Gojy2.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48249/thumb/1793543322?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48465",
+      "title": "The Christmas Chronicles",
+      "year": "2018",
+      "rating": 6.7,
+      "summary": "The story of sister and brother, Kate and Teddy Pierce, whose Christmas Eve plan to catch Santa Claus on camera turns into an unexpected journey that most kids could only dream about.",
+      "tagline": "Santa's in town early this year.",
+      "duration": 104,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "cast": [
+        "Darby Camp",
+        "Judah Lewis",
+        "Kurt Russell"
+      ],
+      "director": "Clay Kaytis",
+      "studio": "1492 Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/5Il2EMSF2KecrUKZPuen6BZmaCP.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48465/thumb/1793543336?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48495",
+      "title": "The Christmas Chronicles: Part Two",
+      "year": "2020",
+      "rating": 6.6,
+      "summary": "While on Christmas vacation in Cancun with their respective mom and dad, a true-Santa-believing girl and a boy are kidnapped by a rebellious Santa-hater as a plot for him to get into Santa's Village at the North Pole and destroy it. The kids are saved by Santa and taken to the elf-populated Santa's Village and Mrs. Claus, where they get a tour of the place, dinner, and bedtime story while the Santa-hater starts his sabotage.",
+      "tagline": "The battle to save Christmas is on.",
+      "duration": 115,
+      "genres": [
+        "Family",
+        "Fantasy"
+      ],
+      "cast": [
+        "Darby Camp",
+        "Kurt Russell",
+        "Goldie Hawn"
+      ],
+      "director": "Chris Columbus",
+      "studio": "1492 Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/6sG0kbEvAi3RRLcGGU5h8l3qAPa.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48495/thumb/1793543339?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48270",
+      "title": "A Christmas Story",
+      "year": "1983",
+      "rating": 8.7,
+      "summary": "In the 1940s, a young boy named Ralphie Parker attempts to convince his parents, teacher, and Santa Claus that a Red Ryder Range 200 Shot BB gun really is the perfect Christmas gift.",
+      "tagline": "A tribute to the original, traditional, one-hundred-percent, red-blooded, two-fisted, all-American Christmas.",
+      "duration": 93,
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "cast": [
+        "Melinda Dillon",
+        "Darren McGavin",
+        "Peter Billingsley"
+      ],
+      "director": "Bob Clark",
+      "studio": "Metro-Goldwyn-Mayer",
+      "poster": "https://image.tmdb.org/t/p/w300/34nSHYqmb7222tiqiuKqKJmZiQa.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48270/thumb/1793543323?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48397",
+      "title": "Christmas Vacation",
+      "year": "1989",
+      "rating": 7.2,
+      "summary": "It's Christmas time, and the Griswolds are preparing a big family celebration, but things never run smoothly for Clark, his wife Ellen, and their two kids. Clark's perennial bad luck is exacerbated by his obnoxious family guests, but he manages to persevere, knowing that his Christmas bonus is due soon.",
+      "tagline": "Yule crack up!",
+      "duration": 97,
+      "genres": [
+        "Comedy"
+      ],
+      "cast": [
+        "Chevy Chase",
+        "Beverly D'Angelo",
+        "Juliette Lewis"
+      ],
+      "director": "Jeremiah S. Chechik",
+      "studio": "Hughes Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w300/oat42hUw8XzKYUmfy0YLAxYd484.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48397/thumb/1793543333?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48294",
+      "title": "Christmas with the Kranks",
+      "year": "2004",
+      "rating": 0.5,
+      "summary": "With their daughter Blair away in Peru, Luther and Nora Krank decide to skip Christmas altogether until she decides to come home, causing an uproar when they must celebrate it at the last minute.",
+      "tagline": "Their Christmas will turn the town upside down!",
+      "duration": 99,
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "cast": [
+        "Tim Allen",
+        "Jamie Lee Curtis",
+        "Dan Aykroyd"
+      ],
+      "director": "Joe Roth",
+      "studio": "Revolution Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/q866vL3KhAjbkZH1enT7AoxmRHx.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48294/thumb/1793543325?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48311",
+      "title": "Elf",
+      "year": "2003",
+      "rating": 8.5,
+      "summary": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
+      "tagline": "Discover your inner elf.",
+      "duration": 97,
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "cast": [
+        "Will Ferrell",
+        "James Caan",
+        "Bob Newhart"
+      ],
+      "director": "Jon Favreau",
+      "studio": "New Line Cinema",
+      "poster": "https://image.tmdb.org/t/p/w300/oOleziEempUPu96jkGs0Pj6tKxj.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48311/thumb/1793543326?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48312",
+      "title": "Four Christmases",
+      "year": "2008",
+      "rating": 2.5,
+      "summary": "Brad and Kate have made something of an art form out of avoiding their families during the holidays, but this year their foolproof plan is about go bust -- big time. Stuck at the city airport after all departing flights are canceled, the couple is embarrassed to see their ruse exposed to the world by an overzealous television reporter. Now, Brad and Kate are left with precious little choice other than to swallow their pride and suffer the rounds.",
+      "tagline": "His father, her mother, his mother and her father all in one day.",
+      "duration": 89,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "cast": [
+        "Vince Vaughn",
+        "Reese Witherspoon",
+        "Robert Duvall"
+      ],
+      "director": "Seth Gordon",
+      "studio": "Spyglass Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w300/zixj44TC7rwzpxtJAG5OzFJnEqe.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48312/thumb/1793543326?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48325",
+      "title": "Frosty the Snowman",
+      "year": "1969",
+      "rating": 7.3,
+      "summary": "A living snowman and a little girl struggle to elude a greedy magician who is after the snowman's magic hat.",
+      "tagline": "Special Christmas magic!",
+      "duration": 26,
+      "genres": [
+        "Family",
+        "Animation"
+      ],
+      "cast": [
+        "Jackie Vernon",
+        "June Foray",
+        "Billy De Wolfe"
+      ],
+      "director": "Jules Bass, Arthur Rankin Jr.",
+      "studio": "Rankin/Bass Productions",
+      "poster": "https://image.tmdb.org/t/p/w300/gw7ie4W3iW8nefnZ4kuw8dgYNM2.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48325/thumb/1793543327?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48333",
+      "title": "Get Santa",
+      "year": "2014",
+      "rating": 7.7,
+      "summary": "After Santa Claus is arrested and jailed, a recently paroled prisoner and his young son attempt to save Christmas before it's too late.",
+      "tagline": "They have one chance to save Christmas...",
+      "duration": 103,
+      "genres": [
+        "Family",
+        "Comedy"
+      ],
+      "cast": [
+        "Jim Broadbent",
+        "Rafe Spall",
+        "Warwick Davis"
+      ],
+      "director": "Christopher Smith",
+      "studio": "Scott Free Productions",
+      "poster": "https://image.tmdb.org/t/p/w300/gW4FX4DFRnKlGINzB4UdZJnSdgE.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48333/thumb/1793543328?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48354",
+      "title": "Gremlins",
+      "year": "1984",
+      "rating": 8.7,
+      "summary": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
+      "tagline": "Cute. Clever. Mischievous. Intelligent. Dangerous.",
+      "duration": 106,
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "cast": [
+        "Zach Galligan",
+        "Phoebe Cates",
+        "Hoyt Axton"
+      ],
+      "director": "Joe Dante",
+      "studio": "Amblin Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w300/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48354/thumb/1793543328?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48357",
+      "title": "Gremlins 2: The New Batch",
+      "year": "1990",
+      "rating": 7.1,
+      "summary": "Young sweethearts Billy and Kate move to the Big Apple, land jobs in a high-tech office park and soon reunite with the friendly and lovable Gizmo. But a series of accidents creates a whole new generation of Gremlins. The situation worsens when the devilish green creatures invade a top-secret laboratory and develop genetically altered powers, making them even harder to destroy!",
+      "tagline": "Here they grow again.",
+      "duration": 106,
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "cast": [
+        "Zach Galligan",
+        "Phoebe Cates",
+        "John Glover"
+      ],
+      "director": "Joe Dante",
+      "studio": "Amblin Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w300/35F5yD7MljvBE2AC0NHAVCoPGEi.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48357/thumb/1793543329?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48358",
+      "title": "Happiest Season",
+      "year": "2020",
+      "rating": 8.2,
+      "summary": "Meeting your girlfriend's family for the first time can be tough. Planning to propose at her family's annual Christmas dinner--until you realize that they don't even know that she's gay--is even harder. When Abby (Kristen Stewart) learns that Harper (Mackenzie Davis) has kept their relationship a secret from her family, she begins to question the girlfriend she thought she knew.",
+      "tagline": "This holiday, everyone's secrets are coming out.",
+      "duration": 102,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "cast": [
+        "Kristen Stewart",
+        "Mackenzie Davis",
+        "Mary Steenburgen"
+      ],
+      "director": "Clea DuVall",
+      "studio": "Temple Hill Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w300/vzec9kkOSE93tygyfOktedkeOQ.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48358/thumb/1793543329?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48366",
+      "title": "Happy Christmas",
+      "year": "2014",
+      "rating": 7.5,
+      "summary": "After a break up, Jenny moves in with writer Kelly, her filmmaker husband, and their child. Despite a rocky start, Jenny's influence helps Kelly realize that an evolution in her life, career and relationship is necessary for her happiness.",
+      "tagline": "Family is the gift that keeps on taking.",
+      "duration": 82,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "cast": [
+        "Anna Kendrick",
+        "Melanie Lynskey",
+        "Mark Webber"
+      ],
+      "director": "Joe Swanberg",
+      "studio": "Lucky Coffee Productions",
+      "poster": "https://image.tmdb.org/t/p/w300/gjOQUlsprWkmyZP4hhMGr0GP3LG.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48366/thumb/1793543330?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48367",
+      "title": "Home Alone",
+      "year": "1990",
+      "rating": 6.6,
+      "summary": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
+      "tagline": "A family comedy without the family.",
+      "duration": 103,
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "cast": [
+        "Macaulay Culkin",
+        "Joe Pesci",
+        "Daniel Stern"
+      ],
+      "director": "Chris Columbus",
+      "studio": "Hughes Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w300/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48367/thumb/1793543330?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48373",
+      "title": "Home Alone 2: Lost in New York",
+      "year": "1992",
+      "rating": 3.5,
+      "summary": "Kevin is separated from his family again when he accidentally boards a flight to New York City during a Christmas trip to Miami. However he crosses paths with the same burglars, who now plan to rob a toy store on Christmas Eve.",
+      "tagline": "He's up past his bedtime in the city that never sleeps.",
+      "duration": 120,
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "cast": [
+        "Macaulay Culkin",
+        "Joe Pesci",
+        "Daniel Stern"
+      ],
+      "director": "Chris Columbus",
+      "studio": "20th Century Fox",
+      "poster": "https://image.tmdb.org/t/p/w300/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48373/thumb/1793543330?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48381",
+      "title": "How the Grinch Stole Christmas",
+      "year": "2000",
+      "rating": 5.0,
+      "summary": "Inside a snowflake exists the magical land of Whoville, wherein live the Whos, an almost-mutated sort of Munchkin-like people who all love Christmas. Just outside of their beloved town lives the Grinch (Jim Carrey), a nasty creature that hates Christmas and plans to steal it from the Whos, which he equally abhors. Little Cindy Lou Who (Taylor Momsen) decides to befriend the Grinch.",
+      "tagline": "You better watch out!",
+      "duration": 105,
+      "genres": [
+        "Family",
+        "Comedy"
+      ],
+      "cast": [
+        "Jim Carrey",
+        "Taylor Momsen",
+        "Jeffrey Tambor"
+      ],
+      "director": "Ron Howard",
+      "studio": "Universal Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/1WZbbPApEivA421gCOluuzMMKCk.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48381/thumb/1793543331?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48389",
+      "title": "Jack Frost",
+      "year": "1998",
+      "rating": 1.8,
+      "summary": "Jack Frost is a singer who's on the road most of the time so he can't spend a lot of time with his son, Charlie, although they love each other very much. When Jack is killed in a car accident, Charlie becomes a very sad boy, until...Jack returns as a snowman. Now they can do all the things they've missed when he was human, but what will people think when they see Charlie talking to a snowman and what will happen when the weather gets warmer?",
+      "tagline": "He's the world's coolest dad and he's gonna prove it.",
+      "duration": 101,
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "cast": [
+        "Michael Keaton",
+        "Kelly Preston",
+        "Joseph Cross"
+      ],
+      "director": "Troy Miller",
+      "studio": "The Canton Company",
+      "poster": "https://image.tmdb.org/t/p/w300/tdSyQJe7vEDcH9kEVqzVcr0O9lS.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48389/thumb/1793543331?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48391",
+      "title": "Jingle All the Way",
+      "year": "1996",
+      "rating": 2.0,
+      "summary": "A father vows to get his son a Turbo Man action figure for Christmas. However, every store is sold out, and he must travel all over town and compete with everybody else in order to find one.",
+      "tagline": "Two dads, one toy, no prisoners.",
+      "duration": 86,
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "cast": [
+        "Arnold Schwarzenegger",
+        "Sinbad",
+        "Phil Hartman"
+      ],
+      "director": "Brian Levant",
+      "studio": "1492 Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/vhdLrQ3P2JxlxsTREUsr2nbtnjS.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48391/thumb/1793543332?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48392",
+      "title": "Krampus",
+      "year": "2015",
+      "rating": 6.7,
+      "summary": "When his dysfunctional family clashes over the holidays, young Max is disillusioned and turns his back on Christmas.  Little does he know, this lack of festive spirit has unleashed the wrath of Krampus: a demonic force of ancient evil intent on punishing non-believers.",
+      "tagline": "You don't want to be on his list.",
+      "duration": 98,
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "cast": [
+        "Adam Scott",
+        "Toni Collette",
+        "David Koechner"
+      ],
+      "director": "Michael Dougherty",
+      "studio": "Universal Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/sAolMRD9rFSTU7tssfFuLEJJa7w.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48392/thumb/1793543332?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48497",
+      "title": "The Night Before",
+      "year": "2015",
+      "rating": 6.8,
+      "summary": "Ethan (Joseph Gordon-Levitt), Isaac (Seth Rogen), and Chris (Anthony Mackie) have been friends since childhood, and for a decade, their yearly Christmas Eve reunion has been an annual night of debauchery and hilarity. Now that they're entering adulthood, the tradition is ending, and to make it as memorable as possible, they set out to find the Nutcracka Ball--the Holy Grail of Christmas parties.",
+      "tagline": "Their past, present and future. All in one night.",
+      "duration": 101,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "cast": [
+        "Joseph Gordon-Levitt",
+        "Seth Rogen",
+        "Anthony Mackie"
+      ],
+      "director": "Jonathan Levine",
+      "studio": "Good Universe",
+      "poster": "https://image.tmdb.org/t/p/w300/rfeNBaiMBg0UQsBQFv1qsjTjZWn.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48497/thumb/1793543339?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48400",
+      "title": "Noelle",
+      "year": "2019",
+      "rating": 5.6,
+      "summary": "Noelle has always had to support and encourage her brother Nick, who was ordained to take over as Santa. When Nick disappears right before Christmas, Noelle goes on a funny and heartfelt journey to find him and, ultimately, what Christmas is really about.",
+      "tagline": "Saving Christmas together? Oh, joy.",
+      "duration": 100,
+      "genres": [
+        "Family",
+        "Fantasy"
+      ],
+      "cast": [
+        "Anna Kendrick",
+        "Shirley MacLaine",
+        "Bill Hader"
+      ],
+      "director": "Marc Lawrence",
+      "studio": "Walt Disney Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48400/thumb/1793543333?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48424",
+      "title": "Office Christmas Party",
+      "year": "2016",
+      "rating": 4.1,
+      "summary": "When the CEO (Jennifer Aniston) tries to close her hard-partying brother's branch, he (T.J. Miller) and his Chief Technical Officer (Jason Bateman) must rally their co-workers and host an epic office Christmas party in an effort to impress a potential client and close a sale that will save their jobs.",
+      "tagline": "Party like your job depends on it",
+      "duration": 111,
+      "genres": [
+        "Comedy"
+      ],
+      "cast": [
+        "Jason Bateman",
+        "Olivia Munn",
+        "T.J. Miller"
+      ],
+      "director": "Josh Gordon, Will Speck",
+      "studio": "Bluegrass Films",
+      "poster": "https://image.tmdb.org/t/p/w300/7r3w3cPTbNEIr1imb8zXyeIJCJe.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48424/thumb/1793543334?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48469",
+      "title": "The Polar Express",
+      "year": "2004",
+      "rating": 5.5,
+      "summary": "This is the story of a young hero boy who boards on a powerful magical train that's headed to the North Pole and Santa Claus' home on Christmas Eve night. During this ride, he embarks on a journey of self-discovery which shows him that the wonder of life never fades for those who believe.",
+      "tagline": "A journey like you’ve never imagined.",
+      "duration": 100,
+      "genres": [
+        "Family",
+        "Animation"
+      ],
+      "cast": [
+        "Tom Hanks",
+        "Leslie Zemeckis",
+        "Eddie Deezen"
+      ],
+      "director": "Robert Zemeckis",
+      "studio": "Golden Mean",
+      "poster": "https://image.tmdb.org/t/p/w300/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48469/thumb/1793543337?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48425",
+      "title": "Red One",
+      "year": "2024",
+      "rating": 2.9,
+      "summary": "After Santa Claus -- Code Name: RED ONE -- is kidnapped, the North Pole's Head of Security (Dwayne Johnson) must team up with the world's most infamous bounty hunter and notorious hacker (Chris Evans) in a globe-trotting, action-packed mission to save Christmas.",
+      "tagline": "The mission to save Christmas is on.",
+      "duration": 125,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "cast": [
+        "Dwayne Johnson",
+        "Chris Evans",
+        "Lucy Liu"
+      ],
+      "director": "Jake Kasdan",
+      "studio": "Seven Bucks Productions",
+      "poster": "https://image.tmdb.org/t/p/w300/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48425/thumb/1793543334?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48499",
+      "title": "The Ref",
+      "year": "1994",
+      "rating": 7.3,
+      "summary": "A cat burglar is forced to take a bickering, dysfunctional family hostage on Christmas Eve.",
+      "tagline": "They might be his hostages but what they're doing to this guy is criminal.",
+      "duration": 97,
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "cast": [
+        "Denis Leary",
+        "Judy Davis",
+        "Kevin Spacey"
+      ],
+      "director": "Ted Demme",
+      "studio": "Don Simpson/Jerry Bruckheimer Films",
+      "poster": "https://image.tmdb.org/t/p/w300/ym7Kx3iDmalK8kXKvVQwnFYABEV.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48499/thumb/1793543340?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48427",
+      "title": "Rudolph the Red-Nosed Reindeer",
+      "year": "1964",
+      "rating": 9.5,
+      "summary": "A young reindeer Rudolph lives at the North Pole. His father is one of Santa's reindeer and it is expected that Rudolph will eventually be one too. However, he has a feature which is a setback and causes him to be ostracized: his red nose.",
+      "tagline": "You might even say it glows!",
+      "duration": 52,
+      "genres": [
+        "Family",
+        "Fantasy"
+      ],
+      "cast": [
+        "Burl Ives",
+        "Billie Mae Richards",
+        "Larry D. Mann"
+      ],
+      "director": "Larry Roemer",
+      "studio": "Rankin/Bass Productions",
+      "poster": "https://image.tmdb.org/t/p/w300/xjAElUhXuc7zFJPj3qUHjcySNsE.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48427/thumb/1793543335?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48470",
+      "title": "The Santa Clause",
+      "year": "1994",
+      "rating": 7.4,
+      "summary": "On Christmas Eve, divorced dad Scott Calvin and his son discover Santa Claus has fallen off their roof. When Scott takes the reins of the magical sleigh, he finds he is now the new Santa, and must convince a world of disbelievers, including himself.",
+      "tagline": "This Christmas, the snow hits the fan.",
+      "duration": 97,
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "cast": [
+        "Tim Allen",
+        "Judge Reinhold",
+        "Wendy Crewson"
+      ],
+      "director": "John Pasquin",
+      "studio": "Walt Disney Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48470/thumb/1793543337?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48478",
+      "title": "The Santa Clause 2",
+      "year": "2002",
+      "rating": 5.6,
+      "summary": "Better watch out! The big guy in red is coming to town once again. This time, Scott Calvin -- also known as Santa Claus -- finds out there's an obscure clause in his contract requiring him to take on a wife. He has to leave the North Pole to fulfill his obligations, or else he'll be forced to give up his Yuletide gig.",
+      "tagline": "What's Christmas Fun without some Reindeer Games?",
+      "duration": 104,
+      "genres": [
+        "Fantasy",
+        "Comedy"
+      ],
+      "cast": [
+        "Tim Allen",
+        "Judge Reinhold",
+        "Wendy Crewson"
+      ],
+      "director": "Michael Lembeck",
+      "studio": "Walt Disney Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/2EAMkz0z1pbr9weOY1Y7buy2AxV.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48478/thumb/1793543338?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48494",
+      "title": "The Santa Clause 3: The Escape Clause",
+      "year": "2006",
+      "rating": 1.7,
+      "summary": "Now that Santa Claus/Scott Calvin and Mrs. Claus/Carol Newman Calvin have the North Pole running smoothly, the Counsel of Legendary Figures has called an emergency meeting on Christmas Eve. The evil Jack Frost has been making trouble, looking to take over the holiday. So he launches a plan to sabotage the toy factory and compel Scott to invoke the little-known Escape Clause and wish he'd never become Santa.",
+      "tagline": "'Twas the fight before Christmas...",
+      "duration": 92,
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "cast": [
+        "Tim Allen",
+        "Elizabeth Mitchell",
+        "Judge Reinhold"
+      ],
+      "director": "Michael Lembeck",
+      "studio": "Walt Disney Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/pvaWMSRzRwtcxyHKNLX6phiQp8d.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48494/thumb/1793543338?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48459",
+      "title": "Scrooged",
+      "year": "1988",
+      "rating": 7.5,
+      "summary": "Francis Xavier Cross is a cynical, mean spirited television executive, he treats his loyal assistant with contempt. He just sacked a member of staff on Christmas Eve for simply disagreeing with him, and he's alienated himself from his brother who still insists on inviting Frank to Christmas dinner despite him refusing to go every year. However, Frank is forced to learn the true meaning of Christmas when he's visited by three ghosts.",
+      "tagline": "The spirits will move you in odd and hysterical ways.",
+      "duration": 101,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "cast": [
+        "Bill Murray",
+        "Karen Allen",
+        "John Forsythe"
+      ],
+      "director": "Richard Donner",
+      "studio": "Paramount Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48459/thumb/1793543335?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48395",
+      "title": "Surviving Christmas",
+      "year": "2004",
+      "rating": 0.8,
+      "summary": "Wealthy executive Drew Latham has no close relationships and becomes nostalgic for his childhood home as Christmas approaches. When he visits the house and finds another family living there, he offers the residents a large sum of money to pretend they are his parents.",
+      "tagline": "This year, Christmas comes early. Really early.",
+      "duration": 92,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "cast": [
+        "Ben Affleck",
+        "James Gandolfini",
+        "Christina Applegate"
+      ],
+      "director": "Mike Mitchell",
+      "studio": "LivePlanet",
+      "poster": "https://image.tmdb.org/t/p/w300/8jHtvFpCOOqp2U2qwI3L3h10cUv.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48395/thumb/1793543333?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48520",
+      "title": "2 Guns",
+      "year": "2013",
+      "rating": 6.4,
+      "summary": "A DEA agent and an undercover Naval Intelligence officer who have been tasked with investigating one another find they have been set up by the mob -- the very organization the two men believe they have been stealing money from.",
+      "tagline": "Never rob a bank across from a diner with the best donuts in three counties.",
+      "duration": 109,
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "cast": [
+        "Denzel Washington",
+        "Mark Wahlberg",
+        "Paula Patton"
+      ],
+      "director": "Baltasar Kormákur",
+      "studio": "Universal Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/ptURGAFktibhk7DEAbMazlmNqWa.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48520/thumb/1793543340?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
     {
       "id": "plex_44112",
       "title": "12 Monkeys",
@@ -133,6 +1142,50 @@
       "studio": "Columbia Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44119/thumb/1793447953?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48521",
+      "title": "42",
+      "year": "2013",
+      "rating": 8.0,
+      "summary": "In 1947, Jackie Robinson becomes the first African-American to play in Major League Baseball in the modern era when he was signed by the Brooklyn Dodgers and faces considerable racism in the process.",
+      "tagline": "In a game divided by color, he made us see greatness.",
+      "duration": 128,
+      "genres": [
+        "Drama",
+        "Biography"
+      ],
+      "cast": [
+        "Chadwick Boseman",
+        "Harrison Ford",
+        "Nicole Beharie"
+      ],
+      "director": "Brian Helgeland",
+      "studio": "Legendary Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/iZ7jVGQWj3eBUdqwAPUlKk0BaS2.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48521/thumb/1793543341?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48522",
+      "title": "47 Ronin",
+      "year": "2013",
+      "rating": 1.6,
+      "summary": "Kai—an outcast—joins Oishi, the leader of 47 outcast samurai.  Together they seek vengeance upon the treacherous overlord who killed their master and banished their kind.  To restore honour to their homeland, the warriors embark upon a quest that challenges them with a series of trials that would destroy ordinary warriors.",
+      "tagline": "For courage. For loyalty. For honor.",
+      "duration": 119,
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "cast": [
+        "Keanu Reeves",
+        "Hiroyuki Sanada",
+        "Ko Shibasaki"
+      ],
+      "director": "Carl Rinsch",
+      "studio": "Mid Atlantic Films",
+      "poster": "https://image.tmdb.org/t/p/w300/xDHnmcroujCRG0ysYQaiswjbyHd.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48522/thumb/1793543341?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_44135",
@@ -331,6 +1384,28 @@
       "studio": "Paramount Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/5958Nt4QX6aRSUdQnvNw8wqjTJQ.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44174/thumb/1793447959?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48574",
+      "title": "After Earth",
+      "year": "2013",
+      "rating": 1.2,
+      "summary": "A crash landing leaves Kitai Raige and his father Cypher stranded on Earth, a millennium after events forced humanity's escape. With Cypher injured, Kitai must embark on a perilous journey to signal for help.",
+      "tagline": "Danger is real, fear is a choice.",
+      "duration": 100,
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "cast": [
+        "Jaden Smith",
+        "Will Smith",
+        "Sophie Okonedo"
+      ],
+      "director": "M. Night Shyamalan",
+      "studio": "Columbia Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/iXMvYIlzzJBs352CfeiQcBvovZt.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48574/thumb/1793543342?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_44185",
@@ -586,7 +1661,7 @@
       "director": "",
       "studio": "",
       "poster": "https://image.tmdb.org/t/p/w300/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/46528/thumb/1793448169?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/46528/thumb/1793546664?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_11725",
@@ -609,6 +1684,28 @@
       "studio": "Columbia Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/bU7nTmvmy0h3VUP01v1T2imgH6N.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/11725/thumb/1793448190?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48575",
+      "title": "American Hustle",
+      "year": "2013",
+      "rating": 9.2,
+      "summary": "Two con artists are forced to work for a wild FBI agent who pushes them into a world of Jersey powerbrokers and the Mafia.",
+      "tagline": "Everyone hustles to survive.",
+      "duration": 138,
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "cast": [
+        "Christian Bale",
+        "Bradley Cooper",
+        "Amy Adams"
+      ],
+      "director": "David O. Russell",
+      "studio": "Annapurna Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/z6O1KDhfWDTm5ZBr6Ovr0eg8LqO.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48575/thumb/1793543343?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_44249",
@@ -1290,6 +2387,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/11833/thumb/1793448193?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_48596",
+      "title": "Beautiful Creatures",
+      "year": "2013",
+      "rating": 4.7,
+      "summary": "Ethan Wate just wants to get to know Lena Duchannes better, but unbeknownst to him, Lena has strange powers.  As Lena's 16th birthday approaches she might decide her fate, to be good or evil.  A choice which will impact her relationship forever.",
+      "tagline": "Dark secrets will come to light.",
+      "duration": 124,
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "cast": [
+        "Alden Ehrenreich",
+        "Alice Englert",
+        "Jeremy Irons"
+      ],
+      "director": "Richard LaGravenese",
+      "studio": "Alcon Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w300/t7PWQHpJHb2ozALCfaPaC5aHxBs.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48596/thumb/1793543343?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_44340",
       "title": "Bedtime Stories",
       "year": "2008",
@@ -1813,6 +2932,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/47802/thumb/1793448283?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_49091",
+      "title": "The Book Thief",
+      "year": "2013",
+      "rating": 4.9,
+      "summary": "While subjected to the horrors of World War II Germany, young Liesel finds solace by stealing books and sharing them with others. In the basement of her home, a Jewish refugee is being protected by her adoptive parents.",
+      "tagline": "Courage beyond words.",
+      "duration": 131,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "cast": [
+        "Geoffrey Rush",
+        "Emily Watson",
+        "Sophie Nélisse"
+      ],
+      "director": "Brian Percival",
+      "studio": "Studio Babelsberg",
+      "poster": "https://image.tmdb.org/t/p/w300/wj4U5sMLcJMa3WR9CpRR9e2sdgZ.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49091/thumb/1793543361?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_44447",
       "title": "Borderline",
       "year": "2025",
@@ -2008,6 +3149,28 @@
       "studio": "N279 Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/aNxU4eZrfiChOgCEtyKWSCExdEi.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44467/thumb/1793447987?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48609",
+      "title": "Broken City",
+      "year": "2013",
+      "rating": 2.6,
+      "summary": "In a broken city rife with injustice, ex-cop Billy Taggart seeks redemption and revenge after being double-crossed and then framed by its most powerful figure, the mayor. Billy's relentless pursuit of justice, matched only by his streetwise toughness, makes him an unstoppable force - and the mayor's worst nightmare.",
+      "tagline": "Proof Can Be a Powerful Weapon.",
+      "duration": 109,
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "cast": [
+        "Mark Wahlberg",
+        "Russell Crowe",
+        "Catherine Zeta-Jones"
+      ],
+      "director": "Allen Hughes",
+      "studio": "1984 Private Defense Contractors",
+      "poster": "https://image.tmdb.org/t/p/w300/hqa5FwNZC55zqSpdeGFtBDqw55y.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48609/thumb/1793543343?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_44468",
@@ -2244,21 +3407,6 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46800/thumb/1793448194?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_44490",
-      "title": "Capi Di Stato in Fuga Heads of State",
-      "year": "2025",
-      "rating": null,
-      "summary": "",
-      "tagline": "",
-      "duration": 116,
-      "genres": [],
-      "cast": [],
-      "director": "",
-      "studio": "",
-      "poster": "https://image.tmdb.org/t/p/w300/lVgE5oLzf7ABmzyASEVcjYyHI41.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/44490/thumb/1793447989?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
       "id": "plex_44491",
       "title": "Captain America",
       "year": "1990",
@@ -2301,6 +3449,28 @@
       "studio": "Marvel Studios",
       "poster": "https://image.tmdb.org/t/p/w300/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44493/thumb/1793447990?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48610",
+      "title": "Captain Phillips",
+      "year": "2013",
+      "rating": 9.4,
+      "summary": "The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the U.S.-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.",
+      "tagline": "Out here survival is everything.",
+      "duration": 134,
+      "genres": [
+        "Drama",
+        "Biography"
+      ],
+      "cast": [
+        "Tom Hanks",
+        "Barkhad Abdi",
+        "Barkhad Abdirahman"
+      ],
+      "director": "Paul Greengrass",
+      "studio": "Columbia Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/8Td0kkocW6sD3uRpzwfMfkqMWhx.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48610/thumb/1793543344?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_44494",
@@ -2677,21 +3847,6 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/48050/thumb/1793521194?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_47365",
-      "title": "Classicalhd Magic Beyond Words the J K Rowling Story",
-      "year": "2011",
-      "rating": null,
-      "summary": "",
-      "tagline": "",
-      "duration": 83,
-      "genres": [],
-      "cast": [],
-      "director": "",
-      "studio": "",
-      "poster": "http://192.168.68.200:32400/library/metadata/47365/thumb/1793448259?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/47365/thumb/1793448259?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
       "id": "plex_44589",
       "title": "Cleaner",
       "year": "2025",
@@ -2846,36 +4001,6 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44618/thumb/1793448000?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_44621",
-      "title": "Corsari CutThroat Island",
-      "year": "1995",
-      "rating": null,
-      "summary": "",
-      "tagline": "",
-      "duration": 125,
-      "genres": [],
-      "cast": [],
-      "director": "",
-      "studio": "",
-      "poster": "https://image.tmdb.org/t/p/w300/hYdeBZ4BFXivdouxLfQGWNE6zRx.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/44621/thumb/1793448000?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_45406",
-      "title": "La Cosa the Thing",
-      "year": "1982",
-      "rating": null,
-      "summary": "",
-      "tagline": "",
-      "duration": 109,
-      "genres": [],
-      "cast": [],
-      "director": "",
-      "studio": "",
-      "poster": "https://image.tmdb.org/t/p/w300/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/45406/thumb/1793448074?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
       "id": "plex_46805",
       "title": "The Covenant",
       "year": "2006",
@@ -2984,6 +4109,50 @@
       "studio": "BenderSpink",
       "poster": "https://image.tmdb.org/t/p/w300/hn6HmGTopbbxv4Myy2IwGWxViFP.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44626/thumb/1793448001?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_44621",
+      "title": "CutThroat Island",
+      "year": "1995",
+      "rating": 4.0,
+      "summary": "Morgan Adams and her slave, William Shaw, are on a quest to recover the three portions of a treasure map. Unfortunately, the final portion is held by her murderous uncle, Dawg. Her crew is skeptical of her leadership abilities, so she must complete her quest before they mutiny against her. This is made yet more difficult by the efforts of the British crown to end her piratical raids.",
+      "tagline": "Be bold. Be brave. Be prepared.",
+      "duration": 125,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Geena Davis",
+        "Matthew Modine",
+        "Frank Langella"
+      ],
+      "director": "Renny Harlin",
+      "studio": "Carolco Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/hYdeBZ4BFXivdouxLfQGWNE6zRx.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/44621/thumb/1793544227?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48666",
+      "title": "Dallas Buyers Club",
+      "year": "2013",
+      "rating": 9.2,
+      "summary": "In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease.",
+      "tagline": "Dare to live.",
+      "duration": 117,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "cast": [
+        "Matthew McConaughey",
+        "Jennifer Garner",
+        "Jared Leto"
+      ],
+      "director": "Jean-Marc Vallée",
+      "studio": "Truth Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w300/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48666/thumb/1793543345?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_44627",
@@ -3380,28 +4549,6 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44675/thumb/1793448007?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_47530",
-      "title": "Desire",
-      "year": "2011",
-      "rating": null,
-      "summary": "In a social context deteriorated by a countrywide economic crisis, the life of several people will be turned upside down after they meet Cecile, a character who symbolizes desire.",
-      "tagline": "Love, desire and complications...",
-      "duration": 103,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "cast": [
-        "Déborah Révy",
-        "Hélène Zimmer",
-        "Gowan Didi"
-      ],
-      "director": "Laurent Bouhnik",
-      "studio": "Acajou Films",
-      "poster": "https://image.tmdb.org/t/p/w300/wxvvNXY3n0637cOcdeC61eyVAnC.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/47530/thumb/1793448268?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
       "id": "plex_44676",
       "title": "Diablo",
       "year": "2025",
@@ -3554,6 +4701,28 @@
       "studio": "Zentropa Entertainments",
       "poster": "https://image.tmdb.org/t/p/w300/lraVawavIXh5geMlVjpzCw9TGwR.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44685/thumb/1793448010?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48667",
+      "title": "Don Jon",
+      "year": "2013",
+      "rating": 8.0,
+      "summary": "A New Jersey guy dedicated to his family, friends, and church, develops unrealistic expectations from watching porn and works to find happiness and intimacy with his potential true love.",
+      "tagline": "Everyone loves a happy ending.",
+      "duration": 90,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "cast": [
+        "Joseph Gordon-Levitt",
+        "Scarlett Johansson",
+        "Julianne Moore"
+      ],
+      "director": "Joseph Gordon-Levitt",
+      "studio": "Ram Bergman Productions",
+      "poster": "https://image.tmdb.org/t/p/w300/uh8bwvgGXeUKzdL4oSul9zxyTcd.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48667/thumb/1793543345?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_4668",
@@ -3974,28 +5143,6 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44759/thumb/1793448017?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_44766",
-      "title": "Eden",
-      "year": "2025",
-      "rating": null,
-      "summary": "In the sun-soaked suburbs of Orange County, CA, Roya returns home for a fresh start, only to find themselves in a web of desire at an all-women's yoga studio. Reunited with their first love while also entangled with a magnetic trans man, Roya is thrust into a whirlwind of passion while navigating past jealousies. As loyalties shift and old wounds resurface, the studio becomes a battleground where love and hate blur.",
-      "tagline": "",
-      "duration": 130,
-      "genres": [
-        "Short",
-        "Drama"
-      ],
-      "cast": [
-        "Riley Vojdani",
-        "Ilar Parsa",
-        "Fariba Skobin"
-      ],
-      "director": "Rustin Zam-Zam Madadi",
-      "studio": "",
-      "poster": "https://image.tmdb.org/t/p/w300/jbFEESMVbpJU8IjZBjiWGJdEsxR.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/44766/thumb/1793448017?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
       "id": "plex_48025",
       "title": "Edge of Darkness",
       "year": "2010",
@@ -4148,6 +5295,50 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44780/thumb/1793448019?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_48697",
+      "title": "Elysium",
+      "year": "2013",
+      "rating": 6.4,
+      "summary": "In the year 2154, the very wealthy live on a man-made space station while the rest of the population resides on a ruined Earth. A man takes on a mission that could bring equality to the polarized worlds.",
+      "tagline": "He can save us all.",
+      "duration": 110,
+      "genres": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "cast": [
+        "Matt Damon",
+        "Jodie Foster",
+        "Sharlto Copley"
+      ],
+      "director": "Neill Blomkamp",
+      "studio": "TriStar Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/aRjuJuPXHtVs6YegfeeQWXGRs1E.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48697/thumb/1793543346?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48698",
+      "title": "Ender's Game",
+      "year": "2013",
+      "rating": 6.2,
+      "summary": "A young boy is recruited to lead the fight against an insectoid alien race that had previously tried to invade Earth.",
+      "tagline": "This is not a game.",
+      "duration": 114,
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "cast": [
+        "Asa Butterfield",
+        "Hailee Steinfeld",
+        "Harrison Ford"
+      ],
+      "director": "Gavin Hood",
+      "studio": "Digital Domain",
+      "poster": "https://image.tmdb.org/t/p/w300/pVcRI5YKnkkgaAD876jBeKb189d.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48698/thumb/1793543346?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_44792",
       "title": "Enola Holmes 3",
       "year": "2026",
@@ -4190,6 +5381,28 @@
       "studio": "Fox 2000 Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/mNu6QLUnKqPIjRA3pgEb5dkJye6.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44795/thumb/1793448020?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48746",
+      "title": "Escape Plan",
+      "year": "2013",
+      "rating": 5.0,
+      "summary": "Ray Breslin is the world's foremost authority on structural security. After analyzing every high security prison and learning a vast array of survival skills so he can design escape-proof prisons, his skills are put to the test. He's framed and incarcerated in a master prison he designed himself. He needs to escape and find the person who put him behind bars.",
+      "tagline": "No one breaks out alone.",
+      "duration": 116,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "cast": [
+        "Sylvester Stallone",
+        "Arnold Schwarzenegger",
+        "Jim Caviezel"
+      ],
+      "director": "Mikael Håfström",
+      "studio": "Knightsbridge Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w300/qOZPLflxDqKogu9v9hYw3lolxGs.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48746/thumb/1793543347?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_44796",
@@ -4852,6 +6065,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46567/thumb/1793448172?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_48747",
+      "title": "G.I. Joe: Retaliation",
+      "year": "2013",
+      "rating": 2.9,
+      "summary": "Framed for crimes against the country, the G.I. Joe team is terminated by Presidential order. This forces the G.I. Joes into not only fighting their mortal enemy Cobra; they are forced to contend with threats from within the government that jeopardize their very existence.",
+      "tagline": "Heroes are made in America.",
+      "duration": 123,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Dwayne Johnson",
+        "Bruce Willis",
+        "Jonathan Pryce"
+      ],
+      "director": "Jon M. Chu",
+      "studio": "Paramount Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/3rWIZMzTKcCtV0eHJ70Z4Ru659f.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48747/thumb/1793543348?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_44905",
       "title": "Gail Daughtry and the Celebrity Sex Pass",
       "year": "2026",
@@ -5243,6 +6478,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44972/thumb/1793448034?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_48558",
+      "title": "A Good Day to Die Hard",
+      "year": "2013",
+      "rating": 1.5,
+      "summary": "John McClane travels to Russia to help out his seemingly wayward son, Jack, only to discover that Jack is a CIA operative working undercover, causing the father and son to team up against underworld forces.",
+      "tagline": "Yippee ki-yay Mother Russia.",
+      "duration": 101,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "cast": [
+        "Bruce Willis",
+        "Jai Courtney",
+        "Sebastian Koch"
+      ],
+      "director": "John Moore",
+      "studio": "Mid Atlantic Films",
+      "poster": "https://image.tmdb.org/t/p/w300/qJ0csDXAVFMsNn0cRcjy6W6PxAK.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48558/thumb/1793543342?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_44973",
       "title": "Good Luck, Have Fun, Don't Die",
       "year": "2026",
@@ -5307,6 +6564,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44145/thumb/1793447955?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_48760",
+      "title": "Gravity",
+      "year": "2013",
+      "rating": 9.6,
+      "summary": "Dr. Ryan Stone (Sandra Bullock) is a brilliant medical engineer on her first shuttle mission, with veteran astronaut Matt Kowalski (George Clooney) in command of his last flight before retiring. But on a seemingly routine spacewalk, disaster strikes. The shuttle is destroyed, leaving Stone and Kowalsky completely alone - tethered to nothing but each other and spiraling out into the blackness.",
+      "tagline": "Don't let go.",
+      "duration": 91,
+      "genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "George Clooney",
+        "Ed Harris"
+      ],
+      "director": "Alfonso Cuarón",
+      "studio": "Esperanto Filmoj",
+      "poster": "https://image.tmdb.org/t/p/w300/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48760/thumb/1793543348?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_44150",
       "title": "A Great Awakening",
       "year": "2026",
@@ -5327,6 +6606,28 @@
       "studio": "Sight & Sound Films",
       "poster": "https://image.tmdb.org/t/p/w300/dXeeDRLGpTX1U97lWBAwQeeplsW.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44150/thumb/1793447955?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_49107",
+      "title": "The Great Gatsby",
+      "year": "2013",
+      "rating": 4.8,
+      "summary": "An adaptation of F. Scott Fitzgerald's Long Island-set novel, where Midwesterner Nick Carraway is lured into the lavish world of his neighbor, Jay Gatsby. Soon enough, however, Carraway sees through the cracks of Gatsby's nouveau riche existence, where obsession, madness, and tragedy await.",
+      "tagline": "Dream dangerously.",
+      "duration": 142,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Tobey Maguire",
+        "Carey Mulligan"
+      ],
+      "director": "Baz Luhrmann",
+      "studio": "Warner Bros. Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/tyxfCBQv6Ap74jcu3xd7aBiaa29.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49107/thumb/1793543361?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_46830",
@@ -5459,6 +6760,49 @@
       "studio": "STXfilms",
       "poster": "https://image.tmdb.org/t/p/w300/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44984/thumb/1793448035?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48782",
+      "title": "Grown Ups 2",
+      "year": "2013",
+      "rating": 0.8,
+      "summary": "After moving his family back to his hometown to be with his friends and their kids, Lenny finds out that between old bullies, new bullies, schizo bus drivers, drunk cops on skis, and four hundred costumed party crashers sometimes crazy follows you.",
+      "tagline": "Just because they're a little older doesn't mean they've grown up.",
+      "duration": 101,
+      "genres": [
+        "Comedy"
+      ],
+      "cast": [
+        "Adam Sandler",
+        "Kevin James",
+        "Chris Rock"
+      ],
+      "director": "Dennis Dugan",
+      "studio": "Columbia Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/hT6ijOtjtYrnyDhN7VA2QWyGFAm.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48782/thumb/1793543349?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48783",
+      "title": "Grudge Match",
+      "year": "2013",
+      "rating": 3.1,
+      "summary": "A pair of aging boxing rivals are coaxed out of retirement to fight one final bout, thirty years after their last match.",
+      "tagline": "Stallone vs DeNiro",
+      "duration": 113,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "cast": [
+        "Robert De Niro",
+        "Sylvester Stallone",
+        "Alan Arkin"
+      ],
+      "director": "Peter Segal",
+      "studio": "Gerber Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/jTq9jYTKKo6EhQPso4xTMpPYYXW.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48783/thumb/1793543349?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_44991",
@@ -5659,6 +7003,27 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44286/thumb/1793447971?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_49108",
+      "title": "The Hangover",
+      "year": "2009",
+      "rating": 7.9,
+      "summary": "Three buddies wake up from a bachelor party in Las Vegas with no memory of the previous night and the bachelor missing. They must make their way around the city in order to find their friend in time for his wedding.",
+      "tagline": "Some guys just can't handle Vegas.",
+      "duration": 108,
+      "genres": [
+        "Comedy"
+      ],
+      "cast": [
+        "Bradley Cooper",
+        "Ed Helms",
+        "Zach Galifianakis"
+      ],
+      "director": "Todd Phillips",
+      "studio": "Legendary Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49108/thumb/1793543362?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_48051",
       "title": "The Hangover Part II",
       "year": "2011",
@@ -5700,6 +7065,28 @@
       "studio": "Holleran Company",
       "poster": "https://image.tmdb.org/t/p/w300/6QDeHwBXDHbCbuzStgUpuUAqnap.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/47515/thumb/1793448268?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48805",
+      "title": "Hansel & Gretel: Witch Hunters",
+      "year": "2013",
+      "rating": 1.7,
+      "summary": "After getting a taste for blood as children, Hansel and Gretel have become the ultimate vigilantes, hell-bent on retribution. Now, unbeknownst to them, Hansel and Gretel have become the hunted, and must face an evil far greater than witches... their past.",
+      "tagline": "Revenge is sweeter than candy.",
+      "duration": 98,
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "cast": [
+        "Jeremy Renner",
+        "Gemma Arterton",
+        "Famke Janssen"
+      ],
+      "director": "Tommy Wirkola",
+      "studio": "Paramount Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/j343Rpj3WeNvP0SV80zveve70io.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48805/thumb/1793543350?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_44751",
@@ -5856,6 +7243,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/45056/thumb/1793486753?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_44490",
+      "title": "Heads of State",
+      "year": "2025",
+      "rating": 6.9,
+      "summary": "The UK Prime Minister and US President have a public rivalry that risks their countries' alliance. But when they become targets of a powerful enemy, they're forced to rely on each other as they go on a wild, multinational run. Allied with Noel, a brilliant MI6 agent, they must find a way to thwart a conspiracy that threatens the free world.",
+      "tagline": "Two heads are better than one.",
+      "duration": 116,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "John Cena",
+        "Idris Elba",
+        "Priyanka Chopra Jonas"
+      ],
+      "director": "Ilya Naishuller",
+      "studio": "The Safran Company",
+      "poster": "https://image.tmdb.org/t/p/w300/lVgE5oLzf7ABmzyASEVcjYyHI41.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/44490/thumb/1793544085?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_46860",
       "title": "The Heartbreak Kid",
       "year": "2007",
@@ -5876,6 +7285,28 @@
       "studio": "Conundrum Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/bVWM0L3DqFpNE3Yt49WjAgTQUc0.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46860/thumb/1793448202?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_49180",
+      "title": "The Heat",
+      "year": "2013",
+      "rating": 6.5,
+      "summary": "An uptight FBI Special Agent is paired with a foul-mouthed Boston cop to take down a ruthless drug lord.",
+      "tagline": "They're just trying to stay alive long enough to kill each other.",
+      "duration": 120,
+      "genres": [
+        "Comedy",
+        "Action"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Melissa McCarthy",
+        "Demián Bichir"
+      ],
+      "director": "Paul Feig",
+      "studio": "Chernin Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w300/yERBa1y5zNUOTRKQPiDCPIc2fuv.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49180/thumb/1793543363?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_45039",
@@ -5964,6 +7395,28 @@
       "studio": "Yes, Yes Coffee.",
       "poster": "https://image.tmdb.org/t/p/w300/dFWj2rOGsqSIX1PHFghbCBgpMnk.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/45054/thumb/1793448042?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48822",
+      "title": "Her",
+      "year": "2013",
+      "rating": 9.5,
+      "summary": "In the not so distant future, Theodore, a lonely writer, purchases a newly developed operating system designed to meet the user's every need. To Theodore's surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.",
+      "tagline": "A Spike Jonze love story.",
+      "duration": 126,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "cast": [
+        "Joaquin Phoenix",
+        "Scarlett Johansson",
+        "Lynn Adrianna"
+      ],
+      "director": "Spike Jonze",
+      "studio": "Annapurna Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48822/thumb/1793543350?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_45055",
@@ -6164,6 +7617,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/45075/thumb/1793448044?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_48833",
+      "title": "Homefront",
+      "year": "2013",
+      "rating": 4.2,
+      "summary": "A former DEA agent moves his family to a quiet town, where he soon tangles with a local meth druglord.",
+      "tagline": "How far would you go to protect your home?",
+      "duration": 101,
+      "genres": [
+        "Thriller",
+        "Action"
+      ],
+      "cast": [
+        "Jason Statham",
+        "James Franco",
+        "Izabela Vidovic"
+      ],
+      "director": "Gary Fleder",
+      "studio": "Open Road Films",
+      "poster": "https://image.tmdb.org/t/p/w300/v55tfjL3QGeabkXAMXPb4olwjL0.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48833/thumb/1793543351?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_45092",
       "title": "Honey Don't!",
       "year": "2025",
@@ -6359,7 +7834,7 @@
       "director": "Martin Scorsese",
       "studio": "GK Films",
       "poster": "https://image.tmdb.org/t/p/w300/1dxRq3o3l3bVWNRvvSb7rRf68qp.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/47602/thumb/1793448272?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/47602/thumb/1793526968?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_45116",
@@ -6559,21 +8034,6 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/45156/thumb/1793448051?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_45144",
-      "title": "I Peccatori Sinners IMAX",
-      "year": "2025",
-      "rating": null,
-      "summary": "",
-      "tagline": "",
-      "duration": 138,
-      "genres": [],
-      "cast": [],
-      "director": "",
-      "studio": "",
-      "poster": "http://192.168.68.200:32400/library/metadata/45144/thumb/1793448048?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/45144/thumb/1793448048?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
       "id": "plex_45157",
       "title": "I Still Believe",
       "year": "2020",
@@ -6704,6 +8164,28 @@
       "studio": "Konrad Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/sYgimsiBywqVwJI8H4sETke8m7v.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/45183/thumb/1793448053?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48840",
+      "title": "Identity Thief",
+      "year": "2013",
+      "rating": 2.0,
+      "summary": "Mild mannered businessman Sandy Patterson travels from Denver to Florida to confront the deceptively harmless looking woman who has been living it up after stealing Sandy's identity.",
+      "tagline": "She's having the time of his life.",
+      "duration": 121,
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "cast": [
+        "Jason Bateman",
+        "Melissa McCarthy",
+        "Jon Favreau"
+      ],
+      "director": "Seth Gordon",
+      "studio": "Stuber Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/lIliJCGoWT6tEVaDivLpXEf038w.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48840/thumb/1793543352?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_45187",
@@ -7058,6 +8540,72 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/45234/thumb/1793448059?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_48861",
+      "title": "Iron Man",
+      "year": "2008",
+      "rating": 9.4,
+      "summary": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+      "tagline": "Heroes aren't born. They're built.",
+      "duration": 126,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Robert Downey Jr.",
+        "Terrence Howard",
+        "Jeff Bridges"
+      ],
+      "director": "Jon Favreau",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48861/thumb/1793543353?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48860",
+      "title": "Iron Man 2",
+      "year": "2010",
+      "rating": 7.2,
+      "summary": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press, and the public to share his technology with the military. Unwilling to let go of his invention, Stark, along with Pepper Potts, and James \"Rhodey\" Rhodes at his side, must forge new alliances - and confront powerful enemies.",
+      "tagline": "It's not the armor that makes the hero, but the man inside.",
+      "duration": 125,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Robert Downey Jr.",
+        "Gwyneth Paltrow",
+        "Don Cheadle"
+      ],
+      "director": "Jon Favreau",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48860/thumb/1793543353?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48859",
+      "title": "Iron Man 3",
+      "year": "2013",
+      "rating": 7.9,
+      "summary": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+      "tagline": "Unleash the power behind the armor.",
+      "duration": 131,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Robert Downey Jr.",
+        "Gwyneth Paltrow",
+        "Don Cheadle"
+      ],
+      "director": "Shane Black",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48859/thumb/1793543352?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_13165",
       "title": "The Island",
       "year": "2005",
@@ -7232,6 +8780,28 @@
       "studio": "Broken Road Productions",
       "poster": "https://image.tmdb.org/t/p/w300/p6xV65iiz9agN2IAtf7cgbZC3YF.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/47566/thumb/1793448271?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48896",
+      "title": "Jack the Giant Slayer",
+      "year": "2013",
+      "rating": 5.2,
+      "summary": "The ancient war between humans and a race of giants is reignited when Jack, a young farmhand fighting for a kingdom and the love of a princess, opens a gateway between the two worlds.",
+      "tagline": "Prepare for a giant adventure",
+      "duration": 114,
+      "genres": [
+        "Family",
+        "Action"
+      ],
+      "cast": [
+        "Nicholas Hoult",
+        "Eleanor Tomlinson",
+        "Ewan McGregor"
+      ],
+      "director": "Bryan Singer",
+      "studio": "New Line Cinema",
+      "poster": "https://image.tmdb.org/t/p/w300/9jSI7saUX9Qz0JLh19jX2ulEwL7.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48896/thumb/1793543353?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_45264",
@@ -7913,21 +9483,6 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/7509/thumb/1793448074?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_45405",
-      "title": "L Amore Non Va in Vacanza",
-      "year": "2006",
-      "rating": null,
-      "summary": "",
-      "tagline": "",
-      "duration": 136,
-      "genres": [],
-      "cast": [],
-      "director": "",
-      "studio": "",
-      "poster": "https://image.tmdb.org/t/p/w300/h1ITOpvJN3Tw4Sy60w2QTfYMvdd.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/45405/thumb/1793448074?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
       "id": "plex_45403",
       "title": "L.A. Confidential",
       "year": "1997",
@@ -8512,6 +10067,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/45473/thumb/1793448081?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_49212",
+      "title": "The Lone Ranger",
+      "year": "2013",
+      "rating": 3.1,
+      "summary": "The Texas Rangers chase down a gang of outlaws led by Butch Cavendish, but the gang ambushes the Rangers, seemingly killing them all. One survivor is found, however, by an American Indian named Tonto, who nurses him back to health. The Ranger, donning a mask and riding a white stallion named Silver, teams up with Tonto to bring the unscrupulous gang and others of that ilk to justice.",
+      "tagline": "Never take off the mask.",
+      "duration": 150,
+      "genres": [
+        "Western",
+        "Action"
+      ],
+      "cast": [
+        "Johnny Depp",
+        "Armie Hammer",
+        "Tom Wilkinson"
+      ],
+      "director": "Gore Verbinski",
+      "studio": "Walt Disney Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/yDuJGq8biNMW7zM3w95UaDJv0KG.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49212/thumb/1793543364?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_48069",
       "title": "The Lord of the Rings: The Fellowship of the Ring",
       "year": "2001",
@@ -8842,6 +10419,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/45499/thumb/1793448084?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_47365",
+      "title": "Magic Beyond Words the J K Rowling Story",
+      "year": "2011",
+      "rating": 3.3,
+      "summary": "An inspiring look at JK Rowling's rise to become one of the most influential writers-from her humble beginnings as an imaginative young girl and awkward teenager to the loss of her mother and the genesis of the Harry Potter phenomenon.",
+      "tagline": "",
+      "duration": 83,
+      "genres": [
+        "Drama",
+        "Biography"
+      ],
+      "cast": [
+        "Poppy Montgomery",
+        "Emily Holmes",
+        "Antonio Cupo"
+      ],
+      "director": "Paul A. Kaufman",
+      "studio": "Media Max Productions",
+      "poster": "https://image.tmdb.org/t/p/w300/a8luhZ3kQ2XfCwdgGqSjuTzf8HB.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/47365/thumb/1793544195?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_46654",
       "title": "The Magic Faraway Tree",
       "year": "2026",
@@ -8884,21 +10483,6 @@
       "studio": "Syncopy",
       "poster": "https://image.tmdb.org/t/p/w300/8GFtkImmK0K1VaUChR0n9O61CFU.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/45500/thumb/1793448085?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_46660",
-      "title": "The Mandalorian 1x01 4Kwebrip2160 Pctfenix Com",
-      "year": "",
-      "rating": null,
-      "summary": "",
-      "tagline": "",
-      "duration": 40,
-      "genres": [],
-      "cast": [],
-      "director": "",
-      "studio": "",
-      "poster": "http://192.168.68.200:32400/library/metadata/46660/thumb/1793448179?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/46660/thumb/1793448179?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_46933",
@@ -9626,6 +11210,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/8516/thumb/1793448097?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_49147",
+      "title": "The Mortal Instruments: City of Bones",
+      "year": "2013",
+      "rating": 1.3,
+      "summary": "When her mother disappears, Clary Fray learns that she descends from a line of warriors who protect our world from demons. She joins forces with others like her and heads into a dangerous alternate New York called the Shadow World.",
+      "tagline": "There is a world hidden within our own.",
+      "duration": 130,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Lily Collins",
+        "Jamie Campbell Bower",
+        "Robert Sheehan"
+      ],
+      "director": "Harald Zwart",
+      "studio": "Screen Gems",
+      "poster": "https://image.tmdb.org/t/p/w300/fspW2P3ggzBjdIw5HpJOw8HKtQK.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49147/thumb/1793543362?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_45699",
       "title": "Mortal Kombat II",
       "year": "2026",
@@ -9712,21 +11318,6 @@
       "studio": "Vertigo Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/vnRthEZz16Q9VWcP5homkHxyHoy.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/13535/thumb/1793448210?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_45701",
-      "title": "Mr Morfina Novocaine",
-      "year": "2015",
-      "rating": null,
-      "summary": "",
-      "tagline": "",
-      "duration": 112,
-      "genres": [],
-      "cast": [],
-      "director": "",
-      "studio": "",
-      "poster": "http://192.168.68.200:32400/library/metadata/45701/thumb/1793448098?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/45701/thumb/1793448098?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_45708",
@@ -10123,24 +11714,25 @@
     },
     {
       "id": "plex_45800",
-      "title": "The Night Hunter",
-      "year": "2019",
-      "rating": null,
-      "summary": "",
-      "tagline": "",
+      "title": "Night Hunter",
+      "year": "2018",
+      "rating": 1.4,
+      "summary": "A detective investigates a young woman's apparent escape from captivity. As missing person cases connect to a hidden network of abducted girls, a suspect is caught, yet doubts emerge about whether the real predator still remains unseen.",
+      "tagline": "When the predator becomes the prey.",
       "duration": 97,
       "genres": [
-        "Short",
-        "Horror"
+        "Thriller",
+        "Crime"
       ],
       "cast": [
-        "T.R. Bals",
-        "Christopher M. Long"
+        "Henry Cavill",
+        "Ben Kingsley",
+        "Alexandra Daddario"
       ],
-      "director": "Christopher M. Long",
-      "studio": "Touch Of Vengeance Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/kCjGtLwRVij9sIWLq1SmRnpBe3a.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/45800/thumb/1793448107?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "director": "David Raymond",
+      "studio": "Arcola Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w300/vVYU0x9FRpiJNX7c54ciFnRBVYG.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/45800/thumb/1793545437?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_8827",
@@ -10361,6 +11953,21 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/48142/thumb/1793448294?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_45701",
+      "title": "Novocaine",
+      "year": "2015",
+      "rating": null,
+      "summary": "",
+      "tagline": "",
+      "duration": 112,
+      "genres": [],
+      "cast": [],
+      "director": "",
+      "studio": "",
+      "poster": "http://192.168.68.200:32400/library/metadata/45701/thumb/1793545550?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/45701/thumb/1793545550?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_45828",
       "title": "Now You See Me: Now You Don't",
       "year": "2025",
@@ -10383,6 +11990,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/45828/thumb/1793448109?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_48905",
+      "title": "Oblivion",
+      "year": "2013",
+      "rating": 5.3,
+      "summary": "One of the few remaining drone repairmen assigned to Earth, its surface devastated after decades of war with the alien Scavs, discovers a crashed spacecraft with contents that bring into question everything he believed about the war, and may even put the fate of mankind in his hands.",
+      "tagline": "Earth is a memory worth fighting for.",
+      "duration": 125,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Tom Cruise",
+        "Morgan Freeman",
+        "Olga Kurylenko"
+      ],
+      "director": "Joseph Kosinski",
+      "studio": "Universal Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/eO3r38fwnhb58M1YgcjQBd3VNcp.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48905/thumb/1793543354?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_45854",
       "title": "Obsession",
       "year": "2026",
@@ -10401,7 +12030,7 @@
       "director": "Jackson Treadway",
       "studio": "Obsessive Picture Productions",
       "poster": "https://image.tmdb.org/t/p/w300/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/45854/thumb/1793448110?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/45854/thumb/1793545748?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_45855",
@@ -10443,6 +12072,28 @@
       "studio": "Walt Disney Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/24HWf4QBnEbNYDJfNFR1CmwtST5.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/47410/thumb/1793448263?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48922",
+      "title": "Odd Thomas",
+      "year": "2013",
+      "rating": 3.7,
+      "summary": "In a California desert town, a short-order cook with clairvoyant abilities encounters a mysterious man with a link to dark, threatening forces.",
+      "tagline": "I might see dead people... But then, by God, I do something about it.",
+      "duration": 97,
+      "genres": [
+        "Mystery",
+        "Horror"
+      ],
+      "cast": [
+        "Anton Yelchin",
+        "Addison Timlin",
+        "Willem Dafoe"
+      ],
+      "director": "Stephen Sommers",
+      "studio": "Future Films",
+      "poster": "https://image.tmdb.org/t/p/w300/skBMhQjHLTU1rp4gutxHp0JuY1C.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48922/thumb/1793543355?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_46672",
@@ -10881,6 +12532,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/45914/thumb/1793448117?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_48943",
+      "title": "Oz the Great and Powerful",
+      "year": "2013",
+      "rating": 5.6,
+      "summary": "Oscar Diggs, a small-time circus illusionist and con-artist, is whisked from Kansas to the Land of Oz where the inhabitants assume he's the great wizard of prophecy, there to save Oz from the clutches of evil.",
+      "tagline": "In Oz, nothing is what it seems.",
+      "duration": 130,
+      "genres": [
+        "Fantasy",
+        "Adventure"
+      ],
+      "cast": [
+        "James Franco",
+        "Mila Kunis",
+        "Rachel Weisz"
+      ],
+      "director": "Sam Raimi",
+      "studio": "Roth Films",
+      "poster": "https://image.tmdb.org/t/p/w300/nr0deOZ4h7HkCzfc09fIgK7cxTG.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48943/thumb/1793543355?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_45915",
       "title": "Ozzy Osbourne: No Escape from Now",
       "year": "2025",
@@ -10916,6 +12589,28 @@
       "studio": "",
       "poster": "http://192.168.68.200:32400/library/metadata/45916/thumb/1793448117?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/45916/thumb/1793448117?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48944",
+      "title": "Pain & Gain",
+      "year": "2013",
+      "rating": 5.0,
+      "summary": "Daniel Lugo, manager of the Sun Gym in 1990s Miami, decides that there is only one way to achieve his version of the American dream: extortion. To achieve his goal, he recruits musclemen Paul and Adrian as accomplices. After several failed attempts, they abduct rich businessman Victor Kershaw and convince him to sign over all his assets to them. But when Kershaw makes it out alive, authorities are reluctant to believe his story.",
+      "tagline": "Their American dream is bigger than yours.",
+      "duration": 130,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "cast": [
+        "Mark Wahlberg",
+        "Dwayne Johnson",
+        "Anthony Mackie"
+      ],
+      "director": "Michael Bay",
+      "studio": "Paramount Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/9WqA0Ry9wmTzFvom8mNbcyKZQgP.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48944/thumb/1793543356?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_45917",
@@ -10960,6 +12655,28 @@
       "studio": "Anonymous Content",
       "poster": "https://image.tmdb.org/t/p/w300/58Vrh72CZIyf39cOI61fFTZvivz.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/45919/thumb/1793448119?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48946",
+      "title": "Parker",
+      "year": "2013",
+      "rating": 4.2,
+      "summary": "A thief with a unique code of professional ethics is double-crossed by his crew and left for dead. Assuming a new disguise and forming an unlikely alliance with a woman on the inside, he looks to hijack the score of the crew's latest heist.",
+      "tagline": "To get away clean, you have to play dirty.",
+      "duration": 119,
+      "genres": [
+        "Thriller",
+        "Action"
+      ],
+      "cast": [
+        "Jason Statham",
+        "Jennifer Lopez",
+        "Michael Chiklis"
+      ],
+      "director": "Taylor Hackford",
+      "studio": "Incentive Filmed Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w300/ocTaizFzASVPClHsx6VRBi5yP9Z.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48946/thumb/1793543356?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_45921",
@@ -11114,18 +12831,47 @@
     },
     {
       "id": "plex_45933",
-      "title": "Peppermint L Angelo Della Vendetta",
+      "title": "Peppermint",
       "year": "2018",
-      "rating": null,
-      "summary": "",
-      "tagline": "",
+      "rating": 1.3,
+      "summary": "Five years after her husband and daughter are killed in a senseless act of violence, a woman comes back from self-imposed exile to seek revenge against those responsible and the system that let them go free.",
+      "tagline": "The system failed. She won't.",
       "duration": 102,
-      "genres": [],
-      "cast": [],
-      "director": "",
-      "studio": "",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "cast": [
+        "Jennifer Garner",
+        "John Gallagher Jr.",
+        "John Ortiz"
+      ],
+      "director": "Pierre Morel",
+      "studio": "STXfilms",
       "poster": "https://image.tmdb.org/t/p/w300/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/45933/thumb/1793448120?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/45933/thumb/1793546017?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48955",
+      "title": "Percy Jackson: Sea of Monsters",
+      "year": "2013",
+      "rating": 4.3,
+      "summary": "In order to restore their dying safe haven, the son of Poseidon and his friends embark on a quest to the Sea of Monsters, to find the mythical Golden Fleece, all the while trying to stop an ancient evil from rising.",
+      "tagline": "Where There Are Gods, There Are Monsters.",
+      "duration": 106,
+      "genres": [
+        "Adventure",
+        "Family"
+      ],
+      "cast": [
+        "Logan Lerman",
+        "Brandon T. Jackson",
+        "Alexandra Daddario"
+      ],
+      "director": "Thor Freudenthal",
+      "studio": "Fox 2000 Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/tAu90qEpLqwqiZLsMqpaMVr55oN.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48955/thumb/1793543357?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_47918",
@@ -11257,6 +13003,28 @@
       "studio": "Leslie Iwerks Productions",
       "poster": "https://image.tmdb.org/t/p/w300/vhK51wJybwZTRCPVUOkGpSI4auN.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46705/thumb/1793448183?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_48653",
+      "title": "The Place Beyond the Pines",
+      "year": "2013",
+      "rating": 7.9,
+      "summary": "A European-American stunt rider turns into a robber in order to lead a happy life with his child and lover, grabs the attention of a police officer. They both get on a collision course that affects their families.",
+      "tagline": "One moment can change your life.",
+      "duration": 140,
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "cast": [
+        "Ryan Gosling",
+        "Bradley Cooper",
+        "Eva Mendes"
+      ],
+      "director": "Derek Cianfrance",
+      "studio": "Sidney Kimmel Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w300/vY5j2xQzMGWmxBuhQo0HfA4Lxqb.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48653/thumb/1793543345?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_45957",
@@ -11655,6 +13423,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44164/thumb/1793447957?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_48972",
+      "title": "R.I.P.D.",
+      "year": "2013",
+      "rating": 1.3,
+      "summary": "In the afterlife, Nick Walker, a detective who used to work for the Boston Police Department, is hired by a director of a group of deceased police officers to fight against the renegade ghosts.",
+      "tagline": "To protect and serve the living.",
+      "duration": 96,
+      "genres": [
+        "Science Fiction",
+        "Comedy"
+      ],
+      "cast": [
+        "Jeff Bridges",
+        "Ryan Reynolds",
+        "Kevin Bacon"
+      ],
+      "director": "Robert Schwentke",
+      "studio": "Universal Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/rS0kByPD4YF8pQ85KjzMdGiu7Xf.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48972/thumb/1793543357?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_46957",
       "title": "The Rainmaker",
       "year": "1997",
@@ -11809,6 +13599,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46047/thumb/1793448131?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_48993",
+      "title": "RED 2",
+      "year": "2013",
+      "rating": 4.4,
+      "summary": "Retired CIA agent Frank Moses reunites his unlikely team of elite operatives for a global quest to track down a missing portable nuclear device.",
+      "tagline": "The best never rest.",
+      "duration": 116,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Bruce Willis",
+        "John Malkovich",
+        "Mary-Louise Parker"
+      ],
+      "director": "Dean Parisot",
+      "studio": "di Bonaventura Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/kMTG8jcjqFlq4A2GF3rpgbz73pF.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/48993/thumb/1793543358?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_46071",
       "title": "Red Corner",
       "year": "1997",
@@ -11829,28 +13641,6 @@
       "studio": "Metro-Goldwyn-Mayer",
       "poster": "https://image.tmdb.org/t/p/w300/xsIbKOO1CacqTagyJmEGGf4kOnn.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46071/thumb/1793448133?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
-    },
-    {
-      "id": "plex_46048",
-      "title": "Red One",
-      "year": "2024",
-      "rating": 2.9,
-      "summary": "After Santa Claus -- Code Name: RED ONE -- is kidnapped, the North Pole's Head of Security (Dwayne Johnson) must team up with the world's most infamous bounty hunter and notorious hacker (Chris Evans) in a globe-trotting, action-packed mission to save Christmas.",
-      "tagline": "The mission to save Christmas is on.",
-      "duration": 125,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "cast": [
-        "Dwayne Johnson",
-        "Chris Evans",
-        "Lucy Liu"
-      ],
-      "director": "Jake Kasdan",
-      "studio": "Seven Bucks Productions",
-      "poster": "https://image.tmdb.org/t/p/w300/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/46048/thumb/1793448132?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_46072",
@@ -12115,6 +13905,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46100/thumb/1793448137?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_49003",
+      "title": "Riddick",
+      "year": "2013",
+      "rating": 5.8,
+      "summary": "Left for dead on a sun-scorched planet, Riddick finds himself up against an alien race of predators. Activating an emergency beacon alerts two ships: one carrying a new breed of mercenary, the other captained by a man from Riddick's past.",
+      "tagline": "Survival Is His Revenge",
+      "duration": 127,
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "cast": [
+        "Vin Diesel",
+        "Nolan Gerard Funk",
+        "Matt Nable"
+      ],
+      "director": "David Twohy",
+      "studio": "One Race",
+      "poster": "https://image.tmdb.org/t/p/w300/pUul9pGWOKT7X0smkTvsIEIQxcP.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49003/thumb/1793543358?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_46706",
       "title": "The Rip",
       "year": "2026",
@@ -12354,6 +14166,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46974/thumb/1793448214?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_49027",
+      "title": "Rush",
+      "year": "2013",
+      "rating": 8.9,
+      "summary": "James Hunt and Niki Lauda, two extremely skilled Formula One racers, have an intense rivalry with each other. However, it is their enmity that pushes them to their limits.",
+      "tagline": "Everyone's driven by something.",
+      "duration": 123,
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "cast": [
+        "Chris Hemsworth",
+        "Daniel Brühl",
+        "Olivia Wilde"
+      ],
+      "director": "Ron Howard",
+      "studio": "Revolution Films",
+      "poster": "https://image.tmdb.org/t/p/w300/yqR7mzBKCv1ih6F2cXa0I8vFh3v.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49027/thumb/1793543359?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_13892",
       "title": "The Russia House",
       "year": "1990",
@@ -12395,7 +14229,7 @@
       "director": "Billy Wilder",
       "studio": "Paramount Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/e1Po9NDrH7IJZhv89467gJH5FS0.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/46137/thumb/1793448141?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/46137/thumb/1793528063?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_48049",
@@ -12440,6 +14274,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46138/thumb/1793448141?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_49044",
+      "title": "Saving Mr. Banks",
+      "year": "2013",
+      "rating": 7.9,
+      "summary": "P. L. Travers, a London author who is financially broke, visits Los Angeles to meet Walt Disney, who is keen to adapt her Mary Poppins books for the cinema. However, his methods do not meet her approval.",
+      "tagline": "Where her book ended, their story began.",
+      "duration": 126,
+      "genres": [
+        "Drama",
+        "Biography"
+      ],
+      "cast": [
+        "Emma Thompson",
+        "Tom Hanks",
+        "Colin Farrell"
+      ],
+      "director": "John Lee Hancock",
+      "studio": "Hopscotch Features",
+      "poster": "https://image.tmdb.org/t/p/w300/4RkcUe5PKnYvrCwMjk8giUAoID7.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49044/thumb/1793543359?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_46142",
       "title": "Scarface",
       "year": "1983",
@@ -12460,6 +14316,28 @@
       "studio": "Universal Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46142/thumb/1793448141?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_49045",
+      "title": "Scary Movie 5",
+      "year": "2013",
+      "rating": 0.4,
+      "summary": "Happily-married couple Dan and Jody begin to notice some bizarre activity once they bring their lost nieces and nephew home. But when the chaos expands into Jody's job as a ballet dancer and Dan's career as an Ape researcher, they realize their family is being stalked by a nefarious demon. Together, with the advice of a psychic and the aid of numerous surveillance cameras, they must figure out how to get rid of it before it's too late.",
+      "tagline": "Evil is coming. Bring protection.",
+      "duration": 86,
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "cast": [
+        "Ashley French",
+        "Simon Rex",
+        "Gracie Whitton"
+      ],
+      "director": "Malcolm D. Lee",
+      "studio": "Dimension Films",
+      "poster": "https://image.tmdb.org/t/p/w300/vBqLLxE6GaAPhO6v9EFvFbLZ7Ap.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49045/thumb/1793543359?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_46144",
@@ -12678,6 +14556,28 @@
       "studio": "New Line Cinema",
       "poster": "https://image.tmdb.org/t/p/w300/mYIMMAma7DCACRfiGhHAybPAdKa.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46184/thumb/1793448146?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_49213",
+      "title": "The Secret Life of Walter Mitty",
+      "year": "2013",
+      "rating": 5.2,
+      "summary": "When both he and a colleague are about to lose their job, Walter takes action by embarking on an adventure more extraordinary than anything he ever imagined.",
+      "tagline": "Stop dreaming. Start living.",
+      "duration": 115,
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "cast": [
+        "Ben Stiller",
+        "Kristen Wiig",
+        "Sean Penn"
+      ],
+      "director": "Ben Stiller",
+      "studio": "Samuel Goldwyn Films",
+      "poster": "https://image.tmdb.org/t/p/w300/iAo1hlzsPV9XpYcLQp6Ud065tGO.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49213/thumb/1793543365?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_46192",
@@ -12963,6 +14863,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46244/thumb/1793448150?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_45144",
+      "title": "Sinners",
+      "year": "2025",
+      "rating": 9.7,
+      "summary": "1930s. Brothers \"Smoke\" and \"Stack\" Moore return home to Mississippi after working for the Chicago Mafia. They buy a sawmill and a juke joint and use their experience as gangsters to ensure that their businesses flourish. Things appear to be going well but trouble has just hit town, trouble in supernatural form.",
+      "tagline": "Dance with the devil.",
+      "duration": 138,
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "cast": [
+        "Michael B. Jordan",
+        "Hailee Steinfeld",
+        "Miles Caton"
+      ],
+      "director": "Ryan Coogler",
+      "studio": "Warner Bros. Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/45144/thumb/1793545043?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_46246",
       "title": "Sleepers",
       "year": "1996",
@@ -13071,6 +14993,28 @@
       "studio": "Marv",
       "poster": "https://image.tmdb.org/t/p/w300/kIBMvdZ3qLUycHLbT6IFs7UtaCq.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46268/thumb/1793448153?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_49082",
+      "title": "Snitch",
+      "year": "2013",
+      "rating": 5.7,
+      "summary": "A father goes undercover for the DEA in order to free his son, who was imprisoned after being set up in a drug deal.",
+      "tagline": "How far would you go to save your son?",
+      "duration": 112,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "cast": [
+        "Dwayne Johnson",
+        "Barry Pepper",
+        "Susan Sarandon"
+      ],
+      "director": "Ric Roman Waugh",
+      "studio": "Exclusive Media",
+      "poster": "https://image.tmdb.org/t/p/w300/1suKSCm8gVUIIOh4MgtWAtzkMe4.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49082/thumb/1793543360?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_46269",
@@ -14106,6 +16050,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46523/thumb/1793448168?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_45406",
+      "title": "The Thing",
+      "year": "1982",
+      "rating": 8.4,
+      "summary": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+      "tagline": "Anytime. Anywhere. Anyone.",
+      "duration": 109,
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "cast": [
+        "Kurt Russell",
+        "Wilford Brimley",
+        "T.K. Carter"
+      ],
+      "director": "John Carpenter",
+      "studio": "Universal Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/45406/thumb/1793544267?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_47039",
       "title": "There Will Be Blood",
       "year": "2007",
@@ -14147,6 +16113,28 @@
       "studio": "New Line Cinema",
       "poster": "https://image.tmdb.org/t/p/w300/aLx9UXH9fK2v6NDMvMyW4X88K3u.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/47040/thumb/1793448227?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_49226",
+      "title": "This Is the End",
+      "year": "2013",
+      "rating": 8.2,
+      "summary": "Six Los Angeles celebrities are stuck in James Franco's house after a series of devastating events just destroyed the city. Inside, the group not only have to face the apocalypse, but themselves.",
+      "tagline": "Nothing ruins a party like the end of the world.",
+      "duration": 107,
+      "genres": [
+        "Comedy",
+        "Science Fiction"
+      ],
+      "cast": [
+        "James Franco",
+        "Jonah Hill",
+        "Seth Rogen"
+      ],
+      "director": "Seth Rogen, Evan Goldberg",
+      "studio": "Columbia Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/tNIW0NhX1hKvUsy6PQ80DOKUhkD.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49226/thumb/1793543365?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_47372",
@@ -15301,6 +17289,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/47207/thumb/1793448242?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_49255",
+      "title": "Warm Bodies",
+      "year": "2013",
+      "rating": 8.0,
+      "summary": "After a highly unusual zombie saves a still-living girl from an attack, the two form a relationship that sets in motion events that might transform the entire lifeless world.",
+      "tagline": "He's still dead, but he's getting warmer.",
+      "duration": 98,
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "cast": [
+        "Nicholas Hoult",
+        "Teresa Palmer",
+        "Lio Tipton"
+      ],
+      "director": "Jonathan Levine",
+      "studio": "Summit Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w300/i8vCO3uszvlfBJVEyuIZVUDlt60.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49255/thumb/1793543367?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_14294",
       "title": "The Watcher",
       "year": "2000",
@@ -15343,6 +17353,28 @@
       "studio": "Blinding Edge Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/vZVEUPychdvZLrTNwWErr9xZFmu.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/20910/thumb/1793259618?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_49256",
+      "title": "We're the Millers",
+      "year": "2013",
+      "rating": 4.8,
+      "summary": "After being robbed of a week's take, small-time pot dealer David is forced by his boss to go to Mexico to pick up a load of marijuana. In order to improve his odds of making it past the border, David asks the broke stripper Rose and two local teenagers to join him and pretend they're on a family holiday.",
+      "tagline": "If anyone asks.",
+      "duration": 119,
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "cast": [
+        "Jennifer Aniston",
+        "Jason Sudeikis",
+        "Emma Roberts"
+      ],
+      "director": "Rawson Marshall Thurber",
+      "studio": "New Line Cinema",
+      "poster": "https://image.tmdb.org/t/p/w300/qF2LJ0jwWrtXSuT4AFD5OS2IqaT.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49256/thumb/1793543367?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_47208",
@@ -15407,7 +17439,7 @@
       "director": "Vincent Ward",
       "studio": "PolyGram Filmed Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/78wCdphUzeb528wLZw2W0fn7yGB.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/47211/thumb/1793448243?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/47211/thumb/1793528442?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_47213",
@@ -15606,6 +17638,28 @@
       "studio": "Revolution Studios",
       "poster": "https://image.tmdb.org/t/p/w300/aHTUpo45qy9QYIOnVITGGqLoVcA.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/15370/thumb/1793448246?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_49257",
+      "title": "White House Down",
+      "year": "2013",
+      "rating": 5.2,
+      "summary": "Capitol Policeman John Cale has just been denied his dream job with the Secret Service of protecting President James Sawyer. Not wanting to let down his little girl with the news, he takes her on a tour of the White House, when the complex is overtaken by a heavily armed paramilitary group. Now, with the nation's government falling into chaos and time running out, it's up to Cale to save the president, his daughter, and the country.",
+      "tagline": "It will start like any other day.",
+      "duration": 132,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "cast": [
+        "Channing Tatum",
+        "Jamie Foxx",
+        "Maggie Gyllenhaal"
+      ],
+      "director": "Roland Emmerich",
+      "studio": "Columbia Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/6TeIVKPw7nXXWy2zKmDmlnSwzb7.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49257/thumb/1793543368?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_47235",
@@ -15977,6 +18031,28 @@
       "studio": "GK Films",
       "poster": "https://image.tmdb.org/t/p/w300/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/47370/thumb/1793448262?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_49148",
+      "title": "The World's End",
+      "year": "2013",
+      "rating": 8.9,
+      "summary": "Five friends who reunite in an attempt to top their epic pub crawl from twenty years earlier unwittingly become humanity's only hope for survival.",
+      "tagline": "Good food. Fine ales. Total annihilation.",
+      "duration": 109,
+      "genres": [
+        "Comedy",
+        "Action"
+      ],
+      "cast": [
+        "Simon Pegg",
+        "Nick Frost",
+        "Paddy Considine"
+      ],
+      "director": "Edgar Wright",
+      "studio": "Big Talk Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/kpglnOBYmKn0AkkWDzGxzKHDbds.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49148/thumb/1793543362?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_47288",
