@@ -1,6 +1,6 @@
 {
-  "synced": "2026-11-01T10:47:52.301667",
-  "count": 843,
+  "synced": "2026-11-01T20:46:11.539568",
+  "count": 890,
   "movies": [
     {
       "id": "plex_48175",
@@ -89,6 +89,28 @@
       "studio": "Walt Disney Animation Studios",
       "poster": "https://image.tmdb.org/t/p/w300/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/48147/thumb/1793543319?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_49765",
+      "title": "Rise of the Guardians",
+      "year": "2012",
+      "rating": 7.5,
+      "summary": "When an evil spirit known as Pitch lays down the gauntlet to take over the world, the immortal Guardians must join forces for the first time to protect the hopes, beliefs, and imaginations of children all over the world.",
+      "tagline": "You better believe.",
+      "duration": 97,
+      "genres": [
+        "Family",
+        "Fantasy"
+      ],
+      "cast": [
+        "Chris Pine",
+        "Alec Baldwin",
+        "Jude Law"
+      ],
+      "director": "Peter Ramsey",
+      "studio": "DreamWorks Animation",
+      "poster": "https://image.tmdb.org/t/p/w300/yfzmfWGjcmyugH6FZ13WcsUGiNj.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49765/thumb/1793583254?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_48148",
@@ -1650,18 +1672,47 @@
     },
     {
       "id": "plex_46528",
-      "title": "The Amateur Operazione Vendetta",
+      "title": "The Amateur",
       "year": "2025",
-      "rating": null,
-      "summary": "",
-      "tagline": "",
+      "rating": 6.1,
+      "summary": "After his life is turned upside down when his wife is killed in a London terrorist attack, a brilliant but introverted CIA decoder takes matters into his own hands when his supervisors refuse to take action.",
+      "tagline": "Don't underestimate him.",
       "duration": 124,
-      "genres": [],
-      "cast": [],
-      "director": "",
-      "studio": "",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "cast": [
+        "Rami Malek",
+        "Holt McCallany",
+        "Danny Sapani"
+      ],
+      "director": "James Hawes",
+      "studio": "20th Century Studios",
       "poster": "https://image.tmdb.org/t/p/w300/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/46528/thumb/1793546664?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/46528/thumb/1793548157?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50427",
+      "title": "The Amazing Spider-Man",
+      "year": "2012",
+      "rating": 7.1,
+      "summary": "After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to save the city from the machinations of a mysterious reptilian foe.",
+      "tagline": "The untold story begins.",
+      "duration": 136,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Andrew Garfield",
+        "Emma Stone",
+        "Rhys Ifans"
+      ],
+      "director": "Marc Webb",
+      "studio": "Marvel Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w300/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50427/thumb/1793583719?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_11725",
@@ -1905,6 +1956,72 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44272/thumb/1793447967?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_49795",
+      "title": "Ant-Man",
+      "year": "2015",
+      "rating": 8.3,
+      "summary": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world.",
+      "tagline": "Heroes don't get any bigger.",
+      "duration": 117,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Paul Rudd",
+        "Michael Douglas",
+        "Evangeline Lilly"
+      ],
+      "director": "Peyton Reed",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49795/thumb/1793583695?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_49796",
+      "title": "Ant-Man and the Wasp",
+      "year": "2018",
+      "rating": 8.7,
+      "summary": "As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
+      "tagline": "Real heroes. Not actual size.",
+      "duration": 118,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Paul Rudd",
+        "Evangeline Lilly",
+        "Michael Douglas"
+      ],
+      "director": "Peyton Reed",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49796/thumb/1793583695?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_49794",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "year": "2023",
+      "rating": 4.6,
+      "summary": "Scott Lang and Hope Van Dyne are dragged into the Quantum Realm, along with Hope's parents and Scott's daughter Cassie. Together they must find a way to escape, but what secrets is Hope's mother hiding? And who is the mysterious Kang?",
+      "tagline": "Witness the beginning of a new dynasty.",
+      "duration": 127,
+      "genres": [
+        "Comedy",
+        "Science Fiction"
+      ],
+      "cast": [
+        "Paul Rudd",
+        "Evangeline Lilly",
+        "Michael Douglas"
+      ],
+      "director": "Peyton Reed",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49794/thumb/1793583695?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_44273",
       "title": "Apex",
       "year": "2026",
@@ -2079,26 +2196,48 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46776/thumb/1793448191?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
-      "id": "plex_48144",
-      "title": "Avant Premiere Rmxtras",
-      "year": "",
-      "rating": 5.9,
-      "summary": "",
-      "tagline": "They took his daughter. He'll take their lives.",
-      "duration": 5,
+      "id": "plex_50310",
+      "title": "The Avengers",
+      "year": "1998",
+      "rating": 0.5,
+      "summary": "British Ministry Agent John Steed, under direction from \"Mother\", investigates a diabolical plot by archvillain Sir August de Wynter to rule the world with his weather control machine. Steed investigates the beautiful Doctor Mrs. Emma Peel, the only suspect, but simultaneously falls for her and joins forces with her to combat Sir August.",
+      "tagline": "She's Peel. He's Steed. Their world is a dangerous place. And they love it.",
+      "duration": 89,
       "genres": [
         "Action",
-        "Thriller"
+        "Adventure"
       ],
       "cast": [
-        "Liam Neeson",
-        "Maggie Grace",
-        "Famke Janssen"
+        "Ralph Fiennes",
+        "Uma Thurman",
+        "Sean Connery"
       ],
-      "director": "Pierre Morel",
-      "studio": "",
-      "poster": "http://192.168.68.200:32400/library/metadata/48144/thumb/1793486769?X-Plex-Token=sKyjyX5ypMxksrShhuTv",
-      "plexPoster": "http://192.168.68.200:32400/library/metadata/48144/thumb/1793486769?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+      "director": "Jeremiah S. Chechik",
+      "studio": "Jerry Weintraub Productions",
+      "poster": "https://image.tmdb.org/t/p/w300/1p5thyQ4pCy876HpdvFARqJ62N9.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50310/thumb/1793583712?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50322",
+      "title": "The Avengers",
+      "year": "2012",
+      "rating": 9.1,
+      "summary": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+      "tagline": "Some assembly required.",
+      "duration": 143,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo"
+      ],
+      "director": "Joss Whedon",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50322/thumb/1793583713?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_44285",
@@ -2121,6 +2260,50 @@
       "studio": "Marvel Studios",
       "poster": "https://image.tmdb.org/t/p/w300/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44285/thumb/1793447970?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_49836",
+      "title": "Avengers: Endgame",
+      "year": "2019",
+      "rating": 9.4,
+      "summary": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+      "tagline": "Avenge the fallen.",
+      "duration": 182,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo"
+      ],
+      "director": "Anthony Russo, Joe Russo",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/bR8ISy1O9XQxqiy0fQFw2BX72RQ.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49836/thumb/1793583696?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_49837",
+      "title": "Avengers: Infinity War",
+      "year": "2018",
+      "rating": 8.5,
+      "summary": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+      "tagline": "An entire universe. Once and for all.",
+      "duration": 149,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth"
+      ],
+      "director": "Anthony Russo, Joe Russo",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49837/thumb/1793583697?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_47409",
@@ -2668,6 +2851,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44365/thumb/1793447978?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_49888",
+      "title": "Black Panther",
+      "year": "2018",
+      "rating": 9.6,
+      "summary": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+      "tagline": "Long live the king.",
+      "duration": 135,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Chadwick Boseman",
+        "Michael B. Jordan",
+        "Lupita Nyong'o"
+      ],
+      "director": "Ryan Coogler",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49888/thumb/1793583698?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_44364",
       "title": "Black Panther: Wakanda Forever",
       "year": "2022",
@@ -2710,6 +2915,28 @@
       "studio": "Fox Searchlight Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/viWheBd44bouiLCHgNMvahLThqx.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/48022/thumb/1793520920?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_49887",
+      "title": "Black Widow",
+      "year": "2021",
+      "rating": 7.9,
+      "summary": "In Marvel Studios' action-packed spy thriller \"Black Widow,\" Natasha Romanoff aka Black Widow confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+      "tagline": "Her world. Her secrets. Her legacy.",
+      "duration": 134,
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "cast": [
+        "Scarlett Johansson",
+        "Florence Pugh",
+        "Rachel Weisz"
+      ],
+      "director": "Cate Shortland",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49887/thumb/1793583697?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_44374",
@@ -3449,6 +3676,94 @@
       "studio": "Marvel Studios",
       "poster": "https://image.tmdb.org/t/p/w300/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44493/thumb/1793447990?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_49913",
+      "title": "Captain America: Civil War",
+      "year": "2016",
+      "rating": 9.0,
+      "summary": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+      "tagline": "United we stand. Divided we fall.",
+      "duration": 148,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Chris Evans",
+        "Robert Downey Jr.",
+        "Scarlett Johansson"
+      ],
+      "director": "Joe Russo, Anthony Russo",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49913/thumb/1793583698?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_49940",
+      "title": "Captain America: The First Avenger",
+      "year": "2011",
+      "rating": 8.0,
+      "summary": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a \"Super-Soldier serum\". But being Captain America comes at a price as he attempts to take down a warmonger and a terrorist organization.",
+      "tagline": "The one who never gives up awakens.",
+      "duration": 124,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Chris Evans",
+        "Hayley Atwell",
+        "Sebastian Stan"
+      ],
+      "director": "Joe Johnston",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49940/thumb/1793583699?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_49941",
+      "title": "Captain America: The Winter Soldier",
+      "year": "2014",
+      "rating": 9.0,
+      "summary": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.",
+      "tagline": "In heroes we trust.",
+      "duration": 136,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Chris Evans",
+        "Samuel L. Jackson",
+        "Scarlett Johansson"
+      ],
+      "director": "Joe Russo, Anthony Russo",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49941/thumb/1793583699?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_49969",
+      "title": "Captain Marvel",
+      "year": "2019",
+      "rating": 7.9,
+      "summary": "After crashing an experimental aircraft, Air Force pilot Carol Danvers is discovered by the Kree and trained as a member of the elite Starforce Military under the command of her mentor Yon-Rogg. Six years later, after escaping to Earth while under attack by the Skrulls, Danvers begins to discover there's more to her past. With help from S.H.I.E.L.D. agent Nick Fury, they set out to unravel the truth.",
+      "tagline": "Higher. Further. Faster.",
+      "duration": 124,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Brie Larson",
+        "Samuel L. Jackson",
+        "Ben Mendelsohn"
+      ],
+      "director": "Ryan Fleck, Anna Boden",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49969/thumb/1793583700?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_48610",
@@ -4351,6 +4666,72 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44656/thumb/1793448005?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_50023",
+      "title": "Deadpool",
+      "year": "2016",
+      "rating": 8.5,
+      "summary": "This is the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+      "tagline": "Feel the love.",
+      "duration": 108,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Morena Baccarin",
+        "Ed Skrein"
+      ],
+      "director": "Tim Miller",
+      "studio": "20th Century Fox",
+      "poster": "https://image.tmdb.org/t/p/w300/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50023/thumb/1793583701?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50024",
+      "title": "Deadpool & Wolverine",
+      "year": "2024",
+      "rating": 7.7,
+      "summary": "In this multiverse story Deadpool is approached by a man named Paradox who intends on vaporizing his entire universe because apparently it's not supposed to go on living without the now deceased hero Wolverine. Deadpool kidnaps another version of Wolverine to replace but this only results in Paradox banishing both Deadpool and Wolverine.",
+      "tagline": "Come together.",
+      "duration": 128,
+      "genres": [
+        "Comedy",
+        "Action"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Hugh Jackman",
+        "Emma Corrin"
+      ],
+      "director": "Shawn Levy",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50024/thumb/1793583701?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50025",
+      "title": "Deadpool 2",
+      "year": "2018",
+      "rating": 8.3,
+      "summary": "After losing Vanessa (Morena Baccarin), the love of his life, fourth-wall-breaking mercenary Wade Wilson, aka Deadpool (Ryan Reynolds), must assemble a team and protect a young mutant Russell Collins, aka Firefist (Julian Dennison), from Cable (Josh Brolin), a no-nonsense, dangerous cyborg from the future, and must also learn the most important lesson of all: to be part of a family again.",
+      "tagline": "Prepare for the Second Coming.",
+      "duration": 134,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Josh Brolin",
+        "Morena Baccarin"
+      ],
+      "director": "David Leitch",
+      "studio": "Maximum Effort",
+      "poster": "https://image.tmdb.org/t/p/w300/gyfPKfFYcVW54MoqhYlwwDDIfJR.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50025/thumb/1793583702?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_44658",
       "title": "Death of a Unicorn",
       "year": "2025",
@@ -4657,6 +5038,50 @@
       "studio": "TriStar Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44682/thumb/1793448009?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50066",
+      "title": "Doctor Strange",
+      "year": "2016",
+      "rating": 8.9,
+      "summary": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
+      "tagline": "The impossibilities are endless.",
+      "duration": 115,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Benedict Cumberbatch",
+        "Chiwetel Ejiofor",
+        "Rachel McAdams"
+      ],
+      "director": "Scott Derrickson",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50066/thumb/1793583702?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50067",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": "2022",
+      "rating": 7.3,
+      "summary": "Doctor Strange teams up with a mysterious teenage girl who can travel across multiverses, to battle other-universe versions of himself which threaten to wipe out the multiverse. They seek help from the Scarlet Witch, Wong and others.",
+      "tagline": "Enter a new dimension of Strange.",
+      "duration": 127,
+      "genres": [
+        "Fantasy",
+        "Action"
+      ],
+      "cast": [
+        "Benedict Cumberbatch",
+        "Xochitl Gomez",
+        "Elizabeth Olsen"
+      ],
+      "director": "Sam Raimi",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50067/thumb/1793583703?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_47373",
@@ -5449,6 +5874,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44814/thumb/1793448021?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_50088",
+      "title": "Eternals",
+      "year": "2021",
+      "rating": 4.8,
+      "summary": "Following the events of Avengers: Endgame (2019), an unexpected tragedy forces the Eternals, ancient aliens who have been living on Earth in secret for thousands of years, out of the shadows to reunite against mankind's most ancient enemy, the Deviants.",
+      "tagline": "In the beginning...",
+      "duration": 156,
+      "genres": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "cast": [
+        "Gemma Chan",
+        "Richard Madden",
+        "Angelina Jolie"
+      ],
+      "director": "Chloé Zhao",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50088/thumb/1793583703?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_44815",
       "title": "Eternity",
       "year": "2025",
@@ -5691,6 +6138,72 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46818/thumb/1793448198?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_50323",
+      "title": "The Fantastic Four",
+      "year": "1994",
+      "rating": 3.1,
+      "summary": "In this Marvel Comic adaption, four astronauts get bombarded with cosmic rays when an accident occurs. The four of them acquire special powers, and decide to form a superhero group called the Fantastic Four. They then fight their arch-enemy Dr. Doom.",
+      "tagline": "Part muscle. Part elastic. Part fire. Part invisible. Together, it's clobberin' time!",
+      "duration": 90,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Alex Hyde-White",
+        "Jay Underwood",
+        "Rebecca Staab"
+      ],
+      "director": "Oley Sassone",
+      "studio": "Constantin Film",
+      "poster": "https://image.tmdb.org/t/p/w300/avJpIDOjyfdoOLINYficKvW9dEa.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50323/thumb/1793583713?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50108",
+      "title": "Fantastic Four",
+      "year": "2005",
+      "rating": 2.8,
+      "summary": "During a space voyage, four scientists are altered by cosmic rays: Reed Richards gains the ability to stretch his body; Sue Storm can become invisible; Johnny Storm controls fire; and Ben Grimm is turned into a super-strong … thing. Together, these \"Fantastic Four\" must now thwart the evil plans of Dr. Doom and save the world from certain destruction.",
+      "tagline": "4 times the action. 4 times the adventure. 4 times the fantastic.",
+      "duration": 105,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Ioan Gruffudd",
+        "Jessica Alba",
+        "Chris Evans"
+      ],
+      "director": "Tim Story",
+      "studio": "Kumar Mobiliengesellschaft & Company Projekt Nr. 3",
+      "poster": "https://image.tmdb.org/t/p/w300/4YMcYEFS8sFuW3soP1HVmgR3cSm.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50108/thumb/1793583705?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50107",
+      "title": "Fantastic Four",
+      "year": "2015",
+      "rating": 0.9,
+      "summary": "Four young outsiders teleport to an alternate and dangerous universe which alters their physical form in shocking ways. The four must learn to harness their new abilities and work together to save Earth from a former friend turned enemy.",
+      "tagline": "Change is coming.",
+      "duration": 102,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Miles Teller",
+        "Michael B. Jordan",
+        "Kate Mara"
+      ],
+      "director": "Josh Trank",
+      "studio": "20th Century Fox",
+      "poster": "https://image.tmdb.org/t/p/w300/cDroz5qSlP8xZ6tOpeYoPkBvKyL.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50107/thumb/1793583704?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_46821",
       "title": "The Fantastic Four: First Steps",
       "year": "2025",
@@ -5711,6 +6224,28 @@
       "studio": "Marvel Studios",
       "poster": "https://image.tmdb.org/t/p/w300/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46821/thumb/1793448198?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50109",
+      "title": "Fantastic Four: Rise of the Silver Surfer",
+      "year": "2007",
+      "rating": 3.7,
+      "summary": "Everything seems to be going great for the Fantastic Four. Reed and Sue are finally getting married, and things couldn't seem better. However, when the mysterious Silver Surfer crashes things, they learn that they will have to deal with an old foe, and the powerful planet eating Galactus.",
+      "tagline": "Discover the secret of the Surfer.",
+      "duration": 92,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Ioan Gruffudd",
+        "Jessica Alba",
+        "Chris Evans"
+      ],
+      "director": "Tim Story",
+      "studio": "1492 Pictures",
+      "poster": "https://image.tmdb.org/t/p/w300/9wRfzTcMyyzkQxVDqBHv8RwuZOv.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50109/thumb/1793583705?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_5270",
@@ -6805,6 +7340,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/48783/thumb/1793543349?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_50138",
+      "title": "Guardians",
+      "year": "2017",
+      "rating": 2.7,
+      "summary": "During the Cold War, an organization called \"Patriot\" created a super-hero squad, which includes members of multiple Soviet republics. For years, the heroes had to hide their identities, but in hard times they must show themselves again.",
+      "tagline": "Squad of Soviet Superheroes",
+      "duration": 89,
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "cast": [
+        "Anton Pampushnyy",
+        "Sanzhar Madi",
+        "Sebastien Sisak"
+      ],
+      "director": "Sarik Andreasyan",
+      "studio": "Renovatio Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w300/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50138/thumb/1793583707?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_44991",
       "title": "Guardians of the Galapagos",
       "year": "2025",
@@ -6827,6 +7384,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/44991/thumb/1793448035?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_50145",
+      "title": "Guardians of the Galaxy",
+      "year": "2014",
+      "rating": 9.1,
+      "summary": "After stealing a mysterious orb in the far reaches of outer space, Peter Quill from Earth is now the main target of a manhunt led by the villain known as Ronan the Accuser. To help fight Ronan and his team and save the galaxy from his power, Quill creates a team of space heroes known as the \"Guardians of the Galaxy\" to save the galaxy.",
+      "tagline": "You're Welcome.",
+      "duration": 121,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Chris Pratt",
+        "Zoe Saldaña",
+        "Dave Bautista"
+      ],
+      "director": "James Gunn",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50145/thumb/1793583706?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_46854",
       "title": "The Guardians of the Galaxy Holiday Special",
       "year": "2022",
@@ -6847,6 +7426,50 @@
       "studio": "Marvel Studios",
       "poster": "https://image.tmdb.org/t/p/w300/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46854/thumb/1793448202?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50137",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "year": "2023",
+      "rating": 8.2,
+      "summary": "Still reeling from the loss of Gamora, Peter Quill rallies his team to defend the universe and one of their own - a mission that could mean the end of the Guardians if not successful.",
+      "tagline": "Once more with feeling.",
+      "duration": 150,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Chris Pratt",
+        "Zoe Saldaña",
+        "Dave Bautista"
+      ],
+      "director": "James Gunn",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50137/thumb/1793583706?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50146",
+      "title": "Guardians of the Galaxy: Vol. 2",
+      "year": "2017",
+      "rating": 8.5,
+      "summary": "After saving Xandar from Ronan's wrath, the Guardians are now recognized as heroes. Now the team must help their leader, Star Lord, uncover the truth behind his true heritage. Along the way, old foes turn to allies and betrayal is blooming. And the Guardians find they are up against a devastating new menace who is out to rule the galaxy.",
+      "tagline": "You only get one chance to save the galaxy twice.",
+      "duration": 136,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Chris Pratt",
+        "Zoe Saldaña",
+        "Dave Bautista"
+      ],
+      "director": "James Gunn, Lars P. Winther, Carolina Jiménez",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50146/thumb/1793583707?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_19341",
@@ -8340,6 +8963,28 @@
       "studio": "Warner Bros. Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/6563/thumb/1793448057?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50348",
+      "title": "The Incredible Hulk",
+      "year": "2008",
+      "rating": 6.8,
+      "summary": "The story of Dr. Bruce Banner, who seeks a cure to his unique condition, which causes him to turn into a giant green monster under emotional stress, is depicted. Whilst on the run from military, which seeks his capture, Banner comes close to a cure. But he must contend with a new creature that emerges: The Abomination.",
+      "tagline": "You'll like him when he's angry.",
+      "duration": 112,
+      "genres": [
+        "Science Fiction",
+        "Action"
+      ],
+      "cast": [
+        "Edward Norton",
+        "Liv Tyler",
+        "Tim Roth"
+      ],
+      "director": "Louis Leterrier",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50348/thumb/1793583714?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_6634",
@@ -10595,6 +11240,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/45535/thumb/1793448086?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_50311",
+      "title": "The Marvels",
+      "year": "2023",
+      "rating": 6.3,
+      "summary": "When her duties send her to an anomalous wormhole linked to a Kree revolutionary, Carol's powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol's estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+      "tagline": "Higher. Further. Faster. Together.",
+      "duration": 107,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Brie Larson",
+        "Teyonah Parris",
+        "Iman Vellani"
+      ],
+      "director": "Nia DaCosta",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50311/thumb/1793583712?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_8159",
       "title": "Mary Shelley's Frankenstein",
       "year": "1994",
@@ -10767,7 +11434,7 @@
       ],
       "director": "Arturo Perez Jr., Samantha Jayne",
       "studio": "Little Stranger",
-      "poster": "https://image.tmdb.org/t/p/w300/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/45576/thumb/1793448089?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -12114,7 +12781,7 @@
       ],
       "director": "Christopher Nolan",
       "studio": "Universal Pictures",
-      "poster": "https://image.tmdb.org/t/p/w300/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "poster": "https://image.tmdb.org/t/p/w300/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46672/thumb/1793448181?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
@@ -14668,6 +15335,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/19377/thumb/1793527014?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_50208",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": "2021",
+      "rating": 9.2,
+      "summary": "Shang-Chi, the master of weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.",
+      "tagline": "You can't outrun your destiny.",
+      "duration": 132,
+      "genres": [
+        "Fantasy",
+        "Action"
+      ],
+      "cast": [
+        "Simu Liu",
+        "Tony Leung Chiu-wai",
+        "Awkwafina"
+      ],
+      "director": "Destin Daniel Cretton",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50208/thumb/1793583708?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_46234",
       "title": "Shark Whisperer",
       "year": "2025",
@@ -15236,6 +15925,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46363/thumb/1793448156?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_50209",
+      "title": "Space Thing",
+      "year": "1968",
+      "rating": null,
+      "summary": "James dreams he's an alien infiltrating a spaceship to save his planet. The female captain and crew seduce him while conflicts arise. They land on an asteroid where everyone has sex, and James destroys the ship with poor special effects.",
+      "tagline": "Visit the planet of the rapes!",
+      "duration": 70,
+      "genres": [
+        "Comedy",
+        "Science Fiction"
+      ],
+      "cast": [
+        "Karla Conway",
+        "Steve Vincent",
+        "Merci Montello"
+      ],
+      "director": "Byron Mabe, David F. Friedman",
+      "studio": "F.P.S. Ventures",
+      "poster": "https://image.tmdb.org/t/p/w300/uQx5NRdM7aSHik54JFOtkV9ODV0.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50209/thumb/1793583709?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_46127",
       "title": "Spawn",
       "year": "1997",
@@ -15324,6 +16035,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46382/thumb/1793448157?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_50223",
+      "title": "Spider-Man 2",
+      "year": "2004",
+      "rating": 9.3,
+      "summary": "Peter Parker is beset with troubles in his failing personal life as he battles a former brilliant scientist named Otto Octavius.",
+      "tagline": "There's a hero in all of us.",
+      "duration": 127,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Tobey Maguire",
+        "Kirsten Dunst",
+        "James Franco"
+      ],
+      "director": "Sam Raimi",
+      "studio": "Marvel Enterprises",
+      "poster": "https://image.tmdb.org/t/p/w300/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50223/thumb/1793583710?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_46383",
       "title": "Spider-Man 3",
       "year": "2007",
@@ -15366,6 +16099,72 @@
       "studio": "Marvel Studios",
       "poster": "https://image.tmdb.org/t/p/w300/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46390/thumb/1793448158?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50225",
+      "title": "Spider-Man: Far from Home",
+      "year": "2019",
+      "rating": 9.1,
+      "summary": "Our friendly neighborhood Super Hero decides to join his best friends Ned, MJ, and the rest of the gang on a European vacation. However, Peter's plan to leave super heroics behind for a few weeks are quickly scrapped when he begrudgingly agrees to help Nick Fury uncover the mystery of several elemental creature attacks, creating havoc across the continent.",
+      "tagline": "It's time to step up.",
+      "duration": 129,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Tom Holland",
+        "Jake Gyllenhaal",
+        "Samuel L. Jackson"
+      ],
+      "director": "Jon Watts",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50225/thumb/1793583710?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50224",
+      "title": "Spider-Man: Homecoming",
+      "year": "2017",
+      "rating": 9.2,
+      "summary": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+      "tagline": "Homework can wait. The city can't.",
+      "duration": 133,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Tom Holland",
+        "Michael Keaton",
+        "Robert Downey Jr."
+      ],
+      "director": "Jon Watts",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50224/thumb/1793583710?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50226",
+      "title": "Spider-Man: No Way Home",
+      "year": "2021",
+      "rating": 9.3,
+      "summary": "Peter Parker turns to Doctor Strange after his identity destroys the life he knows, but a magical mistake draws powerful outsiders into his world and forces him to confront what being Spider Man really means.",
+      "tagline": "Enter the Multiverse.",
+      "duration": 157,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Tom Holland",
+        "Zendaya",
+        "Benedict Cumberbatch"
+      ],
+      "director": "Jon Watts",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50226/thumb/1793583711?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_46983",
@@ -15852,6 +16651,28 @@
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46471/thumb/1793448166?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
+      "id": "plex_50294",
+      "title": "Superman",
+      "year": "1978",
+      "rating": 8.7,
+      "summary": "Just before the destruction of the planet Krypton, scientist Jor-El sends his infant son Kal-El on a spaceship to Earth. Raised by kindly farmers Jonathan and Martha Kent, young Clark discovers the source of his superhuman powers and moves to Metropolis to fight evil. As Superman, he battles the villainous Lex Luthor, while, as novice reporter Clark Kent, he attempts to woo co-worker Lois Lane",
+      "tagline": "You'll believe a man can fly.",
+      "duration": 189,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Christopher Reeve",
+        "Margot Kidder",
+        "Gene Hackman"
+      ],
+      "director": "Richard Donner",
+      "studio": "Dovemead Films",
+      "poster": "https://image.tmdb.org/t/p/w300/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50294/thumb/1793583711?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
       "id": "plex_46479",
       "title": "Superman",
       "year": "2025",
@@ -15872,6 +16693,28 @@
       "studio": "Troll Court Entertainment",
       "poster": "https://image.tmdb.org/t/p/w300/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/46479/thumb/1793448166?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_49766",
+      "title": "Superman II",
+      "year": "1980",
+      "rating": 8.8,
+      "summary": "Superman agrees to sacrifice his powers to start a relationship with Lois Lane, unaware that three Kryptonian criminals he inadvertently released are conquering Earth.",
+      "tagline": "The Man of Steel meets his match!",
+      "duration": 127,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Christopher Reeve",
+        "Margot Kidder",
+        "Terence Stamp"
+      ],
+      "director": "Richard Lester",
+      "studio": "Dovemead Films",
+      "poster": "https://image.tmdb.org/t/p/w300/3xk5cno9BHcnwc97XO9k21aI1Zi.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/49766/thumb/1793583255?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_46480",
@@ -16135,6 +16978,65 @@
       "studio": "Columbia Pictures",
       "poster": "https://image.tmdb.org/t/p/w300/tNIW0NhX1hKvUsy6PQ80DOKUhkD.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/49226/thumb/1793543365?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50349",
+      "title": "Thor",
+      "year": "2011",
+      "rating": 7.7,
+      "summary": "The warrior Thor (Chris Hemsworth) is cast out of the fantastic realm of Asgard by his father Odin (Sir Anthony Hopkins) for his arrogance and sent to Earth to live amongst humans. Falling in love with scientist Jane Foster (Natalie Portman) teaches Thor much-needed lessons, and his new-found strength comes into play as a villain from his homeland sends dark forces toward Earth.",
+      "tagline": "Courage is immortal.",
+      "duration": 115,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Chris Hemsworth",
+        "Natalie Portman",
+        "Tom Hiddleston"
+      ],
+      "director": "Kenneth Branagh",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50349/thumb/1793583714?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50354",
+      "title": "Thor Ragnarok",
+      "year": "2017",
+      "rating": null,
+      "summary": "",
+      "tagline": "",
+      "duration": 131,
+      "genres": [],
+      "cast": [],
+      "director": "",
+      "studio": "",
+      "poster": "https://image.tmdb.org/t/p/w300/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50354/thumb/1793583715?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50350",
+      "title": "Thor: Love and Thunder",
+      "year": "2022",
+      "rating": 6.4,
+      "summary": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+      "tagline": "The one is not the only.",
+      "duration": 119,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Chris Hemsworth",
+        "Natalie Portman",
+        "Christian Bale"
+      ],
+      "director": "Taika Waititi",
+      "studio": "Marvel Studios",
+      "poster": "https://image.tmdb.org/t/p/w300/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50350/thumb/1793583715?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_47372",
@@ -18178,6 +19080,131 @@
       "studio": "Paragon Entertainment Corp.",
       "poster": "https://image.tmdb.org/t/p/w300/51LItgyecu2KMAtIchYogEykCIu.jpg",
       "plexPoster": "http://192.168.68.200:32400/library/metadata/47297/thumb/1793448253?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50372",
+      "title": "X Men Conflitto Finale the Last Stand",
+      "year": "2006",
+      "rating": null,
+      "summary": "",
+      "tagline": "",
+      "duration": 104,
+      "genres": [],
+      "cast": [],
+      "director": "",
+      "studio": "",
+      "poster": "https://image.tmdb.org/t/p/w300/a2xicU8DpKtRizOHjQLC1JyCSRS.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50372/thumb/1793583717?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50371",
+      "title": "X-Men",
+      "year": "2000",
+      "rating": 8.2,
+      "summary": "In a world where both Mutants and Humans fear each other, Marie, better known as Rogue, runs away from home and hitches a ride with another mutant, known as Logan, a.k.a. Wolverine. Professor Charles Xavier, who owns a school for young mutants, sends Storm and Cyclops to bring them back before it is too late. Magneto, who believes a war is approaching, has an evil plan in mind, and needs young Rogue to help him.",
+      "tagline": "Trust a few. Fear the rest.",
+      "duration": 104,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Hugh Jackman",
+        "Patrick Stewart",
+        "Ian McKellen"
+      ],
+      "director": "Bryan Singer",
+      "studio": "The Donners' Company",
+      "poster": "https://image.tmdb.org/t/p/w300/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50371/thumb/1793583717?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50377",
+      "title": "X-Men Origins: Wolverine",
+      "year": "2009",
+      "rating": 3.7,
+      "summary": "The early years of James Logan, featuring his rivalry with his brother Victor Creed, his service in the special forces team Weapon X, and his experimentation into the metal-lined mutant Wolverine.",
+      "tagline": "Witness the origin.",
+      "duration": 107,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Hugh Jackman",
+        "Liev Schreiber",
+        "Danny Huston"
+      ],
+      "director": "Gavin Hood",
+      "studio": "The Donners' Company",
+      "poster": "https://image.tmdb.org/t/p/w300/yj8LbTju1p7CUJg7US2unSBk33s.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50377/thumb/1793583719?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50374",
+      "title": "X-Men: Apocalypse",
+      "year": "2016",
+      "rating": 4.7,
+      "summary": "In the 1980s, the X-Men must defeat an ancient all-powerful mutant, En Sabah Nur, who intends to thrive by bringing destruction to the world.",
+      "tagline": "Only the strong will survive.",
+      "duration": 144,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "James McAvoy",
+        "Michael Fassbender",
+        "Jennifer Lawrence"
+      ],
+      "director": "Bryan Singer",
+      "studio": "The Donners' Company",
+      "poster": "https://image.tmdb.org/t/p/w300/ikA8UhYdTGpqbatFa93nIf6noSr.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50374/thumb/1793583718?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50376",
+      "title": "X-Men: Days of Future Past",
+      "year": "2014",
+      "rating": 9.0,
+      "summary": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.",
+      "tagline": "To save the future, they must alter the past.",
+      "duration": 149,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "Hugh Jackman",
+        "James McAvoy",
+        "Michael Fassbender"
+      ],
+      "director": "Bryan Singer",
+      "studio": "Bad Hat Harry Productions",
+      "poster": "https://image.tmdb.org/t/p/w300/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50376/thumb/1793583718?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
+    },
+    {
+      "id": "plex_50373",
+      "title": "X-Men: First Class",
+      "year": "2011",
+      "rating": 8.6,
+      "summary": "In the 1960s, superpowered humans Charles Xavier and Erik Lensherr work together to find others like them, but Erik's vengeful pursuit of an ambitious mutant who ruined his life causes a schism to divide them.",
+      "tagline": "Witness the moment that will change our world.",
+      "duration": 132,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "cast": [
+        "James McAvoy",
+        "Michael Fassbender",
+        "Jennifer Lawrence"
+      ],
+      "director": "Matthew Vaughn",
+      "studio": "The Donners' Company",
+      "poster": "https://image.tmdb.org/t/p/w300/hNEokmUke0dazoBhttFN0o3L7Xv.jpg",
+      "plexPoster": "http://192.168.68.200:32400/library/metadata/50373/thumb/1793583718?X-Plex-Token=sKyjyX5ypMxksrShhuTv"
     },
     {
       "id": "plex_47037",
